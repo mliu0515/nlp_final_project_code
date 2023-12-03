@@ -10,7 +10,7 @@ import openai
 
 """This is the code that I ran to extract the first sentence of each book. I used LLM to help me with that"""
 
-openai.api_key = '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'
+openai.api_key = 'your_key'
 csv_file = "all_books.csv"
 one_pattern = re.compile(r'Chapter', re.IGNORECASE)
 

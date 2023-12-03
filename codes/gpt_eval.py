@@ -11,10 +11,10 @@ import openai
 from openai import OpenAI
 
 
-openai.api_key = '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'
+openai.api_key = 'your_key'
 client = OpenAI(
     # defaults to os.environ.get("OPENAI_API_KEY")
-    api_key='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',
+    api_key='your_key',
 )
 csv_file = "ruchi_lda.csv"
 
