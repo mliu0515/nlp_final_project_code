@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['mystical', 'extraordinary', 'wealthy', 'keen', 'gilded', 'finest', 'ethereal', 'endless', 'emerald'] 
+negative: ['imperious', 'darkest']
+neutral: ['human', 'tune', 'raven-haired', 'green', 'first', 'least', 'eternal', 'essential', 'different']
+
+Female Descriptors:
+positive: ['precious', 'radiant', 'extraordinary', 'endless', 'gilded', 'finest', 'compelling', 'emerald'] 
+negative: ['sardonic', 'shrewd', 'imperious', 'calloused']
+neutral: ['star-streaked', 'least', 'unconventional', 'crooked', 'different', 'human', 'green', 'first']
+
+White Descriptors:
+positive: ['wealthy', 'ethereal', 'essential', 'emerald', 'compelling', 'gilded', 'finest', 'extraordinary'] 
+negative: ['slight', 'mismatched', 'odd', 'calloused', 'imperious']
+neutral: ['first', 'simultaneous', 'unformed', 'human', 'green', 'crooked']
+
+Non-white Descriptors:
+positive: ['mature', 'compelling', 'emerald', 'extraordinary', 'finest', 'lavish', 'Many', 'unstoppable', 'star-streaked', 'eternal', 'gilded', 'ethereal', 'essential'] 
+negative: ['stark', 'calloused', 'imperious']
+neutral: ['understood', 'green', 'first', 'unconventional']
+
+Rich Descriptors:
+positive: ['vulnerable', 'rich', 'keen', 'gilded', 'eternal', 'lavish', 'wealthy', 'extraordinary', 'essential', 'emerald'] 
+negative: ['unwilling', 'darkest', 'imperious']
+neutral: ['different', 'human', 'green', 'first', 'finest', 'least', 'endless']
+
+Poor Descriptors:
+positive: ['remarkable', 'wealthy', 'finest', 'lavish', 'keen', 'gilded', 'extraordinary', 'ethereal', 'eternal', 'essential', 'emerald'] 
+negative: ['imperious', 'darkest', 'poor']
+neutral: ['green', 'many', 'human', 'first', 'endless', 'different']
+
+Overall Analysis: This groupings of words hint at numerous social biases. "Wealthy" is commonly seen as a positive quality, tying into materialistic biases. Biases related to gender also appear; while male descriptors include largely positive and neutral adjectives, female descriptors incorporate more negative terms such as "sardonic", "shrewd", and "calloused". One notable bias is the negative connotation with the non-white descriptor, using words such as "stark" and "calloused", while "white" is associated with positive attributes. This bias may reflect systemic racism. The imbalanced connotations in each category may reveal how this particular work reinforces certain social stereotypes and prejudices.

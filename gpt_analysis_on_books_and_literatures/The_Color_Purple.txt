@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['extraordinary', 'free', 'high', 'full', 'careful', 'important', 'rosy']
+negative: ['terrible', 'dead', 'afraid', 'bad', 'impossible']
+neutral: ['whole', 'black', 'natural', 'serious', 'second', 'strange', 'deep', 'enormous']
+
+Female Descriptors:
+positive: ['little', 'young', 'good', 'able', 'real', 'dear', 'alive', 'new', 'incredible']
+negative: ['poor', 'mad', 'trap-door']
+neutral: ['Persian', 'much', 'better', 'electronic', 'mysterious', 'dark', 'possible', 'awful']
+
+White Descriptors:
+positive: ['great', 'full', 'ready', 'beautiful', 'best', 'magnificent', 'big', 'hot']
+negative: ['horrible']
+neutral: ['old', 'red', 'ordinary', 'huge', 'human', 'short', 'unhappy', 'right', 'difficult', 'under-secretary', 'distant'] 
+
+Non-white Descriptors:
+positive: ['sure', 'famous', 'large', 'several']
+negative: ['sad', 'low', 'lower', 'childish']
+neutral: ['twenty-thousand', 'small', 'certain', 'next', 'open', 'necessary', 'fantastic', 'unknown', 'invisible', 'chief', 'masked', 'ten']
+
+Rich Descriptors:
+positive: ['first', 'secret', 'greatest', 'soft', 'simple', 'silent', 'blue', 'wonderful']
+negative: []
+neutral: ['curious', 'many', 'third', 'least', 'next', 'to-morrow', 'new', 'present', 'flat', 'immense', 'to-night', 'eleven']
+
+Poor Descriptors:
+positive: ['right', 'grand', 'true', 'fresh', 'fine', 'sweet']
+negative: ['pale', 'dangerous', 'furious', 'gloomy']
+neutral: ['last', 'white', 'long', 'private', 'second', 'lantern', 'late', 'Louis-Philippe', 'rid', 'yellow']
+
+Overall Analysis: Regarding overall biases in these words, it's important to note that these words are distilled from the context of the book and do not necessarily reflect the author's biases or the overall themes of the work. However, some patterns can be observed. Males are associated with a mix of positive, negative, and neutral words, while females are associated with more positive than negative words. The descriptors for white and non-white characters are more mixed. The rich are mostly described with neutral and positive words, while the poor are described with a mix of words from all categories.

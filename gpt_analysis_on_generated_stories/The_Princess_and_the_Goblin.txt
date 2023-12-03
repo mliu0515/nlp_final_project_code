@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['young', 'silken', 'luminous', 'light', 'ethereal', 'compassionate', 'content', 'joyous', 'cheerful', 'high', 'great', 'grand', 'golden', 'full']
+negative: ['fearful']
+neutral: ['invisible', 'inner', 'hardiest', 'clear', 'closest']
+
+Female Descriptors:
+positive: ['simple', 'inner', 'nearby', 'rare', 'loyal', 'eager', 'verdant', 'wonderous', 'mysterious', 'great', 'grand', 'high', 'golden', 'full', 'young', 'ethereal']
+negative: ['fearful', 'lowly']
+neutral: ['closest', 'hardiest']
+
+White Descriptors:
+positive: ['grand', 'precious', 'enchanted', 'large', 'vast', 'wise', 'content', 'full', 'inner', 'cheerful', 'high', 'great', 'golden', 'compassionate']
+negative: ['stark']
+neutral: ['little', 'worlds', 'noiseless', 'hardiest', 'fearful']
+
+Non-white Descriptors:
+positive: ['blue', 'starlit', 'joyous', 'high', 'golden', 'full', 'rich', 'cheerful', 'grand', 'invisible', 'inner', 'great', 'closest', 'eager', 'compassionate', 'content']
+negative: ['fearful']
+neutral: ['daily', 'clear', 'hardiest']
+
+Rich Descriptors:
+positive: ['endless', 'content', 'invisible', 'inner', 'high', 'great', 'grand', 'golden', 'full', 'young', 'ethereal', 'large', 'enchanted', 'eager']
+negative: ['hardiest', 'fearful']
+neutral: ['undrawn', 'unanticipated', 'much', 'daily']
+
+Poor Descriptors:
+positive: ['great', 'invisible', 'compassionate', 'magical', 'young', 'full', 'joyous', 'inner', 'high', 'grand', 'golden', 'light', 'ethereal', 'endless', 'enchanted', 'eager']
+negative: ['low', 'fearful']
+neutral: ['daily']
+
+Overall Analysis: The positive lists for male, female, white, non-white, rich, and poor descriptors all consist of words with positive connotations such as joyous, golden, and great contrasting the negative list which contains a similar word - fearful. Notably, for both female and poor descriptors, the word ‘lowly’ or 'low' makes the negative list, indicating a potentially negative bias. These lists imply that the book is largely positive, but also exhibits a bias when describing females and the poor.

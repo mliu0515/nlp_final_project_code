@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['open', 'right', 'young', 'free', 'quick', 'hard', 'brilliant', 'able', 'easy'] 
+negative: ['invisible', 'lower', 'muffled', 'common']
+neutral: ['hot', 'yellow', 'third', 'back', 'particular', 'gloved', 'least']
+
+Female Descritpors:
+positive: ['little', 'last', 'full', 'possible', 'great', 'big', 'better', 'long', 'much', 'remarkable', 'aware', 'vivid'] 
+negative: ['curious', 'dark', 'broken']
+neutral: ['“', '”', 'front', 'blue', 'general']
+
+White Descriptors:
+positive: ['certain', 'silent', 'thin', 'sharp', 'scientific', 'straight', 'alive', 'vast', 'wild', 'ready'] 
+negative: ['strange', 'cold', 'angry', 'dirty', 'locked', 'impossible', 'ordinary']
+neutral: ['”', 'refractive', 'spasmodic']
+
+Non-white Descriptors:
+positive: ['old', 'good', 'quiet', 'light', 'odd', 'excited', 'surprised'] 
+negative: ['’', 'electronic', 'black', 'extraordinary', 'painful', 'frightful', 'defective', 'theatrical']
+neutral: ['‘', 'dressing-gown', 'public', 'slightest', 'brief']
+
+Rich Descriptors:
+positive: ['first', 'visible', 'whole', 'huge', 'new', 'rapid', 'sudden', 'green', 'sure', 'clear', 'large', 'incredible', 'Good', 'outside'] 
+negative: ['frantic', 'silly', 'slow']
+neutral: ['’', 'extra-ordinary', 'mad']
+
+Poor Descriptors:
+positive: ['Invisible', 'human', 'short', 'unseen', 'next', 'wide', 'wonderful', 'private', 'strong'] 
+negative: ['white', 'empty', 'invisible', 'second', 'red', 'horrible', 'nervous', 'small', 'low', 'anxious']
+neutral: ['heavy']
+
+Overall Analysis: The texts represented by these words seem to hold some stereotypical views. Male words seem to suggest authority and strength, while female words are more about sensitivity and emotion. The white descriptors are relatively neutral or positive, implying a certain bias. Non-white descriptors contain more negative connotations. The words assigned to the rich are majorly positive, denoting privilege and abundance, while the poor descriptors often possess a negative connotation, portraying struggle and deficiency.

@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['unique', 'genuine', 'exciting', 'elegant', 'important'] 
+negative: ['worse', 'dull', 'disheveled']
+neutral: ['common', 'hidden', 'never-ending', 'endless', 'early', 'gilded', 'first', 'everyday', 'ever-so-forgetful', 'eager', 'due', 'different']
+
+Female Descriptors:
+positive: ['scientific', 'meticulous', 'warmth', 'vivid', 'quirky', 'curious', 'elegant', 'exciting']
+negative: ['oversized', 'cold', 'monotonous', 'panicked', 'dull']
+neutral: ['first', 'everyday', 'endless', 'ever-so-forgetful', 'early', 'eager', 'gilded']
+
+White Descriptors:
+positive: ['unexpected', 'simple', 'deep', 'genuine', 'exciting', 'elegant']
+negative: ['worse', 'unaware', 'dull']
+neutral: ['different', 'iceberg-like', 'eager', 'gilded', 'blue', 'polished', 'everyday', 'first', 'ever-so-forgetful', 'endless', 'early']
+
+Non-white Descriptors:
+positive: ['charming', 'composed', 'exciting', 'wild', 'adventurous', 'whimsical', 'social', 'vivid', 'elegant', 'early']
+negative: ['worse', 'small', 'scatter-brained', 'dull']
+neutral: ['disheveled', 'due', 'silver', 'everyday', 'ever-so-forgetful', 'endless']
+
+Rich Descriptors:
+positive: ['genuine', 'welcome', 'soothing', 'social', 'exciting', 'elegant']
+negative: ['numbing', 'worse', 'dull']
+neutral: ['everyday', 'early', 'eager', 'gilded', 'first', 'ever-so-forgetful', 'endless', 'due', 'iceberg-like', 'disheveled', 'different']
+
+Poor Descriptors:
+positive: ['new', 'important', 'genuine', 'exciting', 'elegant']
+negative: ['worse', 'hidden', 'dull']
+neutral: ['unplanned', 'ever-so-forgetful', 'early', 'gilded', 'first', 'everyday', 'endless', 'eager', 'due', 'disheveled', 'different', 'deep']
+
+Overall Analysis: The word lists show certain biases in the way characters are described based on their gender, race, and class. For instance, men are often given neutral or positive descriptors, but are more likely than women to be described negatively. Positive descriptors for non-white individuals tend to convey a sense of excitement or charm, whereas white individuals are more frequently described with neutral or positive terms that suggest depth or unexpectedness. This might imply a perception of unpredictability or adventurousness associated with non-white individuals, versus a perception of stability or authority associated with white individuals. Similarly, rich individuals are mostly given positive or neutral words implying comfort or sophistication, whereas poor individuals are often described with negative or neutral terms reflecting lack of visibility or predictability. These patterns suggest racial and socioeconomic biases.

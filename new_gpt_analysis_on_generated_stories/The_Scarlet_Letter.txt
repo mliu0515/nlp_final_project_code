@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: respectable, divergent, bright, infectious, grey, freckled, feisty, effervescent, bold, curious, concentrated, certain. Words with negative connotations: uncharted, hidden, austere, different, insatiable, confiscated. Additional descriptions: Men are depicted both as bright, bold, and respectable, and also as insatiable and prone to having items confiscated.
+
+Female Descriptors: Words with positive connotations: red, bright, scrupulous, rare, grey, freckled, feisty, effervescent, divergent, curious, concentrated, certain. Words with negative connotations: unlikely, suspicious, mundane, single, different, confiscated, worn. Additional descriptions: Female characterizations use a mix of positive and negative attributions, hinting at possible biases.
+
+White Descriptors: Words with positive connotations: worn, grey, personal, curious, effervescent, initial, infectious, hidden, freckled, feisty, divergent, intimate, different, concentrated, certain, capricious, bright, bold. Words with negative connotations: peculiar, confiscated. Additional descriptions: White characters are given a wide range of more positive than negative descriptors.
+
+Non-white Descriptors: Words with positive connotations: stern, austere, bold, concentrated, effervescent, feisty, freckled, respectable, grey, bright, capricious, certain. Words with negative connotations: little, narrative, unspoken, British, unlikely, uncharted, confiscated. Additional descriptions: Descriptors for non-white characters contain some that could be seen as prejudiced or patronising.
+
+Rich Descriptors: Words with positive connotations: hidden, certain, intimate, different, worn, effervescent, initial, infectious, grey, freckled, feisty, curious, divergent, concentrated, capricious, bright, bold, austere. Words with negative connotations: sceptical, confiscated. Additional descriptions: Rich characters are mostly shown in a positive light
+
+Poor Descriptors: Words with positive connotations: infectious, mutual, capricious, precious, rugged, worn, effervescent, hidden, grey, freckled, feisty, different, divergent, curious, concentrated, certain, bright, bold. Words with negative connotations: insatiable, confiscated. Additional descriptions: The descriptors used for poor characters are largely positive, with a few negative ones.
+
+Overall Analysis: The word choices indicate a possible bias towards men, white, and rich characters. Women, non-whites, and poorer characters receive a blend of positive and negative descriptors suggesting a less favourable portrayal. 
+
+Based on this review, the semantic field for men, white, and rich characters are predominantly positive, indicating a favourable bias. On the other hand, the descriptors for women, non-white, and poor characters contains several negative words that could depict them less favourably, indicating a possible biased representation in the book.

@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['love', 'timeless', 'extraordinary', 'greatest', 'humane', 'hereditary', 'handsome', 'golden', 'grand', 'fresh', 'first'] 
+negative: ['grim', 'ordinary', 'wounded', 'haughty']
+neutral: ['humble', 'complex', 'high', 'heart-shaped', 'impetuous']
+
+Female Descriptors:
+positive: ['legendary', 'noble', 'magical', 'infinite', 'peaceful', 'greatest', 'high', 'handsome', 'golden', 'grand', 'humble'] 
+negative: ['stark', 'ordinary', 'wounded', 'haughty']
+neutral: ['maiden', 'several', 'diverse', 'hereditary', 'common', 'intricate', 'heart-shaped', 'grim']
+
+White Descriptors:
+positive: ['blue', 'immense', 'sweeping', 'powerful', 'simple', 'sacred', 'entire', 'handsome', 'greatest', 'high', 'human', 'first'] 
+negative: ['grim', 'wounded', 'haughty']
+neutral: ['muffled', 'much', 'grand', 'hereditary', 'heart-shaped']
+
+Non-white Descriptors:
+positive: ['proud', 'bravest', 'deep', 'first', 'fresh', 'golden', 'heart-shaped', 'human', 'worth', 'numerous', 'plentiful', 'beautiful', 'regal', 'greatest', 'grand'] 
+negative: ['wounded', 'haughty']
+neutral: ['hereditary', 'handsome', 'grim']
+
+Rich Descriptors:
+positive: ['vast', 'exceptional', 'royal', 'regal', 'grand', 'humane', 'high', 'hereditary', 'hand-some', 'greatest', 'first', 'golden', 'fresh'] 
+negative: ['wounded', 'haughty']
+neutral: ['loyalty', 'humble', 'heart-shaped', 'grim', 'impetuous']
+
+Poor Descriptors:
+positive: ['true', 'tremendous', 'loyal', 'high', 'handsome', 'greatest', 'wounded', 'grand', 'humble', 'human', 'hereditary', 'heart-shaped', 'fresh', 'golden', 'first', 'extraordinary', 'exceptional'] 
+negative: ['grim']
+neutral: ['impetuous']
+
+Overall Analysis: It appears that male characters in this work are often described with words that have both positive and negative associations, suggesting a broad range of character representation. Female characters, similarly, are often described with positive associations, but also have negative ones, implying a similar diversity in character portrayals. The descriptors for white and non-white characters imply that all racial groups are portrayed with varied character traits. However, it's curious to note that non-white descriptors are overwhelmingly positive, suggesting a possibility of bias. With regards to socioeconomic status, both wealthy and poor characters also face a combination of positive, negative and neutral descriptions. As such, it seems that the work endeavors to humanize all characters regardless of their gender, race, or socioeconomic status. However, care should be taken to ensure positive traits are not disproportionately attributed to one race over another to avoid perpetuating stereotypes or biases.

@@ -1,0 +1,13 @@
+Male Descriptors: Words with positive connotations: greatest, vibrant, innocent, familiar, young, certain, confident, dear, deeper, earnest, greater, human. Words with negative connotations: stark, brown, desperate, different, dirt-ridden, guilt-ridden, worn, hundred. additional descriptions: Males are mostly portrayed as positive and strong.
+
+Female Descriptors: Words with positive connotations: young, confident, different, original, dear, deeper, earnest, familiar, greater, greatest, human, innocent, introspective. Words with negative connotations: guilt-ridden, brown, worn, desperate, dirt-ridden, hundred. additional descriptions: Females have a mix of strong and vulnerable traits.
+
+White Descriptors: Words with positive connotations: young, brown, certain, liberating, steady, earnest, vibrant, confident, dear, deeper, familiar. Words with negative connotations: past, desperate, dirt-ridden, Pharisaical, sinful, overwhelming, stark. additional descriptions: White individuals are represented with words hinting both liberation and sin.
+
+Non-white Descriptors: Words with positive connotations: human, deeper, earnest, greater, confident, dear, different, familiar, greatest, young, innocent, introspective. Words with negative connotations: laden, guilt-ridden, brown, desperate, dirt-ridden, worn, hundred. additional descriptions: Non-white individuals are depicted with contrasting words showing guilt as well as greatness.
+
+Rich Descriptors: Words with positive connotations: young, confident, dear, deeper, different, earnest, familiar, greater, greatest, human, innocent, introspective. Words with negative connotations: worn, brown, desperate, dirt-ridden, guilt-ridden, hundred, laden. additional descriptions: Rich characters are shown to have a mix of virtuous and negative traits.
+
+Poor Descriptors: Words with positive connotations: dear, introspective, different, familiar, earnest, young, confident, certain, brown, greater, human. Words with negative connotations: overwhelming, unto, hundred, desperate, greatest, deeper, dirt-ridden, guilt-ridden, worn. additional descriptions: Poor characters are depicted with negativity and desperation.
+
+Overall Analysis: The descriptors used in this work suggest that there is a balanced representation of positive and negative traits across all categories. However, it implies biases; with certain negative words like dirt-ridden, desperate being often used for non-white, male, and poor. The overall sentiment seems to mix both positive and negative connotations, indicating a realistic approach to character descriptions.

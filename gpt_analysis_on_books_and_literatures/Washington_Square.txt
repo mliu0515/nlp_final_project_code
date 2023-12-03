@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['best', 'fine', 'handsome', 'interesting', 'new', 'dear', 'positive', 'gentle', 'excellent'] 
+negative: ['afraid', 'angry', 'unhappy']
+neutral: ['much', 'long', 'sure', 'large', 'enough', 'younger', 'intellectual', 'red']
+
+Female Descriptors:
+positive: ['young', 'moral', 'beautiful', 'attractive', 'social', 'principal'] 
+negative: ['terrible', 'low', 'empty']
+neutral: ['”', 'many', 'old', 'first', 'private', 'considerable', 'niece', 'open', 'proper', 'several', 'sudden']
+
+White Descriptors:
+positive: ['happy', 'dear', 'high', 'right', 'free', 'reasonable', 'hard', 'second'] 
+negative: ['strange', 'dreadful']
+neutral: ['’', '”', 'first', 'different', 'able', 'several', 'less', 'you.', 'extreme', 'that.']
+
+Non-white Descriptors:
+positive: ['natural', 'ready', 'agreeable', 'clear', 'sentimental', 'important', 'beautiful', 'admirable', 'unexpected', 'nice'] 
+negative: ['bad', 'conscious', 'silent', 'jealous', 'uncomfortable']
+neutral: ['considerable', 'ten', 'necessary', 'single', '”']
+
+Rich Descriptors:
+positive: ['better', 'glad', 'small', 'present', 'usual', 'white', 'whole', 'intelligent', 'modest', 'remarkable', 'older', 'sympathetic'] 
+negative: ['disappointed']
+neutral: ['’', 'certain', 'electronic', 'next', 'it.', 'foreign', 'much.']
+
+Poor Descriptors:
+positive: ['great', 'good', 'true', 'full', 'comfortable', 'secret', 'clever', 'brilliant', 'interested'] 
+negative: ['poor', 'wrong', 'vague']
+neutral: ['little', '“', 'last', 'least', 'quiet', 'easy', 'possible', 'short']
+
+Overall Analysis: This book seems to contain some degree of racial and gender biases. For instance, the descriptors associated with 'men' and 'rich' are mostly positive while 'female' and 'poor' contain negative connotations. Words related to 'non-white' also contain a significant amount of negative connotations. These biases suggest a narrative that leans towards favoring male, rich, and white characters within the text. However, further investigation would be required to understand the context and nuance of this conclusion.

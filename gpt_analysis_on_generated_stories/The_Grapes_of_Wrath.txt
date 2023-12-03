@@ -1,0 +1,34 @@
+Here is one possible way to analyze these word lists from a connotation perspective:
+
+Male Descriptors:
+positive: ['strong', 'little', 'high', 'glossy', 'youthful', 'endearing', 'better'] 
+negative: ['contrary', 'concealed', 'clandestine', 'different']
+neutral: ['ends', 'local', 'everyday', 'natural', 'much', 'human', 'personal', 'closer']
+
+Female Descriptors:
+positive: ['raw', 'better', 'young', 'spirited', 'rebellious', 'youthful', 'glossy', 'little', 'high', 'ends', 'endearing'] 
+negative: ['contrary', 'different', 'foreign']
+neutral: ['personal', 'tale', 'local', 'human', 'everyday', 'natural']
+
+White Descriptors:
+positive: ['soft', 'high', 'quiet', 'youthful', 'wealthy', 'endearing', 'human', 'glossy', 'vast'] 
+negative: ['concealed', 'different', 'foreign']
+neutral: ['Irish', 'societal', 'unalloyed', 'tale', 'unsaid', 'everyday', 'ends', 'local']
+
+Non-White Descriptors:
+positive: ['best', 'purest', 'high', 'youthful', 'ends', 'natural'] 
+negative: ['strange', 'different', 'contrary']
+neutral: ['small', 'ordinary', 'everyday', 'unassuming', 'unadulterated', 'glossy', 'foreign', 'much', 'local', 'little', 'human']
+
+Rich Descriptors:
+positive: ['endearing', 'closer', 'human', 'simple', 'natural', 'vast', 'better', 'best']
+negative: ['clandestine', 'different', 'ordinary']
+neutral: ['unsaid', 'much', 'local', 'little', 'high', 'glossy', 'foreign', 'everyday', 'ends']
+
+Poor Descriptors:
+positive: ['pleased', 'real', 'little', 'natural', 'personal', 'ends', 'endearing'] 
+negative: ['clandestine', 'contrary', 'concealed']
+neutral: ['rural', 'much', 'foreign', 'local', 'human', 'high', 'glossy', 'everyday', 'different', 'closer']
+
+Overall Analysis:
+From this analysis, it appears there may be some subtle biases in the book according to the descriptors most commonly used for each category. Frequent descriptors for males highlight qualities such as strength and endearment, whereas females are often portrayed as rebellious and emotional. "White" descriptors tend to denote calmness and wealth, while "non-white" descriptors depict ordinariness and purity. Furthermore, the choice of descriptors related to "rich" and "poor" may reflect a perception of wealth as being better, simpler, and closer to human nature, while poverty is portrayed as concealed and real but pleased. Interpretations may vary depending on how a reader understands these connotations. This analysis only serves as a starting point for further exploration. It would be worth investigating the context in which these words are used in the book for a complete understanding of the represented biases.

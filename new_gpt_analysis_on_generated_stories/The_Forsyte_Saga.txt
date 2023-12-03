@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: fiery, perfect, free, inner, impeccable, imminent, hidden, green, external, expensive, electric, impeccable. Words with negative connotations: labyrinth, inexplicable, unlikely, incompatible, worn-out, faded, eerie, dark, cryptic. Additional descriptions: The descriptors for male characters often highlight strength, mystery, and material wealth.
+
+Female Descriptors: Words with positive connotations: star-stippled, untamed, unequaled, expensive, stormy, red, free, inexplicable, incompatible, impeccable, imminent, hidden, green, fiery, electric. Words with negative connotations: cryptic, faded, insatiable, external, worn-out. Additional descriptions: The descriptors for female characters emphasize intensity, mystery, uniqueness, and independence.
+
+White Descriptors: Words with positive connotations: calm, unclaimed, imminent, wealthy, unequaled,  faded, impeccable, hidden, green, free, fiery, wild, inexplicable, expensive, electric. Words with negative connotations: external, perilous, street-smart, worn-out. Additional descriptions: Descriptions for white characters highlight tranquility, wealth, wild spirit, and achievement.
+
+Non-white Descriptors: Words with positive connotations: mythical, free, capricious, unfettered, electric, hidden, green, inner, inexplicable, impeccable, imminent, fiery, labyrinth. Words with negative connotations: vest, faded, incompatible, external, expensive, eerie, dark. Additional descriptions: Non-white descriptions emphasize freedom, mystery, spiritual depth.
+
+Rich Descriptors: Words with positive connotations: wild, insatiable, smoothed, wordless, eerie, impeccable, hidden, green, worn-out, free, labyrinth, electric. Words with negative connotations: faded, inner, inexplicable, incompatible, imminent, dark. Additional descriptions: Rich character descriptors focus on extravagance, mystery, imperfection, and satisfaction.
+
+Poor Descriptors: Words with positive connotations: silent, many, inner, free, green, inexplicable, impeccable, imminent, hidden, electric. Words with negative connotations: dark, incompatible, raw, simple, worn-out, insatiable, fiery, faded, expensive, eerie. Additional descriptions: Descriptors for poor characters often project simplicity, inner strength, and struggle.
+
+Overall Analysis: The text reveals biases by celebrating mystery, inner strength, and wealth. Gendered descriptions also lean into different stereotypes, such as male strength and female intensity. Notably, the terms "free" and "inexplicable" surface across all descriptors, signaling a possible obsession with unpredictability or mystery. There also seems a negative link between being non-white and being poor, which reflects societal issues regarding race and poverty. 
+
+Overall Sentiment Analysis: The list generally contains more positive words than negative, suggesting a largely positive or idealized portrayal of characters across all categories. On the other hand, these idealizations could perpetuate harmful stereotypes and ignore the complex reality of human experiences.

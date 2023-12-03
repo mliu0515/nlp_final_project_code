@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['new', 'first', 'beautiful', 'cheerful', 'excited', 'French', 'loud']
+negative: ['hard', 'cold', 'late', 'nervous', 'secret']
+neutral: ['”', '’', 'single', 'particular', 'thick', '‘', 'constant', '…']
+
+Female Descriptors:
+positive: ['long', 'open', 'big', 'high', 'several', 'real', 'complete', 'green', 'polite', 'lovely', 'red', 'upper', 'golden']
+negative: ['poor', 'lower', 'sudden'] 
+neutral: ['certain', 'unfamiliar', 'hundred', 'mixed']
+
+White Descriptors:
+positive: ['young', 'full', '“', 'front', 'deep', 'large', 'free', 'fine', 'common', 'persistent']
+negative: ['small', 'black', 'terrible', 'sad', 'thin', 'strange', 'reluctant', 'sharp']
+neutral: ['’', 'yellow']
+
+Non-white Descriptors:
+positive: ['little', 'many', 'right', 'bright', 'cool', 'wild', 'physical', 'romantic', 'sure', 'green', 'rich', 'aware', 'glad', 'silent']
+negative: ['bad', 'low', 'invisible']
+neutral: ['’', 'enormous', 'second']
+
+Rich Descriptors:
+positive: ['“', 'much', 'blue', 'nice', 'funny', 'fantastic', 'wide', 'Good', 'true', 'best', 'able', 'interested', 'soft']
+negative: ['least', 'funeral']
+neutral: ['white', 'it.', 'vague', 'less', 'Next']
+
+Poor Descriptors:
+positive: ['first', 'great', 'next', 'good', 'whole', 'curious', 'warm', 'better', 'light', 'fresh']
+negative: ['old', 'last', 'dark', 'short', 'dead', 'hot', 'pale', 'crazy']
+neutral: ['electronic', 'fifty']
+
+Overall Analysis: The word connotations seem to reflect stereotypical biases concerning gender, race, and class. Males are described with a mix of positive and negative terms, with some being neutral. Females are mostly described in positive or neutral terms, but 'lower' and 'poor' suggest a negative viewpoint. White individuals have relative balance between positive and negative terms, while non-white descriptors lean more positively. The rich words mainly fall in the positive category, except for 'funeral'. Poor descriptors are largely positive too, but the negative terms tend to be more emphatically negative (e.g. 'dead') than those associated with other categories. This could point towards an underlying bias that views poverty or the state of being poor in a more negative light. However, this conclusion is tentative without further context from the source material.

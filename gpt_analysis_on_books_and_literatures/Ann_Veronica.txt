@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['fine', 'best', 'friendly', 'remarkable', 'ready', 'warm'] 
+negative: ['difficult', 'horrible']
+neutral: ['long', 'next', 'quiet', 'easy', 'true', 'various', 'intellectual', 'biological', 'red', 'reasonable', 'vague', 'sudden']
+
+Female Descritpors:
+positive: ['new', 'glad', 'real', 'happy', 'better', 'tall', 'feminine', 'passionate', 'active', 'quick', 'equal', 'like'] 
+negative: ['small', 'bad', 'confused']
+neutral: ['last', 'certain', 'many', 'less', 'immense']
+
+White Descriptors:
+positive: ['young', 'great', 'beautiful', 'clear', 'better', 'human', 'aware', 'social', 'able', 'important', 'deep', 'blue', 'light', 'clean']
+negative: ['dark', 'stupid']
+neutral: ['first', 'least', 'poor', 'particular']
+
+Non-white Descriptors:
+positive: ['dear', 'bright', 'sure', 'present', 'modern', 'fair', 'new', 'married', 'helpful', 'respectable']
+negative: ['wrong', 'disagreeable', 'thin', 'foolish', 'angry', 'uncomfortable']
+neutral: ['first', 'emotional', 'previous', 'direct']
+ 
+Rich Descriptors:
+positive: ['curious', 'second', 'natural', 'pleasant', 'alive'] 
+negative: ['hard', 'impossible']
+neutral: ['much', 'old', 'white', 'electronic', 'black', '....', 'general', 'interested', 'mere', 'wild', 'sorry', 'busy', 'common']
+
+Poor Descriptors:
+positive: ['good', 'free', 'full', 'possible', 'right', 'large', 'open', 'different', 'strong', 'wonderful', 'big', 'personal', 'splendid'] 
+negative: ['afraid', 'odd']
+neutral: ['little', 'whole', 'old', 'high', 'up-stairs']
+
+Overall Analysis: The word list implies a number of biases. The book seems to associate positive characteristics with males, females, white and rich people more often than negative. Negative descriptions are more prevalent for non-white and the poor, which may convey a biased perspective. It's noticeable that physical appearance and emotional state words are more associated with female descriptors while male descriptors use more intellectual and character traits. Furthermore, 'white' category contains mostly positive or neutral words, whereas 'non-white' category has a considerable number of negative words, which suggests a racial bias. The association of positive words with 'rich' and neutral or negative with 'poor' reflects socioeconomic bias.

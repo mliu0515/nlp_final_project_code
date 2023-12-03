@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['free', 'best', 'rich', 'real'] 
+negative: ['poor', 'low', 'slow', 'mean', 'dry']
+neutral: ['big', 'long', 'warn', 'n', 'back', 'nigger', 'ten', 'considerable', 'close', 'quick', 'general']
+
+Female Descriptors:
+positive: ['young', 'easy', 'much', 'clear', 'regular', 'likely', 'grand'] 
+negative: ['next', 'bad', 'awful', 'different', 'sick', 'mighty', 'tow-head', 'loose']
+neutral: ['’', 'last', 'current', 'quiet', 'light']
+
+White Descriptors:
+positive: ['right', 'safe', 'hard', 'enough', 'true', 'much', 'happy'] 
+negative: ['black', 'dark', 'dreadful', 'mournful']
+neutral: ['white', 'it.', 'Next', 'straw', 'fifty', 'fur', 'gray', 'red']
+
+Non-white Descriptors:
+positive: ['better', 'ready', 'comfortable', 'many', 'pretty', 'soft', 'alive'] 
+negative: ['dead', 'cold', 'wild']
+neutral: ['much', 'hundred', 'wide', 'en', 'fifteen', 'late', 'front', 'thick', 'dear', 'lightning-rod']
+
+Rich Descriptors:
+positive: ['new', 'solid', 'nice', 'natural', 'satisfied'] 
+negative: ['foolish']
+neutral: ['”', 'first', 'considerable', 'sudden', 'by-and-by', 'ole', 'funeral', 'worth', '_I_', 'wrong', 'small', 'un', 'lantern', 'thousand']
+
+Poor Descriptors:
+positive: ['good', 'old', 'whole', 'full', 'open', 'high', 'glad', 'sure', 'beautiful'] 
+negative: ['little', 'runaway', 'worse']
+neutral: ['’', '“', '”', 'second', 'electronic', 'uz', 'powerful', 'dey']
+
+Overall Analysis: The word lists reveal some of the biases present in the work. There is a bias towards males, with more positive words associated with male descriptors. The female descriptors list includes many more negative words, suggesting a negative bias towards females. Interestingly, the 'white' list contains both 'black' and 'white' as neutrals, reflecting perhaps an attempt to tackle race or a reflection of the racial dynamics of the time. The 'non-white' list has more negative connotations compared to 'white', suggesting racial bias. There is also wealth bias - there are more positive descriptors for the 'rich' category, and more negative for the 'poor'. Overall, it suggests the work may contain biases towards males, whites, and the rich, at least based on a cursory look at the most common words associated with these categories.

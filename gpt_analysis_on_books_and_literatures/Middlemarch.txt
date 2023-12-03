@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['possible', 'full', 'easy', 'clear', 'dear', 'personal', 'glad'] 
+negative: ['less', 'hard', 'difficult', 'deep', 'poor', 'anxious', 'angry']
+neutral: ['"','last', 'present', 'particular', 'necessary', 'peculiar']
+
+Female Descriptors:
+positive: ['young', 'right', 'happy', 'agreeable', 'free', 'active', 'social', 'light', 'pleasant', 'highest', 'easier', 'intense'] 
+negative: ['different', 'miserable', 'cold']
+neutral: ['’', 'various', 'slight', 'spiritual', 'fair']
+
+White Descriptors:
+positive: ['much', 'better', 'young', 'fine', 'large', 'long', 'many', 'public', 'conscious', 'aware', 'short', 'fresh'] 
+negative: ['worse', 'disagreeable', 'quiet', 'inward', 'sad', 'quick']
+neutral: ['"','first']
+
+Non-white Descriptors:
+positive: ['little', 'small', 'dear', 'beautiful', 'early', 'useful', 'sweet', 'remarkable'] 
+negative: ['private', 'second', 'painful', 'unpleasant', 'late', 'impossible', 'contrary', 'false', 'heavy']
+neutral: ['white', 'black']
+
+Rich Descriptors:
+positive: ['sure', 'usual', 'open', 'whole', 'good', 'high', 'silent', 'great', 'higher', 'independent', 'stronger', 'future'] 
+negative: ['mere', 'apt', 'electronic']
+neutral: ['next', 'medical', 'least', 'first', 'chief']
+
+Poor Descriptors:
+positive: ['good','old', 'great', 'best', 'many', 'strong', 'true', 'ready', 'able', 'much', 'likely'] 
+negative: ['poor', 'bad', 'wrong', 'low']
+neutral: ['’', '“', 'little', 'new', 'certain']
+
+Overall Analysis: The lists present some interesting patterns. Words associated with males are mostly negative or neutral, with a smaller number of positive descriptors. Women, on the other hand, are largely associated with positive words, with a few negative and neutral words. The words associated with 'white' are largely positive, while 'non-white' are mixed with negative and positive connotations. This could potentially signal implicit racial biases. The rich and poor descriptors also showed bias, with more positive words for the rich and a mix of negative and positive for the poor. This might indicate class bias.

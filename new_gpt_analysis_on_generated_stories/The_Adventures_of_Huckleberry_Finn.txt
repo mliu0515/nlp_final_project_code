@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: homemade, fine, single, humble, high, great, grand, good, gentle, firm, endless. Words with negative connotations: worn-down, dust-clouded, distant, different, common, broken. Additional descriptions: "affluent" and "deeper" are neutral in connotation but often suggestive of financial stability or deeper emotions/thoughts.
+
+Female Descriptors: Words with positive connotations: quiet, rich, unscathed, unique, unassuming, gentle, firm, fine, endless, grand. Words with negative connotations: terrible, sprawling, common, reluctant, distant, worn-down, dust-clouded. Additional descriptions: "different" and "little" appear neutral or context-dependent, depending on how they are used in sentences.
+
+White Descriptors: Words with positive connotations: worn-down, unique, good, gentle, firm, fine, endless, high, deeper, affluent. Words with negative connotations: dust-clouded, distant, down-home, different, common, broken. Additional descriptions: descriptors such as "torn", "tiny", and "publicized" are context-dependent as they can be perceived as negative/positive depending on the context.
+
+Non-white Descriptors: Words with positive connotations: jovial, physical, affluent, firm, gentle, good, wide, unscathed, unique, unassuming, common, deeper, down-home. Words with negative connotations: broken, distant, small, terrible, dust-clouded. Additional descriptions: descriptors such as "unlikely" are largely context-dependent.
+
+Rich Descriptors: Words with positive connotations: humble, great, different, societal, endless, fine, high, grand, good, gentle, firm, affluent, homemade. Words with negative connotations: worn-down, dust-clouded, distant, down-home, different, common, broken. Additional descriptions: "broken" and "worn-down" can also suggest resilience.
+
+Poor Descriptors: Words with positive connotations: small, deeper, high, common, homemade, endless, fine, firm, gentle, good, grand, affluent, great. Words with negative connotations: old, broken, different, distant, down-home, dust-clouded, worn-down. Additional descriptions: the neutrality of "small" and "old" depend largely on context.
+
+Overall Analysis: The work suggests a number of potential social biases. While both negative and positive words are used across all categories, it's notable that some categories such as "non-white" and "poor" contain more negative words. The descriptors for "male" and "white" categories contain words usually associated with power, stability, or influence. It indicates potential gender and racial biases. The term "rich" is also associated with more positive words than negative. This pattern hints at socioeconomic biases as well. 
+
+The overall sentiment within the list leans more positive than negative, yet a substantial proportion still holds negative connotations, showing a mixed, complex perception for each of the categories. This complexity suggests a nuanced, multifaceted perspective on social identities.

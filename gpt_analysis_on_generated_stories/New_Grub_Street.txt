@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['modern', 'main', 'staunch', 'hopeful', 'fresh', 'father-daughter', 'different'] 
+negative: ['old', 'hot']
+neutral: ['much', 'parish', 'headstrong', 'memory-filled', 'meaningful', 'many', 'humble', '’', 'due', 'diminutive', 'deeper']
+
+Female Descritpors:
+positive: ['retired', 'vivid', 'youthful', 'peaceful', 'perfect', 'hopeful', 'fresh', 'father-daughter', 'main', 'different'] 
+negative: ['brown', 'hot', 'old-fashioned']
+neutral: ['due', 'stereotypical', 'headstrong', 'many', 'humble', '’', 'half', 'memory-filled']
+
+White Descriptors:
+positive: ['fresh', 'traditional', 'hopeful', 'possible', 'rebellious', 'new', 'vibrant', 'warm', 'undying', 'father-daughter', 'main', 'vivid', 'different'] 
+negative: ['hot']
+neutral: ['’', 'headstrong', 'half', 'due', 'meaningful', 'diminutive']
+
+Non-white Descriptors:
+positive: ['undying', 'headstrong', 'strong', 'serene', 'memory-filled', 'modern', 'fresh', 'hopeful'] 
+negative: ['parish', 'aged', 'black', 'hot']
+neutral: ['half', 'diminutive', 'annual', 'different', 'deeper', 'due', 'father-daughter', 'brown']
+
+Rich Descriptors:
+positive: ['father-daughter', 'modest', 'meaningful', 'valuable', 'unyielding', 'different', 'hopeful', '’', 'fresh'] 
+negative: ['hot', 'brown']
+neutral: ['headstrong', 'memory-filled', 'many', 'main', 'humble', 'half', 'due', 'diminutive', 'deeper']
+
+Poor Descriptors:
+positive: ['newfound', 'hopeful', 'fresh', 'father-daughter', 'different'] 
+negative: ['hot', 'brown']
+neutral: ['deeper', 'many', 'humble', '’', 'headstrong', 'modern', 'memory-filled', 'meaningful', 'main', 'half', 'much', 'due', 'diminutive']
+
+Overall Analysis: Reviewing the words associated with each category suggests the possibility of certain biases in the text. Positive descriptors being associated with ‘rich’, ‘male’, ‘female’, ‘white’, and ‘non-white’ suggest a favorable bias towards these groups, with words like ‘hopeful’, ‘fresh’, 'modern', and 'different' suggesting dynamism and positivity. However, it is also noted that 'brown' is viewed as a negative descriptor in 'female', 'rich', and 'poor' categories, possibly indicating racial bias. The term 'hot' is negatively associated with every category and symbolizes a common negative trait among all groups. Neutral words are more prevalent in 'male', 'non-white', and 'poor' suggesting these categories are represented with a balanced mix of characteristics. Overall, these biases may subtly influence readers’ perceptions and highlight the importance of mindful and unbiased language use in literature.

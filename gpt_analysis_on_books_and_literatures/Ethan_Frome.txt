@@ -1,0 +1,32 @@
+Male Descriptors:
+Positive: ['good', 'great', 'white', 'free', 'vague', 'glad', 'new'] 
+Negative: ['poor', 'awful']
+Neutral: ['long', 'new', '“', 'silent', 'first', 'less', 'wet', 'considerable', 'frozen', 'grey']
+
+Female Descriptors:
+Positive: ['best', 'better', 'light', 'fresh', 'slight', 'slim', 'ready', 'high'] 
+Negative: ['dark', 'sharp']
+Neutral: ['first', 'big', 'empty', 'soft', 'quiet', 'wild', 'snow', 'fifty', 'different', 'to-morrow']
+
+White Descriptors:
+Positive: ['full', 'happy', 'strong', 'nearest', 'complete', 'tall', 'practical', 'official', 'favourite', 'grey'] 
+Negative: ['mean', 'black', 'confused', 'exempt', 'pathological', 'frightened']
+Neutral: ['sudden', 'low', 'main', 'derivative']
+
+Non-white Descriptors:
+Positive: ['open', 'whole', 'true', 'familiar', 'closer'] 
+Negative: ['cold', 'hard', 'thin']
+Neutral: ['next', 'quick', 'many', 'immediate', 'pickle-dish', 'least', 'early', 'extra', 'lantern', 'flat', 'perceptible']
+
+Rich Descriptors:
+Positive: ['smart', 'natural'] 
+Negative: ['bad', 'short', 'strange', 'dead', 'sorry', 'sick', 'blue']
+Neutral: ['“', 'last', 'little', 'previous', 'aware', 'likely', 'several', 'large', 'to-night', 'upper', 'left']
+
+Poor Descriptors:
+Positive: ['young', 'sure', 'warm', 'clear', 'bright', 'pretty']
+Negative: ['old', 'small', 'red', 'heavy', 'pale', 'brown'] 
+Neutral: ['”', '“', 'much', 'usual', 'late', 'farther', 'older', 'narrow']
+
+Overall Analysis: 
+The book appears to associate positive connotations more frequently with male and white descriptors, as well as female and non-white to some extent. For example, words like 'good', 'great', and 'glad' are present in the male descriptor’s list. White descriptors show an intriguing mix of positive, negative, and neutral connotations. The 'rich' and 'poor' descriptors seem to align more with stereotypical assumptions about socio-economic status. The 'rich' descriptors contain more negative connotations like 'bad' and 'short', while the 'poor' descriptors contain both negative and positive connotations including 'old', 'small', and 'young', 'clear' respectively. This might suggest a more complex portrayal of wealth disparity in the book than simply glorifying the rich and vilifying the poor. Nevertheless, this assessment doesn't provide a complete picture of the underlying bias, as connotation and context can vary.

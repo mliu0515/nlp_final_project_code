@@ -1,0 +1,31 @@
+Male Descriptors:
+Positive: ['young', 'closer', 'new', 'promised'] 
+Negative: ['wildest', 'age-old', 'ancient', 'forgotten', 'hidden', 'lost', 'past', 'late']
+Neutral: ['Eldorian', 'deeper', 'final', 'labyrinthine','library', 'mutual', 'old']
+
+Female Descriptors:
+Positive: ['ready', 'closer', 'true'] 
+Negative: ['old', 'ancient', 'wildest', 'forgotten', 'labyrinthine', 'hidden', 'late', 'young', 'lost']
+Neutral: ['mutual', 'seasoned', 'deeper', 'final', 'lay', 'age-old', 'Eldorian', 'library', 'old']
+
+White Descriptors:
+Positive: ['young', 'vast', 'closer', 'new'] 
+Negative: ['strange', 'lost', 'age-old', 'ancient', 'forgotten', 'hidden', 'late', 'old']
+Neutral: ['deeper', 'lay', 'Eldorian', 'final', 'labyrinthine', 'library', 'mutual', 'wildest']
+
+Non-white Descriptors:
+Positive: ['closer', 'quiet', 'promised', 'new'] 
+Negative: ['hidden', 'lost', 'age-old', 'ancient', 'forgotten', 'late', 'old']
+Neutral: ['This', 'final', 'labyrinthine', 'Eldorian', 'deeper', 'lay', 'library', 'young', 'wildest']
+
+Rich Descriptors:
+Positive: ['young', 'new'] 
+Negative: ['unspoken', 'forgotten', 'lost', 'age-old', 'ancient', 'late', 'old', 'past']
+Neutral: ['library', 'Eldorian', 'closer', 'deeper', 'final', 'hidden', 'labyrinthine', 'lay', 'mutual', 'wildest']
+
+Poor Descriptors:
+Positive: ['new', 'young'] 
+Negative: ['relentless', 'past', 'lost', 'unknown', 'ancient', 'late', 'old']
+Neutral: ['Eldorian', 'closer', 'deeper', 'lay', 'final', 'forgotten', 'hidden', 'labyrinthine', 'age-old', 'mutual', 'library', 'wildest']
+
+Overall Analysis: The listed words suggest that there is a clear trend of associating both negative and neutral connotations more prevalently across all groups. Positive connotations are much less common in these word lists, suggesting a potential negative bias in the work. The book's language appears to focus on themes of loss, hidden aspects, and age - often associated with negative connotations. The "rich" and "mature" groups have more negative associations than others, which could suggest a bias against wealth and age in the narrative. Also, there seems to be no significant difference between the connotations tied to race and gender, which may suggest an attempt towards neutrality in these aspects. However, there is a noticeable bias towards the assortment of descriptors used within each category, attributing different characteristics unequally among genders, races, and social classes. The author should aim for a more balanced positive-negative ratio and equal distribution of adjectives among groups to achieve fair representation.

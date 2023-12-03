@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['soulful', 'empathy', 'comfortable', 'charming', 'charismatic', 'bright'] 
+negative: ['melancholic', 'late-night']
+neutral: ['different', 'quick', 'first', 'unspoken', 'larger', 'high', 'fleeting', 'enough', 'adolescent', 'local', 'middle-aged', 'two-decade-old']
+
+Female Descritpors:
+positive: ['tight-knit', 'charismatic', 'soft', 'thoughtful', 'empathy', 'charming', 'bright', 'comfortable'] 
+negative: ['old', 'late-night']
+neutral: ['unspoken', 'local', 'larger', 'high', 'fleeting', 'first', 'different', 'enough', 'adolescent']
+
+White Descriptors:
+positive: ['adolescent', 'bright', 'empathy', 'secret', 'comfortable', 'charming', 'charismatic'] 
+negative: ['two-decade-old', 'middle-aged', 'melancholic']
+neutral: ['late-night', 'present', 'first', 'larger', 'high', 'fleeting', 'unspoken', 'local', 'different', 'enough'] 
+
+Non-white Descriptors:
+positive: ['able', 'nostalgia', 'empathy', 'comfortable', 'charming', 'charismatic', 'bright'] 
+negative: ['past', 'melancholic', 'late-night']
+neutral: ['larger', 'high', 'fleeting', 'first', 'enough', 'different', 'adolescent', 'local', 'unspoken', 'two-decade-old'] 
+
+Rich Descriptors:
+positive: ['mutual', 'sure', 'comfortable', 'empathy', 'charming', 'charismatic', 'bright'] 
+negative: ['late-night', 'melancholic']
+neutral: ['enough', 'unspoken', 'larger', 'high', 'fleeting', 'first', 'different', 'adolescent', 'local', 'middle-aged', 'two-decade-old']
+
+Poor Descriptors:
+positive: ['subtle', 'charming', 'charismatic', 'bright', 'adolescent', 'comfortable', 'empathy'] 
+negative: ['middle-aged', 'slow', 'melancholic', 'late-night']
+neutral: ['different', 'enough', 'first', 'fleeting', 'high', 'larger', 'local', 'unspoken', 'two-decade-old']
+
+Overall Analysis: The words associated with each category seem balanced with positive and negative connotations across all groups, suggesting a relative lack of social bias. However, male and white categories have more negative words related to age ('middle-aged', 'two-decade-old'), and non-white and poor categories have 'past' and 'slow' respectively, slightly suggesting some bias in these areas. The majority of words, however, are neutral, supporting the argument that the book attempts to tackle issues without excessive bias.

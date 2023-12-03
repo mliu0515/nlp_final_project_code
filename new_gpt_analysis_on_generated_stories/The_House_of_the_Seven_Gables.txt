@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: urban, warm, complete, flora-strewn, pivotal, innocent, aristocratic, humble, hidden, greenest, gentrified, beautiful, classical, first, extravagant. Words with negative connotations: harsh, grimiest. Additional descriptions: The male descriptors show a range of characteristics, but reveal a bias towards positivity and higher social status.
+
+Female Descriptors: Words with positive connotations: plebeian, tranquil, native, robust, open, warm, delicate, humble, greenest, flora-strewn, first. Words with negative connotations: harsh, grimiest. Additional descriptions: The female descriptions have a mix of economic and class connotations, but lean towards positivity.
+
+White Descriptors: Words with positive connotations: rural, unexpected, unlikely, humble, odd, noble, private, ripe, classical, interesting, greenest, warm. Words with negative connotations: harsh, grimiest. Additional descriptions: The descriptors for white characters have a mixture of different connotations, but overall they show a bias towards positive words.
+
+Non-white Descriptors: Words with positive connotations: amiable, high, ordinary, verdant, blue, innocent, humble, beautiful, greenest, classical, first. Words with negative connotations: grimiest. Additional descriptions: The non-white descriptors show a bias towards a more humble, everyday life but also contains negative connotation with word like "grimiest".
+
+Rich Descriptors: Words with positive connotations: little, beautiful, bizarre, magical, undulating, greenest, flora-strewn, humble, different, interesting, delicate, daily. Words with negative connotations: harsh, grimiest, common. Additional descriptions: The rich descriptors are largely positive, showing a bias towards a positive portrayal of wealth.
+
+Poor Descriptors: Words with positive connotations: rich, seasonal, blue, humble, beautiful, high, greenest, classical. Words with negative connotations: hidden, grimiest. Additional descriptions: The poor character descriptors ambiguously mix elements of richness and hardship, suggesting a more nuanced portrayal.
+
+Overall Analysis: There seems to be a societal bias present which views males, whites, and the wealthy in a generally positive light, while non-whites are depicted in a more humble manner and with particular negative word like "grimiest". The descriptors for the poor are more moderate with a mix of both positive and negative words, but still contain a slight sense of negativity. 
+
+Overall sentiment analysis: The overall sentiment is mixed. However, the majority of words used are positive, suggesting a generally positive sentiment, despite the societal biases that exist within the story.

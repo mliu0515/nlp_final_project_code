@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['comfortable', 'polite', 'glowing', 'determined'] 
+negative: ['long', 'empty', 'forgotten', 'harsh', 'half-smoked', 'coarse']
+neutral: ['grey', 'tiny', 'wooden', 'heavy', 'green', 'frosty', 'extraordinariness', 'fiery', 'last', 'deeper']
+
+Female Descriptors:
+positive: ['sharp', 'intriguing', 'comfortable', 'glowing'] 
+negative: ['unreadable', 'ordinary', 'half-smoked', 'forgotten', 'black', 'coarse']
+neutral: ['white', 'old', 'robust', 'simple', 'grey', 'average', 'green', 'frosty', 'deeper', 'fiery']
+
+White Descriptors:
+positive: ['visible', 'local', 'glowing', 'determined']
+negative: ['average', 'half-smoked', 'forgotten', 'empty', 'unreadable']
+neutral: ['wooden', 'deeper', 'frosty', 'middle-aged', 'weathered', 'unusual', 'extraordinariness', 'grey', 'green', 'weary', 'fiery']
+
+Non-white Descriptors:
+positive: ['silent', 'little', 'comfortable']
+negative: ['ten', 'forgotten', 'heavy', 'black', 'unusual', 'harsh', 'half-smoked', 'coarse']
+neutral: ['angled', 'fiery', 'extraordinariness', 'watered-down', 'frosty', 'average', 'grey', 'green', 'glowing']
+
+Rich Descriptors:
+positive: ['regular', 'glowing', 'determined', 'comfortable']
+negative: ['weather-beaten', 'weary', 'harsh', 'coarse', 'half-smoked', 'forgotten', 'empty']
+neutral: ['wooden', 'heavy', 'grey', 'green', 'frosty', 'fiery', 'extraordinariness', 'last', 'deeper']
+
+Poor Descriptors:
+positive: ['green', 'quiet', 'comfortable']
+negative: ['much', 'half-smoked', 'forgotten', 'heavy', 'harsh', 'grey', 'empty', 'coarse']
+neutral: ['charcoal-grey', 'last', 'wooden', 'glowing', 'frosty', 'fiery', 'extraordinariness', 'determined', 'deeper']
+
+Overall Analysis: Based on these lists, there seems to be a negative bias towards non-white, poor, and female individuals when comparing with their counterparts. This can be seen by the number of negative connotations in their descriptors. There also appears to be a tendency towards neutral or positive words for male and rich individuals, indicating a possible bias in favour of these groups. Additionally, there is a recurring use of 'forgotten' and 'half-smoked' across nearly all categories which might indicate the overall melancholic or dismissive tone of the book.

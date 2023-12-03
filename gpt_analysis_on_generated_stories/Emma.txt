@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['respectful', 'sophisticated', 'intellectual', 'gentle', 'generous', 'good'] 
+negative: []
+neutral: ['male', 'grand', 'longer', 'little', 'large', 'high', 'grandscale', 'younger', 'many', 'expansive', 'ethereal', 'ephemeral', 'different', 'audacious']
+
+Female Descriptors:
+positive: ['successful', 'proper', 'gentle', 'generous', 'good']
+negative: []
+neutral: ['unobjectionable', 'thick', 'ephemeral', 'younger', 'grand', 'little', 'large', 'intellectual', 'high', 'grandscale', 'male', 'expansive', 'ethereal', 'different', 'audacious']
+
+White Descriptors:
+positive: ['resilient', 'gentle', 'generous', 'good']
+negative: []
+neutral: ['large', 'rosy-cheeked', 'younger', 'many', 'longer', 'little', 'intellectual', 'high', 'grandscale', 'grand', 'expansive', 'ethereal', 'ephemeral', 'different', 'audacious', 'male'] 
+
+Non-white Descriptors:
+positive: ['pleasant', 'generous']
+negative: []
+neutral: ['uncanny', "'steady", 'grandscale', 'warm', 'audacious', 'different', 'intellectual', 'reserved', 'high', 'little', 'large', 'gentle', 'grand', 'good', 'male', 'expansive', 'ethereal', 'ephemeral']
+
+Rich Descriptors:
+positive: ['good', 'successful', 'generous']
+negative: []
+neutral: ['young', 'younger', 'striking', 'expansive', 'little', 'modest', 'uncanny', 'audacious', 'different', 'ephemeral', 'ethereal', 'warm', 'gentle', 'unobjectionable', 'grand', 'grandscale', 'high']
+
+Poor Descriptors:
+positive: ['generous', 'gentle', 'good']
+negative: ['stern']
+neutral: ['social', 'quiet', 'simple', 'longer', 'many', 'ethereal', 'expansive', 'ephemeral', 'different', 'grand', 'grandscale', 'high', 'audacious', 'intellectual', 'large', 'little']
+
+Overall Analysis: The male, female, white, non-white, rich, and poor descriptors mainly contain words with neutral or positive connotations, indicating a general emphasis on positivity or neutrality within the content. However, there is a notable lack of negative connotations. For example, 'stern' is the only term classified as negative and it appears in the 'poor' category, which might suggest a social bias towards viewing poverty negatively. There also appears to be a slight bias towards viewing the 'male' and 'white' categories more positively, as they have more positive terms than the other categories.

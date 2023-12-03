@@ -1,0 +1,32 @@
+Male Descriptors:
+positive: ['new', 'fascinating', 'good'] 
+negative: ['old', 'overgrown', 'relentless', 'lonely', 'deceptive', 'darkest'] 
+neutral: ['material', 'synchronized', 'ivy-covered', 'intertwined', 'historical', 'fish', 'wooden', 'elusive', 'dusty', 'cautious', 'artifacts–a']
+
+Female Descriptors:
+positive: ['simple', 'true', 'shared', 'practical', 'good', 'fascinating'] 
+negative: ['rustic', 'lonely', 'deceptive', 'darkest'] 
+neutral: ['artifacts–a', 'dusty', 'extravagant', 'intertwined', 'historical', 'fish', 'wooden', 'elusive', 'cautious', 'amidst']
+
+White Descriptors:
+positive: ['valuable', 'good', 'fascinating'] 
+negative: ['deceptive', 'silent', 'lonely', 'darkest']
+neutral: ['age-old', 'intertwined', 'elusive', 'wooden', 'ivy-covered', 'historical', 'fish', 'dusty', 'extravagant', 'musty', 'cautious', 'artifacts–a', 'amidst']
+
+Non-white Descriptors:
+positive: ['warm', 'good', 'extravagant'] 
+negative: ['lateness', 'deceptive', 'elusive', 'darkest']
+neutral: ['unconventional', 'amidst', 'sturdy', 'historical', 'fish', 'ivy-covered', 'intertwined', 'fascinating', 'dusty', 'material', 'cautious', 'artifacts–a', 'age-old']
+
+Rich Descriptors:
+positive: ['wealthy', 'warm', 'valuable', 'fascinating'] 
+negative: ['darkest', 'deceptive', 'dusty', 'elusive'] 
+neutral: ['wooden', 'rumored', 'extravagant', 'ivy-covered', 'narrow', 'sturdy', 'unconventional', 'age-old', 'amidst', 'artifacts–a', 'cautious', 'fish']
+
+Poor Descriptors:
+positive: ['rich', 'good', 'extravagant', 'fascinating'] 
+negative: ['lonely', 'notorious', 'cautious', 'darkest', 'deceptive', 'dusty', 'elusive']
+neutral: ['musty', 'wooden', 'fish', 'ivy-covered', 'intertwined', 'historical', 'artifacts–a', 'amidst', 'age-old']
+
+Overall Analysis: 
+The lists suggest a somewhat traditional and negative bias exists within the text. There seems to be negative connotations toward males as well as the poor, while a more positive connotation seems to be tied to being rich and female. More neutral terms are assigned to races, both white and non-white, showing a more unbiased portrayal there. The female list had more positive and neutral words than negative ones, suggesting a more positive view of women. This could also be said for the rich descriptor list. Meanwhile, the male list and the poor descriptor list had a majority of negative words. The clear grouping of positive words for categories like rich and female, and negative words for poor and male suggests a significant socio-economic and gender bias within the text.

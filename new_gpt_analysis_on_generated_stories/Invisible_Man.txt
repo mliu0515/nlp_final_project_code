@@ -1,0 +1,17 @@
+Male Descriptors: Words with positive connotations: [good, willing, extraordinary, enigmatic, entire, conceivable]. Words with negative connotations: [old, impossible, oblivious, fateful, different, cryptic]. Additional descriptions: Many descriptors here convey a sense of mystery and depth, often with a slight negative or challenging undertone. 
+
+Female Descriptors: Words with positive connotations: [many, willing, certain, extraordinary, entire, enigmatic, emerald]. Words with negative connotations: [insatiable, strange, odd, rigorous, late, different, cryptic]. Additional descriptions: Characters may be portrayed as enigmatic and different, with certain characteristics perceived as negative.
+
+White Descriptors: Words with positive connotations: [unknown, rich, willing, celestial, entire, extraordinary, emerald]. Words with negative connotations: [conceived, lonesome, grim, different, low, relic]. Additional descriptions: There's a blend of high value (rich, celestial) and lowly (lonesome, grim) traits.
+
+Non-white Descriptors: Words with positive connotations: [deep, extraordinary, bold, entire, enigmatic, emerald]. Words with negative connotations: [cryptic, fateful, metallic, pervasive, conceivable]. Additional descriptions: Generally, more positive remarks with a connotation of depth and influence, some hint of mystery as well.
+
+Rich Descriptors: Words with positive connotations: [willing, possible, bold, celestial, extraordinary]. Words with negative connotations: [fateful, different, alien]. Additional descriptions: Descriptors might imply the characters are benevolent and have possibilities, but there's an alienation aspect present as well.
+
+Poor Descriptors: Words with positive connotations: [human, good, ground-breaking, celestial, extraordinary, certain, bold]. Words with negative connotations: [inconceivable, alien, stark, flickering]. Additional descriptions: Characters are described as grounded, human, and good, with potential for groundbreaking acts, but also face stark realities. 
+
+Overall Analysis: The descriptor lists suggest a bias within the work, with wealthier or white characters often being assigned more positive descriptors, while those who are poorer or not white also see more ambiguous or negative traits. 
+
+There's a tendency toward attributing mystique to male and female characters; females are sometimes labelled with negative traits suggesting unpredictability, males are often described as aging, and non-white characters are given a blend of deep, influential and mysterious traits. 
+
+Overall Sentiment Analysis: The list is a fairly mixed bag, with both positive and negative words, perhaps leaning slightly more towards positive. However, when socially significant categories like gender, race, or wealth are considered, the bias might lean negative.

@@ -1,0 +1,31 @@
+Male Descriptors:
+    positive: flourishing, great, medical 
+    negative: treacherous, dead
+    neutral: green, modest, journalistic, pink, different, many, intricate, heavy, head, full, front, young, mixed, easy, early
+    
+Female Descriptors:
+    positive: courageous, medical, brave, peaceful, great, flourishing
+    negative: unforgiving, poor
+    neutral: mixed, unlikely, sturdy, olive, stiff, palpable, green, full, young, head, front, early
+    
+White Descriptors:
+    positive: flourishing, prestigious, strong 
+    negative: estranged, starkly
+    neutral: many, full, intricate, daily, sudden, journalistic, heavy, head, green, great, front, young, easy, medical, different
+    
+Non-white Descriptors:
+    positive: Lady, early, easy, wealthy, comfortable, brave, great
+    negative: past, worse, war-stricken
+    neutral: heavy, present, raven, estranged, daily, intricate, head, green, Victorian
+    
+Rich Descriptors:
+    positive: young, challenging, rich, unwavering, many, comfortable
+    negative: dead, scant
+    neutral: front, broad, Victorian, journalistic, intricate, heavy, head, green, great, full, flourishing, estranged
+    
+Poor Descriptors:
+    positive: great, flourishing, medical 
+    negative: old, modest
+    neutral: Victorian, broad, unassuming, head, many, journalistic, intricate, heavy, green, full, front, easy, estranged, early, different
+
+Overall Analysis: The work appears to have a slightly negative bias towards the "Poor" and "Male" categories, as shown by the higher number of negative words like 'old' and 'treacherous' associated with these. "Female" descriptors are majorly positive, potentially implying a positive bias. "White" descriptors have a healthy mix of positive, negative, and neutral words, while "Non-white" descriptors possess a higher number of positive words. The word 'rich', interestingly, resides in the positive list under "Rich Descriptors", which arguably could be seen as neutral. It's clear that any biases within this work are nuanced and may benefit from more critical and context-specific analysis.

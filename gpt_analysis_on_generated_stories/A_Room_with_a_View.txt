@@ -1,0 +1,33 @@
+In the following analysis, positive words are those that tend to have pleasing, uplifting, or beneficial connotations, negative words have distressing, harmful, or unpleasant connotations, and neutral words do not distinctly lean towards either side. 
+
+        Male Descriptors:
+        positive: ['young', 'lion-hearted', 'grand', 'giant', 'genuine', 'first', 'early']
+        negative: ['flushed', 'impoverished', 'distressed']
+        neutral: ['human', 'scientific', 'least', 'infectious', 'humbler', 'florid', 'longest', 'eccentric', 'different', 'dedicated']
+
+        Female Descriptors:
+        positive: [' many', 'rosy', 'wealthy', 'vibrant', 'content', 'dedicated', 'genuine']
+        negative: ['serious', 'impoverished']
+        neutral: ['middle-class', 'much', 'necessary', 'perched', 'prolonged', 'least', 'early', 'first', 'different', 'flushed', 'eccentric']
+
+        White Descriptors:
+        positive: ['first', 'young', 'genuine', 'quiet', 'richer', 'warm', 'dedicated', 'grand', 'giant', 'content']
+        negative: ['smaller', 'impoverished']
+        neutral: ['longest', 'unmarried', 'flushed', 'humbler', 'human', 'biological', 'florid', 'child-like']
+
+        Non-white Descriptors:
+        positive: ['adventurous', 'giant', 'first', 'genuine', 'early']
+        negative: ['solitary', 'distressed', 'impoverished']
+        neutral: ['biological', 'child-like', 'infectious', 'small', 'little', 'florid', 'flushed', 'least', 'humbler', 'human', 'grand', 'eccentric']
+
+        Rich Descriptors:
+        positive: ['eccentric', 'giant', 'young', 'genuine', 'first', 'flushed']
+        negative: ['impoverished', 'stark', 'distressed']
+        neutral: ['un', 'different', 'ongoing', 'least', 'infectious', 'humbler', 'human', 'grand', 'florid', 'little', 'early']
+
+        Poor Descriptors:
+        positive: ['lion-hearted', 'dedicated', 'grand', 'genuine', 'first', 'eccentric', 'early']
+        negative: ['middle-aged', 'odd', 'impoverished', 'distressed']
+        neutral: ['humbler', 'human', 'giant', 'young', 'little', 'florid', 'different']
+
+        Overall Analysis: The text seems to propagate some elements of bias. The rich are associated as eccentric, yet mentioned along negative words like impoverished and distressed. This suggests a bias that wealth causes outlandish behavior and carries inner turmoil. Male and female descriptors show a range of positive and negative connotations, but the female descriptors include 'impoverished' and 'serious' as negatives, hinting at a possible bias. Racial descriptors indicate an inherent bias; "white" descriptors are more positive, while non-white ones include negative words such as 'solitary' and 'distressed'. This unequal representation reveals an expected social bias present in the work.

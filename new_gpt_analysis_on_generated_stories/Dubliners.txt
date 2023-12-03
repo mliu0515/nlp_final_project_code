@@ -1,0 +1,13 @@
+Male Descriptors: Words with positive connotations: sure, different, wide. Words with negative connotations: old, heavy, dreadful, cold, desolate. Additional descriptions: The male descriptors seem to sway more towards negative connotations, perhaps indicating some form of bias.
+
+Female Descriptors: Words with positive connotations: warm, long, complex. Words with negative connotations: stark, painful, rough, dreadful, desolate. Additional descriptions: The female descriptors also contain negative terms, but there's balance with a few positive ones.
+
+White Descriptors: Words with positive connotations: azure, complex. Words with negative connotations: weathered, cold, dreadful, lonesome. Additional descriptions: It is interesting that the term "white" has both a mix of positive and negative descriptors, so no clear bias can be read from these alone.
+
+Non-white Descriptors: Words with positive connotations: wealthy, antique, azure. Words with negative connotations: uneasy, dreadful, lonesome, barren. Additional descriptions: Non-white descriptors show a similar mixture regarding positive and negative connotations as the white descriptors.
+
+Rich Descriptors: Words with positive connotations: voracious, bright. Words with negative connotations: desolate, broken, dreadful, cold. Additional descriptions: The "rich" descriptors predominantly contain negative connotations which suggests a potentially negative sentiment towards wealth.
+
+Poor Descriptors: Words with positive connotations: poignant, bright, open. Words with negative connotations: unwelcome, musty, dreadful, uneasy. Additional descriptions: The descriptors for "poor" also show a mixed sentiment, with poor individuals being described with both positive and negative descriptors.
+
+Overall Analysis: The descriptors within this work suggest a mixture of biases, tending towards negative sentiment regardless of being male, female, white, non-white, rich, or poor. This suggests a generally more pessimistic or realistic worldview in the context in which these descriptors are used. Also, the shared descriptors like "evasive", "enigmatic", "elaborate", "eerie", "dreadful", "different", might be suggesting a common shared human experience regardless of these individual identity-based categories.

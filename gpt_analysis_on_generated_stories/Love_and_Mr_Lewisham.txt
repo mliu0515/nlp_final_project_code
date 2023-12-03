@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['grandest', 'youthful', 'kind-hearted', 'keen', 'intellectual', 'handsome', 'equal']
+negative: ['opposite', 'conventional', 'foolish', 'empty']
+neutral: ['middle', 'sharp', 'miscellaneous', 'mathematical', 'little', 'less', 'motherly', 'emotional']
+
+Female Descritpors:
+positive: ['young', 'beautiful', 'necessary', 'cherished', 'motherly', 'kind-hearted', 'keen', 'intellectual', 'handsome', 'equal']
+negative: ['silent', 'reclusive', 'unable', 'undecipherable', 'unfamiliar', 'unpredictable']
+neutral: ['seasoned', 'pre-set', 'less', 'grandest']
+
+White Descriptors:
+positive: ['unexpected', 'equal', 'soft', 'undying', 'handsome', 'grandest', 'foolish', 'kind-hearted', 'less', 'intellectual']
+negative: ['unappealing']
+neutral: ['mathematical', 'miscellaneous', 'twenty', 'youthful', 'little', 'emotional', 'empty']
+
+Non-white Descriptors:
+positive: ['scholarly', 'steady', 'aware', 'self-imposed', 'kind-hearted', 'intellectual', 'handsome', 'equal']
+negative: ['worn-down', 'anomalous', 'critical', 'empty']
+neutral: ['abstract', 'wiry', 'blue', 'little', 'less', 'mathematical']
+
+Rich Descriptors:
+positive: ['complex', 'youthful', 'potent', 'intellectual', 'cherished', 'handsome', 'aware', 'grandest']
+negative: ['foolish', 'third', 'theoretical', 'unsentimental', 'anomalous']
+neutral: ['middle', 'mathematical', 'little', 'less', 'kind-hearted', 'keen', 'blue']
+
+Poor Descriptors:
+positive: ['modest', 'perfect', 'handsome', 'kind-hearted', 'keen', 'intellectual', 'grandest', 'youthful', 'motherly', 'equal']
+negative: ['formidable', 'miscellaneous', 'empty', 'critical', 'conventional']
+neutral: ['less', 'middle', 'mathematical', 'little', 'emotional']
+
+Overall Analysis: The associations of these descriptors to their corresponding categories in the book potentially represent a number of societal biases. For instance, the 'male' descriptors are largely seen as positive, with only four of the descriptors having a negative connotation - representing a potential societal bias towards viewing men in a generally positive light. The same can be observed for the 'female' category. In contrast, the 'non-white' descriptor list contains a significant number of negatively-associated words, suggesting a societal bias towards painting non-Whites in a negative light. It's interesting to note that both 'rich' and 'poor' descriptors hold rather negative connotations in several instances, implying that wealth and poverty are both portrayed quite negatively within the book. This can also speak volumes about how society perceives wealth and poverty. Last, but not the least, the bias of 'white' as largely positive implies racial biases too. This brief analysis could help us understand deeply ingrained societal narratives and stereotypes.

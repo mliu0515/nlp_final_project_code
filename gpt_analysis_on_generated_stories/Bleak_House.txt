@@ -1,0 +1,33 @@
+The classification of words as positive, negative, or neutral is highly subjective and could be influenced by various factors including culture, personal experiences, and context. However, a general connotation breakdown might look like this:
+
+Male Descriptors:
+positive: ['high-profile', 'interesting', 'vast', 'eccentric', 'high', 'handsome', 'gentle', 'fiery', 'delightfully', 'delightful', 'dear']
+negative: ['dust-laden']
+neutral: ['foster', 'fierce', 'elaborate', 'easy', 'early', 'younger', 'identical', 'different']
+
+Female Descriptors:
+positive: ['infinite', 'many', 'charmed', 'uninhibited', 'auburn', 'wide', 'wild', 'fiery', 'eccentric', 'easy', 'different']
+negative: ['untended', 'old']
+neutral: ['labyrinthine', 'insatiable', 'foster', 'neighboring', 'fierce', 'early', 'elaborate']
+
+White Descriptors:
+positive: ['delightful', 'mellow', 'high', 'safe', 'middle-aged', 'dear', 'eccentric', 'easy', 'gentle']
+negative: ['dust-laden']   
+neutral: ['identical', 'unveiled', 'unknown', 'unconventional', 'younger', 'fierce', 'fiery', 'foster', 'elaborate', 'different']
+
+Non-white Descriptors:
+positive: ['seasoned', 'delightfully', 'different', 'dramatic', 'fiery', 'handsome', 'adventurous', 'strong', 'veritable', 'unveiled'] 
+negative: ['chaotic']
+neutral: ['younger', 'new', 'older', 'fierce', 'elaborate', 'eccentric', 'easy', 'early', 'dust-laden']
+
+Rich Descriptors:
+positive: ['young', 'blue', 'strong', 'serene', 'high', 'handsome', 'gentle', 'fiery', 'easy', 'dramatic', 'delightfully'] 
+negative: ['dust-laden']
+neutral: ['early', 'younger', 'foster', 'elaborate', 'eccentric', 'identical', 'different']
+
+Poor Descriptors:
+positive: ['independent', 'veritable', 'beautiful', 'gentle', 'high-profile', 'high', 'handsome', 'fiery', 'dramatic']
+negative: ['ancient', 'irregular']
+neutral: ['easy', 'elaborate', 'foster', 'fierce', 'eccentric', 'younger', 'early', 'identical', 'different']
+
+Overall Analysis: The lists suggest possible social biases in the linguistic portrayal of these categories. Males tend to be associated with more positive terms, while females and non-whites have more neutral and negative connotations. Furthermore, positive adjectives are more often associated with the rich than the poor. However, this analysis may not tell the whole story and caution should be used in treating these categories as monolithic or static.

@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['great', 'better', 'high', 'pleasant', 'real'] 
+negative: ['dead', 'worse', 'weak', 'hideous']
+neutral: ['it.', 'silent', 'particular', 'certain', 'next', 'light', 'previous', 'late', 'small', 'recent', 'slow']
+
+Female Descriptors:
+positive: ['little', 'new', 'full', 'short', 'good', 'safe', 'sharp', 'rapid', 'much', 'wide'] 
+negative: ['pale', 'gloomy', 'sad', 'hungry']
+neutral: ['former', 'least', 'second', 'to-night', 'opposite', 'present']
+
+White Descriptors:
+positive: ['dear', 'happy', 'right', 'open', 'full', 'whole', 'ready', 'different', 'green', 'quick'] 
+negative: ['hard', 'afraid', 'secret', 'angry']
+neutral: ['’', '”', 'possible', 'several', 'close', 'alive']
+
+Non-white Descriptors:
+positive: ['first', 'large', 'strong', 'fresh', 'bright', 'fine', 'general', 'curious'] 
+negative: ['dark', 'bad', 'short', 'electronic', 'violent', 'narrow', 'mere', 'enough', 'worst', 'mad']
+neutral: ['usual', 'earnest']
+
+Rich Descriptors:
+positive: ['good', 'much', 'white', 'great', 'loud', 'red', 'true', 'anxious', 'desperate', 'free', 'glad', 'sweet', 'considerable']
+negative: ['strange', 'porochial', 'feeble', 'sick', 'empty']
+neutral: ['“', 'next']
+
+Poor Descriptors:
+positive: ['old', 'young', 'many', 'long', 'last', 'best', 'deep', 'sure', 'quiet', 'able', 'gentle'] 
+negative: ['poor', 'small', 'low', 'cold', 'heavy', 'black']
+neutral: ['’', '”', '“']
+
+Overall Analysis: The word choices show some societal biases. Words associated with females, non-whites, and the poor are more likely to be negative. Positive terms are more often associated with males, whites, and the rich. This portrays the male, white, and rich categories in more positive ways, subtly suggesting their superiority. Females, the non-white, and poor, on the other hand, are often associated with negative or less desirable terms, implying a lower status.

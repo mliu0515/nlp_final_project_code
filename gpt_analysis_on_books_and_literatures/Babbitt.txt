@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['certain', 'free', 'full', 'modern', 'clean', 'true', 'pretty', 'respectable', 'interesting']
+negative: ['black', 'late', 'less']
+neutral: ['first', '“', '‘', 'public', 'hundred', 'broad', 'vast', 'blue']
+
+Female Descriptors:
+positive: ['nice', 'Good', 'great', 'important', 'private', 'open', 'smart', 'pleased']
+negative: ['thin', 'rotten', 'silent']
+neutral: ['last', 'big', 'long', 'many', 'hot', 'darn', 'yellow', 'low', 'dear']
+
+White Descriptors:
+positive: ['old', 'good', 'great', 'real', 'best', 'large', 'white', 'familiar', 'ready', 'interested']
+negative: ['sick']
+neutral: ['“', 'little', 'much', 'small', 'gray', 'real-estate', 'ten', 'to-night', 'green']
+
+Non-white Descriptors:
+positive: ['glad', 'real', 'social', 'electronic', 'rich', 'American', 'honest', 'natural', 'prosperous']
+negative: ['wrong', 'wet']
+neutral: ['’', 'early', 'electric', '_Advocate-Times_', 'regular', 'heavy', 'pale', 'largest', 'wide'] 
+
+Rich Descriptors:
+positive: ['young', 'good', 'whole', 'sure', 'able', 'hard', 'soft', 'fresh', 'practical', 'pleasant', 'warm', 'live']
+negative: ['bad', 'tired', 'nervous']
+neutral: ['’', 'to-day', 'fifteen', 'small', 'necessary']
+
+Poor Descriptors:
+positive: ['new', 'fine', 'right', 'better', 'decent', 'happy', 'quiet']
+negative: ['poor', 'awful']
+neutral: ['’', '”', 'little', 'next', 'fellow', 'old', 'high', 'second', 'red', 'liberal', 'least']
+
+Overall Analysis: The social biases evident in the lists suggest a positive bias towards the categories of 'men', 'white', and 'rich' as these groups contain more positive connotations. 'Men' are associated with freedom and respectability, 'white' with goodness and readiness, and 'rich' with youth and practicality. There is some negative bias towards the 'female', 'non-white', and 'poor' categories. Females are associated with thinness and silence, 'non-white' is linked with wrongness and being wet, and 'poor' is associated with poorness and awfulness. Neutral words dominate in all categories but particularly in 'male', 'white', and 'poor', which suggests that the book explores diverse aspects of these groups.

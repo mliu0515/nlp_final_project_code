@@ -1,0 +1,33 @@
+To solve this task, you will need to apply some subjectivity in your assessment since the connotations of a word can vary based on context. Here is an example of how this could be done:
+
+Male Descriptors:
+positive: ['smile', 'privileged', 'avid', 'intrepid', 'infectious', 'good', 'gilded', 'first', 'human', 'hot'] 
+negative: ['economic', 'wealth-deprived', 'middle-aged', 'bubble', 'busy', 'lashing', 'harsh', 'last']
+neutral: ['biracial']
+
+Female Descriptors:
+positive: ['intrepid', 'soothing', 'undeniable', 'gilded', 'good', 'human', 'infectious', 'first', 'wild', 'hot'] 
+negative: ['routine', 'unlikely', 'bitterest', 'respective', 'penciled', 'cruel', 'poverty-stricken', 'harsh', 'last']
+neutral: ['fast', 'fierce']
+
+White Descriptors:
+positive: ['harsh', 'natural', 'substantial', 'gilded', 'robust', 'cushioned', 'meaningful', 'understand', 'intrepid', 'infectious', 'human', 'good', 'avid', 'hot'] 
+negative: ['unbearable', 'unwritten', 'bitterest', 'first', 'fast', 'fierce']
+neutral: []
+
+Non-white Descriptors:
+positive: ['able', 'suitable', 'infectious', 'good', 'intrepid', 'human', 'hot', 'gilded'] 
+negative: ['singular', 'story—a', 'last', 'cooked', 'biracial', 'cruel', 'lashing', 'harsh']
+neutral: ['avid', 'first', 'fierce', 'fast']
+
+Rich Descriptors:
+positive: ['rich', 'human', 'busy', 'tangible', 'susceptible', 'good', 'prosaic', 'deep', 'wild', 'first', 'intrepid', 'infectious', 'hot', 'gilded'] 
+negative: ['harsh', 'economic', 'fierce', 'last']
+neutral: ['fast', 'cushioned']
+
+Poor Descriptors:
+positive: ['wild', 'hot', 'first', 'intrepid', 'infectious', 'human', 'good', 'gilded'] 
+negative: ['next', 'lashing', 'bubble', 'profound', 'harsh', 'fierce', 'meaningful', 'economic', 'deep', 'cushioned', 'cruel']
+neutral: ['fast']
+
+Overall Analysis: The book's descriptors suggest a bias towards portraying males as privileged and strong, and females as harsh and negatively affected by their environment. White individuals are shown primarily in a positive light, while non-white individuals have a balance of positive, negative and neutral descriptors, indicating ambiguity. Rich individuals are also depicted positively, with words suggesting material wealth and opportunity, while the poor are characterized by harsher, more negative words, reinforcing stereotypes. This suggests socio-economic bias.

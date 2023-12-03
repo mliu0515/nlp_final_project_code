@@ -1,0 +1,13 @@
+Male Descriptors: Words with positive connotations: playful, curious, intricate, grand, colorful, closer, delicate. Words with negative connotations: stern, corrupt, off-limits, forbidden, dusty, chaos. Additional descriptions: Majority of the descriptors for male are positive or neutral with few negative words suggesting a possible gender bias towards men. 
+
+Female Descriptors: Words with positive connotations: raw, young, paradoxical, quiet, sanctuary, light-hearted, wealthy, high, English, full. Words with negative connotations: petite, chaos, Mexican-American, dusty, forbidden, delicate. Additional descriptions: Female descriptors included ethnic identification, contrasting with the male descriptors where ethnicity wasn’t identified. 
+
+White Descriptors: Words with positive connotations: grand, younger, ordinary, music-loving, vast, subtle, high, colourful, wealthy. Words with negative connotations: English, closer, forbidden, corrupt, dusty, delicate. Additional descriptions: Mostly positive characteristics are assigned to white identifying certain privileged connotations. 
+
+Non-white Descriptors: Words with positive connotations: respective, senior, subtle, carefree, colorful, boisterous. Words with negative connotations: chaos, last, dusty, delicate, forbidden, corrupt, middle-class. Additional descriptions: Mostly negative words, may reveal a racial bias in the text. 
+
+Rich Descriptors: Words with positive connotations: colorful, intricate, unpredictable, transformative, carefree, pretty, high, grand, younger. Words with negative connotations: full, corrupt, forbidden, dusty, delicate, chaos. Additional descriptions:  The descriptors for rich are largely positive, which may indicate socioeconomic bias.
+
+Poor Descriptors: Words with positive connotations: ornate, prestigious, light-hearted, intricate, grand, colorful. Words with negative connotations: middle-class, dust, forbidden, younger, corrupt, chaos. Additional descriptions: There is a mix of positive and negative descriptors for poor, indicating complexity but also potential bias. 
+
+Overall Analysis: The descriptors reveal a certain bias in the text, particularly towards males, the rich, and white individuals. Women, the poor and non-white individuals are shown in a slightly more negative light. Also, it bears mentioning the specific ethnic identification for female. The sentiment of the words in general appears to be more positive than negative, but this does not diminish the potential bias present.

@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['prestigious', 'humble', 'hard-earned', 'grand', 'fresh', 'fair', 'innocent', 'dreamy', 'cherish', 'brighter'] 
+negative: ['hollow', 'hard']
+neutral: ['endless', 'many', 'twined', '’', 'coveted', 'closest', 'clearer']
+
+Female Descriptors:
+positive: ['precious', 'treasured', 'sweet', 'grand', 'fresh', 'fair', 'humble', 'dreamy', 'cherish'] 
+negative: ['hard', 'insincere', 'hard-earned', 'hollow', 'palpable']
+neutral: ['undeserved', 'closest', 'small', '’', 'coveted', 'endless']
+ 
+White Descriptors:
+positive: ['grand', 'cherish', 'hard-earned', 'affluent', 'fresh', 'fair', 'dreamy'] 
+negative: ['tear-filled', 'hollow', 'hard', 'vulnerable']
+neutral: ['live', 'much', 'tangible', 'coveted', 'clearer', '’', 'aristocratic', 'endless', 'ephemeral']
+
+Non-white Descriptors:
+positive: ['Cherish', 'innocent', 'fresh', 'fair', 'humble', 'dreamy'] 
+negative: ['tumultuous', 'hollow', 'hard-earned', 'hard', 'uphill']
+neutral: ['’', 'ephemeral', 'least', 'aristocratic', 'affluent', 'young', 'grand', 'coveted', 'endless']
+
+Rich Descriptors:
+positive: ['cherish', 'dreamy', 'humble', 'fresh', 'fair', 'brighter'] 
+negative: ['hard', 'hollow', 'hard-earned', 'insincere']
+neutral: ['’', 'short', 'impressive', 'grand', 'endless', 'ephemeral', 'coveted', 'closest', 'clearer', 'beating']
+ 
+Poor Descriptors:
+positive: ['rich', 'humble', 'brighter', 'cherish', 'impressive', 'innocent'] 
+negative: ['hard-earned', 'odd', 'large', 'hollow', 'beating', 'hard']
+neutral: ['’', 'younger', 'grand', 'affluent', 'aristocratic', 'fresh', 'clearer', 'fair', 'endless']
+
+Overall Analysis: Given the distribution of the words, this work seems to contain some indications of gender and race-related biases. The words used to describe males and females show traditional gender stereotypes, with males represented by strong, prestigious words, while females are often described with delicate or emotionally-loaded terms. Racial distinction is noticeable, with 'white' descriptors having more positive connotations than those used to describe 'non-white'. The word lists for 'rich' and 'poor' lean more towards positive connotations for the rich, again, possibly indicating a bias towards wealth.

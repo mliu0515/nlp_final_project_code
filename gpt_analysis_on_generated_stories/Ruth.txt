@@ -1,0 +1,31 @@
+Male Descriptors:
+Positive: ['playful', 'curious', 'high', 'grand', 'full', 'colorful', 'closer']
+Negative: ['stern', 'corrupt', 'off-limits', 'forbidden', 'dusty', 'chaos']
+Neutral: ['societal', 'last', 'intricate', 'delicate', 'younger', 'middle-class', 'cheeky']
+
+Female Descriptors:
+Positive: ['raw', 'young', 'petite', 'quiet', 'light-hearted', 'wealthy', 'high', 'grand', 'full', 'English']
+Negative: ['stark', 'forbidden', 'dusty', 'chaos']
+Neutral: ['paradoxical', 'sanctuary', 'cheeky', 'Sofia', 'Mexican-American', 'delicate']
+
+White Descriptors:
+Positive: ['grand', 'closer', 'music-loving', 'vast', 'unpredictable', 'full', 'curious', 'colorful', 'last', 'wealthy']
+Negative: ['ordinary', 'forbidden', 'corrupt', 'dusty']
+Neutral: ['younger', 'English', 'witchy', 'subtle', 'high', 'delicate']
+
+Non-white Descriptors:
+Positive: ['last', 'curious', 'carefree', 'colorful', 'boisterous', 'cheeky']
+Negative: ['chaos', 'corrupt', 'forbidden']
+Neutral: ['respective', 'dusty', 'delicate', 'senior', 'African', 'subtle', 'Mexican-American', 'mundane', 'closer', 'middle-class', 'Sofia']
+
+Rich Descriptors:
+Positive: ['colorful', 'intricate', 'unpredictable', 'carefree', 'full', 'pretty', 'curious', 'last', 'high', 'grand']
+Negative: ['forbidden', 'dusty', 'corrupt', 'chaos']
+Neutral: ['transformative', 'delicate', 'younger', 'middle-class', 'closer', 'cheeky']
+
+Poor Descriptors:
+Positive: ['high', 'delicate', 'light-hearted', 'last', 'intricate', 'grand', 'full', 'colorful']
+Negative: ['forbidden', 'dusty', 'chaos', 'corrupt']
+Neutral: ['middle-class', 'ornate', 'boisterous', 'prestigious', 'younger', 'mundane', 'closer', 'cheeky']
+
+Overall Analysis: The words associated with males and non-whites are generally more negative than for other groups. This could suggest a social bias in the work, possibly portraying males and non-whites in a more negative light. Furthermore, rich people are described with more positive words, whereas poor people have an equal mix of positive and negative words, suggesting a bias towards wealth. Such biases could subliminally influence readers' perceptions about these groups. Moreover, the word 'middle-class' is placed under the categories of 'poor', which is not an accurate depiction of the said social class. This can denote a misrepresentation or generalization about socio-economic classes.

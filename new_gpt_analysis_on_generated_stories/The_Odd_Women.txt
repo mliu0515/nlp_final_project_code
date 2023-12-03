@@ -1,0 +1,13 @@
+Male Descriptors: Words with positive connotations: beautiful, greater, spiritual, gentle, dear, comfortable, altruistic, affluent. Words with negative connotations: stray, ravenous, faded, humdrum, black. Additional descriptions: This category contains a mix of positive and negative descriptors, although the majority tend towards a positive depiction. 
+
+Female Descriptors: Words with positive connotations: young, keen, altruistic, sure, comfortable, beautiful, affluent, Persian. Words with negative connotations: waning, faded, humdrum, black. Additional descriptions: This category leans more towards positive traits, with a few negative descriptors interspersed.
+
+White Descriptors: Words with positive connotations: youthful, untouched, prosperous, beautiful, altruistic, comfortable, affluent. Words with negative connotations: red, black, humdrum, faded. Additional descriptions: The descriptors for the category 'white' are largely positive, with an emphasis on youth, prosperity and beauty.
+
+Non-white Descriptors: Words with positive connotations: nimble, insightful, affluent, wealthy, beautiful, comfortable. Words with negative connotations: black, humdrum, faded. Additional descriptions: The descriptors for the 'non-white' category mainly have positive connotations, suggesting a positive depiction in this work.
+
+Rich Descriptors: Words with positive connotations: immense, affluent, altruistic, beautiful, comfortable, insightful. Words with negative connotations: humdrum, faded, black. Additional descriptions: Mostly, the descriptors used for the 'rich' category are positive, indicating a generally favorable depiction.
+
+Poor Descriptors: Words with positive connotations: loyal, gentle, stronger, beautiful, altruistic, affluent, Persian. Words with negative connotations: humdrum, black, faded. Additional descriptions: The category 'poor' includes a balance of positive and negative descriptors, but the term 'skyscraper' is peculiar and makes it difficult to determine the context for its usage.
+
+Overall Analysis: The descriptors used in this work generally lean towards positive connotations, suggesting a more favorable view towards all categories. However, it's noticeable that certain negative descriptors, such as 'black' and 'faded,' are reused across multiple groups, which may indicate some underlying biases in the text. Additionally, the luxury terms associated with the 'poor' category may indicate a romanticized or unrealistic portrayal of poverty. Overall, an in-depth evaluation of the full context these descriptors are used in would be required to fully understand any potential bias.

@@ -1,0 +1,695 @@
+{
+    "Pride and Prejudice": {
+        "url": "https://www.gutenberg.org/ebooks/1342.txt.utf-8",
+        "author": " Jane Austen",
+        "bias_type": " gender bias",
+        "description": "\"This novel illustrates gender bias through its exploration of the limited roles and expectations of women in the early 19th century. Women are often seen as commodities whose value is tied to marriage and their social standing",
+        "first_sentence": "As Elizabeth had no longer any interest of her own to pursue, she turned her attention almost entirely on her sister and Mr. Bingley."
+    },
+    "Great Expectations": {
+        "url": "https://www.gutenberg.org/ebooks/1400.txt.utf-8",
+        "author": " Charles Dickens",
+        "bias_type": " class bias",
+        "description": "Dickens critiques class bias by following Pip's misguided aspirations for social advancement and the realization that wealth and class do not necessarily equate to virtue or happiness.",
+        "first_sentence": "\"By degrees he fell to reposing such great confidence in me, as to ask my advice in reference to his own affairs.\""
+    },
+    "Jane Eyre": {
+        "url": "https://www.gutenberg.org/ebooks/1260.txt.utf-8",
+        "author": " Charlotte Bronte",
+        "bias_type": " gender and class bias",
+        "description": "\"Bronte challenges gender and class bias by presenting Jane as an independent and moral character who strives for personal freedom and equality",
+        "first_sentence": "Impatiently I waited for evening, when I might summon you to my presence."
+    },
+    "Wuthering Heights": {
+        "url": "https://www.gutenberg.org/ebooks/768.txt.utf-8",
+        "author": " Emily Bronte",
+        "bias_type": " class bias",
+        "description": "\"Through the tumultuous relationship between Catherine and Heathcliff",
+        "first_sentence": "1801—I have just returned from a visit to my landlord—the solitary neighbour that I shall be troubled with. This is certainly a beautiful country!"
+    },
+    "The Adventures of Huckleberry Finn": {
+        "url": "https://www.gutenberg.org/ebooks/76.txt.utf-8",
+        "author": " Mark Twain",
+        "bias_type": " racial bias",
+        "description": "\"Twain confronts racial bias by depicting the journey of Huck and the enslaved Jim",
+        "first_sentence": "Col. Grangerford was a gentleman, you see."
+    },
+    "Uncle Tom's Cabin": {
+        "url": "https://www.gutenberg.org/ebooks/203.txt.utf-8",
+        "author": " Harriet Beecher Stowe",
+        "bias_type": " racial bias",
+        "description": "\"Stowe's novel is a powerful indictment of the racial bias inherent in the institution of slavery",
+        "first_sentence": "\"O, yes, to be sure, the question is,\u2014and a deuce of a question it is! How came you in this state of sin and misery?\""
+    },
+    "Mansfield Park": {
+        "url": "https://www.gutenberg.org/ebooks/141.txt.utf-8",
+        "author": " Jane Austen",
+        "bias_type": " class bias",
+        "description": "\"Austen addresses class bias through Fanny Price's experiences at Mansfield Park",
+        "first_sentence": "Sir Thomas, poor Sir Thomas, a parent, and conscious of errors in his own conduct as a parent, was the longest to suffer."
+    },
+    "Bleak House": {
+        "url": "https://www.gutenberg.org/ebooks/1023.txt.utf-8",
+        "author": " Charles Dickens",
+        "bias_type": " class bias",
+        "description": "\"Dickens exposes class bias and the inequities of the British legal system",
+        "first_sentence": "It was one of those delightfully irregular houses where you go up and down steps out of one room into another."
+    },
+    "The Scarlet Letter": {
+        "url": "https://www.gutenberg.org/ebooks/33.txt.utf-8",
+        "author": " Nathaniel Hawthorne",
+        "bias_type": " gender bias",
+        "description": "\"Hawthorne explores gender bias in Puritan society by portraying the public shaming and punishment of Hester Prynne for her adultery",
+        "first_sentence": "\"The father of the Custom-House\u2014the patriarch, not only of this little squad of officials, but, I am bold to say, of the respectable body of tide-waiters all over the United States\u2014was a certain permanent Inspector.\""
+    },
+    "Moby-Dick": {
+        "url": "https://www.gutenberg.org/ebooks/2701.txt.utf-8",
+        "author": " Herman Melville",
+        "bias_type": " class bias",
+        "description": "\"Melville's epic delves into class bias through the hierarchy on the Pequod",
+        "first_sentence": "\"In his infallible wake, though; but follow that wake, that's all.\""
+    },
+    "North and South": {
+        "url": "https://www.gutenberg.org/ebooks/4276.txt.utf-8",
+        "author": " Elizabeth Gaskell",
+        "bias_type": " class bias",
+        "description": "\"Gaskell confronts class bias by comparing the industrial North and the genteel South of England",
+        "first_sentence": "Romance of King Arthur."
+    },
+    "Oliver Twist": {
+        "url": "https://www.gutenberg.org/ebooks/730.txt.utf-8",
+        "author": " Charles Dickens",
+        "bias_type": " class and economic bias",
+        "description": "\"Dickens reveals class and economic biases by depicting the stark contrasts between the destitute orphan Oliver and the various levels of society",
+        "first_sentence": "\"It was fortunate for her that the possession of money occasioned him so much employment next day in the way of eating and drinking; and withal had so beneficial an effect in smoothing down the asperities of his temper; that he had neither time nor inclination to be very critical upon her behaviour and deportment.\""
+    },
+    "The Picture of Dorian Gray": {
+        "url": "https://www.gutenberg.org/ebooks/174.txt.utf-8",
+        "author": " Oscar Wilde",
+        "bias_type": " class bias",
+        "description": "\"Wilde criticizes class bias through the decadent and superficial London society that values beauty and youth above morality",
+        "first_sentence": "\"Such, at any rate, was Dorian Gray's opinion.\""
+    },
+    "Emma": {
+        "url": "https://www.gutenberg.org/ebooks/158.txt.utf-8",
+        "author": " Jane Austen",
+        "bias_type": " gender and class bias",
+        "description": "\"In this novel",
+        "first_sentence": "\"The party was rather large, as it included one other family, a proper unobjectionable country family, whom the Coles had the advantage of naming among their acquaintance, and the male part of Mr. Cox\u2019s family, the lawyer of Highbury.\""
+    },
+    "The Mayor of Casterbridge": {
+        "url": "https://www.gutenberg.org/ebooks/143.txt.utf-8",
+        "author": " Thomas Hardy",
+        "bias_type": " class bias",
+        "description": "\"The story revolves around a man who rises to prominence in a small town",
+        "first_sentence": "\"To Elizabeth-Jane the time was a most triumphant one.\""
+    },
+    "Heart of Darkness": {
+        "url": "https://www.gutenberg.org/ebooks/219.txt.utf-8",
+        "author": " Joseph Conrad",
+        "bias_type": " racial bias",
+        "description": "\"This novella exposes racial biases through the eyes of European colonizers in Africa",
+        "first_sentence": "\"I laid the ghost of his gifts at last with a lie,\" he began, suddenly."
+    },
+    "Sister Carrie": {
+        "url": "https://www.gutenberg.org/cache/epub/5267/pg5267.txt",
+        "author": " Theodore Dreiser",
+        "bias_type": " class and gender bias",
+        "description": "\"The narrative follows a young woman's ascent from rural obscurity to the bustling city",
+        "first_sentence": "In the city, at that time, there were a number of charities similar in nature to that of the captain's, which Hurstwood now patronised in a like unfortunate way."
+    },
+    "The Jungle": {
+        "url": "https://www.gutenberg.org/files/6556/6556-readme.txt",
+        "author": " Upton Sinclair",
+        "bias_type": " class and economic bias",
+        "description": "\"The book is an expos\u00e9 of the harsh conditions faced by immigrants and the working class in early 20th-century America",
+        "first_sentence": "It was four o’clock when the ceremony was over and the carriages beganto arrive."
+    },
+    "A Room with a View": {
+        "url": "https://www.gutenberg.org/ebooks/2641.txt.utf-8",
+        "author": " E.M. Forster",
+        "bias_type": " class and gender bias",
+        "description": "\"The story depicts a young woman's struggle with the restrictive social conventions of Edwardian England",
+        "first_sentence": "Miss Bartlett burst into florid gratitude."
+    },
+    "Tess of the d'Urbervilles": {
+        "url": "https://www.gutenberg.org/cache/epub/110/pg110.txt",
+        "author": " Thomas Hardy",
+        "bias_type": " gender and class bias",
+        "description": "\"This narrative details the downfall of a young woman due to the prevailing class and gender prejudices of Victorian society",
+        "first_sentence": "\"Oh yes; there's nothing like a fiddle,\" said the dairyman."
+    },
+    "The House of Mirth": {
+        "url": "https://www.gutenberg.org/files/9280/9280-readme.txt",
+        "author": " Edith Wharton",
+        "bias_type": " class and gender bias",
+        "description": "\"Through the experiences of its protagonist",
+        "first_sentence": "Selden paused in surprise."
+    },
+    "The Awakening": {
+        "url": "https://www.gutenberg.org/ebooks/160.txt.utf-8",
+        "author": " Kate Chopin",
+        "bias_type": " gender bias",
+        "description": "\"The book addresses the struggle of a woman against the societal expectations of the late 19th century",
+        "first_sentence": "Mr. Pontellier, unable to read his newspaper with any degree of comfort, arose with an expression and an exclamation of disgust."
+    },
+    "The Call of the Wild": {
+        "url": "https://www.gutenberg.org/ebooks/215.txt.utf-8",
+        "author": " Jack London",
+        "bias_type": " class bias",
+        "description": "\"The novel portrays the domestication of a previously free animal",
+        "first_sentence": "Buck did not read the newspapers, or he would have known that trouble was brewing, not alone for himself, but for every tide-water dog, strong of muscle and with warm, long hair, from Puget Sound to San Diego."
+    },
+    "Ethan Frome": {
+        "url": "https://www.gutenberg.org/ebooks/4517.txt.utf-8",
+        "author": " Edith Wharton",
+        "bias_type": " class bias",
+        "description": "\"Set in a bleak New England winter",
+        "first_sentence": "He felt all the more sorry for the girl because misfortune had, in a sense, indentured her to them."
+    },
+    "The Red Badge of Courage": {
+        "url": "https://www.gutenberg.org/ebooks/73.txt.utf-8",
+        "author": " Stephen Crane",
+        "bias_type": " class bias",
+        "description": "\"The story",
+        "first_sentence": "Once a certain tall soldier developed virtues and went resolutely to wash a shirt."
+    },
+    "An Outcast of the Islands": {
+        "url": "https://www.gutenberg.org/ebooks/638.txt.utf-8",
+        "author": " Joseph Conrad",
+        "bias_type": " racial bias",
+        "description": "\"The plot explores racial bias through the downfall of a Western man in an Eastern setting",
+        "first_sentence": "\"Of course, I did not see that. I told you I was stuck in the creek on account of father's--Captain Lingard's--susceptible temper.\""
+    },
+    "The Secret Garden": {
+        "url": "https://www.gutenberg.org/ebooks/113.txt.utf-8",
+        "author": " Frances Hodgson Burnett",
+        "bias_type": " class bias",
+        "description": "\"This children's novel subtly critiques class distinctions through the transformation of a neglected garden and the blossoming friendships across classes",
+        "first_sentence": "When Mary Lennox was sent to Misselthwaite Manor to live with her uncle everybody said she was the most disagreeable-looking child ever seen. It was true, too."
+    },
+    "Sons and Lovers": {
+        "url": "https://www.gutenberg.org/ebooks/217.txt.utf-8",
+        "author": " D.H. Lawrence",
+        "bias_type": " class bias",
+        "description": "\"The book examines the influence of class on relationships and aspirations in early 20th-century England",
+        "first_sentence": "Her great companion was her mother."
+    },
+    "Women in Love": {
+        "url": "https://www.gutenberg.org/ebooks/4240.txt.utf-8",
+        "author": " D.H. Lawrence",
+        "bias_type": " gender bias",
+        "description": "\"The novel scrutinizes the constraints placed on women in post-Victorian England",
+        "first_sentence": "\"His body was slight and unformed, like a boy's, but his voice was mature, sardonic, its movement had the flexibility of essential energy, and of a mocking penetrating understanding.\""
+    },
+    "Howard's End": {
+        "url": "https://www.gutenberg.org/ebooks/2891.txt.utf-8",
+        "author": " E.M. Forster",
+        "bias_type": " class bias",
+        "description": "\"This narrative delves into the class distinctions and conflicts of early 20th-century England",
+        "first_sentence": "One may as well begin with Helen’s letters to her sister."
+    },
+    "The Age of Innocence": {
+        "url": "https://www.gutenberg.org/ebooks/541.txt.utf-8",
+        "author": " Edith Wharton",
+        "bias_type": " class bias",
+        "description": "\"The return to the pre-war New York high society",
+        "first_sentence": "The case of the Countess Olenska had stirred up old settled convictions and set them drifting dangerously through his mind."
+    },
+    "Dubliners": {
+        "url": "https://www.gutenberg.org/ebooks/2814.txt.utf-8",
+        "author": " James Joyce",
+        "bias_type": " class bias",
+        "description": "\"The collection of short stories vividly paints the stratification of Irish society",
+        "first_sentence": "\"I wished to go in and look at him but I had not the courage to knock.\""
+    },
+    "A Portrait of the Artist as a Young Man": {
+        "url": "https://www.gutenberg.org/ebooks/4217.txt.utf-8",
+        "author": " James Joyce",
+        "bias_type": " class bias",
+        "description": "\"Through the experiences of a young artist",
+        "first_sentence": "Well, I suppose that doesn't interest you,"
+    },
+    "The Good Soldier": {
+        "url": "https://www.gutenberg.org/ebooks/367.txt.utf-8",
+        "author": " Ford Madox Ford",
+        "bias_type": " class and gender bias",
+        "description": "\"Set in the social milieu of the British upper class",
+        "first_sentence": "\"I was delighted, for my part, that the vicissitudes and dangers of the Miranda, in a rocky channel, should have given me this opportunity to make acquaintance with an old fisherman to whom I had never spoken.\""
+    },
+    "The Thirty-Nine Steps": {
+        "url": "https://www.gutenberg.org/ebooks/558.txt.utf-8",
+        "author": " John Buchan",
+        "bias_type": " class bias",
+        "description": "\"The protagonist's adventures reveal the British class system",
+        "first_sentence": "I returned from the City about three o’clock on that May afternoon pretty well disgusted with life."
+    },
+    "Of Human Bondage": {
+        "url": "https://www.gutenberg.org/ebooks/351.txt.utf-8",
+        "author": " W. Somerset Maugham",
+        "bias_type": " class bias",
+        "description": "\"The protagonist's life",
+        "first_sentence": "\"Flanagan, though he was the most scatter-brained person in the world, had a tenderness of heart which was unexpected and charming.\""
+    },
+    "The Rainbow": {
+        "url": "https://www.gutenberg.org/ebooks/217.txt.utf-8",
+        "author": " D.H. Lawrence",
+        "bias_type": " class and gender bias",
+        "description": "\"Spanning generations",
+        "first_sentence": "Her great companion was her mother."
+    },
+    "My Antonia": {
+        "url": "https://www.gutenberg.org/ebooks/242.txt.utf-8",
+        "author": " Willa Cather",
+        "bias_type": " class and racial bias",
+        "description": "\"The immigrant experience in the American West is depicted",
+        "first_sentence": "He was born in the Far South, on the d\u2019Arnault plantation, where the spirit if not the fact of slavery persisted."
+    },
+    "O Pioneers!": {
+        "url": "https://www.gutenberg.org/ebooks/24.txt.utf-8",
+        "author": " Willa Cather",
+        "bias_type": " class bias",
+        "description": "\"The novel examines the challenges of pioneering life in the American West",
+        "first_sentence": "Frank's case was all the more painful because he had no one in particular to fix his jealousy upon."
+    },
+    "The Sea-Hawk": {
+        "url": "https://www.gutenberg.org/ebooks/32954.txt.utf-8",
+        "author": " Rafael Sabatini",
+        "bias_type": " class bias",
+        "description": "\"In this swashbuckling adventure",
+        "first_sentence": "Hatch and Sir Oliver discussed together for awhile their altered situation."
+    },
+    "Siddhartha": {
+        "url": "https://www.gutenberg.org/ebooks/2500.txt.utf-8",
+        "author": " Hermann Hesse",
+        "bias_type": " racial and class bias",
+        "description": "The spiritual journey of the protagonist through different social strata in India reflects both class division and racial tensions as he seeks enlightenment.",
+        "first_sentence": "\"With a gloomy mind, Siddhartha went to the pleasure-garden he owned, locked the gate, sat down under a mango-tree, felt death in his heart and horror in his chest, sat and sensed how everything died in him, withered in him, came to an end in him.\""
+    },
+    "Main Street": {
+        "url": "https://www.gutenberg.org/ebooks/543.txt.utf-8",
+        "author": " Sinclair Lewis",
+        "bias_type": " class bias",
+        "description": "\"The critique of small-town America showcases class prejudice",
+        "first_sentence": "Ezra Stowbody was a troglodyte."
+    },
+    "Babbitt": {
+        "url": "https://www.gutenberg.org/ebooks/1156.txt.utf-8",
+        "author": " Sinclair Lewis",
+        "bias_type": " class bias",
+        "description": "\"The satire of American middle-class life reveals the hollow pursuit of material wealth and social status",
+        "first_sentence": "\"They talked to the secretary of the Zenith Foundry Company about an interesting artistic project--a cast-iron fence for Linden Lane Cemetery.\""
+    },
+    "The Great Gatsby": {
+        "url": "https://www.gutenberg.org/ebooks/64317.txt.utf-8",
+        "author": " F. Scott Fitzgerald",
+        "bias_type": " class/racial/gender bias",
+        "description": "\"The opulence of the Jazz Age thinly veils deep-seated class divisions",
+        "first_sentence": "In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since."
+    },
+    "This Side of Paradise": {
+        "url": "https://www.gutenberg.org/ebooks/805.txt.utf-8",
+        "author": " F. Scott Fitzgerald",
+        "bias_type": " class bias",
+        "description": "\"The bildungsroman portrays the struggle of a young man from an affluent background against the expectations of high society",
+        "first_sentence": "Down-stairs, in the club's great room, she was surrounded for a moment by the girls she had met in the afternoon, then she heard Sally's voice repeating a cycle of names, and found herself bowing to a sextet of black and white, terribly stiff, vaguely familiar figures.\""
+    },
+    "A Passage to India": {
+        "url": "https://www.gutenberg.org/ebooks/6768.txt.utf-8",
+        "author": " E.M. Forster",
+        "bias_type": " racial and class bias",
+        "description": "\"Set against the backdrop of the British Raj",
+        "first_sentence": "Mr Warden ambled home, very happy and contented."
+    },
+    "The Sun Also Rises": {
+        "url": "https://www.gutenberg.org/ebooks/4517.txt.utf-8",
+        "author": " Ernest Hemingway",
+        "bias_type": " class and gender bias",
+        "description": "\"The Lost Generation\u2019s search for meaning post-World War I is set against a backdrop of gender norms and class distinctions in Europe",
+        "first_sentence": "He felt all the more sorry for the girl because misfortune had, in a sense, indentured her to them."
+    },
+    "The Beautiful and Damned": {
+        "url": "https://www.gutenberg.org/ebooks/690.txt.utf-8",
+        "author": " F. Scott Fitzgerald",
+        "bias_type": " class bias",
+        "description": "The fall of a couple who aspires to high society reveals the shallow allure and ultimate despair of the American aristocracy in the 1920s.",
+        "first_sentence": "The labor movement in America has been characterized on both sides by very great violence."
+    },
+    "Gone with the Wind": {
+        "url": "https://www.gutenberg.org/ebooks/1063.txt.utf-8",
+        "author": " Margaret Mitchell",
+        "bias_type": " racial and class bias",
+        "description": "\"The Old South\u2019s class and racial inequalities are dramatized through the experiences of the Southern gentry and the people they enslave",
+        "first_sentence": "The thousand injuries of Fortunato I had borne as I best could, but when he ventured upon insult, I vowed revenge."
+    },
+    "Native Son": {
+        "url": "https://www.gutenberg.org/ebooks/61262.txt.utf-8",
+        "author": " Richard Wright",
+        "bias_type": " racial bias",
+        "description": "\"The racial dynamics and injustices of 1930s America are portrayed through the life of an African American man",
+        "first_sentence": "Crabtree Manor, in spite of its name, is really only an old farmhouse."
+    },
+    "To Kill a Mockingbird": {
+        "url": "https://www.gutenberg.org/ebooks/174.txt.utf-8",
+        "author": " Harper Lee",
+        "bias_type": " racial bias",
+        "description": "\"The racial injustices of the Deep South in the 1930s are seen through the trial of a black man wrongfully accused of raping a white woman",
+        "first_sentence": "\"Such, at any rate, was Dorian Gray's opinion.\""
+    },
+    "The Color Purple": {
+        "url": "https://www.gutenberg.org/ebooks/175.txt.utf-8",
+        "author": " Alice Walker",
+        "bias_type": " racial and gender bias",
+        "description": "\"The novel confronts racial and gender oppression in the early 20th-century American South",
+        "first_sentence": "Erik was born in a small town not far from Rouen."
+    },
+    "Invisible Man": {
+        "url": "https://www.gutenberg.org/ebooks/61771.txt.utf-8",
+        "author": " Ralph Ellison",
+        "bias_type": " racial bias",
+        "description": "The experiences of an African American man navigating a society blinded by racial prejudice highlight the struggle for identity against the invisibility imposed by systemic racism.",
+        "first_sentence": "Our world to-day is not so conceived."
+    },
+    "Beloved": {
+        "url": "https://www.gutenberg.org/ebooks/61772.txt.utf-8",
+        "author": " Toni Morrison",
+        "bias_type": " racial and gender bias",
+        "description": "\"Through the horrors of slavery and its legacy",
+        "first_sentence": "Le conseil estime que la question propos\u00e9e souffre de grandes difficult\u00e9s."
+    },
+    "Little Women": {
+        "url": "https://www.gutenberg.org/ebooks/514.txt.utf-8",
+        "author": " Louisa May Alcott",
+        "bias_type": " gender bias",
+        "description": "\"Set in the 19th-century American context",
+        "first_sentence": "It never was a fashionable school, and the Professor did not lay up a fortune, but it was just what Jo intended it to be\u2014\u2018a happy, homelike place for boys, who needed teaching, care, and kindness\u2019."
+    },
+    "The Grapes of Wrath": {
+        "url": "https://www.gutenberg.org/ebooks/1240.txt.utf-8",
+        "author": " John Steinbeck",
+        "bias_type": " class/economic bias",
+        "description": "\"The plight of rural American families during the Great Depression is depicted",
+        "first_sentence": "In writing THE PLAYBOY OF THE WESTERN WORLD, as in my other plays, I have used one or two words only that I have not heard among the country people of Ireland, or spoken in my own nursery before I could read the newspapers."
+    },
+    "A Tale of Two Cities": {
+        "url": "https://www.gutenberg.org/ebooks/98.txt.utf-8",
+        "author": " Charles Dickens",
+        "bias_type": " class bias",
+        "description": "\"The stark divisions between the French aristocracy and the common people are at the heart of the novel",
+        "first_sentence": "I made the patient swallow, with great difficulty, and after many efforts, the dose that I desired to give."
+    },
+    "David Copperfield": {
+        "url": "https://www.gutenberg.org/ebooks/766.txt.utf-8",
+        "author": " Charles Dickens",
+        "bias_type": " class bias",
+        "description": "\"The journey of a young man from a humble upbringing to success",
+        "first_sentence": "\"Third. And last. I am now in a condition to show, by--HEEP'S--false books, and--HEEP'S--real memoranda, beginning with the partially destroyed pocket-book (which I was unable to comprehend, at the time of its accidental discovery by Mrs. Micawber, on our taking possession of our present abode, in the locker or bin devoted to the reception of the ashes calcined on our domestic hearth),\""
+    },
+    "Madame Bovary": {
+        "url": "https://www.gutenberg.org/ebooks/2413.txt.utf-8",
+        "author": " Gustave Flaubert",
+        "bias_type": " gender bias",
+        "description": "\"The societal constraints and double standards faced by women in 19th-century France are explored",
+        "first_sentence": "\"At last it came, the famous agricultural show.\""
+    },
+    "Far from the Madding Crowd": {
+        "url": "https://www.gutenberg.org/ebooks/107.txt.utf-8",
+        "author": " Thomas Hardy",
+        "bias_type": " gender bias",
+        "description": "\"The gender expectations and societal limitations of rural Victorian society are explored as the female protagonist navigates love",
+        "first_sentence": "The maltster cleared his throat in an exaggerated form for emphasis, and elongating his gaze to the remotest point of the ashpit, said, in the slow speech justifiable when the importance of a subject is so generally felt that any mannerism must be tolerated in getting at it, \"Well, I don't mind the year I were born in, but perhaps I can reckon up the places I've lived at, and so get it that way.\""
+    },
+    "The Turn of the Screw": {
+        "url": "https://www.gutenberg.org/ebooks/209.txt.utf-8",
+        "author": " Henry James",
+        "bias_type": " class bias",
+        "description": "The gothic tale weaves in the themes of social hierarchy as a governess confronts the mysterious circumstances of her employment and the societal position that comes with it.",
+        "first_sentence": "It was all very well to join them, but speaking to them proved quite as much as ever an effort beyond my strength\u2014offered, in close quarters, difficulties as insurmountable as before."
+    },
+    "Nostromo": {
+        "url": "https://www.gutenberg.org/ebooks/202.txt.utf-8",
+        "author": " Joseph Conrad",
+        "bias_type": " class/racial bias",
+        "description": "\"The tale depicts a South American silver mining town",
+        "first_sentence": "I may be asked, why I am so anxious to bring this subject before the British public\u2014why I do not confine my efforts to the United States?"
+    },
+    "Lady Chatterley's Lover": {
+        "url": "https://www.gutenberg.org/ebooks/4232.txt.utf-8",
+        "author": " D.H. Lawrence",
+        "bias_type": " class/gender bias",
+        "description": "The inter-class relationships and the scandal of an affair between an aristocratic woman and a working-class man challenge the strict social codes of post-World War I England.",
+        "first_sentence": "\"I know of no book which has come down to us with grander pretensions than this, and it is so impersonal and sincere that it is never offensive nor ridiculous.\""
+    },
+    "The House of the Seven Gables": {
+        "url": "https://www.gutenberg.org/ebooks/77.txt.utf-8",
+        "author": " Nathaniel Hawthorne",
+        "bias_type": " class bias",
+        "description": "The cursed family dynasty and their once-grand ancestral home become metaphors for the decline of the old social order and the rise of a new class consciousness.",
+        "first_sentence": "It being her first day of complete estrangement from rural objects, Ph\u0153be found an unexpected charm in this little nook of grass, and foliage, and aristocratic flowers, and plebeian vegetables."
+    },
+    "Middlemarch": {
+        "url": "https://www.gutenberg.org/ebooks/145.txt.utf-8",
+        "author": " George Eliot",
+        "bias_type": " gender/class bias",
+        "description": "\"The complexities of social hierarchy and gender issues in a provincial town are navigated through a rich tapestry of characters",
+        "first_sentence": "It was true, she said to herself, that Mr. Casaubon had a debt to the Ladislaws\u2014that he had to pay back what the Ladislaws had been wronged of."
+    },
+    "Anna Karenina": {
+        "url": "https://www.gutenberg.org/ebooks/1399.txt.utf-8",
+        "author": " Leo Tolstoy",
+        "bias_type": " gender/class bias",
+        "description": "\"The tale of love and adultery within the Russian aristocracy dissects the intricacies of gender roles and class distinctions",
+        "first_sentence": "Happy families are all alike; every unhappy family is unhappy in its own way."
+    },
+    "The Kreutzer Sonata": {
+        "url": "https://www.gutenberg.org/ebooks/689.txt.utf-8",
+        "author": " Leo Tolstoy",
+        "bias_type": " gender bias",
+        "description": "\"The novella presents a scathing critique of marital relations",
+        "first_sentence": "\"The old man coughed and continued: \u201cDo you think Christ thought us wicked? Did he not die that we might be saved?\u201d"
+    },
+    "The Bostonians": {
+        "url": "https://www.gutenberg.org/ebooks/177.txt.utf-8",
+        "author": " Henry James",
+        "bias_type": " gender bias",
+        "description": "\"The exploration of women's rights and the struggle for personal independence is set against the backdrop of a conservative society",
+        "first_sentence": "In that uninitiated observation of the great spectacle of English life upon which I have touched, it might be supposed that Newman passed a great many dull days."
+    },
+    "The Woman in White": {
+        "url": "https://www.gutenberg.org/ebooks/583.txt.utf-8",
+        "author": " Wilkie Collins",
+        "bias_type": " gender bias",
+        "description": "\"The sensation novel delves into issues of identity and insanity",
+        "first_sentence": "\"In his hand, the golden Papa has a letter; and after he has made his excuse for disturbing us in our Infernal Region with the common mortal Business of the house, he addresses himself to the three young Misses, and begins, as you English begin everything in this blessed world that you have to say, with a great O.\""
+    },
+    "The Princess and the Goblin": {
+        "url": "https://www.gutenberg.org/ebooks/34339.txt.utf-8",
+        "author": " George MacDonald",
+        "bias_type": " class bias",
+        "description": "\"The fairy tale narrative subtly critiques class distinctions",
+        "first_sentence": "There was once a little princess whose father was king over a great country full of mountains and valleys."
+    },
+    "The Iron Heel": {
+        "url": "https://www.gutenberg.org/ebooks/1164.txt.utf-8",
+        "author": " Jack London",
+        "bias_type": " class/economic bias",
+        "description": "\"The dystopian novel depicts the struggle between the working class and the oligarchy",
+        "first_sentence": "\"This delicate, aristocratic-featured gentleman was a dummy director and a tool of corporations that secretly robbed widows and orphans.\""
+    },
+    "Dracula": {
+        "url": "https://www.gutenberg.org/ebooks/345.txt.utf-8",
+        "author": " Bram Stoker",
+        "bias_type": " class/gender bias",
+        "description": "\"The classic horror story",
+        "first_sentence": "1 November.--All day long we have travelled, and at a good speed."
+    },
+    "The Secret Agent": {
+        "url": "https://www.gutenberg.org/ebooks/974.txt.utf-8",
+        "author": " Joseph Conrad",
+        "bias_type": " class bias",
+        "description": "\"This novel's portrayal of a plot of anarchism in London explores the dark underbelly of society",
+        "first_sentence": "\"This opinion had nothing to recommend it but the general consent of mankind.\""
+    },
+    "Armadale": {
+        "url": "https://www.gutenberg.org/ebooks/3600.txt.utf-8",
+        "author": " Wilkie Collins",
+        "bias_type": " gender/class bias",
+        "description": "\"The complex social dynamics of inheritance and marriage in the Victorian era are dissected",
+        "first_sentence": "When we say that the infinity of ages, as well past as to come, are but one instant with God; that his goodness, wisdom, and power are the same with his essence; our mouths speak it, but our understandings apprehend it not; and yet, such is our vain opinion of ourselves, that we must make the Divinity to pass through our sieve; and thence proceed all the dreams and errors with which the world abounds, whilst we reduce and weigh in our balance a thing so far above our poise."
+    },
+    "The Tenant of Wildfell Hall": {
+        "url": "https://www.gutenberg.org/ebooks/969.txt.utf-8",
+        "author": " Anne Bront\u00c3\u00ab",
+        "bias_type": " gender bias",
+        "description": "The protagonist's struggles to assert her independence and the right to personal happiness challenge the restrictive gender norms of the Victorian era.",
+        "first_sentence": "My father, as you know, was a sort of gentleman farmer in ——shire;"
+    },
+    "Cranford": {
+        "url": "https://www.gutenberg.org/ebooks/394.txt.utf-8",
+        "author": " Elizabeth Gaskell",
+        "bias_type": " class bias",
+        "description": "The quiet English village setting serves as a microcosm for examining the subtleties of class distinction and the roles of women in a society constrained by rigid social structures.",
+        "first_sentence": "\"I received two Cranford letters on one auspicious October morning.\""
+    },
+    "Germinal": {
+        "url": "https://www.gutenberg.org/ebooks/798.txt.utf-8",
+        "author": " \u00c3\u2030mile Zola",
+        "bias_type": " class/economic bias",
+        "description": "The harsh realities of coal miners' lives and their battle against the ruling class for better living and working conditions are vividly depicted in the narrative of a workers' strike.",
+        "first_sentence": "La petite ville de Verrières peut passer pour l'une des plus jolies de la Franche-Comté."
+    },
+    "The Blithedale Romance": {
+        "url": "https://www.gutenberg.org/ebooks/208.txt.utf-8",
+        "author": " Nathaniel Hawthorne",
+        "bias_type": " class/gender bias",
+        "description": "The utopian community experiment unravels as the novel explores the intersections of idealism with the persistent realities of class distinctions and gender roles.",
+        "first_sentence": "\"Daisy evidently had a natural talent for performing introductions; she mentioned the name of each of her companions to the other.\""
+    },
+    "The American": {
+        "url": "https://www.gutenberg.org/ebooks/177.txt.utf-8",
+        "author": " Henry James",
+        "bias_type": " class bias",
+        "description": "\"Through the experiences of an American expatriate in Europe",
+        "first_sentence": "\"In that uninitiated observation of the great spectacle of English life upon which I have touched, it might be supposed that Newman passed a great many dull days.\""
+    },
+    "Washington Square": {
+        "url": "https://www.gutenberg.org/ebooks/2870.txt.utf-8",
+        "author": " Henry James",
+        "bias_type": " gender/class bias",
+        "description": "\"The narrative dissects the dynamics of wealth",
+        "first_sentence": "He never asked her whether she had seen Morris again, because he was sure that if this had been the case she would tell him."
+    },
+    "The Wings of the Dove": {
+        "url": "https://www.gutenberg.org/cache/epub/29452/pg29452.txt",
+        "author": " Henry James",
+        "bias_type": " class/gender bias",
+        "description": "\"The interplay of wealth",
+        "first_sentence": "In the year 1860, the reputation of Doctor Wybrow as a London physician reached its highest point."
+    },
+    "Daisy Miller": {
+        "url": "https://www.gutenberg.org/ebooks/208.txt.utf-8",
+        "author": " Henry James",
+        "bias_type": " gender/class bias",
+        "description": "\"The exploration of transatlantic culture contrasts the American pursuit of wealth and status with European aristocratic norms",
+        "first_sentence": "\"Daisy evidently had a natural talent for performing introductions; she mentioned the name of each of her companions to the other.\""
+    },
+    "The Ambassadors": {
+        "url": "https://www.gutenberg.org/ebooks/283.txt.utf-8",
+        "author": " Henry James",
+        "bias_type": " class bias",
+        "description": "The protagonist's journey through the social ladder of Parisian and American societies uncovers the class prejudices and moral ambiguities that accompany the pursuit of a higher social standing.",
+        "first_sentence": "Anna drove to the chemist's for Owen's remedy."
+    },
+    "New Grub Street": {
+        "url": "https://www.gutenberg.org/cache/epub/1709/pg1709.txt",
+        "author": " George Gissing",
+        "bias_type": " class/economic bias",
+        "description": "\"The novel delves into the struggles of literary life in London",
+        "first_sentence": "As the Milvains sat down to breakfast the clock of Wattleborough parish church struck eight;"
+    },
+    "The Odd Women": {
+        "url": "https://www.gutenberg.org/ebooks/431.txt.utf-8",
+        "author": " George Gissing",
+        "bias_type": " gender/class bias",
+        "description": "\"The social dynamics of the late Victorian era are critiqued through the lives of women who defy the norms of marriage and domesticity",
+        "first_sentence": "\"In the evening after supper her father and mother left her and her brother August in charge, and took their usual stroll for exercise and for the profound delight of a look at their flat-houses.\""
+    },
+    "The Forsyte Saga": {
+        "url": "https://www.gutenberg.org/ebooks/325.txt.utf-8",
+        "author": " John Galsworthy",
+        "bias_type": " class/gender bias",
+        "description": "\"The multi-generational family drama dissects the social and moral implications of the class structure",
+        "first_sentence": "Cosmo himself could not have described what he felt."
+    },
+    "Sylvia's Lovers": {
+        "url": "https://www.gutenberg.org/cache/epub/4537/pg4537.txt",
+        "author": " Elizabeth Gaskell",
+        "bias_type": " gender bias",
+        "description": "\"The romantic entanglements amid the Napoleonic Wars reveal societal expectations of women",
+        "first_sentence": "Monkshaven was a name not unknown in the history of England, and traditions of its having been the landing-place of a throneless queen were current in the town."
+    },
+    "The Egoist": {
+        "url": "https://www.gutenberg.org/ebooks/444.txt.utf-8",
+        "author": " George Meredith",
+        "bias_type": " gender bias",
+        "description": "\"The satirical portrayal of Victorian marriage and courtship rituals highlights the inherent gender biases of the time",
+        "first_sentence": "You wish to strike articles of luxury; you take civilization at the wrong end."
+    },
+    "Ruth": {
+        "url": "https://www.gutenberg.org/cache/epub/4275/pg4275.txt",
+        "author": " Elizabeth Gaskell",
+        "bias_type": " gender bias",
+        "description": "The tale of a fallen woman in Victorian society exposes the harsh treatment and social exclusion faced by women who violate the era's stringent moral codes.",
+        "first_sentence": "It was curious to watch the young girls as they instantaneously availed themselves of Mrs Mason's absence."
+    },
+    "She": {
+        "url": "https://www.gutenberg.org/ebooks/3155.txt.utf-8",
+        "author": " H. Rider Haggard",
+        "bias_type": " racial/gender bias",
+        "description": "\"The novel portrays racial and gender biases through its depiction of a powerful ancient queen in Africa",
+        "first_sentence": "\"Yes, you. I have not studied you for two years for nothing.\""
+    },
+    "The Man Who Would Be King": {
+        "url": "https://www.gutenberg.org/ebooks/8147.txt.utf-8",
+        "author": " Rudyard Kipling",
+        "bias_type": " racial/class bias",
+        "description": "\"The story showcases racial and class biases by following two British adventurers who exploit the local population and their perceived superiority to establish a small kingdom in Afghanistan",
+        "first_sentence": "\"Next week they was all turning up the land in the valley as quiet as bees and much prettier, and the priests heard all the complaints and told Dravot in dumb show what it was about.\""
+    },
+    "Kim": {
+        "url": "https://www.gutenberg.org/ebooks/35555.txt.utf-8",
+        "author": " Rudyard Kipling",
+        "bias_type": " racial/class bias",
+        "description": "\"Set against the backdrop of British India",
+        "first_sentence": "\"Yea, my Soul went free, and, wheeling like an eagle, saw indeed that there was no Teshoo Lama nor any other soul.\""
+    },
+    "The History of Mr. Polly": {
+        "url": "https://www.gutenberg.org/ebooks/7308.txt.utf-8",
+        "author": " H.G. Wells",
+        "bias_type": " class bias",
+        "description": "\"The protagonist's dissatisfaction with his mundane life reflects the class biases of early 20th-century England",
+        "first_sentence": "He spent the afternoon exploring the premises of the Potwell Inn and learning the duties that might be expected of him."
+    },
+    "Kipps": {
+        "url": "https://www.gutenberg.org/ebooks/11563.txt.utf-8",
+        "author": " H.G. Wells",
+        "bias_type": " class bias",
+        "description": "\"The narrative follows a draper's assistant who suddenly inherits a fortune",
+        "first_sentence": "When the Lord Jesus said to Simon the Pharisee, \"Simon, I have somewhat to say unto thee;\" he answered, \"Master, say on!\""
+    },
+    "Ann Veronica": {
+        "url": "https://www.gutenberg.org/ebooks/524.txt.utf-8",
+        "author": " H.G. Wells",
+        "bias_type": " gender bias",
+        "description": "\"The novel tackles gender bias by chronicling a young woman's fight for independence and her desire to study science",
+        "first_sentence": "Ann Veronica took off her jacket and sat down in the corner chair."
+    },
+    "The War of the Worlds": {
+        "url": "https://www.gutenberg.org/ebooks/36.txt.utf-8",
+        "author": " H.G. Wells",
+        "bias_type": " class bias (implicit through colonialist metaphor)",
+        "description": "\"Through the allegory of an alien invasion",
+        "first_sentence": "No one would have believed in the last years of the nineteenth century that this world was being watched keenly and closely by intelligences greater than man's and yet as mortal as his own."
+    },
+    "Love and Mr Lewisham": {
+        "url": "https://www.gutenberg.org/cache/epub/11640/pg11640.txt",
+        "author": " H.G. Wells",
+        "bias_type": " class bias",
+        "description": "The story of a young science teacher's ambition and his journey through the educational class system of England highlights the limitations imposed by social class on personal and professional relationships.",
+        "first_sentence": "The opening chapter does not concern itself with Love--indeed that antagonist does not certainly appear until the third--and Mr. Lewisham is seen at his studies."
+    },
+    "The Invisible Man": {
+        "url": "https://www.gutenberg.org/ebooks/5230.txt.utf-8",
+        "author": " H.G. Wells",
+        "bias_type": " class bias",
+        "description": "\"Class bias is demonstrated through the tale of a scientist who",
+        "first_sentence": "The stranger came early in February, one wintry day, through a biting wind and a driving snow, the last snowfall of the year, over the down, walking from Bramblehurst railway station, and carrying a little black portmanteau in his thickly gloved hand."
+    },
+    "The Time Machine": {
+        "url": "https://www.gutenberg.org/ebooks/35.txt.utf-8",
+        "author": " H.G. Wells",
+        "bias_type": " class/economic bias",
+        "description": "\"The novella extrapolates class and economic divides into the distant future",
+        "first_sentence": "To judge from the size of the place, this Palace of Green Porcelain had a great deal more in it than a Gallery of Pal\u00e6ontology."
+    }
+}

@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['new', 'valuable', 'innocent', 'newfound', 'great', 'fresh'] 
+negative: ['poor', 'ordinary']
+neutral: ['small', 'solitary', 'intricate', 'nondescript', 'modest', 'material', 'little', 'intellect', 'insular', 'youthful', 'handy', 'familial']
+
+Female Descriptors:
+positive: ['strong', 'unknown', 'rare', 'unusual', 'bountiful', 'vivid', 'wealthy', 'innocent', 'youthful', 'humble'] 
+negative: ['distant']
+neutral: ['nondescript', 'revolving', 'modest', 'ordinary', 'material', 'little', 'intricate', 'intellect', 'insular']
+
+White Descriptors:
+positive: ['newfound', 'fresh', 'innocent', 'unique', 'familial', 'rich', 'youthful', 'humble'] 
+negative: ['apprehensive']
+neutral: ['uncharacteristic', 'rural', 'unreserved', 'usual', 'intricate', 'little', 'material', 'modest', 'new', 'intellect', 'insular']
+
+Non-white Descriptors:
+positive: ['best', 'conventional', 'great', 'handy', 'humble', 'young', 'adventurous', 'worldly', 'unknown', 'wealthy', 'vivacious'] 
+negative: ['underprivileged']
+neutral: ['youthful', 'material', 'tall', 'little', 'intricate', 'intellect', 'insular', 'innocent']
+
+Rich Descriptors:
+positive: ['unfathomable', 'colorful', 'unforgettable', 'humble', 'newfound', 'new', 'innocent', 'youthful', 'handy', 'great', 'fresh'] 
+negative: []
+neutral: ['little', 'wooden', 'ramble', 'insular', 'modest', 'material', 'intricate', 'intellect', 'ordinary']
+
+Poor Descriptors:
+positive: ['vivacious', 'intellect', 'humble', 'newfound', 'new', 'great', 'fresh'] 
+negative: ['quiet', 'poor', 'distant']
+neutral: ['broad-shouldered', 'nondescript', 'modest', 'material', 'little', 'intricate', 'insular', 'innocent', 'handy', 'familial']
+
+Overall Analysis: The task provides an insight into possible biases that may be prevailing in our society today. The words associated with 'male', 'white', and 'rich' categories are predominantly positive, depicting a positive bias towards these groups. The 'female', 'non-white', and 'poor' categories also have positive words but they are also mired with negative connotations, showcasing a possible negative bias. This pattern may reflect societal stereotypes prevailed in literature and warrants conscious rectification efforts.

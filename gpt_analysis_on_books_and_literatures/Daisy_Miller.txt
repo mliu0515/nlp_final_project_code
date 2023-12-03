@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['beautiful', 'brilliant', 'dear', 'good', 'nice', 'glad', 'splendid', 'light', 'possible', 'prettier', 'delicate'] 
+negative: ['poor','common']
+neutral: ['much', 'long', 'innocent', 'Italian', 'particular', 'interested', 'ten']
+
+Female Descriptors:
+positive: ['American', 'clever', 'able', 'right', 'young', 'cool', 'familiar'] 
+negative: ['small', 'disappointed', 'bad', 'different', 'defective']
+neutral: ['electronic', 'Winterbourne', 'least', 'silent', 'intimate', 'singular', 'derivative', 'eleven']
+
+White Descriptors:
+positive: ['young', 'pretty', 'exclusive', 'lovely', 'happy', 'pale', 'easy', 'following', 'elegant', 'pleased', 'bigger', 'sweet'] 
+negative: ['old', 'afraid', 'angry', 'terrible']
+neutral: ['stiff', 'public', 'personal', 'hundred']
+
+Non-white Descriptors:
+positive: ['good', 'handsome', 'agreeable', 'new', 'natural', 'delighted', 'safe'] 
+negative: ['little', 'thin', 'sorry', 'second'] 
+neutral: ['sure', 'several', 'last', 'American', 'sociable', 'German', 'fellow', 'numerous', 'previous']
+
+Rich Descriptors:
+positive: ['great', 'charming', 'real', 'proper', 'clear', 'finest', 'soft'] 
+negative: ['impossible', 'sudden', 'serious', 'unkind', 'guilty'] 
+neutral: ['many', 'certain', 'first', 'social', 'Gracious', 'third-rate', 'broad', 'third']
+
+Poor Descriptors:
+positive: ['better', 'best', 'full', 'pretty', 'large', 'free', 'pleasant', 'polite', 'striking']  
+negative: ['last', 'foreign', 'dreadful', 'uncultivated', 'short', 'low']
+neutral: ['quiet', 'mysterious', 'white', '“', 'sharp']
+
+Overall Analysis: The way words are grouped and assigned for each category suggests certain social biases in this work. The male descriptors are largely positive and neutral, while the words associated with females contain more negative terms. While the white descriptors are mostly positive, the non-white descriptors are a mix of positive, negative, and neutral. This could suggest a bias favouring males and people who are white. Furthermore, the descriptors for rich individuals are generally positive or neutral, with a few negative terms, while the terms associated with poor individuals are mixed with positive, negative, and neutral, perhaps indicating a bias favouring wealthier individuals.

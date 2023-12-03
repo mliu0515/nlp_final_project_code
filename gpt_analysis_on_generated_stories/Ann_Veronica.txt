@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['mutual', 'soft-spoken', 'keen', 'grand', 'gentle', 'lofty', 'cosy', 'perfect']
+negative: ['short', 'small', 'inconsistent', 'half-empty', 'black', 'economic']
+neutral: ['inexplicable', 'half-filled', 'divergent', 'different', 'concealed', '’']
+
+Female Descriptors:
+positive: ['warm', 'cosy', 'gentle', 'grand', 'lofty', 'keen', 'perfect']
+negative: ['unspoken', 'smallest', 'raw', 'inconsistent', 'half-empty', 'black', 'economic']
+neutral: ['inexplicable', 'half-filled', 'divergent', 'different', 'concealed', '’']
+
+White Descriptors:
+positive: ['wealthy', 'grand', 'gentle', 'keen', 'lofty', 'cosy', '’']
+negative: ['average', 'silent', 'poor', 'inconsistent', 'half-empty', 'black', 'economic']
+neutral: ['inexplicable', 'sharp', 'concealed', 'divergent', 'half-filled', 'different']
+
+Non-white Descriptors:
+positive: ['regular', 'polite', 'lofty', 'cosy', 'grand', 'gentle', 'perfect']
+negative: ['divergent', 'economic', 'mediocre', 'half-empty', 'inconsistent', 'black']
+neutral: ['’', 'half-filled', 'stubble', 'different', 'inexplicable', 'keen', 'concealed']
+
+Rich Descriptors:
+positive: ['grand', 'lofty', 'keen', 'gentle', 'mutual', 'perfect', 'wealthy']
+negative: ['inconsistent', 'half-empty', 'black', 'economic', 'mediocre']
+neutral: ['’', 'inexplicable', 'half-filled', 'divergent', 'different', 'cosy', 'concealed', 'small']
+
+Poor Descriptors:
+positive: ['perfect', 'cosy', 'gentle', 'grand', 'mutual']
+negative: ['steamed-up', 'mediocre', 'different', 'economic', 'black', 'inconsistent']
+neutral: ['similar', 'concealed', 'divergent', 'half-empty', 'half-filled', 'inexplicable', 'keen', 'lofty', '’']
+
+Overall Analysis: The list suggests that there might be a negative bias towards "black" and "economic", as they are consistently present in the negative section throughout. "Lofty" and "grand" seem to be positively associated with all categories, indicating these words are generally used in a positive context. Still, there may be indications of bias in the work. For example, "mediocre", a negative word, is associated with both 'non-white' and 'poor'. However, this is subjective and may depend on the context where the words are used in the book.

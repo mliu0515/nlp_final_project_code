@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['new', 'better', 'great', 'comfortable', 'real', 'funny', 'important', 'wonderful']
+negative: ['hard', 'cold', 'dark']
+neutral: ['long', 'many', 'full', 'brown', 'clear', 'tall', 'quick', 'north', 'certain']
+
+Female Descriptors:
+positive: ['big', 'right', 'rich', 'quiet', 'able', 'green', 'pleasant', 'free', 'pleased', 'stronger']
+negative: ['heavy', 'small', 'tired', 'empty']
+neutral: ['last', 'blue', 'several', 'yellow', 'different', 'dry']
+
+White Descriptors:
+positive: ['good', 'young', 'white', 'warm', 'strong', 'hot', 'deep', 'early', 'fresh']
+negative: ['old', 'wild', 'dead', 'awful']
+neutral: ['’', 'little', 'next', 'wooden', 'front', 'back']
+
+Non-White Descriptors:
+positive: ['much', 'fine', 'best', 'wide', 'light', 'large', 'beautiful']
+negative: ['poor', 'bad', 'low', 'flat', 'wrong']
+neutral: ['’', 'busy', 'hundred', 'grey', 'like', 'excited', 'German']
+
+Rich Descriptors:
+positive: ['open', 'older', 'nice', 'high', 'soft', 'little', 'friendly', 'enough', 'simple', 'possible']
+negative: ['fat', ''']
+neutral: ['electronic', 'Russian', 'crazy', '“', 'second', 'natural', 'Ántonia', 'corral', 'curly']
+
+Poor Descriptors:
+positive: ['first', 'great', 'sure', 'glad', 'easy', 'happy', 'clean', 'ready']
+negative: ['red', 'black', 'short', 'rough', 'sick', 'frozen']
+neutral: ['‘', 'Norwegian', 'afraid', 'next', 'Bohemian', 'interested']
+
+Overall Analysis: There seems to be a bias in favour of males, with most of their descriptors being positive, whereas their negative descriptors are fewer and of less severity. On the other hand, female descriptors, while mostly positive, have some more intensely negative words. For racial descriptors, white descriptors are generally more positive than non-white descriptors. Social status descriptors (rich and poor) demonstrate clear bias as well, with richer descriptors being largely positive and poor descriptors mixed with positive and negative. This could suggest an innate bias associating positive attributes with wealth and negative ones with poverty.

@@ -1,0 +1,33 @@
+Male Descriptors:
+positive: ['smart', 'free', 'aware', 'best', 'sweet', 'bright', 'knowledgeable', 'light'] 
+negative: ['foolish', 'evil', 'sad', 'unable']
+neutral: ['“', 'high', 'next', 'oldest', 'forest', 'thousand', 'ascetic', 'final']
+
+Female Descritpors:
+positive: ['first', 'friendly', 'possible', 'willing', 'perfect', 'perfected', 'real', 'important', 'present', 'open'] 
+negative: ['angry', 'thin']
+neutral: ['long', 'venerable', 'yellow', 'distant', 'secret', 'red', 'several', 'necessary']
+
+White Descriptors:
+positive: ['exalted', 'beautiful', 'right', 'calm', 'soft', 'golden', 'joyful', 'worthy']
+negative: ['small', 'little', 'curious', 'gray']
+neutral: ['longer', 'single', 'different', 'last', 'previous', 'ten', 'blue', 'second']
+
+Non-white Descriptors:
+positive: ['full', 'wondrous', 'highest', 'true', 'fine', 'welcome', 'equal', 'green',
+'applicable']
+negative: ['young', 'strange', 'stupid', 'alien', 'dark']
+neutral: ['large', 'black', 'physical', 'short', 'sixty', 'opposite'] 
+
+Rich Descriptors:
+positive: ['old', 'much', 'happy', 'holy', 'stronger', 'clear', 'learned', 'human', 'unknown', 'magic', 'wonderful', 'divine', 'similar', 'simple'] 
+negative: ['it.', 'last', 'gloomy']
+neutral: ['past', 'forest', 'mango-tree']
+
+Poor Descriptors:
+positive: ['good', 'able', 'new', 'great', 'deep', 'rich', 'oh', 'better'] 
+negative: ['many', '”', '’', 'dead', 'hard']
+neutral: ['quiet', 'dear', 'eternal', 'entire', 'silent', 'electronic', 'Many']
+
+Overall Analysis: 
+There seems to be a negative connotation associated with males in the book due to words like 'foolish', 'evil' and 'sad'. Females are associated with generally positive or neutral words, implying a more positive portrayal. The "white" category seems more favorable from the words used to describe it. There is positive bias towards the rich in terms of words used, while the poor category has a mix of negative and positive descriptions. This indicates socio-economic bias within the work. The descriptions of "non-white" contain a mix of positive, negative, and neutral descriptors, showing elements of bias and complexity in their depiction. The text may contain implicit gender, race and class biases.

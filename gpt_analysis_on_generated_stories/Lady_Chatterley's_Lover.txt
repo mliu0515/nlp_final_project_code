@@ -1,0 +1,36 @@
+To complete this task, each word was evaluated for its connotation. Keep in mind, connotations are subjective and may vary. 
+
+The results are as follows:
+
+Male Descriptors:
+Positive: ['delicate', 'expected', 'humble', 'historical', 'greatest', 'grandest', 'favorite', 'considerable']
+Negative: ['invisible', 'fat', 'impersonal', 'haughty', 'hardscrabble', 'forgotten']
+Neutral: ['different', 'uncovered', 'elbow-patched', 'enigmatic', 'infectious']
+
+Female Descriptors:
+Positive: ['humble', 'majestic', 'social', 'cherished', 'greatest', 'grandest', 'favorite']
+Negative: ['old', 'fat', 'obscure', 'forgotten']
+Neutral: ['infectious', 'meek', 'tome', 'indeterminate', 'unnoticed', 'unperturbed', 'argyle', 'extravagant', 'wooden']
+
+White Descriptors:
+Positive: ['historical', 'noble', 'academic', 'favorite', 'grandest', 'greatest']
+Negative: ['small', 'musty', 'tense', 'haughty', 'hardscrabble', 'forgotten', 'fat']
+Neutral: ['child-like', 'rapt', 'unassuming', 'enigmatic', 'expected', 'extravagant', 'wooden']
+
+Non-white Descriptors:
+Positive: ['awestruck', 'grandest', 'cherished', 'greatest', 'academic', 'favorite']
+Negative: ['offensive', 'hardscrabble', 'forgotten', 'fat']
+Neutral: ['The', 'haughty', 'wheelchair-bound', 'peculiar', 'reputed', 'elbow-patched', 'ancient', 'wealthy', 'various', 'extravagant']
+
+Rich Descriptors:
+Positive: ['loyal', 'sincere', 'considerable', 'awestruck', 'historical', 'academic', 'greatest', 'grandest', 'favorite']
+Negative: ['forgotten', 'fat', 'ridiculous']
+Neutral: ['wooden', 'awash', 'expected', 'unsung', 'haughty', 'hardscrabble', 'ancient', 'extravagant']
+
+Poor Descriptors:
+Positive: ['hardscrabble', 'favorite', 'humble', 'historical', 'greatest', 'grandest']
+Negative: ['impersonal', 'least', 'forgotten', 'fat']
+Neutral: ['authenticated', 'unforgettable', 'expected', 'haughty', 'wooden', 'enigmatic', 'indeterminate', 'different', 'delicate', 'extravagant']
+
+
+Overall Analysis: The word lists suggest several potential biases. "Fat" is often used as a negative descriptor across multiple categories. This could portray a bias where overweight individuals are seen in a negative light. Furthermore, females and poor individuals are sometimes equated with "old" or "least," possibly hinting at hierarchical social attitudes present in the text. Positive words often associated with wealth or grandeur are frequently found in the 'rich' category and to a lesser extent in the 'male' category, possibly implying traditional power structures. These biases might not accurately represent an author’s views, as they could be simply reflecting societal stereotypes or the book’s setting milieu.

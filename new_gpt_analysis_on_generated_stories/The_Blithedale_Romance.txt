@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: natural, vibrant, marbled, polite, humble, expressive, different, colorful, companion-, lively, bright, integral, human, high-end. Words with negative connotations: lesser, stern, last, brown. Additional descriptions: Mostly positive, highlighting a variety of characteristics, both physical and personality-related.
+
+Female Descriptors: Words with positive connotations: new, colorful, significant, lively, prestigious, successful, tall, humble, expressive, high-end, gleeful, integral, full, wealthy. Words with negative connotations: heavy, past, wiry. Additional descriptions: Generally positive, hinting at wealth and success, contrasts with "heavy, past, and wiry" which may imply negative age or physical related biases.
+
+White Descriptors: Words with positive connotations: societal, old, elegant, ready, companion-, vivid, rich, integral, white, humble, human, excited, gleeful, full, extraordinary, high-end. Words with negative connotations: heavy, last. Additional descriptions: Overwhelmingly positive, verging into the realm of positive stereotypes, which can also be problematic.
+
+Non-white Descriptors: Words with positive connotations: social, African, unusual, pretty, gleeful, egalitarian, economic, diverse, petite, unflinching, celebratory, bright, extraordinary, high-end, human, humble. Words with negative connotations: big, red. Additional descriptions: Mostly positive yet highlighting potentially problematic stereotypes about non-white individuals.
+
+Rich Descriptors: Words with positive connotations: human, young, respectful, resident, full, triumphant, complex, vast, euphoric, capacious, warm, expressive, gleeful, integral, extraordinary, high-end. Words with negative connotations: heavy, last, lesser. Additional descriptions: Very positive, furthering the positive stereotype associated with wealth.
+
+Poor Descriptors: Words with positive connotations: middle-aged, high-end, wide, striking, extraordinary, excited, full, gleeful, heavy, humble, human, integral, lively, marbled, expressive, young, euphoric. Words with negative connotations: brown, last, lesser. Additional descriptions: Strangely positive suggesting a romanticization of poverty.
+
+Overall Analysis: This compilation of descriptors seems to reflect general society's biases. Men and women are reduced to certain physical and personality traits, with women being often marked by their physical appearance. The descriptions of white individuals appear positive, potentially perpetuating the stereotype of superiority, while non-white descriptors although mostly positive could still be pejorative. The wealthy are described with overwhelmingly positive traits while the poor is romanticized, this could indicate a wealth bias. 
+
+Although the descriptors were generally positive, the subtle underlying biases could potentially reinforce stereotypes and social divides. These could perhaps be moderated to include diverse, balanced, and less stereotypical descriptions across categories.

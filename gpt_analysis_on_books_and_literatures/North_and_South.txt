@@ -1,0 +1,33 @@
+Male Descriptors:
+positive: ['fine', 'clear', 'dear', 'pleasant', 'positive', 'greater', 'fair'] 
+negative: ['dead', 'sorry', 'weary']
+neutral: ['first', 'quiet', 'long', 'former', 'possible', 'human', 'thy', 'usual', 'twenty', 'fierce']
+
+Female Descriptors:
+positive: ['good', 'glad', 'perfect', 'grand', 'great'] 
+negative: ['poor', 'wrong', 'terrible', 'pale', 'sick', 'cold', 'rough', 'slow']
+neutral: ['aware', 'fresh', 'it.', 'necessary', 'several', 'second', 'electronic']
+
+White Descriptors:
+positive: ['sure', 'better', 'new', 'right', 'best', 'beautiful'] 
+negative: ['afraid', 'weak']
+neutral: ['’', 'different', 'white', 'silent', 'hard', 'least', 'large', 'real', '‘', 'less', 'to-day', 'certain']
+
+Non-white Descriptors:
+positive: ['full', 'high', 'gentle', 'easy', 'agreeable'] 
+negative: ['strange', 'busy', 'ill', 'slight']
+neutral: ['last', 'little', 'young', 'th', 'present', 'natural', 'simple', 'black', 'to-night', 'personal', 'wide']
+
+Rich Descriptors:
+positive: ['old', 'many', 'great', 'good', 'true', 'strong', 'soft', 'ready', 'happy', 'proud', 'quick'] 
+negative: ['low', 'short', 'heavy']
+neutral: ['“', 'little', 'yo', 'long', 'wi', 'late']
+
+Poor Descriptors:
+positive: ['open', 'whole', 'able'] 
+negative: ['”', 'much', '’', 'next', 'bad', 'deep', 'anxious', 'small', 'sudden', 'poor', 'sharp', 'worse', 'sad', 'steady', 'unusual']
+neutral: ['little', 'to-morrow']
+
+Overall Analysis: 
+
+The categories 'male', 'female', 'white', 'non-white', 'rich', and 'poor' all contain a mix of positive, negative, and neutral words, but there appears to be certain bias in the distribution. First, 'male' category is mainly positive or neutral with fewer negative words. The 'female' category, on the other hand, has relatively higher proportions of negative words. Similarly, the 'rich' category has overwhelmingly more positive words while the 'poor' category is filled with negative ones. This might suggest that the book portrays males, whites, and the rich in a more positive or neutral light, while it tends to portray females, non-whites, and the poor in a more negative light. Thus, the book seems to reproduce commonly held social biases associating certain genders, races, and classes with specific positive or negative attributes.

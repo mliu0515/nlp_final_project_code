@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['good', 'sure', 'fine', 'better', 'high', 'free', 'big', 'happy', 'warm', 'familiar', 'ready', 'honest', 'cheerful'] 
+negative: ['yellow', 'cold']
+neutral: ['dear', 'several', 'heavy', 'artistic', 'wide']
+
+Female Descriptors:
+positive: ['great', 'young', 'best', 'green', 'open', 'clear', 'easy', 'human', 'interesting', 'amiable'] 
+negative: ['old', 'last', 'awful', 'thick']
+neutral: ['second', 'enough', 'ancient', 'Chinese', 'common', 'slow']
+
+White Descriptors:
+positive: ['good', 'right', 'first', 'clean', 'friendly', 'lovely', 'polite', 'perfect', 'sweet', 'professional'] 
+negative: ['hard', 'least', 'hot', 'dead', 'horrible', 'cheap']
+neutral: ['“', 'soft', 'back', 'dry']
+
+Non-white Descriptors:
+positive: ['small', 'young', 'first', 'full', 'blue', 'beautiful', 'strong', 'fresh', 'interested', 'pleasant'] 
+negative: ['black', 'sick', 'late', 'flat']
+neutral: ['brown', 'dramatic', 'regular', 'able', 'busy', 'silent']
+
+Rich Descriptors:
+positive: ['whole', 'long', 'real', 'important', 'smart', 'serious', 'bright', 'public'] 
+negative: ['red', 'bad', 'gray', 'afraid', 'empty', 'low', 'wrong', 'tired', 'impersonal']
+neutral: ['”', 'electronic', 'wooden']
+
+Poor Descriptors:
+positive: ['new', 'much', 'nice', 'little', 'next', 'large', 'thin', 'glad', 'big', 'social', 'certain', 'decent', 'ten'] 
+negative: ['old', 'many', 'white', 'poor']
+neutral: ['”', 'American', '“']
+
+Overall Analysis: The provided lists of words suggest a few prominent biases. The list for male and female descriptors imply a societal bias for positive connotations towards males. The females list disproportionately includes more negative words. In the cultural context, the list for white descriptors contains more positive words whereas non-white descriptors include both positive and negative words, indicating a cultural bias favoring white people. In terms of socio-economic status, the rich descriptor list contains a fair amount of negative words, suggesting a complex societal view towards wealth. Words associated with poverty are a mix of positive and negative, suggesting an overall neutral perspective.

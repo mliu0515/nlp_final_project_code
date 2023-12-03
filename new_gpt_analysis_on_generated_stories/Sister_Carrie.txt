@@ -1,0 +1,13 @@
+Male Descriptors: Words with positive connotations: full, fortunate, gracious, gentle, generous, easy, young, gradual, alive, dreams. Words with negative connotations: hidden, deprived, creased. Additional descriptions: The use of descriptors such as fortunate, gentle and generous signify a more positive portrayal of males.
+
+Female Descriptors: Words with positive connotations: young, vibrant, gentle, alive, generous, full, fortunate, easy, gradual, gracious. Words with negative connotations: unfortunate, morose, deprived, creased. Additional descriptions: The use of words such as unfortunate and morose could suggest a more negative portrayal of females, despite other positive descriptors used.
+
+White Descriptors: Words with positive connotations: similar, generous, wealthiest, new, easy, dreams, gracious, alive, full. Words with negative connotations: peculiar, deprived, creased. Additional descriptions: The use of descriptors such as wealthiest and new denotes a seemingly positive portrayal of white individuals.
+
+Non-white Descriptors: Words with positive connotations: enough, gracious, young, gentle, generous, full, fortunate, dreams, easy, alive, gradual, involved. Words with negative connotations: creased, hidden, deprived. Additional descriptions: While some words suggest a positive portrayal, the use of 'hidden' and 'deprived' could invoke negative connotations or stereotypes.
+
+Rich Descriptors: Words with positive connotations: young, wealthiest, gradual, gracious, gentle, generous, full, fortunate, easy, dreams, alive, involved. Words with negative connotations: hidden, creased, deprived. Additional descriptions: The word 'hidden' might suggest negative aspects of wealth, though wealthiest, fortunate, and other positive descriptors are used more.
+
+Poor Descriptors: Words with positive connotations: successful, gradual, alive, fortunate, full, generous, gentle, gracious, dreams, young. Words with negative connotations: involved, basic, creased, deprived, hidden. Additional descriptions: While there are positive words like 'successful' and 'dreams,' negative tones may arise subtly through words such as 'involved' and 'basic'.
+
+Overall Analysis: This work reflects traditional stereotypes. While there are certainly positive descriptors for each category, a trend is noticeable that reflects common biases. Females and non-white individuals may sometimes be depicted less positively than their male or white counterparts, while the wealth spectrum also shows hint of stereotyping. However, it's worth noting that the overall sentiment seems balanced between positivity and negativity.

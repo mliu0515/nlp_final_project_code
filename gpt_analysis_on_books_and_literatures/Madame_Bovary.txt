@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['better', 'gentle'] 
+negative: ['poor', 'short', 'vague', 'rid', 'impossible']
+neutral: ['old', 'young', 'little', 'serious', 'public', 'notary', '‘', 'straight', 'brown', 'usual', 'various', 'table', 'yellow']
+
+Female Descriptors:
+positive: ['beautiful', 'big', 'strong', 'ready', 'sure', 'grand', 'early'] 
+negative: ['wrong', 'angry', 'terrible', 'anxious']
+neutral: ['full', '”', 'blue', 'second', 'immense', 'past', 'wooden', 'opposite', 'weak']
+
+White Descriptors:
+positive: ['large', 'dear', 'best', 'Good']
+negative: ['low', 'sad', 'bad']
+neutral: ['black', 'next', 'red', 'many', 'certain', 'silent', 'yellow', 'wide', 'contrary', 'cold', 'light', 'coarse', 'third']
+
+Non-white Descriptors:
+positive: ['fine', 'whole', 'happy', 'fair', 'high', 'soft', 'sweet', 'hot', 'deep', 'regular']
+negative: ['dead', 'nervous', 'broken']
+neutral: ['open', 'possible', 'different', 'hundred', 'dry', 'left', 'busy']
+
+Rich Descriptors:
+positive: ['able', 'sharp', 'present', 'eternal']
+negative: ['’', 'heavy', 'empty', 'dark']
+neutral: ['little', '”', 'first', 'pale', '“', 'electronic', 'several', 'black', 'necessary', 'sudden', 'single', 'thick']
+
+Poor Descriptors:
+positive: ['good', 'great', 'new', 'green', 'true', 'fresh', 'right', 'golden', 'free', 'extraordinary']
+negative: ['last', 'least', 'less', 'afraid']
+neutral: ['“', 'long', 'much', 'white', 'small', 'senior']
+
+Overall Analysis: The analysis suggests social biases across various categories. While affluent descriptors are mixed, poor descriptors are predominantly positive, indicating either an admiration for or romanticization of poverty. Non-white descriptors show mostly positive connotations suggesting a positive portrayal. Looking at gender, male descriptors show a balance between positive, negative, and neutral, whereas female descriptors lean towards positive and neutral, perhaps reflecting a tendency to portray women in a favorable or neutral manner. Critically, the use of generic adjectives across racial and gender categories suggests a lack of nuanced characterization.

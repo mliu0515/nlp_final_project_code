@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['first', 'great', 'better', 'large', 'right', 'easy', 'personal', 'keen', 'clean', 'dramatic', 'regular']
+negative: ['weary', 'poor']
+neutral: ['long', 'whole', 'usual', 'individual', 'Several', 'theatrical', 'silent']
+
+Female Descriptors:
+positive: ['pleasant', 'high', 'best', 'successful', 'worth']
+negative: ['small', 'miserable', 'anxious', 'terrible', 'sick']
+neutral: ['little', 'next', 'full', 'third', 'social', 'slight', 'wholesale', 'sharp', 'broad', 'hundred']
+
+White Descriptors:
+positive: ['mental', 'strong', 'pretty', 'general', 'glad', 'soft', 'warm', 'interesting', 'familiar']
+negative: ['dull', 'wrong']
+neutral: ['least', 'to-night', 'electronic', 'white', 'mere', 'enough', 'early', 'due', 'deep']
+
+Non-white Descriptors:
+positive: ['comfortable', 'ready', 'clear', 'happy', 'big', 'natural', 'different', 'bright', 'excellent', 'proper']
+negative: ['hard', 'weak', 'vague']
+neutral: ['much', 'open', 'present', 'several', 'ten', 'blue']
+
+Rich Descriptors:
+positive: ['good', 'new', 'great', 'rich', 'possible', 'serious', 'nice', 'true', 'interested', 'free', 'green']
+negative: ['flat', 'bad', 'strange', 'nervous']
+neutral: ['busy', 'to-day', 'red', 'real', 'hungry']
+
+Poor Descriptors:
+positive: ['fine', 'many', 'certain', 'sure', 'delightful', 'pleased', 'important']
+negative: ['poor', 'old', 'cold', 'difficult', 'disagreeable']
+neutral: ['little', 'last', 'young', 'several', 'second', 'common', 'short', 'peculiar', 'latter']
+
+Overall Analysis: The book has some evident social biases. Male descriptors have positive attitudes majorly denoting strength, size, and positive characteristics. The female descriptors tend to tilt towards a mixture of positive and negative emotions, with negative emotions hinting inferiority or weakness. Racial bias is also observable as white descriptors are mostly positive, while non-white descriptors include negative words such as 'hard,' 'weak,' and 'vague.' The depiction of rich and poor also hints at social class bias, with the rich associated with more positive attributes compared to the poor.

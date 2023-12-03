@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['polite', 'humble', 'great', 'grand'] 
+negative: ['mere', 'fractured', 'hidden']
+neutral: ['countless', 'emotional', 'half-rimmed', 'genealogical', 'furrowed', 'first', 'enough', '“', 'distant', 'crusted', 'contrary', 'considerable', 'brittle']
+
+Female Descriptors:
+positive: ['vast', 'great', 'grand', 'ambitious']
+negative: ['brittle','perish']
+neutral: ['first', '“', 'local', 'long-standing', 'public', 'unlikely', 'unexpected', 'aristocratic', 'enough', 'genealogical', 'furrowed', 'Sebastian', 'fractured', 'emotional']
+
+White Descriptors:
+positive: ['inherited', 'successful', 'great', 'grand', 'ambitious']
+negative: ['shattered', 'unfortunate']
+neutral: ['enough', 'open', 'perceive', 'considerable', 'high', 'arduous', 'Sebastian', 'half-rimmed', 'genealogical', 'furrowed', 'fractured', 'first', 'emotional']
+
+Non-white Descriptors:
+positive: ['old', 'grand', 'emotional']
+negative: ['distant','crusted']
+neutral: ['Age-old', 'steel-grey', 'personal', 'regular', 'hidden', 'aristocratic', 'first', 'half-rimmed', 'great', 'Sebastian', 'genealogical', 'furrowed', 'fractured', 'considerable', 'contrary']
+
+Rich Descriptors:
+positive: ['arduous', 'substantial', 'great', 'grand']
+negative: ['contrary', '“', 'distant']
+neutral: ['genealogical', 'studious', 'next', 'emotional', 'half-rimmed', 'furrowed', 'fractured', 'first', 'enough', 'crusted', 'high', 'countless', 'considerable']
+
+Poor Descriptors:
+positive: ['new', 'great', 'grand']
+negative: ['late', 'hidden','“']
+neutral: ['Sebastian', 'yellow', 'ancient', 'half-rimmed', 'furrowed', 'enough', 'genealogical', 'fractured', 'first', 'high', 'distant', 'crusted', 'countless', 'contrary']
+
+Overall Analysis: The book appears to associate humility and politeness with male characters, and ambition with female characters. There is a stronger negative connotation within the words associated with non-white characters; with overall fewer positive connotations. Wealthy characters are associated with substantial and demanding (arduous) descriptions, while poorer characters are associated with newness but also with lateness. This could suggest a bias where people of wealth are represented as more hardworking, and the poor are represented as struggling to keep up.

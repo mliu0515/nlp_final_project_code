@@ -1,0 +1,32 @@
+Male Descriptors:
+positive: ['great', 'full', 'certain', 'open', 'high', 'able', 'dear', 'independent']
+negative: ['pale', 'less', 'afraid', 'heavy', 'solitary', 'weak', 'sick']
+neutral: ['white', 'sudden', 'vague', 'audible', 'narrative']
+
+Female Descriptors:
+positive: ['best', 'fine', 'wild', 'strong', 'right', 'true', 'rich', 'glad', 'light', 'sweet', 'hot', 'warm']
+negative: ['short', 'dead', 'bitter']
+neutral: ['long', 'sir.', 'you.', 'red', 'necessary']
+
+White Descriptors:
+positive: ['new', 'quiet', 'bright', 'hard', 'usual', 'pleasant', 'natural', 'handsome', 'clean', 'wide', 'blue']
+negative: ['strange', 'black', 'poor', 'cold', 'thin', 'past']
+neutral: ['tall', 'late', 'to-night']
+
+Non-white Descriptors:
+positive: ['young', 'ready', 'beautiful', 'fresh', 'enough', 'future', 'noble', 'active', 'early', 'sensible']
+negative: ['second', 'electronic', 'wrong', 'single', 'dry', 'feeble', 'rough']
+neutral: ['secret', 'married', 'brief']
+
+Rich Descriptors:
+positive: ['little', 'much', 'better', 'large', 'many', 'present', 'human', 'whole', 'soft', 'happy', 'fair']
+negative: ['least', 'low', 'mere', 'bad']
+neutral: ['“', 'last', '’', 'narrow']
+
+Poor Descriptors:
+positive: ['good', 'sure', 'clear', 'different', 'real', 'green']
+negative: ['first', 'old', 'dark', 'small', 'deep', 'sad', 'contrary']
+neutral: ['”', 'next', 'French', 'it.', 'third', 'broad', '’']
+
+Overall Analysis:
+This work seems to carry some social biases. For instance, the word 'white' is associated mostly with positive descriptors while 'non-white' has both positive and negative, indicating racial bias. The 'rich' descriptors are mostly positive, whereas the 'poor' descriptors include several negative words, indicating socioeconomic bias. Furthermore, 'male' descriptors contain more negative words (heavy, sick, weak, etc.) whilst female descriptors are primarily positive, evidencing potential gender bias. In conclusion, these lists suggest that the work may perceive whiteness, being rich, and feminity in a more positive light compared to non-whiteness, being poor, and masculinity.

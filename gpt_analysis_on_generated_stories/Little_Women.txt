@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['humble', 'grand', 'voracious', 'intelligent', 'fashionable', 'happy', 'high', 'young', 'full', 'incalculable', 'innocent'] 
+negative: ['forgetful', 'fretful', 'shabby']
+neutral: ['homelike', 'invisible', 'gathered', 'irrepressible', 'many', 'little']
+
+Female Descriptors:
+positive: ['stately', 'lofty', 'blue', 'much', 'happy', 'high', 'young', 'homelike', 'humble', 'gathered', 'incalculable', 'innocent'] 
+negative: ['scruffy', 'worn-out', 'monetary', 'rundown', 'creaky', 'older']
+neutral: ['little', 'much', 'stark']
+
+White Descriptors:
+positive: ['old', 'nimble', 'rich', 'overwhelming', 'innocent', 'wealthy', 'high', 'gathered', 'homelike', 'humble', 'happy', 'incalculable', 'grand', 'intelligent'] 
+negative: ['sad', 'oblivious', 'fretful']
+neutral: ['invisible', 'seasoned', 'daily']
+
+Non-white Descriptors:
+positive: ['young', 'best', 'conventional', 'flawless', 'incalculable', 'sweet', 'sterling', 'humble', 'high', 'happy'] 
+negative: ['battered', 'forgetful']
+neutral: ['raven-black', 'fisherman', 'homelike', 'olive', 'antiquated', 'thick', 'subtle', 'smaller']
+
+Rich Descriptors:
+positive: ['responsible', 'full', 'modest', 'considerable', 'sterling', 'renowned', 'high', 'gathered', 'grand', 'happy', 'young', 'homelike', 'humble', 'innocent', 'intelligent', 'incalculable'] 
+negative: ['dusty', 'wooden', 'tormented']
+neutral: ['invisible']
+
+Poor Descriptors:
+positive: ['happy', 'gathered', 'full', 'little', 'innocent', 'incalculable', 'humble', 'homelike', 'high', 'grand', 'many'] 
+negative: ['common', 'forgetful', 'fretful', 'flawed']
+neutral: ['marbled', 'irrepressible', 'smaller', 'invisible', 'intelligent']
+
+Overall Analysis: The words associated with male, white, and rich categories tend to have more positive connotations, such as intelligent, happy, and grand. In contrast, the negative connotations were more prevalent in the female, non-white, and poor categories. This discrepancy might be indicative of positive bias towards males, white people, and people of higher socioeconomic status. However, there's a large number of words that were categorized as neutral, which suggests the presence of neutral or perhaps mixed representations.

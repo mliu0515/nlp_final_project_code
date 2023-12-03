@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['free', 'open', 'golden', 'simple', 'first', 'western', 'young'] 
+negative: ['bad', 'short', 'foolish', 'dirty']
+neutral: ['last', 'whole', 'pot-boy', 'inner', 'left', 'mountainy', 'double', 'poteen', 'much']
+
+Female Descriptors:
+positive: ['little', 'good', 'full', 'long', 'quiet', 'gallant', 'delighted', 'interested'] 
+negative: ['small', 'terrified', 'mortal', 'different']
+neutral: ['electronic', 'Western', 'public', 'distant', 'common', 'lengthy', 'wedding-day', 'limited']
+
+White Descriptors:
+positive: ['hard', 'wild', 'good', 'safe', 'sacred', 'real', 'handsome'] 
+negative: ['lonesome', 'odd', 'yellow']
+neutral: ['old', 'many', 'little', 'ten', 'outside', 'narrow', 'following', 'brain-pan', 'queer', 'reasonable']
+
+Non-white Descriptors:
+positive: ['great', 'fine', 'decent', 'new', 'easy', 'certain', 'wary', 'soft', 'nice']
+negative: ['poor', 'dead', 'black', 'bitter', 'worst']
+neutral: ['to-day', 'second', 'low', 'sudden', 'derivative', '“']
+
+Rich Descriptors:
+positive: ['right', 'high', 'big', 'likely', 'blue', 'true', 'best', 'additional'] 
+negative: ['fearful', 'worse', 'dumb', 'broken', 'destroyed']
+neutral: ['young', 'Christy', 'naked', 'applicable', 'lad', 'physical', 'registered']
+
+Poor Descriptors:
+positive: ['like', 'holy', 'mighty', 'green', 'fellow', 'modern', 'available']
+negative: ['mad', 'rich', 'jealous', 'defective', 'tired']
+neutral: ['single', 'shiny', 'red', 'true', 'gallous', 'white', 'peculiar', 'copyright']
+
+Overall Analysis: The selection and curation of these words seem to display a number of biases, including gender, race, and class biases. Males are associated with positive words like "free" and "golden," but also with negative words like "bad" and "dirty." Females are linked both with positive words, such as "good" and "gallant," and negative words like "small" and "terrified." Words associated with white people seem to be more on the positive or neutral connotation. Non-white descriptors have both positive and negative words with a considerable amount. There seems to be a bias of showing the rich as 'high' and 'best' but also 'destroyed'. Poor are seen as holy and mighty but also tired and defective. This can also reflect on the stereotypes society has made.

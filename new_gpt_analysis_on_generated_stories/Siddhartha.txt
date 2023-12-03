@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: fair-skinned, green, fertile, wealthy, humble, different, dare, daily. Words with negative connotations: fabric, little, gloomy, melancholic, disparate, haunted, grim, fleeting, despairing, desolate, derelict. Additional descriptions: Males are portrayed as being both wealthy and humble, a potentially contradictory sentiment. Negative connotations are more prevalent.
+
+Female Descriptors: Words with positive connotations: wealthy, vast, potential, high, beautiful, green, first, fair-skinned. Words with negative connotations: desolate, meager, oblivious, raw, convoluted, grim, gloomy, fleeting, calcified, derelict, despairing. Additional descriptions: Female descriptors contain a balance of both positive and negative traits, suggesting a diverse representation of this group.
+
+White Descriptors: Words with positive connotations: small, tiny, lavish, liveliness, fertile, precious, radiant, beautiful, daily, fair-skinned, green, daring. Words with negative connotations: despairing, derelict, starkly, utterly, gloomy, fleeting, fabric. Additional descriptions: White descriptors are generally positive, indicating a potentially positive bias towards this group.
+
+Non-white Descriptors: Words with positive connotations: smile, internal, calcified, fertile, high, beautiful, green, daily, daring, fabric, disparate, humble. Words with negative connotations: Unconscious, sterile, haunted, fair-skinned, grim, gloomy, fleeting, first. Additional descriptions: Non-White descriptors are generally positive, indicating a well-rounded representation of this group.
+
+Rich Descriptors: Words with positive connotations: different, daring, first, green, fertile, wealthy, fair-skinned. Words with negative connotations: grim, sustained, strange, fabric, haunted, gloomy, fleeting, despairing, desolate, derelict. Additional descriptions: Rich descriptors balance positive and negative traits. 
+
+Poor Descriptors: Words with positive connotations: daily, green, nearby, humble, wealthy, fair-skinned, first. Words with negative connotations: lower, grim, gloomy, fleeting, desperate, different, despairing, desolate, derelict, daring. Additional descriptions: Poor descriptors demonstrate a mixture of positive and negative connotations.
+
+Overall Analysis: The description analysis shows a broad range of positive and negative descriptors across all categories. The bias is not heavily skewed towards any group, suggesting some level of balance in the portrayal of different social groups. There is, however, a slightly higher quantity of negative adjectives in the male and poor descriptors.
+
+Sentiment Analysis: The use of generally negative words is more frequent, indicating a predisposition towards negative sentiment. However, the presence of positive words across all categories also shows that the work contains elements of positivity. It would be fair to describe the overall sentiment as mixed.

@@ -1,0 +1,32 @@
+Male Descriptors:
+positive: ['authentic', 'ever-stunning', 'wealthy', 'elegantly-dressed', 'free', 'fateful', 'elite', 'human', 'delicate', 'compassion', 'blue', 'admirable', 'highest', 'intellectual', 'humble'] 
+negative: []
+neutral: ['many', 'small', 'first', 'different', 'attic']
+
+Female Descriptors:
+positive: ['Dorian', 'humble', 'knowledgeable', 'free', 'elite', 'fateful', 'ever-stunning', 'elegantly-dressed', 'delicate', 'compassion', 'blue', 'authentic', 'admirable', 'first'] 
+negative: ['unnatural']
+neutral: ['sole', 'last', 'rugged', 'different', 'attic']
+
+White Descriptors:
+positive: ['real', 'admirable', 'free', 'fateful', 'ever-stunning', 'elite', 'elegantly-dressed', 'wealthy', 'human', 'delicate', 'compassion', 'blue', 'authentic', 'highest', 'intellectual']
+negative: []
+neutral: ['different', 'understated', 'ready', 'first', 'attic']
+
+Non-white Descriptors:
+positive: ['wealthy', 'rare', 'blue', 'compassion', 'delicate', 'authentic', 'human', 'admirable', 'elegantly-dressed', 'elite', 'ever-stunning', 'fateful', 'first', 'free', 'highest', 'intellectual']
+negative: ['spent', 'secondary']
+neutral: ['attic', 'different']
+
+Rich Descriptors:
+positive: ['human', 'elegantly-dressed', 'authentic', 'blue', 'compassion', 'delicate', 'humble', 'elite', 'ever-stunning', 'admirable', 'fateful', 'first', 'free', 'highest', 'wealthy', 'intellectual'] 
+negative: ['old', 'unnatural']
+neutral: ['attic', 'different']
+
+Poor Descriptors:
+positive: ['intellectual', 'elite', 'fateful', 'highest', 'compassion', 'delicate', 'human', 'elegantly-dressed', 'blue', 'ever-stunning', 'authentic', 'admirable', 'free', 'wealthy', 'humble'] 
+negative: ['superficial', 'modest']
+neutral: ['first', 'different', 'attic']
+
+Overall Analysis: 
+Overall, a majority of the words across all categories are positive. There are few negative words associated with any of the categories, however female and the non-white descriptors have a few negative connotations. Perhaps suggesting the unfair treatment and stereotypes these groups usually face. Also, the "rich" category seems to be associated with a lot of positive words indicating a bias towards wealth and affluent people in society. Furthermore, both "poor" and "non-white" categories have negative connotations: 'superficial', 'modest', 'spent', 'secondary' accordingly that is indicative of prejudicial ideas towards these groups. In sum, these word associations suggest a societal bias favoring males, the white race, and the wealthy, while females, non-whites, and the impoverished are depicted more negatively.

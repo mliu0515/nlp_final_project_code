@@ -1,0 +1,32 @@
+Male Descriptors:
+positive: ['good', 'ready', 'brilliant', 'superior'] 
+negative: ['dead', 'bitter', 'invisible', 'dry', 'hard', 'vague', 'thick', 'violent']
+neutral: ['little', 'sudden', 'small', 'much', 'high', 'quick', 'whole']
+
+Female Descriptors:
+positive: ['strong', 'red', 'open', 'young', 'right', 'true', 'better', 'able', 'current', 'green', 'possible'] 
+negative: ['quiet', 'silent', 'strange', 'mad', 'blinded', 'indistinct']
+neutral: ['last', 'soft', 'next']
+
+White Descriptors:
+positive: ['clear', 'free', 'perfect', 'attentive', 'irresistible'] 
+negative: ['poor', 'wild', 'loud', 'anxious', 'lower', 'feeble' ]
+neutral: ['last', 'second', 'light', 'alive', 'sombre', 'rich', 'easy', 'certain', 'steady']
+
+Non-white Descriptors:
+positive: ['great', 'successful', 'worth', 'fresh', 'calm', 'enough'] 
+negative: ['short', 'angry', 'afraid', 'cold', 'dangerous', 'broad', 'frightened']
+neutral: ['long', 'first', 'immense', 'slight', 'sharp', 'wide', 'blue']
+
+Rich Descriptors:
+positive: ['safe', 'human', 'happy', 'empty', 'straight', 'glorious'] 
+negative: ['heavy', 'deep', 'dark', 'dull', 'bad', 'gloomy']
+neutral: ['white', 'big', 'black', 'rapid', 'narrow', 'hot', 'thin', 'impenetrable']
+
+Poor Descriptors:
+positive: ['full', 'best', 'gentle', 'cool'] 
+negative: ['old', 'low', 'weak', 'past', 'stiff', 'awful', 'tired', 'distant', 'unsteady']
+neutral: ['many', 'first', 'unexpected', 'new', 'close', 'distinct', 'confidential']
+
+Overall Analysis: 
+The categorization of adjectives hints towards evident biases in the work. Males are associated more so with negative connotations, including words like 'dead', 'violent', 'hard', and 'dry'. Females are generally given a more positive perspective with words like 'strong', 'open', 'green', 'right', and 'true'. Whites are mostly associated with neutral and positive terms, while non-whites are more linked with negative words such as 'dangerous', 'afraid', 'cold', and 'frightened'. This suggests biases along racial lines. Words associated with being rich are a mix of positive and negative, while being poor is prominently associated with negative words like 'weak', 'old', 'awful', and 'low', implying socioeconomic bias in the work.

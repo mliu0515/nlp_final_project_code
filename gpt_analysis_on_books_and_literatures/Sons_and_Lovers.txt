@@ -1,0 +1,32 @@
+Male Descriptors:
+positive: ['full', 'fine', 'beautiful', 'blue', 'strong', 'large'] 
+negative: ['strange', 'dead', 'thin', 'cold', 'peculiar', 'bad', 'short']
+neutral: ['red', '’', '‘', 'deep', 'different', 'wild']
+
+Female Descriptors:
+positive: ['great', 'big', 'new', 'nice', 'hot', 'ready', 'free', 'proud'] 
+negative: ['hard', 'wrong', 'bitter', 'little', 'low']
+neutral: ['’', 'much', 'brown', 'yellow', 'it.', 'pale', 'intense']
+
+White Descriptors:
+positive: ['good', 'first', 'real', 'clean', 'bright', 'much', 'able', 'golden'] 
+negative: ['angry', 'tiny', 'mad', 'small', 'white', 'mean']
+neutral: ['”', 'certain', 'least', 'soft', 'ten', 'French']
+
+Non-white Descriptors:
+positive: ['better', 'happy', 'warm', 'high', 'green', 'quick', 'clear', 'sunny', 'sharp'] 
+negative: ['last', 'silent', 'bad', 'late', 'thick', 'furious', 'worse', 'miserable', 'anxious']
+neutral: ['black', 'quiet']
+
+Rich Descriptors:
+positive: ['old', 'sure', 'many', 'whole', 'open', 'good', 'true', 'fair', 'aware'] 
+negative: ['dark', '’', 'heavy', 'poor', 'cold', 'religious', 'grey']
+neutral: ['“', 'young', 'next', 'second']
+
+Poor Descriptors:
+positive: ['long', 'best', 'right', 'glad', 'wonderful', 'wide', 'light', 'rich'] 
+negative: ['afraid', 'last', 'common', 'nasty', 'you.', 'unable', 'naked', 'past', 'wooden']
+neutral: ['”', '’', '“']
+
+Overall Analysis: 
+The word lists reveal several underlying stereotypes and biases. Males are aligned with both strength (positive words such as 'strong', 'large') but also negative qualities (words like 'dead', 'peculiar', 'bad'). Females are mostly associated with neutral or positive traits, but also negative attributes related to size and difficulty. Interestingly, white identifies are associated with more positive connotations (like 'good', 'real', 'clean'), while non-white identities are associated with a mix of positive and negative connotations. The descriptors for the rich and poor also reveal stereotypical biases, with the rich being associated with positivity and fairness, while the poor are associated with fear, negativity, and lack. These findings suggest that the book may reflect and perpetuate existing societal biases and stereotypes.

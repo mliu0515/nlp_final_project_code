@@ -1,0 +1,31 @@
+Male Descriptors: 
+positive: ['fair', 'free', 'right', 'easy', 'worthy'] 
+negative: ['poor', 'hard']
+neutral: ['little', 'last', 'regular', 'red', 'native', 'second', 'whole', 'fifty', 'derivative', 'open', 'biggest', 'daily', 'to-day']
+
+Female Descriptors:
+positive: ['pleased', 'golden', 'handsome', 'best']
+negative: ['old', 'black', 'cold', 'dark', 'blasted', 'greasy', 'loud'] 
+neutral: ['white', 'certain', 'mountainous', 'forty', 'particular', 'small', 'roadside', 'petty', 'individual']
+
+White Descriptors:
+positive: ['big', 'great', 'hot', 'amazing', 'worth', 'possible', 'active', 'current']
+negative: ['dead', 'wrong']
+neutral: ['ten', 'twenty', 'afraid', 'applicable', 'Next', 'bent', 'paragraph', 'urgent', 'General', 'half']
+
+Non-white Descriptors:
+positive: ['full', 'good', 'new', 'many', 'light']
+negative: ['bad', 'tired'] 
+neutral: ['electronic', 'hundred', 'much', 'English', 'flat', 'sorry', '“', 'old', 'hand-made', 'copyright', 'widest', 'legal', 'additional']
+
+Rich Descriptors:
+positive: ['true', 'available', 'settled', 'deep', 'important', 'close', 'attached'] 
+negative: ['defective']
+neutral: ['little', 'next', 'red', 'small', 'like', 'special', "'She", 'registered', 'long', 'smaller', "missionary's-pass-hunting", 'manifold']
+
+Poor Descriptors:
+positive: ['sure', 'better', 'real', 'clear', 'public', 'smooth']
+negative: ['mad', 'asleep'] 
+neutral: ['first', 'quiet', 'funny', 'official', 'whiskey', 'considerable', 'twenty-four', 'red-haired', 'strange', 'Indian', 'eye-teeth', 'blank']
+ 
+Overall Analysis: The words associated with each category reveal certain biases present in the work. For example, female descriptors contain relatively more negative words, suggesting a possible gender bias. In addition, the rich descriptors are overwhelmingly positive or neutral, whereas in the poor descriptors, though there are positive words, there are also negative connotations, implying a bias in favor of wealth. In terms of race, words associated with whites are largely positive, but for non-white, the distribution is neutral or positive. This could indicate a subtle racial bias in the work.

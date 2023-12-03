@@ -1,0 +1,32 @@
+Male Descriptors:
+positive: ['full', 'best', 'better', 'fair', 'live']
+negative: ['hard', 'strange' ]
+neutral: ['’', 'thy', 'general', 'thou', 'entire', 'fine', 'deep', 'sudden', 'several', '“', 'previous', 'sharp', 'upper']
+
+Female Descriptors:
+positive: ['many', 'high', 'full', 'ready', 'possible', 'sweet']
+negative: ['last', 'mere', 'dark', 'terrible', 'broken', 'worse']
+neutral: ['“', 'certain', 'second', 'next', 'final', 'visible', 'former', 'ordinary']
+
+White Descriptors:
+positive: ['little', 'good', 'small', 'long', 'vast', 'common', 'wide', 'grand', 'famous', 'enormous', 'steady', 'hot']
+negative: ['dead']
+neutral: ['sperm', 'white', 'Indian', 'single', 'various', 'low', 'fifty']
+
+Non-white Descriptors:
+positive: ['great', 'much', 'whole', 'noble', 'right', 'sure', 'new', 'soft', 'human', 'alive']
+negative: ['white']
+neutral: ['least', 'present', 'ye', 'open', 'wondrous', 'wild', 'peculiar', 'considerable', 'complete']
+
+Rich Descriptors:
+positive: ['young', 'true', 'easy', 'strong', 'heavy', 'tall']
+negative: ['old', 'lower', 'mortal', 'red', 'less']
+neutral: ['first', '’', 'whale', '‘', 'different', 'third', 'last', 'silent', 'slightest']
+
+Poor Descriptors:
+positive: ['large', 'curious', 'particular', 'wild', 'natural', 'huge', 'fresh', 'similar']
+negative: ['old', 'poor', 'black', 'short']
+neutral: ['”', 'long', 'broad', 'last', 'unknown', 'electronic', 'nigh']
+
+Overall Analysis: 
+Based on this evaluation of word connotations, it seems the book might contain some biases. Male descriptors seem to be generally neutral or positive, with few negative connotations compared to female descriptors which feature clearly negative terms like 'dark', 'terrible', 'broken', 'worse'. In terms of race descriptors, 'white' ones are mostly positive or neutral while 'non-white' ones are largely positive. 'Rich' descriptors are mainly positive and neutral while 'poor' descriptors seem to contain a mixture, but more negative terms.

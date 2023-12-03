@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['romantic', 'beautiful', 'affluent', 'humble', 'appreciative', 'fulfilling', 'great', 'grand'] 
+negative: ['wrong', 'envious', 'dull']
+neutral: ['high', 'subtle', 'inexplicable', 'light', 'different', 'intrinsic', 'grounded', 'grey', 'frequent']
+
+Female Descriptors:
+positive: ['beautiful', 'unexpected', 'fulfilling', 'grand', 'great', 'grounded', 'high', 'humble', 'fascinating', 'exquisite'] 
+negative: ['longer', 'strange', 'dull', 'envious'] 
+neutral: ['private', 'two-room', 'second-hand', 'frequent', 'first']
+
+White Descriptors:
+positive: ['mutual', 'soft', 'humble', 'great', 'grand', 'grounded', 'high', 'fulfilling', 'fascinating', 'exquisite']
+negative: ['societal', 'stratified', 'wrong', 'envious']
+neutral: ['novel', 'intrinsic', 'eager', 'frequent', 'first', 'grey']
+
+Non-white Descriptors:
+positive: ['modest', 'grounded', 'fascinating', 'shared', 'exquisite', 'appreciative', 'affluent', 'unique', 'vibrant', 'high', 'grey', 'great', 'grand', 'fulfilling']
+negative: ['dust-specked', 'uninitiated']
+neutral: ['quiet', 'frequent', 'different']
+
+Rich Descriptors:
+positive: ['warm', 'grey', 'fulfilling', 'humble', 'high', 'grounded', 'great', 'grand', 'fascinating', 'exquisite']
+negative: ['mere', 'unfortunate', 'wrong', 'envious']
+neutral: ['daily', 'frequent', 'inexplicable', 'first', 'labyrinthine']
+
+Poor Descriptors:
+positive: ['small', 'great', 'simple', 'grand', 'fulfilling', 'humble', 'affluent', 'high', 'grounded', 'grey', 'appreciative', 'beautiful']
+negative: ['sudden', 'bustling']
+neutral: ['many', 'labyrinthine', 'different', 'frequent', 'daily']
+
+Overall Analysis: The words used to describe different groups (male, female, white, non-white, rich, poor) highlight some societal biases. For instance, words with negative connotations such as 'wrong', 'dull', 'envious' are used for both male and female descriptors, suggesting that both genders have their flaws. Words associated with richness and fulfilling experiences are more often used for rich, non-white, and poor descriptors, revealing a bias that wealth brings reward or positive experiences. The non-white descriptors use more positive words, possibly indicating a romanticizing of non-white cultures or experiences. Words like 'affluent', usually associated with wealth, appear in the poor descriptors, perhaps to signify the richness of character or culture, not necessarily monetary wealth.

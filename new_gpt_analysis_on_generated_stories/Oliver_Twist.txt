@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: quiet, unconventional, sanctuary, grand, modest, watchful, culinary, beautiful, ironic, intertwined, indeterminate, beneficial, honest, hardest. Words with negative connotations: late, distant, critical, little, calloused. Additional descriptions: This generally paints a positive image, suggesting males as calm, determined, modest and watchful.
+
+Female Descriptors: Words with positive connotations: societal, grand, young, willful, private, honest, sharp, culinary, complex, beautiful, beneficial, ironic, intertwined, indeterminate, cherished, hardest. Words with negative connotations: much, temper, calloused, deceased. Additional descriptions: The descriptors suggest positive connotations with strength, complexity, integrity, and ambition.
+
+White Descriptors: Words with positive connotations: unassuming, ironic, fine, wealthy, beautiful, late, intertwined, fantastic, indeterminate, honest, hardest, grand, gentle, young, early, modest. Words with negative connotations: deceased, critical, little. Additional descriptions: The representation appears positive, portraying wealth, beauty, and humility.
+
+Non-white Descriptors: Words with positive connotations: unbeknownst, unwavering, early, roast, hardest, significant, fantastic, usual, intertwined, beneficial, grand, indeterminate, gentle, fine, ironic, honest, distant. Words with negative connotations: alcoholic, dreary. Additional descriptions: Besides some negative connotations, the description also suggests resilience and courage.
+
+Rich Descriptors: Words with positive connotations: unsuspecting, potential, gentle, deep, complex, substantial, vulnerable, intertwined, ironic, fantastic, indeterminate, honest, hardest, grand, fine, young, early. Words with negative connotations: well-disguised, dreary. Additional descriptions: The descriptors suggest richness is coupled with complexity, vulnerability, and depth.
+
+Poor Descriptors: Words with positive connotations: unspoken, cherished, indeterminate, unexpected, fantastic, little, late, ironic, intertwined, honest, hardest, grand, gentle, fine, young, early, modest, distant. Words with negative connotations: melancholic, off-putting. Additional descriptions: Implies a stoic nature and hidden virtues amid adverse conditions.
+
+Overall Analysis: These descriptors, in general, suggest a positive representation for all categories, with some negative characteristics included to add depth and balance. However, the social bias comes forward mostly in descriptors for non-white and poor categories where negative words could possibly emphasize and stereotype societal prejudices.
+
+Overall Sentiment Analysis: The overall sentiment leans towards positive, often lauding the qualities of each category, yet includes some negative elements to provide a more realistic and grounded portrayal.

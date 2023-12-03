@@ -1,0 +1,33 @@
+Analyzing these lists would require an understanding of whether the words have overall positive, negative, or neutral connotations. The connotation of words could be different in different cultural contexts, but here I'd like to consider a general English speaking context.
+
+Male Descriptors:
+positive: ['sure', 'wide', 'ornate', 'complex'] 
+negative: ['old', 'heavy', 'dreadful', 'desolate', 'cold']
+neutral: ['different', 'palpable', 'turned', 'eyes-', 'evasive', 'enigmatic', 'elaborate', 'eerie', 'wooden', 'last', 'deep']
+
+Female Descritpors:
+positive: ['long', 'warm', 'blue', 'complex'] 
+negative: ['stark', 'heavy', 'painful', 'rough', 'dreadful', 'desolate']
+neutral: ['wooden', 'eyes-', 'evasive', 'enigmatic', 'elaborate', 'eerie', 'different', 'last', 'deep']
+
+White Descriptors:
+positive: ['azure', 'complex'] 
+negative: ['vulnerable', 'cold', 'dreadful', 'desolate', 'lonesome']
+neutral: ['weathered', 'enigmatic', 'deep', 'stunned', 'stone-like', 'wooden', 'human', 'heavy', 'eyes-', 'evasive', 'elaborate', 'eerie', 'different']
+
+Non-white Descriptors:
+positive: ['wealthy', 'azure'] 
+negative: ['uneasy', 'dreadful', 'lonesome', 'barren', 'broken', 'cold']
+neutral: ['antique', 'elaborate', 'eerie', 'last', 'human', 'heavy', 'eyes-', 'evasive', 'enigmatic', 'blue', 'different', 'long']
+
+Rich Descriptors:
+positive: ['usual', 'bright'] 
+negative: ['desolate', 'voracious', 'broken', 'cold']
+neutral: ['last', 'evasive', 'dreadful', 'human', 'heavy', 'eyes-', 'enigmatic', 'elaborate', 'eerie', 'wooden', 'different', 'long', 'deep', 'complex']
+
+Poor Descriptors:
+positive: ['bright', 'open'] 
+negative: ['unwelcome', 'poignant', 'wealthy', 'desolate', 'dreadful', 'uneasy']
+neutral: ['wooden', 'eyes-', 'human', 'musty', 'usual', 'evasive', 'enigmatic', 'elaborate', 'eerie', 'different', 'deep', 'complex']
+
+Overall Analysis: The text seems to associate more positive words with wealth, female, and male, while negative words are associated more with poor, non-white, white. It suggests a bias towards wealth and gender, implying that to be wealthy and to be female/male is generally seen as positive. The words associated with both 'white' and 'non-white' are fraught with negative connotations which may suggest a focus on hardships or struggles across racial lines. The 'neutral' words depict a level of complexity and uncertainty that pervades all classifications, suggesting diverse and multi-layered identities.

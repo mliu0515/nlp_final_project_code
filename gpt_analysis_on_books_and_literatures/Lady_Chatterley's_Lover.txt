@@ -1,0 +1,25 @@
+Male Descriptors: 
+positive: ['fair', 'familiar', 'golden', 'noble', 'greatest', 'eternal'] 
+negative: ['dry', 'distant'] 
+neutral: ['many', 'new', 'natural', 'least', 'broad', 'green', 'silent', 'short', 'wide', 'thin', 'usual', 'open']
+Female Descriptors: 
+positive: ['free', 'fresh', 'simple', 'larger', 'steady', 'poetic', 'able', 'proper'] 
+negative: ['less', 'partial', 'foreign', 'false'] 
+neutral: ['last', 'rare', 'many', 'particular', 'private', 'next', 'gray', 'actual'] 
+White Descriptors: 
+positive: ['great', 'best', 'deep', 'ready', 'clear', 'remarkable', 'graceful', 'sunny', 'fine', 'yellow', 'quiet', 'necessary'] 
+negative: ['dead'] 
+neutral: ['white', 'Indian', 'modern', 'solitary', 'highest', 'slow', '—']
+Non-white Descriptors: 
+positive: ['good', 'greater', 'better', 'young', 'serene', 'real', 'light', 'pure', 'easy', 'famous', 'singular'] 
+negative: ['old', 'small', 'poor', 'low'] 
+neutral: ['“', 'current', 'little', 'strange', 'mere']
+Rich Descriptors: 
+positive: ['thy', 'wild', 'present', 'native', 'higher', 'equal', 'gentle', 'perfect', 'beautiful', 'rich', 'constant'] 
+negative: ['little'] 
+neutral: ['much', '’', 'whole', '”', 'electronic', 'ancient', 'various', 'forest']
+Poor Descriptors: 
+positive: ['true', 'full', 'pleasant', 'visible', 'bright', 'certain', 'early'] 
+negative: ['long', 'common', 'dark'] 
+neutral: ['first', 'high', 'distant', 'human', 'large', 'former', 'red', 'slight', 'English', 'opposite']
+Overall Analysis: The book seems to reflect certain intrinsic stereotypes or biases. Male and white descriptors seem more positive overall. Words associated with females and non-whites lean more towards neutrality with some negative connotations. This could be indicative of gender and racial bias. The views on rich and poor are as expected, with more positivity associated with being rich, and negativity and neutrality with being poor, indicating a bias towards wealth.

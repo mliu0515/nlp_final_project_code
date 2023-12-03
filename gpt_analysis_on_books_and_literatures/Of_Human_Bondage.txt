@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['fine', 'hot', 'willing', 'quiet', 'grateful', 'clean', 'hungry', 'bright', 'useful'] 
+negative: ['sorry', 'nervous', 'cheap']
+neutral: ['gray', 'broad', 'peculiar', 'yellow', 'following', 'Spanish', 'conscious']
+
+Female Descriptors:
+positive: ['little', 'good', 'young', 'open', 'free', 'sudden', 'wonderful', 'green', 'dear', 'simple', 'quick'] 
+negative: ['strange', 'late', 'horrible']
+neutral: ['’', 'high', 'French', 'next', 'medical', 'indifferent']
+
+White Descriptors:
+positive: ['old', 'great', 'able', 'best', 'easy', 'funny', 'human'] 
+negative: ['white', 'afraid', 'poor', 'sick', 'impossible', 'wrong']
+neutral: ['“', 'anxious', 'common', 'many', 'ten', 'odd', 'several']
+
+Non-white Descriptors:
+positive: ['large', 'sure', 'right', 'good', 'curious', 'true'] 
+negative: ['small', 'hard', 'difficult', 'heavy', 'low', 'cold']
+neutral: ['”', 'last', 'many', 'usual', 'much', 'past', 'worth', 'you.']
+
+Rich Descriptors:
+positive: ['much', 'happy', 'beautiful', 'glad', 'different', 'full', 'eager', 'tall', 'fair', 'soft', 'nice'] 
+negative: ['black', 'angry', 'awful']
+neutral: ['certain', 'due', 'short', 'second', 'necessary', 'German']
+
+Poor Descriptors:
+positive: ['little', 'better', 'new', 'next', 'pleasant', 'ready'] 
+negative: ['last', 'bad', 'thin', 'dead', 'dark']
+neutral: ['’', 'first', 'long', '”', 'red', 'possible', 'whole', 'silent', 'blue']
+
+Overall Analysis: Looking at the way words are categorized, it appears that the book contains certain social biases. Males are generally associated with positive and neutral feelings, with a few negative connotations and the emphasis seems to be on their physical attributes and behavioral characteristics. Females have a mix of neutral and positive perceptions tied to them. For racial distinctions, White descriptors have a balance of positive, neutral and negative connotations. However, non-White descriptors are seen with equivalent negative and positive connotations, which may show racial bias. Rich people are majorly associated with positive words implying benefits of wealth, while poor people are somewhat even between positives and negatives, yet with slightly more negatives, emphasizing the hardships. These patterns suggest class and gender biases, and possibly racial biases within the literature.

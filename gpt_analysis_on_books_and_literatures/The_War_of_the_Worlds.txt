@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['first', 'safe', 'blue', 'true', 'stronger', 'right'] 
+negative: ['dark', 'unknown', 'sluggish', 'furious', 'inferior', 'greenish', 'helpless']
+neutral: ['long', 'early', 'hundred', 'greater', 'scattered', 'due', 'French']
+
+Female Descritpors:
+positive: ['clear', 'young', 'main']
+negative: ['strange', 'small', 'unfamiliar', 'horrible', 'blank', 'foolish', 'empty']
+neutral: ['“', 'electronic', 'third', 'much', 'big', 'distant', 'low', 'next', 'considerable', 'loose']
+
+White Descriptors:
+positive: ['swift', 'best', 'ready'] 
+negative: ['heavy', 'hot', 'terrible', 'curious', 'impossible', 'frantic', 'poor', 'empty']
+neutral: ['’', 'second', 'open', 'extraordinary', 'hard', 'circular', 'past', 'previous', 'front']
+
+Non-white Descriptors:
+positive: ['green', 'huge', 'possible', 'silent', 'certain', 'quiet', 'vast', 'large', 'free', 'deep', 'new', 'happy'] 
+negative: ['black', 'dead', 'sudden', 'vague', 'tumultuous']
+neutral: ['“', 'metallic', 'flat']
+
+Rich Descriptors:
+positive: ['little', 'great', 'human', 'invisible', 'old', 'able', 'close', 'top'] 
+negative: ['last', 'broken', 'enormous', 'blackened']
+neutral: ['white', '”', 'several', 'thin', 'terrestrial', 'lower', 'forth', 'larger']
+
+Poor Descriptors:
+positive: ['common', 'full', 'high', 'alive', 'bright', 'better', 'good', 'light', 'fresh']
+negative: ['red', 'Martian', 'busy', 'least', 'smashed', 'weary']
+neutral: ['many', 'next', 'visible', 'brown', 'immediate']
+
+Overall Analysis: The descriptions related to 'White' and 'Female' seem to carry more negative connotations while 'Non-white' and 'Poor' have more positive words associated with them. This could potentially showcase social biases as white female characters may be portrayed as weak or curious in one hand, while non-white characters might be depicted as capable, quiet and new on the other hand. The rich descriptors were also mixed, suggesting a varied or complex picture of wealth within the text. Lastly, 'Male' descriptions seem fairly balanced between positive and negative connotations. These findings suggest a balanced portrayal of gender, but potential bias in portraying ethnicity and socioeconomic status.

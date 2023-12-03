@@ -1,0 +1,31 @@
+Male Descriptors:
+Positive: ['good', 'new', 'first', 'full', 'right', 'better', 'human', 'light', 'worth'] 
+Negative: ['red', 'dark', 'awful', 'wet', 'worse']
+Neutral: ['’', 'little', '”', 'many', 'Norwegian', 'least']
+
+Female Descriptors:
+Positive: ['fine', 'tall', 'hot', 'younger', 'intelligent', 'wide', 'to-morrow'] 
+Negative: ['cold', 'low', 'sharp', 'wrong', 'crazy', 'lower']
+Neutral: ['different', 'gray', 'late', 'busy', 'single', 'strange', 'us.']
+
+White Descriptors:
+Positive: ['big', 'best', 'willing', 'fresh', 'pretty', 'perfect', 'strong', 'close'] 
+Negative: ['yellow', 'brown', 'afraid', 'dead', 'empty']
+Neutral: ['much', 'rough', 'apt', 'now.', 'shaggy', 'physical', 'twenty']
+
+Non-white Descriptors:
+Positive: ['much', 'white', 'wild', 'free', 'short', 'deep', 'beautiful', 'glad', 'handsome', 'quiet', 'nice'] 
+Negative: ['hard', 'heavy', 'sick', 'tired']
+Neutral: ['“', 'electronic', 'French', 'pale', 'older']
+
+Rich Descriptors:
+Positive: ['young', 'high', 'rich', 'proud', 'easy', 'real', 'early', 'personal', 'angry', 'green'] 
+Negative: ['last', 'next', 'black']
+Neutral: ['”', 'white', 'Swedish', 'blue', 'wooden', 'French', 'youngest']
+
+Poor Descriptors:
+Positive: ['great', 'many', 'sure', 'clear', 'happy', 'second', 'warm', 'soft', 'stable', 'comfortable'] 
+Negative: ['old', 'long', 'bad', 'thin']
+Neutral: ['”', '’', 'poor', 'open', 'Bohemian']
+
+Overall Analysis: These word lists reveal biases in how different genders, races, and social classes are characterized. Positive connotations are generally associated with being male, white, rich, or non-white, whereas negative connotations are more commonly associated with being female, poor, or non-white. This suggests a social bias in the text favoring males, whites, the rich, and non-whites. Interestingly, the word 'French' appears neutral in both the 'non-white' and 'rich' categories, hinting a specific neutrality or complexity in the portrayal of French characters or elements.

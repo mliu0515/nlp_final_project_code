@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['fine', 'high', 'great', 'grand', 'good', 'gentle', 'affluent'] 
+negative: ['humble', 'broken', 'worn-down']
+neutral: ['homemade', 'single', 'firm', 'dust-clouded', 'down-home', 'distant', 'different', 'deeper', 'common', 'endless']
+
+Female Descriptors:
+positive: ['rich', 'quiet', 'unassuming', 'unique', 'gentle', 'firm', 'fine', 'grand'] 
+negative: ['terrible', 'worn-down']
+neutral: ['sprawling', 'common', 'little', 'reluctant', 'endless', 'dust-clouded', 'distant', 'dust-clouded', 'different']
+
+White Descriptors:
+positive: ['grand', 'unique', 'good', 'gentle', 'firm', 'fine', 'affluent'] 
+negative: ['worn-down', 'broken', 'torn']
+neutral: ['dust-clouded', 'tiny', 'publicized', 'endless', 'distant', 'down-home', 'high', 'different', 'deeper', 'common']
+
+Non-white Descriptors:
+positive: ['jovial', 'affluent', 'good', 'gentle', 'unassuming'] 
+negative: ['broken', 'terrible']
+neutral: ['physical', 'distant', 'firm', 'wide', 'Unlikely', 'small', 'unscathed', 'unique', 'common', 'deeper', 'different', 'down-home', 'dust-clouded']
+
+Rich Descriptors:
+positive: ['humble', 'great', 'endless', 'fine', 'high', 'grand', 'good', 'gentle', 'firm', 'affluent'] 
+negative: ['broken', 'worn-down']
+neutral: ['different', 'societal', 'dust-clouded', 'down-home', 'distant', 'deeper', 'common', 'homemade']
+
+Poor Descriptors:
+positive: ['high', 'good', 'grand', 'affluent', 'great']
+negative: ['small', 'old', 'broken']
+neutral: ['deeper', 'common', 'different', 'distant', 'down-home', 'dust-clouded', 'homemade', 'endless', 'fine', 'firm', 'gentle', 'worn-down']
+
+Overall Analysis: The analysis of the provided lists of words reveals several social biases present in the work they were extracted from. The positive descriptors for males focus heavily on qualities such as greatness, dignity, goodness, and wealth ('fine', 'high', 'great', 'grand', 'good', 'gentle', 'affluent'), implying a masculine standard of success and honor. Conversely, females are more often associated with qualities of wealth, quietness, and gentleness, suggesting the presence of stereotypes regarding expected female behavior. The descriptors do not show significant positive or negative bias regarding white and non-white, and rich and poor categories. Overall, the book seems to uphold traditional gender roles and would benefit from a more balanced portrayal of the various groups.

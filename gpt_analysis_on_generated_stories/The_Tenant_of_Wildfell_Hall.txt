@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['old', 'infinite', 'sacred', 'gentle', 'golden', 'gentleman', 'extraordinary', 'fine', 'lush', 'dependable'] 
+negative: ['little', 'jealous'] 
+neutral: ['contagious', 'moderate', 'due', 'lad', 'instrumental', 'immediate', 'different', 'comparable']
+
+Female Descriptors:
+positive: ['young', 'obvious', 'right', 'poignant', 'golden', 'gentleman', 'gentle', 'extraordinary', 'fine', 'lad', 'due'] 
+negative: ['poor']
+neutral: ['washing', 'broad-shouldered', 'wide', 'nostalgia', 'secret', 'instrumental', 'infinite', 'immediate']
+
+White Descriptors:
+positive: ['dependable', 'white', 'vast', 'lush', 'prestigious', 'quiet', 'gentleman', 'golden', 'young', 'fine', 'gentle', 'due', 'extraordinary', 'lad'] 
+negative: []
+neutral: ['much', 'tall', 'blue', 'instrumental', 'immediate', 'infinite']
+
+Non-white Descriptors:
+positive: ['big', 'gentle', 'fine', 'extraordinary', 'loyal', 'gentleman', 'blue', 'golden', 'contagious'] 
+negative: ['roughened', 'jealous'] 
+neutral: ['simple', 'lad', 'bluest', 'thick', 'instrumental', 'infinite', 'immediate', 'broad-shouldered', 'clear']
+
+Rich Descriptors:
+positive: ['jealous', 'unexpected', 'tranquil', 'peaceful', 'golden', 'young', 'gentle', 'lad', 'instrumental', 'infinite', 'immediate', 'gentleman', 'due', 'fine', 'extraordinary', 'loyal', 'dependable', 'contagious'] 
+negative: [] 
+neutral: ['comparable', 'different'] 
+
+Poor Descriptors:
+positive: ['open', 'young', 'gentle', 'infinite', 'golden', 'gentleman', 'fine', 'lush', 'extraordinary', 'due', 'dependable', 'contagious'] 
+negative: []
+neutral: ['clear', 'instrumental', 'immediate', 'little', 'lad', 'jealous', 'different', 'comparable']
+
+Overall Analysis: This work appears to associate positive characteristics more often with males, whites, and the rich, while negative traits are subtly associated more with females, non-whites, and the poor. Females and non-whites, in particular, are depicted with negative traits such as 'poor' and 'roughened'. However, the poor are mostly neutrally described. This could suggest the presence of overt and covert racial, gender and class biases. However, it is important to note that such biases may be subject to the context in which these words are used.

@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['new', 'pleased', 'strong', 'interesting', 'huge']
+negative: ['awful', 'bad', 'least', 'black', 'sick', 'contrary', 'red', 'instant', 'dead', 'unable']
+neutral: ['“', '’', 'next', 'usual', '”']
+
+Female Descriptors:
+positive: ['good', 'better', 'great', 'whole', 'fine', 'complete', 'bright', 'large']
+negative: ['wrong', 'angry', 'terrible', 'cold']
+neutral: ['’', '”', 'it.', 'serious', 'former', 'thin', 'early', 'previous']
+
+White Descriptors:
+positive: ['little', 'first', 'good', 'possible', 'long', 'interested', 'chief', 'soft', 'light', 'handsome']
+negative: ['short', 'strange', 'slightest', 'painful']
+neutral: ['“', 'last', 'present', 'common', 'busy', 'sudden']
+
+Non-white Descriptors:
+positive: ['young', 'white', 'glad', 'ready', 'long', 'certain', 'nice', 'special', 'sure', 'fresh', 'simple', 'sweet']
+negative: ['unhappy', 'conscious', 'poor', 'hard', 'anxious', 'unpleasant']
+neutral: ['gray', 'married']
+
+Rich Descriptors:
+positive: ['old', 'whole', 'great', 'full', 'first', 'aware', 'several', 'natural', 'able', 'splendid', 'greater']
+negative: ['impossible', 'difficult', 'disagreeable']
+neutral: ['”', '’', 'public', 'French', 'third', 'low']
+
+Poor Descriptors:
+positive: ['much', 'little', 'new', 'happy', 'many', 'best', 'high', 'afraid', 'big', 'second', 'general', 'open', 'right', 'clear', 'important']
+negative: ['old', '....', 'different', 'Russian']
+neutral: ['“']
+
+Overall Analysis: The generated word lists suggest societal biases in gender, race and socio-economic status. Men are associated to a greater extent with negative connotations and words that suggest conflict or power, while women are associated more with positive and neutral connotations. Whites tend to have more positive associated words than non-whites, who are linked with words that express anxieties or negativity. The word list also suggests bias in economic status, as rich people are more often associated with more positive words than the poor, reflecting socio-economic disparities.

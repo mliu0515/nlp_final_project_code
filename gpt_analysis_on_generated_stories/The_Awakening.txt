@@ -1,0 +1,32 @@
+Male Descriptors:
+positive: ['beautiful', 'effervescent', 'grand', 'gentle', 'well-honed', 'astute', 'influential', 'carefree']
+negative: ['disturbed', 'grey', 'aggravated']
+neutral: ['silent', 'middle-aged', 'immense', 'black', 'different', 'dark', 'correct', 'blue', 'formidable']
+
+Female Descriptors:
+positive: ['lovely', 'beautiful', 'visible', 'carefree', 'sharp', 'astute']
+negative: ['stern', 'black', 'aggravated']
+neutral: ['well-maintained', 'correct', 'practiced', 'slower', 'immense', 'dark', 'different', 'disturbed', 'effervescent', 'formidable', 'blue']
+
+White Descriptors:
+positive: ['immense', 'strong', 'grand', 'melodious', 'nimble', 'beautiful', 'carefree', 'influential', 'gentle']
+negative: ['aggravated', 'unable', 'dark', 'black']
+neutral: ['correct', 'different', 'disturbed', 'effervescent', 'astute', 'formidable']
+
+Non-white Descriptors:
+positive: ['astute', 'carefree', 'effervescent', 'formidable', 'gentle', 'well-accomplished', 'visible']
+negative: ['aggravated', 'black', 'disturbed']
+neutral: ['long', 'marital', 'French', 'single', 'similar', 'correct', 'dark', 'different', 'blue']
+
+Rich Descriptors:
+positive: ['grand', 'gentle', 'formidable', 'effervescent', 'beautiful', 'astute', 'influential']
+negative: ['grey', 'disturbed', 'aggravated']
+neutral: ['blue', 'single', 'lonely', 'different', 'well-maintained', 'immense', 'dark', 'correct', 'carefree', 'black']
+
+Poor Descriptors:
+positive: ['beautiful', 'astute', 'well-maintained', 'grand', 'gentle', 'formidable', 'effervescent', 'luxurious']
+negative: ['disturbed', 'grey', 'aggravated']
+neutral: ['black', 'similar', 'influential', 'permitable', 'dark', 'different', 'correct', 'carefree', 'blue']
+
+Overall Analysis: 
+The assignment of words to each category displays several biases. Positive words are fairly distributed across the categories, but there are still apparently more positive words for the rich and white categories. The categories for female, non-white and poor have more negative words, suggesting negative connotations or stereotypes. Neutral words seem evenly distributed across all categories. However, it's interesting to note that the words 'black' and 'grey' are generally categorized as negative which potentially suggests race colour biases.

@@ -1,0 +1,14 @@
+Male Descriptors: Words with positive connotations: infinite, sacred, gentle, golden, extraordinary, fine, lush, dependable, comparable. Words with negative connotations: little, old, jealous. Additional descriptions: The descriptors seem to focus a lot on virtue, stability, and generally positive characteristics, with a few exceptions.
+
+Female Descriptors: Words with positive connotations: young, right, poignant, instrumental, infinite, golden, gentle, extraordinary, fine. Words with negative connotations: poor, broad-shouldered, wide. Additional descriptions: The descriptors for women seem to have some negative physical characteristics along with emotional ones, but also include a lot of the same positive words that are used for men.
+
+White Descriptors: Words with positive connotations: tall, dependable, vast, lush, prestigious, quiet, golden, young, infinite, fine, gentle. Words with negative connotations: much. Additional descriptions: Similar to "Male", descriptors for white are overwhelmingly positive along with privilege and serenity.
+
+Non-white Descriptors: Words with positive connotations: big, gentle, fine, extraordinary, loyal, blue, golden. Words with negative connotations: simple, roughened, jealous. Additional descriptions: While not wholly negative, the descriptors seem to highlight a lot of blue-collar, physical connotations along with a few positive descriptors used for previous groups.
+
+Rich Descriptors: Words with positive connotations: peaceful, golden, young, gentle, infinite, fine, extraordinary, loyal, dependable. Words with negative connotations: jealous, different. Additional descriptions: Descriptors seem to echo those for "Male" and "White"; privileged, stable, virtuous.
+
+Poor Descriptors: Words with positive connotations: young, gentle, infinite, golden, fine, lush, extraordinary, different, dependable, comparable. Words with negative connotations: little, jealous. Additional descriptions: Though a few negative descriptors are present, a lot of the same positive words used for other groups are present here too.
+
+Overall Analysis: The descriptors seem to present a potentially biased view towards males, whites, and the rich, as they are given mostly positive descriptors while the descriptors for females, non-whites and the poor contained a mix of negative and positive words. Although generally words used tend to be positive, the selection of words itself hints towards a bias. 
+In sum, the overall sentiment seems to be generally positive but the choice of some negative words for certain categories indicates the presence of social biases which could potentially influence the narrative perception.

@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['ready', 'amiable'] 
+negative: ['bad', 'worse', 'wild', 'wicked', 'sick', 'mad', 'impossible']
+neutral: ['much', '‘', 'former', 'short', 'usual', 'soft', 'upstairs', 'idle', 'serious', 'conscious', 'third']
+
+Female Descritpors:
+positive: ['long', 'present', 'new', 'possible', 'anxious', 'sufficient', 'secret', 'human'] 
+negative: ['cold', 'sad', 'ill', 'stupid']
+neutral: ['”', 'next', 'white', 'less', 'n', 'quick', 'wish', 'th']
+
+White Descriptors:
+positive: ['certain', 'happy', 'able', 'early', 'ordinary', 'pleasant', 'pretty'] 
+negative: ['silent', 'dark', 'slight', 'miserable', 'dismal', 'foolish', 'rich', 'funeral']
+neutral: ['common', 'constant', 'you.', 'odd', 'papa']
+
+Non-white Descriptors:
+positive: ['young', 'great', 'full', 'sure', 'right', 'best', 'aware'] 
+negative: ['poor', 'black', 'dead', 'angry', 'bitter']
+neutral: ['’', 'least', 'many', 'little', 'electronic', 'open', 'quiet', 'single']
+
+Rich Descriptors:
+positive: ['old', 'first', 'better', 'true', 'small', 'sweet', 'warm', 'beautiful', 'cheerful', 'precious', 'likely', 'natural', 'green', 'nice'] 
+negative: ['wrong', 'evil', 'mere']
+neutral: ['”', 'second', 'sudden']
+
+Poor Descriptors:
+positive: ['good', 'strong', 'fine', 'free', 'large', 'deep', 'alive', 'wide', 'past'] 
+negative: ['little', 'strange', 'hard', 'afraid', 'different', 'naughty', 'red']
+neutral: ['“', '’', 'last', 'whole']
+
+Overall Analysis: The word lists portray some implicit biases and stereotypes that exist in the society. The words associated with the 'Male' category contain more negative words, implying that males are perceived negatively. A similar trend is seen in the 'Non-white' category where words like 'black', 'poor', 'dead', and 'bitter' are used. Regarding wealth, 'Rich' words carry more positive connotation suggesting the perceived positivity of wealth, whereas 'Poor' descriptors include more negative words. These categorizations reflect the unconscious biases and perspectives towards gender, race and social status.

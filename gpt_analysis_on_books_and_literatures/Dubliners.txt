@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['fine', 'warm', 'able'] 
+negative: ['poor', 'cold', 'hard', 'foolish']
+neutral: ['young', 'last', 'silent', 'brown', 'soft', 'front', 'whole', 'huge', 'first', 'small', 'tall', 'younger', 'vague']
+
+Female Descriptors:
+positive: ['white', 'nice', 'hot', 'ready', 'green', 'bright', 'strong', 'friendly', 'wild', 'curious'] 
+negative: ['black', 'strange', 'angry']
+neutral: ['“', 'next', 'decent', 'general', 'fat', 'German', 'ten']
+
+White Descriptors:
+positive: ['many', 'new', 'red', 'better', 'high', 'best', 'open', 'sure', 'grand', 'French', 'musical'] 
+negative: ['dead', 'thin', 'dark']
+neutral: ['large', 'serious', 'sudden', 'different', 'constable', 'secret']
+
+Non-white Descriptors:
+positive: ['light', 'free', 'blue', 'true', 'fair', 'conscious', 'human', 'present'] 
+negative: ['bad', 'wrong', 'low', 'lower']
+neutral: ['”', 'electronic', 'Little', 'small', 'big', 'late', 'thick', 'past']
+
+Rich Descriptors:
+positive: ['long', 'right', 'sure', 'short', 'pleasant', 'deep', 'third', 'private'] 
+negative: ['terrible', 'nervous', 'flat']
+neutral: ['last', '....', 'small', 'upper', '_The', 'Irish', 'final', 'fellow']
+
+Poor Descriptors:
+positive: ['good', 'young', 'great', 'full', 'beautiful', 'grey'] 
+negative: ['old', 'little', 'heavy', 'dull', 'sorry']
+neutral: ['’', 'first', 'much', 'certain', 'second', 'least', 'big', 'nose', 'gay']
+
+Overall Analysis: From the breakdown above, negative language is associated more with male, poor, and non-white. Moreover, females appear to have more positive descriptors than males, whereas rich individuals also have more positive attributes associated with them compared to the poor. These descriptors may suggest that the work potentially holds biases that favor females, the rich, and the white race. Hence, it may perpetuate stereotypes and societal discrepancies related to gender, wealth, and race.

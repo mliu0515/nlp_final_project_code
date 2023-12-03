@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connocations: quick, soulful, empathy, comfortable, charming, charismatic, bright. Words with negative connocations: melancholic, unspoken, late-night. Additional descriptions: Appears to focus on emotional intelligence and physical presence, showing a mixed view of males. 
+
+Female Descriptors: Words with positive connocations: charismatic, soft, thoughtful, charming, bright, comfortable. Words with negative connocations: tight-knit, old, unspoken, late-night. Additional descriptions: Emphasises on community, emotional intelligence and physical smallness, hinting at stereotype of women as nurturing and smaller. 
+
+White Descriptors: Words with positive connocations: bright, empathy, comfortable, charming, charismatic. Words with negative connocations: melancholic, unspoken, late-night, secret. Additional descriptions: Equated with emotional depth and attractiveness but also elements of dark and mysterious, hinting a nuanced view of whites. 
+
+Non-white Descriptors: Words with positive connocations: able, nostalgia, empathy, comfortable, charming, charismatic, bright. Words with negative connocations: past, melancholic, unspoken, late-night. Additional descriptions: Presents non-whites as capable and value the past, although darkness and melancholy persist, suggesting possible struggles faced.
+
+Rich Descriptors: Words with positive connocations: enough, mutual, sure, comfortable, empathy, charming, charismatic, bright. Words with negative connocations: unspoken, late-night, melancholic. Additional descriptions: Ascribes traits of comfort, certainty and emotional intelligence to the rich, but also hints at hidden aspects. 
+
+Poor Descriptors: Words with positive connocations: subtle, charming, charismatic, bright, comfortable. Words with negative connotations: slow, melancholic, unspoken, late-night. Additional descriptions: Aligns the poor with charm and subtlety but also sadness and secrecy, possibly hinting at resilience despite adversity.
+
+Overall Analysis: The descriptors largely contain positive words focused on charm, comfort and brightness across categories, suggesting a generally favourable depiction of people regardless of gender, race, and economic status. Nevertheless, there are also significant attributes of melancholy, secrecy, and darkness which reflect social biases that these groups may face or possess hidden struggles. 
+
+The sentiment analysis shows that the language used is generally positive, but the negative connotations associated with 'late-night', 'unspoken', and 'melancholic' across all categories indicate the lingering presence of struggles and difficulties, portraying a somewhat realistic or perhaps slightly critical view of society.

@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['common', 'kindled', 'gilded', 'firm', 'familiar', 'dexterous', 'curious', 'cherished', 'bright'] 
+negative: ['empty', 'dark', 'cold']
+neutral: ['maiden', 'palpable', 'rustic', 'interminable', 'inexplicable', 'green', 'dusty', 'long']
+
+Female Descriptors:
+positive: ['natural', 'serene', 'rich', 'profound', 'gilded', 'firm', 'dexterous', 'curious', 'familiar'] 
+negative: ['weather-beaten', 'austere', 'empty', 'dark']
+neutral: ['strange', 'odd', 'interminable', 'reclusive', 'green', 'dusty', 'common']
+
+White Descriptors:
+positive: ['simple', 'wealthy', 'familiar', 'long', 'gilded', 'kindled', 'curious', 'common'] 
+negative: ['stark', 'empty', 'dark', 'cold']
+neutral: ['unknown', 'minor', 'weather-beaten', 'inexplicable', 'green', 'dexterous', 'dusty']
+
+Non-white Descriptors:
+positive: ['alive', 'familiar', 'gilded', 'firm', 'curious'] 
+negative: ['uncommon', 'empty', 'dark', 'cold']
+neutral: ['red', 'Scottish', 'similar', 'last', 'riotous', 'inexplicable', 'ancestral', 'green', 'interminable', 'dexterous', 'dusty']
+
+Rich Descriptors:
+positive: ['green', 'cherished', 'curious', 'kindled', 'familiar', 'dexterous', 'long', 'common', 'bright'] 
+negative: ['somber', 'poor', 'empty', 'dark', 'cold']
+neutral: ['interminable', 'inexplicable', 'gilded', 'firm', 'dusty']
+
+Poor Descriptors:
+positive: ['gilded', 'kindled', 'bright', 'firm', 'familiar', 'dexterous', 'cherished'] 
+negative: ['modest', 'empty', 'dark', 'cold']
+neutral: ['peculiar', 'weather-beaten', 'interminable', 'inexplicable', 'green', 'dusty', 'long', 'curious', 'common']
+
+Overall Analysis: Analyzing these lists, there appears to be some bias towards positive terms being used more frequently to describe male, white, and rich categories while female and non-white categories' descriptors verge more on neutral and negative terms. For instance, "dark", "empty", and "cold" words are not as common in the white and rich categories. Interestingly, "poor" category has an almost equal distribution of positive, negative, and neutral words. The representation of males with words like 'palpable' and 'dexterous' give them a more active role, while females are represented with words like 'natural' and 'serene' that are more passive. The descriptors suggest a certain stereotyping in the book. However, we would require more context and insight to make a more definite assessment.

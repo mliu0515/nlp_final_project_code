@@ -1,0 +1,35 @@
+Here are the descriptors listed. Some may contain subjectivity as the connotation of a word can heavily depend on its context:
+
+Male Descriptors:
+positive: ['friendly', 'meaningful', 'jovial', 'memorable', 'home-grown', 'green', 'cool'] 
+negative: ['hard', 'late', 'low', 'secret']
+neutral: ['oversized', 'vocal', 'wooden', 'local', 'much', 'last', 'lanky', 'much-anticipated', '’']
+
+Female Descritpors:
+positive: ['pleased', 'tall', 'meaningful', 'real', 'special', 'memorable', 'warm', 'affluent'] 
+negative: ['small', 'low', 'last', 'late']
+neutral: ['once-vivid', 'showy', 'socioeconomic', 'weathered', 'daisy-covered', 'fading', 'Next', 'local', '’']
+
+White Descriptors:
+positive: ['famous', 'jovial', 'memorable', 'annual', 'home-grown'] 
+negative: ['rusty', 'pompous', 'stark', 'low', 'late', 'last']
+neutral: ['agricultural', 'yearly', 'much-anticipated', 'lanky', 'much', 'Next', 'local', 'meaningful', '’']
+
+Non-white Descriptors:
+positive: ['affluent', 'daisy-covered', 'fair', 'jovial', 'friendly', 'organic', 'plump'] 
+negative: ['slight', 'uncooperative', 'stark', 'last', 'late']
+neutral: ['seasoned', '’', 'fading', 'primary', '25th', 'wealthiest', 'local', 'lanky']
+
+Rich Descriptors:
+positive: ['significant', 'true', 'prudent', 'comfortable', 'memorable', 'lanky', 'jovial', 'friendly', 'green'] 
+negative: ['last', 'low', 'hard']
+neutral: ['soapy', 'top', 'local', 'meaningful', 'late', 'much', 'home-grown', '’']
+
+Poor Descriptors:
+positive: ['quiet', 'genuine', 'memorable', 'jovial', 'green', 'organic'] 
+negative: ['short', 'stern', 'last', 'late', 'low', 'hard']
+neutral: ['local', 'financial', 'home-grown', 'lanky', '’', 'much', 'much-anticipated']
+
+Overall Analysis:
+
+Based on the selection of words, there seems to be a tendency to associate men with neutral or negative words like 'hard', 'late', 'low', and 'secret'. Positivity is almost equated to affluence as seen in descriptors for rich individuals. It's also notable that words associated with non-white and poor individuals contain a mix of positivity, negativity, and neutrality, indicating a diverse representation. Yet, words such as 'uncooperative' and 'stern' for non-white and poor categories respectively, might reflect potential negative biases.

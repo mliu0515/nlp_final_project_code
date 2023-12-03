@@ -1,0 +1,33 @@
+Male Descriptors:
+positive: ['best', 'real', 'happy', 'right', 'delightful', 'aware', 'dearest', 'worth', 'fresh', 'charming'] 
+negative: ['disagreeable', 'inferior']
+neutral: ['first', 'proper', 'different', 'longer', 'late', 'wish', 'immediate']
+
+Female Descriptors:
+positive: ['great', 'sure', 'new', 'amiable', 'many', 'sensible', 'warm', 'pretty', 'busy']
+negative: ['poor', 'wrong']
+neutral: ['little', 'least', 'next', 'natural', 'open', 'less', 'sudden', 'mere','to-morrow']
+
+White Descriptors:
+positive: ['good', 'young', 'dear', 'ready', 'agreeable', 'fine', 'greatest', 'handsome', 'interesting', 'large'] 
+negative: ['bad']
+neutral: ['last', 'long', 'usual', 'particular', 'serious', 'certain', 'electronic', 'silent', 'due']
+
+Non-white Descriptors:
+positive: ['great', 'sure', 'full', 'pleasant', 'comfortable', 'perfect', 'useful', 'sorry']
+negative: ['worst', 'severe']
+neutral: ['”', '“', 'old', 'first', 'whole', 'small', 'easy', 'reasonable', 'considerable', 'complete' ]
+
+Rich Descriptors:
+positive: ['better', 'able', 'superior', 'true', 'strong', 'common', 'quiet', 'fair', 'cheerful', 'safe', 'sweet', 'desirable', 'musical']
+negative: ['impossible', 'worse']
+neutral: ['much', 'many', 'possible', 'second', 'farther']
+
+Poor Descriptors:
+positive: ['happy', 'present', 'equal', 'glad', 'likely', 'greater', 'excellent', 'elegant', 'extraordinary']
+negative: ['afraid', 'cold']
+neutral: ['little', '”', 'general', '’', 'short', 'early', 'anxious', 'it.', 'odd']
+
+Overall Analysis: 
+
+The lists suggest that the book may contain some traditional gender biases; for instance, generally positive words are associated with males, whereas females are associated with a mixture of positive and negative terms. Additionally, potentially positive traits and descriptors are attributed to white and rich characters while the book assigns a mixed range of descriptors for non-white and poor characters. Biases lie in words' connotations: the rich are largely associated with positive and strong adjectives, whereas the poor have some negative connotations. Such biases could create potential stereotypes within this text. Overall, this book seems to present prevailing social hierarchies and stereotypes.

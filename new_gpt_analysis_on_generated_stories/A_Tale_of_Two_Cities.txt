@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: modest, flourishing, intricate, great, full, young, mixed, easy. Words with negative connotations: treacherous, dead. Additional descriptions: The descriptors used for males are generally neutral with a slight lean towards positive, but the use of "treacherous" and "dead" give a glimpse of negativity.
+
+Female Descriptors: Words with positive connotations: courageous, brave, peaceful, sturdy, great, full, young, flourishing. Words with negative connotations: unlikely, unforgiving, poor, stiff. Additional descriptions: The descriptors used for females show them in a strong light with positive terms like "courageous", "brave", "peaceful", but there are some negative descriptors like "unlikely", "unforgiving", and "poor".
+
+White Descriptors: Words with positive connotations: many, full, strong, flourishing, prestigious, intricate, great, easy. Words with negative connotations: sudden, starkly, estranged. Additional descriptions: The descriptors for white characters lean positive and rich, though there are some negative descriptors such as "sudden", "starkly", and "estranged".
+
+Non-white Descriptors: Words with positive connotations: Lady, early, wealthy, comfortable, brave, intricate, Victorian, great. Words with negative connotations: past, heavy, worse, personal, war-stricken. Additional descriptions: The descriptors lean slightly negative for non-white characters with terms that evoke hardship or challenge like "past", "heavy", "worse", "war-stricken".
+
+Rich Descriptors: Words with positive connotations: young, challenging, rich, unwavering, many, great, full, comfortable. Words with negative connotations: dead, scant, estranged. Additional descriptions: The descriptors for the rich category are mainly positive, painting a picture of challenge, comfort, and strength, but there are hints of negativity such as "dead", "scant", and "estranged".
+
+Poor Descriptors: Words with positive connotations: broad, head, great, flourishing, many, easy, modest, early. Words with negative connotations: old, unassuming, different. Additional descriptions: The descriptors for the poor category sit on a fine balance between positive and negative, with a mix of neutrally positive words like "great", "flourishing", but also words like "old", "unassuming", and "different".
+
+Overall Analysis: The language used in these descriptors exhibits some class and racial biases. The descriptors for white characters are generally positive, whereas non-white characters are described with more negative words. Similarly, rich characters have more positive attributes while poor are given a mixture of negative and neutral descriptors. This suggests that the work may have bias towards white and rich characters. Gender descriptions, on the other hand, have a balance between positive and negative for both males and females. 
+
+Sentiment analysis: The overall sentiment is balanced but slightly leans towards the positive, with a few negative words interspersed throughout for each category.

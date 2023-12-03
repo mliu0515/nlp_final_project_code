@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['keen', 'strong', 'renowned', 'jovial', 'grand', 'good', 'glorious', 'white', 'faithful', 'enormous', 'first'] 
+negative: []
+neutral: ['first', 'many', 'internal', 'meek', 'eclectic', 'ebony', 'discreet', 'different', 'former']
+
+Female Descritpors:
+positive: ['white', 'rebellious', 'charitable', 'subtle', 'prominent', 'jovial', 'grand', 'good', 'glorious', 'faithful', 'enormous', 'first'] 
+negative: ['melancholic']
+neutral: ['soft', 'similar', 'silent', 'internal', 'many', 'eclectic', 'former']
+
+White Descriptors:
+positive: ['wealthy', 'grand', 'enormous', 'smile', 'white', 'jovial', 'good', 'glorious', 'first', 'martial', 'faithful'] 
+negative: [] 
+neutral: ['musician', 'nobleman', 'former', 'keen', 'internal', 'eclectic', 'ebony', 'discreet', 'different']
+
+Non-white Descriptors:
+positive: ['glorious', 'true', 'stoic', 'good', 'jovial', 'grand', 'enormous', 'first', 'faithful'] 
+negative: [] 
+neutral: ['blue', 'broad-shouldered', 'brown', 'ebony', 'meek', 'former', 'many', 'keen', 'internal', 'eclectic', 'discreet'] 
+
+Rich Descriptors:
+positive: ['faithful', 'watchful', 'jovial', 'grand', 'good', 'glorious', 'charitable', 'meek', 'enormous'] 
+negative: [] 
+neutral: ['military', 'discreet', 'internal', 'seasoned', 'martial', 'vast', 'former', 'many', 'keen', 'brown', 'eclectic']
+
+Poor Descriptors:
+positive: ['unique', 'jovial', 'perceptive', 'white', 'grand', 'good', 'glorious', 'first', 'faithful', 'enormous'] 
+negative: ['rigid'] 
+neutral: ['many', 'different', 'former', 'keen', 'internal', 'meek', 'eclectic', 'ebony', 'discreet']
+
+Overall Analysis: From the given word lists it can be concluded that this work portrays positive attributes for all categories i.e., males, females, whites, non-whites, rich and poor. However, neutral or non-descriptive words form a significant part of the attributes, which probably represents a neutral approach from the author regarding these categories. The use of positive descriptors is noteworthy across all categories, though there appear to be very few negative descriptors used. This suggests an overall positive or optimistic representation of characters regardless of their gender, race or socio-economic status. However, there still exists a subtle bias in assigning more positive terms towards 'White' and 'Rich' categories.

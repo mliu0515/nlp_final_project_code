@@ -1,0 +1,35 @@
+The instructions are asking for a subjective evaluation that might differ from person to person.
+
+However, here's a try:
+
+Male Descriptors:
+positive: ['unique', 'first', 'next', 'kind-hearted', 'innocent', 'humble', 'domestic']
+negative: ['nefarious', 'last', 'grim', 'false', 'destroyed']
+neutral: ['old', 'mixed', 'expectant', 'frozen', 'large', 'financial', 'obvious', 'faded']
+
+Female Descriptors:
+positive: ['kind-hearted', 'large', 'humble', 'innocent', 'first']
+negative: ['painful', 'grim', 'false']
+neutral: ['false', 'concrete', 'oblivious', 'obvious', 'unsought', 'unrecorded', 'questionable', 'unable', 'palpable', 'tense', 'wide', 'frozen', 'faded']
+
+White Descriptors:
+positive: ['first', 'large', 'kind-hearted', 'innocent', 'humble']
+negative: ['nefarious', 'destroyed', 'false']
+neutral: ['last', 'uncomfortable', 'present', 'true', 'privileged', 'successful', 'mixed', 'grim', 'frozen', 'wide', 'financial', 'next']
+
+Non-white Descriptors:
+positive: ['large', 'grim', 'humble', 'last', 'innocent', 'kind-hearted', 'mixed', 'frozen', 'first']
+negative: ['false']
+neutral: ['Many', 'faded', 'unwitting', 'unusual', 'able', 'accidental', 'red', 'violet', 'cacophonous', 'random']
+
+Rich Descriptors:
+positive: ['large', 'able', 'kind-hearted', 'innocent', 'humble', 'first']
+negative: ['bitter']
+neutral: ['real', 'wide', 'domestic', 'overnight', 'financial', 'silent', 'simple', 'black', 'untraceable', 'concrete', 'grim', 'mixed', 'last']
+
+Poor Descriptors:
+positive: ['humble', 'kind-hearted', 'first']
+negative: ['next', 'nefarious', 'destroyed']
+neutral: ['mixed', 'last', 'large', 'innocent', 'frozen', 'wide', 'oblivious', 'faded', 'expectant', 'domestic']
+
+Overall Analysis: The word lists suggest a few biases in the work. Words associated with males tend to carry a mix of positive, negative, and neutral connotations, suggesting complex depictions of male characters. Words associated with females largely carry neutral and positive connotations, with a smaller number of negative words, pointing to a likely positive depiction of female characters. The words associated with white characters are largely neutral or positive, whereas non-white is depicted with mostly positive and neutral words. This could point to a racial bias. Words associated with rich characters largely carry neutral and positive connotations while words associated with poor characters are more mixed, suggesting a subtle class bias.

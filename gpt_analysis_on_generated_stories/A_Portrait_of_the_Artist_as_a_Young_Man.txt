@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['vibrant', 'open', 'fairy-tale-like', 'grand', 'faithful', 'captivating', 'blue-blooded'] 
+negative: ['old', 'edgy']
+neutral: ['“', 'inevitable', 'gated', 'different', 'key', 'conspicuous', 'coffee-colored', 'brown', 'bearable', 'age-old']
+
+Female Descriptors:
+positive: ['grand', 'opulent', 'unwavering', 'fairy-tale-like', 'faithful', 'captivating', 'blue-blooded'] 
+negative: ['weathered', 'edgy']
+neutral: ['marble', '“', 'gated', 'conspicuous', 'coffee-colored', 'different', 'ivory', 'brown', 'bearable', 'age-old']
+
+White Descriptors:
+positive: ['different', 'grand', 'faithful', 'fairy-tale-like', 'inevitable', 'blue-blooded'] 
+negative: ['succinct', 'edgy']
+neutral: ['“', 'ivory', 'gated', 'little', 'coffee-colored', 'captivating', 'brown', 'bearable', 'age-old', 'key', 'manifest']
+
+Non-white Descriptors:
+positive: ['age-old', 'bearable', 'faithful', 'vast', 'soft', 'blue-blooded', 'captivating', 'vibrant'] 
+negative: ['wild', 'edgy', 'Victorian']
+neutral: ['manifest', 'next', 'coffee-colored', 'gated', 'sigh', 'weathered', 'brown', 'conspicuous', 'different']
+
+Rich Descriptors:
+positive: ['soft', 'captivating', 'inevitable', 'faithful', 'blue-blooded', 'fairy-tale-like', 'grand'] 
+negative: ['edgy']
+neutral: ['“', 'little', 'right', 'coffee-colored', 'brown', 'conspicuous', 'different', 'bearable', 'gated', 'age-old', 'ivory', 'key']
+
+Poor Descriptors:
+positive: ['young', 'newfound', 'faithful', 'fairy-tale-like', 'inevitable', 'grand'] 
+negative: ['edgy', 'relic']
+neutral: ['key', 'ivory', 'brown', 'gated', '“', 'different', 'conspicuous', 'coffee-colored', 'captivating', 'blue-blooded', 'bearable', 'age-old']
+
+Overall Analysis: The word lists indicate a tendency to associate positive adjectives more often with male, white, rich, and non-white descriptors, while the female and poor descriptors contain a slightly higher proportion of negative words. This may suggest some societal biases, such as attributing wealth and maleness with positivity, whereas femaleness and poverty are considered slightly less positively, indicating a potentially biased representation.

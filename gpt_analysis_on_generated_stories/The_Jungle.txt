@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['lush', 'fairy', 'big', 'colorful', 'keen', 'impeccable', 'humanitarian', 'high', 'astonished', 'grand', 'good', 'golden', 'free', 'first', 'life-changing']
+negative: ['silent', 'hidden', 'overhear']
+neutral: ['white', 'familiar']
+
+Female Descriptors:
+positive: ['social', 'polished', 'practiced', 'keen', 'remarkable', 'big', 'golden', 'humanitarian', 'high', 'hidden', 'grand', 'good', 'astonished', 'authentic']
+negative: ['distant', 'trivial']
+neutral: ['youngest', 'new', 'next', 'different', 'familiar']
+
+White Descriptors:
+positive: ['loyal', 'traditional', 'emerald', 'golden', 'youngest', 'impeccable', 'humanitarian', 'high', 'hidden', 'grand', 'good', 'free', 'fairy', 'esteemed']
+negative: ['unfolding', 'middle-aged']
+neutral: ['societal', 'first', 'familiar', 'leap']
+
+Non-white Descriptors:
+positive: ['wealthy', 'ambitious', 'impeccable', 'free', 'first', 'secret', 'life-changing', 'astonished', 'authentic', 'good', 'keen', 'humanitarian', 'high', 'hidden', 'grand']
+negative: ['quiet', 'stark']
+neutral: ['familiar', 'different', 'distant']
+
+Rich Descriptors:
+positive: ['humanitarian', 'deep', 'supportive', 'steady', 'good', 'esteemed', 'perfect', 'youngest', 'free', 'keen', 'impeccable', 'high', 'hidden', 'grand', 'golden', 'fairy', 'first', 'life-changing', 'emerald']
+negative: []
+neutral: ['familiar']
+
+Poor Descriptors:
+positive: ['leap', 'young', 'colorful', 'high', 'grand', 'free', 'keen', 'impeccable', 'humanitarian', 'hidden', 'good', 'golden', 'youngest', 'life-changing', 'esteemed', 'emerald']
+negative: ['modest']
+neutral: ['palpable', 'familiar', 'fairy']
+
+Overall Analysis: The word lists reveal biases toward certain social groups, namely associating largely positive traits with the male, white, rich, and non-white groups. The female and poor categories have more negative traits, though comparatively fewer. Additionally, the words associated with the rich and male groups suggest oblique biased notions of power, success, and privilege. Notably, the rich and non-white descriptors carry positive connotations of ambition and wealth, suggesting a bias towards these traits in those social groups.

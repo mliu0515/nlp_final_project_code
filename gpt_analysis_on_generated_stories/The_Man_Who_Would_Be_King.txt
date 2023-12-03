@@ -1,0 +1,33 @@
+Here is an example of how the evaluation and analysis might look:
+
+Male Descriptors:
+- Positive: ['real', 'sharp', 'empathic', 'expressive', 'distinct', 'deep', 'cool'] 
+- Negative: ['poor', 'gruff', 'hard', 'grizzled', 'fleeting', 'failed', 'empty', 'dumb']
+- Neutral: ['elderly', 'young', 'late', 'domestic', 'daily']
+
+Female Descriptors:
+- Positive: ['lofty', 'distinct', 'empathic', 'expressive', 'young', 'influential', 'domestic']
+- Negative: ['gruff', 'resistant', 'grizzled', 'fleeting', 'failed', 'empty', 'dumb'] 
+- Neutral: ['rebellious', 'white', 'common', 'snowy', 'rough-hewn', 'prettier', 'elderly']
+
+White Descriptors:
+- Positive: ['young', 'resistant', 'soft', 'aware', 'expressive', 'empathic', 'elderly'] 
+- Negative: ['domestic', 'failed', 'gruff', 'grizzled', 'fleeting', 'common', 'empty', 'deep']
+- Neutral: ['particular', 'powdered', 'rich', 'restorative', 'daily', 'bucolic']
+
+Non-white Descriptors:
+- Positive: ['social', 'serene', 'deep', 'expressive', 'empathic']
+- Negative: ['empty', 'hard', 'gruff', 'grizzled', 'fleeting', 'failed', 'domestic', 'elderly', 'dumb', 'distinct']
+- Neutral: ['Next', 'bucolic', 'strange', 'parchment-thin', 'late']
+
+Rich Descriptors:
+- Positive: ['influential', 'wealthier', 'empathic', 'expressive', 'young', 'elderly', 'distinct', 'deep', 'cool']
+- Negative: ['dumb', 'fail', 'gruff', 'grizzled', 'empty']
+- Neutral: ['daily', 'fleeting', 'domestic', 'lofty', 'common']
+
+Poor Descriptors:
+- Positive: ['empathic', 'expressive', 'distinct', 'deep']
+- Negative: ['wealthy', 'hard', 'grizzled', 'cool', 'empty', 'gruff', 'fleeting', 'failed', 'dumb', 'domestic']
+- Neutral: ['quiet', 'much', 'pragmatic', 'raven', 'elderly', 'late']
+
+Overall Analysis: The word analysis indicates that there are some potential social biases in the book. Men are often described with both positive and negative words, suggesting complex characterization. Women are mostly described with positive and negative words with a slight leaning towards negative. The descriptors for white characters are evenly spread across positive, negative, and neutral suggesting diverse representation. Non-white characters, on the other hand, have more negative descriptors which may indicate bias. Characters identified as rich have more positive descriptors while poor characters are more often described with negative ones, suggesting a potential bias concerning economic conditions. The bias towards rich characters and negative bias with poor characters could reflect society's broader economic prejudices.

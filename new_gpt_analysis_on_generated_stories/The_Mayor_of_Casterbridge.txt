@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: triumphant, sturdy, resounding, wide, keen, humble, giant, full, finest, monetary, fancy, fairy-tale, earnest. Words with negative connotations: less, local, last, far-off. Additional descriptions: Men are depicted in powerful and financially strong terms, but also as humble and earnest.
+
+Female Descriptors: Words with positive connotations: humble, self-made, social, shared, quiet, giant, full, wide, finest, local, fairy-tale. Words with negative connotations: new, dirty, tiny, raw, last, far-off. Additional descriptions: Women are shown as social networkers who are able to create a better life for themselves, though they may face difficulties due to being new or not as experienced.
+
+White Descriptors: Words with positive connotations: wide, passionate, pleasant, silent, sigh, full, keen, humble, giant, finest, monetary, fancy, fairy-tale, earnest. Words with negative connotations: less, local, last, far-off. Additional descriptions: Whites are depicted as passionate, successful, yet humble individuals with a touch of delicacy.
+
+Non-white Descriptors: Words with positive connotations: candid, solitary, giant, full, fairy-tale, monetary, true, mild, local, humble, earnest, first, finest, new. Words with negative connotations: childless, different, dirty. Additional descriptions: Non-whites are shown as truthful, strong, with deeper characters, but difference and cleanliness issues are hinted.
+
+Rich Descriptors: Words with positive connotations: open, ever-changing, mild, keen, rough, finest, wealthy, giant, first, monetary, far-off. Words with negative connotations: unsophisticated, local, last, childless, humble, dirty, different. Additional descriptions: Richness is equated with openness to change and a wide array of experiences along with some contrasting traits of roughness and lack of sophistication.
+
+Poor Descriptors: Words with positive connotations: local, earnest, provincial, rich, wide, full, mild, keen, humble, giant, first, finest, fairy-tale, ever-changing, new. Words with negative connotations: last, less, dirty, far-off. Additional descriptions: Poverty is seen as a humble and earnest condition with a wide range of experiences, but with the presence of dirtiness and isolation implied.
+
+Overall Analysis: The work seems to carry a certain bias towards men and whites, depicting them in a more positive light compared to women and non-whites. There is also a clear distinction between rich and poor, with negative aspects associated with poverty such as dirtiness and isolation. Despite this, all groups are shown with some positive traits such as humility, strength, and ambition, thus providing a relatively balanced view.
+
+General sentiment: The list contains more positive descriptors in comparison to negative ones, providing an overall positive sentiment. However, it's essential to consider the context and how these descriptors are used in the actual text of the book.

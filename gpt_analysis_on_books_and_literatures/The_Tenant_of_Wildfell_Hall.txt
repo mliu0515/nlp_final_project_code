@@ -1,0 +1,32 @@
+Male Descriptors:
+positive: ['new', 'large', 'greatest'] 
+negative: ['short', 'low', 'hard', 'worse', 'painful',]
+neutral: ['first', 'former', '”', 'whole', 'serious', 'different', 'light', '‘', 'second', 'electronic', 'contrary', 'natural']
+
+Female Descriptors:
+positive: ['sweet', 'delightful', 'real', 'calm', 'perfect', 'important', 'greater'] 
+negative: ['least', 'poor', 'late', 'anxious', 'miserable', 'dark', 'single', 'worst']
+neutral: ['last', '”', 'black', '—', 'to-morrow']
+
+White Descriptors:
+positive: ['little', 'true', 'ready', 'future', 'bright', 'strong', 'deep', 'sensible', 'generous', 'likely', 'steady'] 
+negative: ['bitter', 'small', 'pale', 'angry']
+neutral: ['several', 'distant', 'latter', 'busy', 'rough']
+
+Non-white Descriptors:
+positive: ['better', 'old', 'best', 'fine', 'cheerful', 'clear', 'immediate', 'glorious', 'easy', 'active'] 
+negative: ['cold', 'strange', 'sad', 'selfish', 'wish']
+neutral: ['’', 'sure', 'particular', 'little', 'evident']
+
+Rich Descriptors:
+positive: ['much', 'many', 'full', 'happy', 'right', 'soft', 'wild', 'agreeable', 'free', 'superior'] 
+negative: ['sudden', 'secret', 'wicked', 'unhappy']
+neutral: ['’', 'it.', 'past', 'proper', 'willing']
+
+Poor Descriptors:
+positive: ['good', 'young', 'long', 'great', 'quiet', 'usual', 'dear', 'fair', 'able', 'silent'] 
+negative: ['present', 'next', 'less', 'bad', 'false']
+neutral: ['”', '“', 'little', 'certain', 'slight']
+
+Overall Analysis:
+Given these reflective words under various thematic categories, the book appears to manifest certain social biases. For example, females are associated with more negative descriptors than males, implying that women may be portrayed in less favorable situations or personal states. Similarly, the non-white category also carries several negative words suggesting a potential racial bias. In terms of social class, both rich and poor have positive and negative words, however the negative descriptors for the rich such as 'secret' and 'wicked' tend to be stronger and emotionally charged in comparison to those for the poor, hinting towards a potential bias against the rich. Furthermore, the book appears to hold certain biases in the portrayal of male and female characters, possibly presenting them in stereotypical roles or states, based on traditional societal views. To conclude, the book appears to display biases rooted in sex, race, and class.

@@ -1,0 +1,32 @@
+Male Descriptors:
+positive: ['grand', 'green', 'new', 'sudden', 'great', 'graceful', 'essential', 'infectious'] 
+negative: ['conspiratorial', 'blurry', 'closed']
+neutral: ['first', 'white', 'human', 'hollow', 'formalized', 'familiar', 'crisp', 'cavernous', 'careful']
+
+Female Descriptors:
+positive: ['right', 'graceful', 'essential', 'crisp', 'first', 'formalized'] 
+negative: ['unkind', 'underprivileged', 'infamous', 'razor-sharp', 'closed']
+neutral: ['marble', 'archaic', 'infectious', 'old', 'rhythmic', 'small', 'silver-white', 'white', 'familiar']
+
+White Descriptors:
+positive: ['quiet', 'careful', 'graceful', 'respectful', 'thin', 'many', 'green', 'great', 'crisp', 'formalized', 'essential', 'grand'] 
+negative: ['conspiratorial', 'closed']
+neutral: ['black', 'latter', 'aged', 'first', 'hollow', 'familiar']
+
+Non-white Descriptors:
+positive: ['wealthy', 'formalized', 'soft', 'familiar', 'essential', 'graceful', 'grand', 'great', 'green', 'first'] 
+negative: ['stern', 'brief']
+neutral: ['Down-stairs', 'societal', 'patrician', 'buttoned', 'button-down',  'monochrome', 'apparent', 'cavernous']
+
+Rich Descriptors:
+positive: ['white', 'essential', 'smile', 'proud', 'tiny', 'crisp', 'first', 'graceful', 'familiar', 'grand', 'great', 'green', 'formalized'] 
+negative: ['bear-like', 'conspiratorial', 'careful']
+neutral: ['cavernous', 'human', 'polite', 'stiff']
+
+Poor Descriptors:
+positive: ['great', 'ardent', 'sharp', 'crisp', 'grand', 'graceful', 'formalized', 'first', 'familiar', 'essential'] 
+negative: ['conspiratorial', 'closed']
+neutral: ['petite', 'hollow', 'human', 'green', 'white', 'infectious', 'cavernous', 'careful']
+
+Overall Analysis: 
+The word lists indicate that the book may contain some societal biases. For instance, words associated with 'male' and 'white' are generally more positive and less negative than words associated with 'female' and 'non-white', respectively. There is also evidence of class bias, as the 'rich' descriptors are largely positive, whereas the 'poor' descriptors contain negative connotations. This suggests purported positive correlations with being male, white, and rich, and negative associations with the counterparts. It is important to note, however, that these conclusions are based solely on the word associations and may not fully reflect the overall narrative or themes of the book. This analysis could become more accurate and nuanced with further context or additional data.

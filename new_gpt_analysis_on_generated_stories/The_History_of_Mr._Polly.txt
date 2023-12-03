@@ -1,0 +1,25 @@
+Male Descriptors: Words with positive connotations: new, outside, exquisite, several, intrigued, next, mysterious, middle-aged, majestic, magical, long, little, like, grand, original, gentle. 
+Words with negative connotations: failed, evident, easy. 
+Additional descriptions: Males are portrayed generally positively with words suggesting wonder, power, and kindness. Only minimal negativity is associated with them through words like "failed".
+
+Female Descriptors: Words with positive connotations: small, original, powerful, quaint, east-wing, majestic, chosen, weathered, wealthy, unique, china, magical, long, little, like, certain.
+Words with negative connotations: thin, old, closed.
+Additional descriptions: Descriptions for females lean positively, focusing on power, uniqueness, and wealth. Negative descriptors focus on physical appearance and a sense of closed off-ness.
+
+White Descriptors: Words with positive connotations: next, little, vast, quiet, intrigued, startling, easy, stunning, timeless, various, certain, rail-thin, magical, grand, long, majestic, like, white, gentle.
+Words with negative connotations: None
+Additional descriptions: White characters are painted overwhelmingly positive with terms denoting calmness, intrigue, and power, with no negative aspects.
+
+Non-white Descriptors: Words with positive connotations: white, stoic, gentle, grand, magical, mysterious, semi-retired, soft-spoken, interested, storied, strong, unique, long, little, like, intrigued, various, vast. 
+Words with negative connotations: failed, china.
+Additional descriptions: Non-white characters are mostly positively portrayed, with a mix of words indicating strength, uniqueness, and intrigue. However, there is also some negativity with 'failed' and possibly stereotypical with 'china'.
+
+Rich Descriptors: Words with positive connotations: long, well-kept, peculiar, evident, strong, storied, like, white, grand, mysterious, middle-aged, majestic, magical, little, intrigued. 
+Words with negative connotations: failed, gentle, next, exquisite, easy.
+Additional descriptions: Words for rich characters are mostly positive, suggesting care and grandness along with some elements of power and mystery. There is some negativity with words like 'failed’.
+
+Poor Descriptors: Words with positive connotations: past, middle-aged, white, intrigued, next, new, mysterious, majestic, magical, long, little, like, grand, original, gentle. 
+Words with negative connotations: closed, failed, exquisite, evident, easy.
+Additional descriptions: Poor characters receive mostly positive descriptions with a focus on intrigue, mystery, and grandeur. Yet, negative connotations appear with 'closed' and 'failed’.
+
+Overall Analysis: According to the descriptors, the work may reflect stereotypes - males as powerful & intriguing, women as delicate & rich, and a divide between whites and non-whites. The descriptors for the rich and poor characters also suggest class bias. The sentiment is generally more positive than negative across all categories, however biases are clearly existent.

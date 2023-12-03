@@ -1,0 +1,31 @@
+Male Descriptors:
+Positive: ['great', 'beautiful', 'possible', 'green', 'happy', 'single', 'natural', 'red', 'deep', 'grateful', 'mysterious', 'real']
+Negative: ['dark', 'afraid', 'dismal', 'dry', 'empty']
+Neutral: ['secret', '—', 'busy']
+
+Female Descritpors:
+Positive: ['little', 'good', 'better', 'new', 'right', 'white', 'sure', 'full', 'proud', 'greatest', 'hot']
+Negative: ['old', 'last', 'strange', 'heavy', 'sorry']
+Neutral: ['first', 'several', '”']
+
+White Descriptors:
+Positive: ['dear', 'high', 'clear', 'able', 'common', 'stronger', 'different', 'pale', 'wild', 'extraordinary']
+Negative: ['low', 'worst']
+Neutral: ['“,  ’', 'small', 'it.', 'electronic', 'necessary', 'former', 'disagreeable']
+
+Non-white Descriptors:
+Positive: ['whole', 'large', 'light', 'early', 'wide', 'human', 'constant']
+Negative: ['old', 'poor', 'cold', 'uncomfortable', 'lower', 'flat', 'suspicious']
+Neutral: ['left', 'coarse', 'distant', 'broad', 'you.', 'sister']
+
+Rich Descriptors:
+Positive: ['young', 'many', 'ready', 'hard', 'good', 'particular', 'safe', 'pleasant', 'fine', 'rich', 'strong']
+Negative: ['much', 'bad', 'short', 'dreadful', 'difficult']
+Neutral: ['next', 'guardian', '’']
+
+Poor Descriptors:
+Positive: ['little', 'best', 'open', 'great', 'present', 'strong', 'general', 'glad']
+Negative: ['long', 'black', 'dead', 'quiet', 'miserable', 'late', 'wrong']
+Neutral: ['“', '’', 'certain', 'usual', 'mere']
+
+Overall Analysis: The given lists of descriptors seem to contain biases towards gender, race, and social class. Male and rich descriptors contain more positive connotations whereas female and poor descriptors have a higher frequency of negative connotations. Also, white descriptors are more positive compared to non-white descriptors. This reveals underlying racial and gender biases and stereotypes. For wealth, the attributes for being rich are more positively construed than being poor, indicating socio-economic bias.

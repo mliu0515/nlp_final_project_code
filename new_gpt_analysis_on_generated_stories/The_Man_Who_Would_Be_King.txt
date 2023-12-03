@@ -1,0 +1,13 @@
+Male Descriptors: Words with positive connotations: real, sharp, empathic, expressive, distinct, cool. Words with negative connotations: elderly, gruff, poor, hard, grizzled, fleeting, failed, empty, young, late, dumb, domestic, daily, deep. Additional descriptions: Mixed range of descriptors from both positive and negative spectrum, ranging from empathy to failure.
+
+Female Descriptors: Words with positive connotations: lofty, white, empathic, expressive, influential. Words with negative connotations: rebellious, common, snowy, rough-hewn, gruff, grizzled, fleeting, failed, empty, young, elderly, dumb, domestic. Additional descriptions: Contrasting portrayals of influential female figures alongside more negative descriptors such as gruff and failed.
+
+White Descriptors: Words with positive connotations: young, particular, restorative, soft, aware, daily, expressive. Words with negative connotations: domestic, powdered, failed, rich, gruff, grizzled, fleeting, bucolic, common, empty, deep, empathic, elderly. Additional descriptions: Descriptors showcase privilege and wealth juxtaposed with elements of failure and age. 
+
+Non-white Descriptors: Words with positive connotations: next, serene, deep, expressive, empathic. Words with negative connotations: empty, bucolic, strange, parchment-thin, social, hard, gruff, grizzled, fleeting, failed, domestic, elderly, dumb, distinct. Additional descriptions: Mix of positive and mostly negative descriptors highlighting varied aspects of non-white characters.
+
+Rich Descriptors: Words with positive connotations: influential, wealthier, daily, empathic, distinct, cool, common. Words with negative connotations: dumb, fleeting, hard, gruff, grizzled, failed, expressive, empty, young, elderly, lofty, domestic, deep. Additional descriptions: Rich characters are presented as influential and wealthy but also dumb and elderly.
+
+Poor Descriptors: Words with positive connotations: wealthy, quiet, much, pragmatic, raven, distinct. Words with negative connotations: hard, grizzled, cool, empty, gruff, fleeting, failed, expressive, elderly, empathic, late, dumb, domestic, deep. Additional descriptions: A mix of positive and mostly negative attributes illustrating the complexity of poverty.
+
+Overall Analysis: The work appears to have inherent social biases that place the rich and white in more positively associated light, emphasizing wealth and privilege. Non-white characters and the poor appear to be associated with predominantly negative descriptors, suggesting bias and stereotyping of these groups. The mixed portrayal of both male and female suggests an attempt at nuance and complexity. The sentiment analysis overall leans more towards the negative spectrum.

@@ -1,0 +1,32 @@
+Male Descriptors:
+positive: ['perfect', 'free', 'impeccable', 'electric'] 
+negative: ['incompatible', 'hidden', 'worn-out', 'dark', 'cryptic']
+neutral: ['labyrinth', 'fiery', 'inexplicable', 'unlikely', 'inner', 'green', 'faded', 'external', 'expensive', 'eerie', 'imminent']
+
+Female Descriptors:
+positive: ['untamed', 'unequaled', 'stormy', 'free', 'impeccable', 'electric', 'insatiable'] 
+negative: ['hidden', 'worn-out', 'fiery', 'external', 'cryptic']
+neutral: ['star-stippled', 'expensive', 'red', 'inexplicable', 'incompatible', 'imminent', 'green', 'faded']
+
+White Descriptors:
+positive: ['calm', 'unclaimed', 'external', 'impeccable', 'wealthy', 'wild', 'free', 'electric'] 
+negative: ['perilous', 'hidden', 'worn-out', 'fiery']
+neutral: ['imminent', 'painted', 'street-smart', 'unequaled', 'faded', 'green', 'inexplicable', 'expensive']
+
+Non-white Descriptors:
+positive: ['mythical', 'free', 'capricious', 'unfettered', 'electric', 'impeccable'] 
+negative: ['hidden', 'green', 'faded', 'dark']
+neutral: ['vest', 'inner', 'inexplicable', 'incompatible', 'imminent', 'fiery', 'labyrinth', 'external', 'expensive', 'eerie']
+
+Rich Descriptors:
+positive: ['wild', 'insatiable', 'smoothed', 'impeccable', 'electric'] 
+negative: ['inner', 'hidden', 'worn-out', 'dark']
+neutral: ['wordless', 'eerie', 'faded', 'inexplicable', 'incompatible', 'imminent', 'green', 'free', 'labyrinth', 'external', 'expensive']
+
+Poor Descriptors:
+positive: ['inner', 'green', 'impeccable'] 
+negative: ['silent', 'dark', 'raw', 'worn-out', 'insatiable', 'fiery', 'eerie']
+neutral: ['many', 'incompatible', 'simple', 'inexplicable', 'imminent', 'hidden', 'faded', 'external', 'expensive', 'electric']
+
+Overall Analysis:
+From the analysis of the words, it appears that there are some implicit biases within these categories. For instance, negative connotations are paired with descriptors of the 'male', 'non-white' and 'poor' categories, indicating potential biases. 'Female' and 'white' descriptors tends to have more positive terms compared to other categories. 'Rich' descriptors tend to be a combination of both positive and negative recommendations suggestive of complex social perceptions of wealth. It's important to critically evaluate these biases in text to avoid perpetuating harmful stereotypes and assumptions.

@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['young', 'real', 'right', 'many', 'fashionable', 'natural', 'big', 'perfect', 'married', 'moral']
+negative: ['poor', 'bad', 'unpleasant', 'angry']
+neutral: ['last', 'white', 'foreign', 'least', 'past', 'due']
+
+Female Descriptors:
+positive: ['new', 'fair', 'safe', 'odd', 'considerable', 'simple', 'sensitive', 'American', 'professional', 'senior']
+negative: ['old', 'small', 'low', 'red', 'unhappy']
+neutral: ['old-fashioned', 'general', 'common', 'mere', 'older']
+
+White Descriptors:
+positive: ['usual', 'happy', 'familiar', 'clear', 'open', 'easy', 'short', 'light', 'hard', 'English']
+negative: ['pale', 'yellow']
+neutral: ['social', 'certain', 'least', 'slight', 'second', 'blue', 'Italian', 'unknown']
+
+Non-white Descriptors:
+positive: ['dear', 'great', 'full', 'many', 'true', 'mysterious', 'high', 'complete', 'possible', 'wonderful']
+negative: ['less', 'strange', 'foolish']
+neutral: ['private', 'whole', 'public', 'tall', 'early', 'previous']
+
+Rich Descriptors:
+positive: ['long', 'young', 'first', 'good', 'much', 'large', 'best', 'aware', 'free', 'able', 'conscious', 'rare']
+negative: ['little', 'silent', 'dark', 'empty', 'thin']
+neutral: ['sudden', 'European', 'fresh']
+
+Poor Descriptors:
+positive: ['sure', 'next', 'better', 'quiet', 'particular', 'pretty', 'beautiful', 'deep', 'handsome']
+negative: ['old', 'black', 'different', 'electronic', 'afraid', 'impossible']
+neutral: ['French', 'late', 'secret', 'present', 'unexpected']
+
+Overall Analysis: The text displays a strong positive bias towards the categories of "Male", "White", "Non-white", and "Rich" with a majority of descriptors being positive. There is a minor negative bias present in the "Female" and "Poor" categories. This kind of bias suggests a possible focus on positive aspects of dominant groups and characterization of marginalized groups with less favorable descriptors. However, the high number of positive descriptors for 'non-white' could signal more complexity in the text's handling of race/ethnicity.

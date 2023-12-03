@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['right', 'strong', 'pretty', 'agreeable', 'respectable', 'handsome'] 
+negative: ['sorry', 'afraid', 'unhappy', 'uncomfortable', 'angry']
+neutral: ['greater', '’', 'common', 'anxious', 'rough', 'curious', 'familiar', 'pecuniary', 'higher']
+
+Female Descriptors:
+positive: ['happy', 'dear', 'true', 'perfect', 'delightful'] 
+negative: ['low', 'humble', 'wrong']
+neutral: ['’', 'many', 'young', '‘', 'red', 'next', 'strange', 'last', 'it.', 'least', 'silent', 'great']
+
+White Descriptors:
+positive: ['sure', 'little', 'pleasant', 'young', 'sensible', 'fresh', 'Good'] 
+negative: ['uneasy']
+neutral: ['whole', 'least', 'possible', 'several', 'late', 'second', '’', 'former', 'solitary', 'blue', 'conscious', 'eldest']
+
+Non-white Descriptors:
+positive: ['dear', 'glad', 'beautiful', 'friendly'] 
+negative: ['short', 'black', 'sharp']
+neutral: ['little', 'much', 'great', 'usual', 'small', 'ready', 'open', 'past', 'early', 'wild', 'young', 'distant', 'serious']
+
+Rich Descriptors:
+positive: ['old', 'first', 'good', 'best', 'full', 'comfortable', 'clear', 'wonderful', 'cheerful'] 
+negative: ['hard', 'bad', 'miserable']
+neutral: ['general', 'next', 'natural', 'white', 'particular', 'different', 'deep', 'likely']
+
+Poor Descriptors:
+positive: ['’', '‘', 'good', 'great', 'better', 'dear'] 
+negative: ['poor', 'dead']
+neutral: ['little', 'old', 'last', 'long', 'new', 'present', 'much', 'certain', 'quiet', 'first', 'large', 'high']
+
+Overall Analysis: The word lists denote a number of social biases which are noteworthy. For instance, a good portion of words associated with males and the rich carry positive connotations indicating a potential bias towards these categories. On the other hand, there are more negative connotative words attached to females, non-whites, and the poor highlighting a negativity bias. It's also interesting to note that the descriptors related to 'white' had few negative words as opposed to 'non-white'. These insights collectively indicate an underlying bias favoring males, the rich, and whites over females, non-whites, and the poor.

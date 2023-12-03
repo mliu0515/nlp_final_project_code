@@ -1,0 +1,13 @@
+Male Descriptors: Words with positive connotations: private, real, necessary, giant, smile, delicate, human, expected, deep-set, clean, certain, inner, young, muscular, wide-eyed. Words with negative connotations: difficult, deeper, multiple, beastly, battle-hardened. 
+
+Female Descriptors: Words with positive connotations: human, white, certain, delicate, young, muscular, inner, giant, deep-set, expected, wide-eyed, new. Words with negative connotations: difficult, deeper, multiple, battle-hardened, beastly, non-wealthy.
+
+White Descriptors: Words with positive connotations: understood, rigorous, inner, young, certain, clean, deep-set, delicate, young, human, necessary, muscular, wide-eyed, new. Words with negative connotations: difficult, deeper, multiple, battle-hardened, beastly, giant.
+
+Non-white Descriptors: Words with positive connotations: tall, Many, human, clean, deep-set, delicate, giant, wide-eyed, new. Words with negative connotations: beastly, deeper, multiple, battle-hardened, certain, difficult, expected, non-wealthy.
+
+Rich Descriptors: Words with positive connotations: young, soldierly, deep-set, clean, delicate, giant, human, inner, necessary, muscular, wide-eyed, new. Words with negative connotations: multiple, expected, beastly, battle-hardened, non-wealthy, difficult.
+
+Poor Descriptors: Words with positive connotations: simple, senior, muscular, new, clean, delicate, giant, expected. Words with negative connotations: soapy, difficult, young, deeper, inner, deep-set, beastly, battle-hardened, human, necessary, multiple.
+
+Overall Analysis: The descriptors associated with each category reflect established stereotypes to some degree. For the male category, many words are associated with strength and power, such as 'giant', 'battle-hardened' and 'muscular'. For the female category, descriptors seem to focus more on appearance and delicacy such as 'delicate', 'clean' and 'deep-set'. In terms of race, the white category focuses mainly on the attributes of responsibility e.g. 'understood', 'rigorous', while non-white descriptors are more diverse. Economy-wise, the rich category emphasizes symbols of prime and vitality like 'young' and 'muscular', whereas the poor category seems to focus on age and basic dignity e.g. 'senior', 'clean'. This text enforces biases that men are strong, women are delicate, and there are substantial disparities between the rich and poor. Significantly, across all categories, there are more positive than negative words.

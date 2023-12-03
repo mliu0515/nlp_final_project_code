@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: new, different, strong, young, former, first, extended, enough, bustling, blue, better, free, humble. Words with negative connotations: harsh, dilapidated, concerned, cruel, common, burly, bitter. Additional descriptions: A representation of men involving a mix of strength, youthfulness, humility, and freedom, along with bitterness, harshness, and cruelness.
+
+Female Descriptors: Words with positive connotations: resilient, tough, innocent, rural, common, extended, enough, different, young, bustling, blue, better. Words with negative connotations: bitter, tragic, wicked, cruel, dilapidated, former, burly, concerned. Additional descriptions: Women are described as resilient and tough, yet also bitter, tragic, and wicked. 
+
+White Descriptors: Words with positive connotations: best, bustling, first, poignant, concerned, better, unconditionally, valuable, blue, common, different, extended, former, free. Words with negative connotations: bitter, burly, harsh, cruel, dilapidated, enough. Additional descriptions: A largely positive framing of white individuals- being considered the best, valuable, and free.
+
+Non-white Descriptors: Words with positive connotations: young, many, extended, enough, different, former, first, common, bustling, blue, better, free, humble. Words with negative connotations: ill-treatment, dilapidated, cruel, harsh, concerned, burly, bitter. Additional descriptions: Non-white individuals are depicted as young and humble but also subject to ill-treatment and harshness.
+
+Rich Descriptors: Words with positive connotations: humble, former, different, free, first, extended, enough, common, bustling, blue, better, young. Words with negative connotations: burly, tall, cruel, dilapidated, concerned, hollow, bitter, harsh. Additional descriptions: Wealth is associated with freedom, humility, and youth, but also with cruelty, bitterness, and hollowness.
+
+Poor Descriptors: Words with positive connotations: hollow, legal, successful, free, practiced, different, former, first, extended, enough, young, common, bustling, better. Words with negative connotations: blue, burly, bitter, better, cruel, dilapidated, concerned. Additional descriptions: The poor are depicted as successful and free but also hollow and subject to concern.
+
+Overall Analysis: This work represents a range of stereotypes tied to societal roles (men, women), racial identity (white, non-white), and social class (rich, poor). Men and women have both positive and negative descriptors, reflecting a balance. However, a clear bias is visible in descriptors for white and non-white individuals, with the former being heavily positive and the latter containing notably negative connotations. The portrayal of rich and poor also indicates a bias with contrasting positive and negative connotations. 
+
+Overall Sentiment: The list seems fairly balanced with a mix of positive and negative words, but the specific negative connotations associated with certain groups reflect ingrained societal biases.

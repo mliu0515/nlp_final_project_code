@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['warm', 'complete', 'pivotal', 'innocent', 'aristocratic', 'high', 'beautiful', 'classical', 'first','extravagant'] 
+negative: ['delicate', 'grimiest', 'harsh']
+neutral: ['urban', 'flora-strewn', 'city-state', 'humble', 'hidden', 'greenest', 'gentrified']
+
+Female Descriptors:
+positive: ['tranquil', 'robust', 'open', 'first', 'warm', 'delicate'] 
+negative: ['harsh', 'grimiest']
+neutral: ['plebeian', 'tousled', 'native', 'many', 'city-state', 'extravagant', 'gentrified', 'greenest', 'flora-strewn', 'hidden', 'different', 'humble']
+
+White Descriptors:
+positive: ['humble', 'noble', 'ripe', 'classical', 'interesting', 'greenest', 'first', 'extravagant', 'warm'] 
+negative: ['unlikely', 'odd', 'unyielding', 'grimiest', 'harsh', 'gentrified']
+neutral: ['rural', 'unexpected', 'private', 'different', 'flora-strewn']
+
+Non-white Descriptors:
+positive: ['amiable', 'high', 'verdant', 'innocent', 'aristocratic', 'beautiful', 'greenest', 'classical', 'first'] 
+negative: ['grimiest', 'harsh']
+neutral: ['daily', 'ordinary', 'blue', 'city-state', 'bizarre', 'humble', 'hidden', 'gentrified', 'flora-strewn']
+
+Rich Descriptors:
+positive: ['little', 'beautiful', 'magical', 'greenest', 'extravagant', 'flora-strewn', 'high', 'interesting', 'delicate'] 
+negative: ['undulating', 'common', 'harsh', 'grimiest', 'different']
+neutral: ['bizarre', 'humble', 'hidden', 'gentrified', 'first', 'daily']
+
+Poor Descriptors:
+positive: ['rich', 'aristocratic', 'limitless', 'beautiful', 'high'] 
+negative: ['seasonal', 'longer', 'grimiest', 'harsh']
+neutral: ['hidden', 'gentrified', 'first', 'common', 'blue', 'humble', 'bizarre', 'greenest', 'flora-strewn', 'classical', 'city-state']
+
+Overall Analysis: The word lists show some social biases, specifically in the connotations assigned to different groups. For instance, male descriptors tend to have more positive connotations than female words. It somewhat reflects the societal bias that men are often associated with strength ("robust"), leadership ("principal"), and positive qualities. Meanwhile, neutral and negative words seem more common for 'white' and 'rich' categories, while 'non-white' and 'poor' categories have more positive words, hinting a possible bias in portraying these groups. More so, the 'poor' category has words with both positive and negative connotations, suggesting the book may represent diversity within this category rather than stereotypical depictions. Still, the context of the word usage within the book can alter the suggested biases.

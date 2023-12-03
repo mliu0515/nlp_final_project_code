@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['free', 'better', 'present', 'dear', 'possible', 'early']
+negative: ['poor', 'slave', 'painful', 'terrible']
+neutral: ['large', 'common', 'southern', '’', 'grand', 'mere', 'short', 'broad', 'usual', 'holy']
+
+Female Descritpors:
+positive: ['little', 'good', 'best', 'ready', 'noble', 'powerful', 'beautiful', 'longer']
+negative: ['wrong', 'wild', 'impossible', 'difficult']
+neutral: ['natural', 'least', 'next', 'mental', 'following', 'intense', 'political', 'slightest']
+
+White Descriptors:
+positive: ['great', 'full', '”', 'general', 'favorable', 'equal', 'excellent', 'happy', 'greater', 'rich', 'successful']
+negative: ['brutal']
+neutral: ['colored', 'public', 'northern', 'personal', 'fugitive', 'strange', 'due', 'peculiar']
+
+Non-white Descriptors:
+positive: ['many', 'strong', 'former', 'second', 'deep', 'important', 'clear']
+negative: ['hard', 'bad', 'worse', 'cold']
+neutral: ['white', 'young', 'anti-slavery', 'black', 'electronic', 'entire', 'proper', 'huge', 'British']
+
+Rich Descriptors:
+positive: ['old', 'human', 'good', 'new', 'sure', 'right', 'small', 'easy', 'glorious', 'sufficient', 'real']
+negative: ['heavy', 'worst', 'cruel']
+neutral: ['much', 'last', 'several', 'latter', 'physical', 'pious']
+
+Poor Descriptors:
+positive: ['first', '“', 'whole', 'true', 'necessary', 'able', 'open', 'long', 'social']
+negative: ['American', 'moral', 'single', 'sic', 'guilty', 'less', 'bitter']
+neutral: ['religious', 'high', 'different', 'simple']
+  
+Overall Analysis: The data suggests the book's depiction of various categories has several biases. Men are frequently associated with freedom and positivity, as well as feelings of pain and terror, noting a potential connection to struggle or conflict. Women are often linked to appealing and powerful qualities, but also difficulty and impossibility, suggesting some empowerment but also obstacles. Whites are described using largely positive terms, implying a positive bias whereas non-whites are associated with more negative terms. "Rich" descriptors are mainly positive or neutral while "poor" descriptors contains more negative words, indicating a potential bias towards wealth.

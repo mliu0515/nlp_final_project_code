@@ -1,0 +1,13 @@
+Male Descriptors: Words with positive connotations: humble, human, new, deep, countless, commanding, ancient, natural. Words with negative connotations: different, man-made, unwavering, preordained, unstoppable, transgressed. Additional descriptions: A mix of positives and negatives, it indicates a varied representation of male characters with descriptors spanning from active, commanding to humble, and human.
+
+Female Descriptors: Words with positive connotations: untouched, commanding, new, biblical, common, countless, deep, human, humble, ancient, living, natural, wealthy. Words with negative connotations: sluggish, different, wide-eyed, old-world, man-made. Additional descriptions: The descriptors lean towards positive with strong emphasis on commanding, new-age attributes. 
+
+White Descriptors: Words with positive connotations: unexpected, human, deep, biblical, ancient, natural, countless, new, common, humble, living. Words with negative connotations: silent, starkly, man-made, tall, wide-eyed. Additional descriptions: Bias seems minimal, with a focus on representing the entirety of white characters expressed through common, deep, and humble.
+
+Non-white Descriptors: Words with positive connotations: wealthy, humble, countless, long-standing, old-world, new natural, living, deepl, biblical, ancient, human, preordained. Words with negative connotations: rarified, man-made, wide-eyed, different. Additional descriptions: The descriptors for non-white characters are generally positive, with only a handful of potentially negative terms.
+
+Rich Descriptors: Words with positive connotations: human, new, natural, long-standing, living, humble, wealthy, deep, countless, commanding, ancient, old-world, preordained. Words with negative connotations: man-made, different, wide-eyed, polar, prescribed. Additional descriptions: Representing rich characters with both positive traits (humane, natural, humble) and negative traits (mand-made, prescribed) indicates a balanced representation. 
+
+Poor Descriptors: Words with positive connotations: common, man-made, long-standing, living, humble, human, deep, new, countless, commanding, ancient, natural. Words with negative connotations: polar, southern, unyielding, prescribed, unlikely, wide-eyed. Additional descriptions: The descriptors here are somewhat negative. 
+
+Overall Analysis: The list of words does suggest some social biases, particularly with regards to gender and wealth. There is a distinct difference in the way males, females, rich, and poor are characterized, indicating a bias in the portrayal. The overall sentiment seems to be slightly more negative than positive, especially for the 'poor' category.

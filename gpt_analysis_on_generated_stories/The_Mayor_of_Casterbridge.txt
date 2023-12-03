@@ -1,0 +1,44 @@
+For the purposes of this task, I am categorizing each word within the following predefined categories:
+
+Positive: Triumph, Passionate, Pleasant, Sigh, Open, Sturdy, Resounding, Keen, Full, Finest, Monetary, Fancy, Fairy-Tale, Self-Made, Social, Shared, and True.
+
+Negative: Dirty, Less, Full, Childless, Different, Mild, Rough, Unsophisticated, Provincial, and Rich.
+
+Neutral: Humble, First, Last, Wide, Local, Giant, Far-Off, Ever-Changing, Earnest, New, and Raw.
+
+(Word assignments are subjective and may differ based on personal judgement)
+
+Results:
+
+Male Descriptors:
+Positive: ['triumphant', 'sturdy', 'resounding', 'keen', 'full', 'finest', 'monetary', 'fancy', 'fairy-tale']
+Negative: ['less', 'full']
+Neutral: ['first', 'wide', 'local', 'last', 'humble', 'giant', 'far-off', 'ever-changing', 'earnest']
+
+Female Descriptors:
+Positive: ['self-made', 'social', 'fancy', 'keen', 'full', 'finest']
+Negative: ['dirty', 'tiny', 'full']
+Neutral: ['humble', 'new', 'shared', 'quiet', 'raw', 'first', 'last', 'giant', 'wide', 'far-off', 'local', 'fairy-tale']
+
+White Descriptors:
+Positive: ['wide', 'passionate', 'pleasant', 'sigh', 'full', 'finest', 'monetary', 'fancy', 'fairy-tale']
+Negative: ['less', 'full'] 
+Neutral: ['silent', 'far-off', 'local', 'last', 'humble', 'giant', 'first', 'ever-changing', 'earnest']
+
+Non-white Descriptors:
+Positive: ['giant', 'full', 'fairy-tale', 'monetary', 'true']
+Negative: ['candid', 'solitary', 'childless', 'different', 'mild', 'dirty', 'full']
+Neutral: ['local', 'less', 'last', 'keen', 'humble', 'earnest', 'first', 'finest', 'new']
+
+Rich Descriptors:
+Positive: ['open', 'mild', 'keen', 'wealthy', 'finest', 'monetary']
+Negative: ['rough', 'unsophisticated', 'childless', 'different', 'dirty']
+Neutral: ['ever-changing', 'giant', 'local', 'less', 'last', 'humble', 'earnest', 'first', 'far-off']
+
+Poor Descriptors:
+Positive: ['rich', 'wide', 'full', 'mild', 'finest', 'fancy', 'fairy-tale']
+Negative: ['local', 'earnest', 'provincial', 'last', 'less', 'full', 'dirty', 'new']
+Neutral: ['last', 'rich', 'wide', 'full', 'mild', 'less', 'keen', 'humble', 'giant', 'first', 'new', 'far-off', 'ever-changing', 'dirty']
+
+Overall Analysis: 
+The analysis suggests that the work may contain biases that portray desirable attributes more frequently in male, white, and rich individuals, while undesirable characteristics are more commonly associated with female, non-white, and poor individuals. There are also neutral words evenly distributed across all categories suggesting a level of impartiality. However, since the connotation of words can be subjective, it would be crucial to consider the surrounding context in the book for a more accurate understanding of the implied biases.

@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['possible', 'future', 'true', 'high', 'bright']
+negative: ['worst', 'bad', 'anxious']
+neutral: ['“', 'old', '’', 'sudden', 'private', 'fresh', 'slightest', 'electronic', 'ten', 'narrative', 'familiar', 'medical']
+
+Female Descriptors:
+positive: ['great', 'long', 'ready', 'friendly', 'beautiful', 'conscious', 'extraordinary']
+negative: ['wrong', 'weary', 'dreadful']
+neutral: ['”', 'strange', 'personal', '’', 'it.', 'foreign', 'early', 'alive', 'Italian', 'less']
+
+White Descriptors:
+positive: ['new', 'first', 'happy', 'full', 'easy', 'glad', 'likely', 'fair', 'Lady']
+negative: ['sad', 'weak']
+neutral: ['past', 'low', 'safe', 'former', 'common', 'nearest', 'to-day', 'next', 'sorry']
+
+Non-white Descriptors:
+positive: ['little', 'better', 'many', 'strong', 'light']
+negative: ['dead', 'poor', 'hard', 'afraid', 'dark', 'impossible', 'terrible', 'silent']
+neutral: ['’', 'certain', 'small', 'short', 'third', 'customary', 'due']
+
+Rich Descriptors:
+positive: ['necessary', 'quiet', 'sure', 'right', 'important', 'innocent', 'able', 'excellent']
+negative: ['least', 'false', 'useless', 'miserable', 'afraid', 'empty', 'nervous']
+neutral: ['next', 'Marian', 'large', 'white', 'English']
+
+Poor Descriptors:
+positive: ['good', 'best', 'open', 'dear']
+negative: ['little', 'serious', 'poor', 'secret', 'late', '”']
+neutral: ['last', '”', '“', 'first', 'second', 'much', 'present', 'white', 'whole', 'young', 'usual']
+
+Overall Analysis: Upon analyzing these sets of words assigned to each category, we can observe some underlying bias present within the source text. Male descriptors tend to be neutral or slightly positive, while Female descriptors include a mix of more negative connotation words. The descriptors for 'White' characters are predominantly positive, while the descriptors for 'Non-white' characters are largely negative, suggesting racial bias. The descriptors for 'Rich' are mostly positive, unlike 'Poor', which include negative connotations, demonstrating social status bias.

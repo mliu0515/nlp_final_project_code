@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['great', 'sure', 'deep', 'ready', 'clear'] 
+negative: ['less', 'low', 'loose']
+neutral: ['last', '”', 'electronic', 'likely', 'proper', 'unconscious', 'ordinary', 'to-day', 'third', 'upper', 'hundred', 'distinct']
+
+Female Descriptors:
+positive: ['true', 'able', 'right', 'greater', 'quiet', 'slow', 'fair', 'whole', 'wide', 'handsome', 'alive', 'special', 'sufficient'] 
+negative: ['dead', 'necessary']
+neutral: ['long', 'ye', 'latter', 'regular', 'unusual']
+
+White Descriptors:
+positive: ['much', 'better', 'light', 'beautiful', 'natural', 'free', 'soft', 'fine'] 
+negative: ['old', 'poor', 'bad', 'dreadful']
+neutral: ['’', '“', 'young', 'present', 'several', 'mere', 'least', 'ten']
+
+Non-white Descriptors:
+positive: ['good', 'usual', 'common', 'open', 'general', 'whole', 'green', 'happy']
+negative: ['short', 'late', 'dark', 'serious', 'close', 'worse', 'dry', 'opposite']
+neutral: ['“', 'second', 'previous', 'slight']
+
+Rich Descriptors:
+positive: ['large', 'best', 'single', 'strong', 'wild', 'hard', 'real', 'different'] 
+negative: ['young', 'wrong', 'heavy', 'sad']
+neutral: ['next', 'red', 'silent', '‘', 'particular', 'it.', 'lower', 'now.']
+
+Poor Descriptors:
+positive: ['many', 'full', 'white', 'possible', 'certain'] 
+negative: ['little', 'small', 'high', 'strange', 'visible', 'black', 'terrible', 'steady', 'miserable', 'past']
+neutral: ['”', '’', 'first', 'new', 'to-night']
+
+Overall Analysis: The words related to male and rich categories tend to carry more positive connotations implying power, certainty, positivity, and strength. In contrast, words related to female and poor categories have a blend of negative and positive connotations, hinting towards complex and mixed perceptions. Words affiliated with 'white' and 'non-white' both carry positive and negative connotations reflecting potential biases in race representation. These findings could reflect societal power structures and biases ingrained in everyday language.

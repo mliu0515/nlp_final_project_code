@@ -1,0 +1,13 @@
+Male Descriptors: Words with positive connotations: distinct, noble, warm-hearted, humble, luxurious, lavish, innocent, good, happy, meaningful, globally-renowned, extraordinary. Words with negative connotations: genetic, ironic, horrific, heavy, distressing. Additional descriptions: The descriptors for males seem overall balanced with a slight lean towards positive.
+
+Female Descriptors: Words with positive connotations: picture-perfect, radiant, lavish, precious, quiet, young, humble, innocent, good, happy, globally-renowned. Words with negative connotations: silent, shallow, distressing, common, hard, horrific, heavy. Additional descriptions: The descriptors appear more negative, with terms like 'silent' and 'shallow'.
+
+White Descriptors: Words with positive connotations: rhythmic, rare, meaningful, opulent, extraordinary, sweet, luxurious, good, globally-renowned. Words with negative connotations: hard, ironic, horrific, heavy. Additional descriptions: The descriptors lean more positive, with very positive words such as 'opulent' and 'sweet'.
+
+Non-white Descriptors: Words with positive connotations: happy, unique, smallest, good, globally-renowned, married, beautiful, distinctive. Words with negative connotations: ironic, tragic, distressing, horrific, lavish, hard, heavy. Additional descriptions: There seem to be mixed connotations with this set, with some positive and some negative ones.
+
+Rich Descriptors: Words with positive connotations: innocent, prosperous, financial, happy, lavish, individual, good, married, globally-renowned, distinctive. Words with negative connotations: unforgiving, horrific, hard, distressing. Additional descriptions: The descriptors are overall more positive, with 'prosperous' used as well.
+
+Poor Descriptors: Words with positive connotations: profound, individual, happy, innocent, globally-renowned, good, extraordinary. Words with negative connotations: unhappy, white, painful, horrific, luxurious, hard, distressing. Additional descriptions: Overall, the descriptors are mixed, with positive terms like 'profound' used, but also negative ones like 'painful'.
+
+Overall Analysis: The work contains biases that generally lean towards viewing males and rich people more positively, while females and poor individuals are seen more negatively. Furthermore, there is a bias that white individuals are seen more favorably than non-white individuals. While there are varying degrees of both positive and negative descriptions used across all categories, the general sentiment leans more positive for males, whites, and rich people, and more negative for females, non-whites, and poor people.

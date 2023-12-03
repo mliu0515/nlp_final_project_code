@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: free, lucky, grand, humble, young, new, vast. Words with negative connotations: old, stern, peasant, minor, indentured, incessant, foreign, materialistic. Additional descriptions: Males are described in diverse and universal terms with both negative and positive aspects, suggesting a balance.
+
+Female Descriptors: Words with positive connotations: grand, endless, stronger, wealthy, unique, social, lucky, regular. Words with negative connotations: pretentious, cruel, unlikely, daily, certain, materialistic, industrial, indentured, bleak. Additional descriptions: Females are described with a mix of both empowering and negative descriptions, indicating a complex portrayal.
+
+White Descriptors: Words with positive connotations: young, emerald-green, self-made, simple, humble, noble, upper, loft, lucky. Words with negative connotations: old, firm, bleak, unlikeliest, unfamiliar, deep, middle-aged, materialistic, industrial, indentured. Additional descriptions: White characters are described with a more positive skew, hinting at a positive bias.
+
+Non-white Descriptors: Words with positive connotations: beloved, turbulent, new, soft, surviving, deep, emerald-green, humble, grand. Words with negative connotations: materialistic, certain, bleak, minor, middle-aged, industrial, indentured, cruel. Additional descriptions: Non-white characters are portrayed with a balance of hardship and resilience, hinting at a layer of complexity but also struggle.
+
+Rich Descriptors: Words with positive connotations: wide, deep, lucky, unassuming, young, free, humble, grand, noble. Words with negative connotations: incessant, poor, unable, foreign, minor, middle-aged, materialistic, industrial, indentured, firm. Additional descriptions: Rich characters are painted with a mix of both privilege and negative traits, revealing a nuanced picture.
+
+Poor Descriptors: Words with positive connotations: daily, minor, noble, new, young, humble, grand, free. Words with negative connotations: plate, little, indentured, incessant, older, foreign, firm, endless. Additional descriptions: Poor characters are often judged with more negative terms, hinting at a negative bias.
+
+Overall Analysis: The list shows a nuanced portrayal of each category with both positive and negative aspects. However, there could be a slight negative bias towards non-white and poor individuals as they are often depicted with struggle or less desirable qualities. The book may contain a subtle socioeconomic bias.
+ 
+In terms of sentiment, the list contains a mix of both positive and negative words, indicating a balanced perspective.

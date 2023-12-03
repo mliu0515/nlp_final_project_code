@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['economic', 'wealthy', 'long', 'formidable', 'dominant', 'indomitable', 'fervid', 'great', 'full', 'fair', 'constant', 'young']
+negative: ['harshest', 'hard', 'coldest']
+neutral: ['stout', 'human', 'fifteen', 'fiery', 'captivated']
+
+Female Descriptors:
+positive: ['large', 'tight-knit', 'unrivaled', 'bright', 'unyielding', 'full', 'formidable', 'great', 'young', 'economic', 'fervid', 'fair']
+negative: ['poor', 'short', 'coldest', 'hard']
+neutral: ['last', 'ordinary', 'fifteen', 'fiery']
+
+White Descriptors:
+positive: ['imaginary', 'fervid', 'traditional', 'real', 'unwavering', 'inexhaustible', 'vibrant', 'full', 'formidable', 'fiery', 'fair', 'great', 'young', 'economic']
+negative: ['unforgiving', 'hard', 'harshest']
+neutral: ['present', 'human', 'fifteen']
+
+Non-white Descriptors:
+positive: ['Unavoidable', 'captivated', 'great', 'tireless', 'fair', 'boundless', 'busy', 'imaginary', 'bright']
+negative: ['small', 'harshest', 'hard', 'coldest']
+neutral: ['human', 'fifteen', 'fiery', 'fervid']
+
+Rich Descriptors:
+positive: ['young', 'true', 'full', 'busy', 'new', 'unbeatable', 'fiery', 'fervid', 'great', 'formidable', 'economic', 'fair', 'indomitable', 'dominant']
+negative: ['hard', 'harshest', 'coldest']
+neutral: ['constant', 'human', 'fifteen']
+
+Poor Descriptors:
+positive: ['inseparable', 'brightest', 'busy', 'captivated', 'imaginary', 'boundless', 'bright', 'inexhaustible']
+negative: ['meek', 'harshest', 'weather-beaten', 'hard']
+neutral: ['fifteen', 'human', 'amethyst', 'full', 'formidable', 'fiery']
+
+Overall Analysis: After evaluating these word lists, several social biases can be discerned. Men are often described with words that have positive connotations signifying power, strength, and economy. Women, on the other hand, are portrayed with a mix of positive and negative descriptors, sometimes depicting lack of size and wealth. The descriptors for white and non-white are fairly balanced, with a slight bias towards positive words for white. "Rich" is mostly characterized by strong, positive words, while "poor" is characterized by a balance between words that may be interpreted as positive and negative, suggesting social biases in the depiction of socio-economic status. It's important to note that many of these descriptors can be subjective, their connotations may vary based on individual viewpoints and cultural contexts.

@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['noble', 'warm-hearted', 'humble', 'luxurious', 'lavish', 'ironic', 'innocent', 'good', 'happy', 'meaningful', 'globally-renowned', 'extraordinary'] 
+negative: ['hard', 'horrific', 'heavy', 'distressing']
+neutral: ['distinct', 'genetic', 'individual', 'financial']
+
+Female Descriptors:
+positive: ['picture-perfect', 'radiant', 'lavish', 'precious', 'distressing', 'innocent', 'good', 'happy', 'globally-renowned'] 
+negative: ['silent', 'shallow', 'hard', 'horrific', 'heavy']
+neutral: ['–', 'quiet', 'young', 'common', 'humble', 'individual']
+
+White Descriptors:
+positive: ['rhythmic', 'rare', 'meaningful', 'opulent', 'extraordinary', 'sweet', 'ironic', 'innocent', 'happy', 'luxurious', 'good', 'globally-renowned'] 
+negative: ['hard', 'horrific', 'heavy']
+neutral: ['individual', 'humble', 'genetic', 'financial', '–']
+
+Non-white Descriptors:
+positive: ['Happy', 'unique', 'ironic', 'good', 'globally-renowned', 'beautiful', 'lavish', 'innocent'] 
+negative: ['hard', 'heavy', 'horrific', 'distressing']
+neutral: ['smallest', 'sign', 'married', 'individual', 'humble']
+
+Rich Descriptors:
+positive: ['innocent', 'prosperous', 'happy', 'lavish', 'ironic', 'good', 'globally-renowned', 'extraordinary'] 
+negative: ['unforgiving', 'heavy', 'horrific', 'hard', 'distressing']
+neutral: ['financial', '–', 'individual', 'humble', 'married', 'genetic', 'distinctive']
+
+Poor Descriptors:
+positive: ['profound', 'white', '–', 'happy', 'ironic', 'innocent', 'globally-renowned', 'good', 'extraordinary'] 
+negative: ['unhappy', 'painful', 'hard', 'heavy', 'distressing']
+neutral: ['individual', 'horrific', 'luxurious', 'genetic', 'financial']
+
+Overall Analysis: This work seems to lend more positive descriptors to groups identified as male, white, and rich. Negative descriptors are equally dispersed among different groups, but slightly more to poorer and female identities. Interestingly, luxury is attached to male and rich descriptions, pointing towards material wealth bias associated with gender and economic status. This subtly reinforces stereotypical biases associating wealth and power with male identity, while associating silence and shallowness with female identity. Non-white identities seem to be depicted both positively and negatively without strong polarization, potentially indicating an aim for a more balanced representation.

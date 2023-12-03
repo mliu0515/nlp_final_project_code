@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['good', 'green', 'respectable', 'peaceful', 'clean'] 
+negative: ['old', 'short', 'hard', 'cold', 'odd', 'rough', 'hungry']
+neutral: ['little', '“', 'first', 'British', 'German', 'left', 'thick', 'enough']
+
+Female Descriptors:
+positive: ['great', 'white', 'high', 'right', 'bright', 'absolute', 'innocent'] 
+negative: ['back', 'sick', 'broken', 'nervous', 'younger']
+neutral: ['big', 'different', 'hundred', 'likely', 'particular', 'interested', 'main', 'fifty']
+
+White Descriptors:
+positive: ['fine', 'easy', 'soft', 'true', 'secret', 'English', 'ready', 'wide', 'great', 'fresh'] 
+negative: ['late', 'grey', 'mad', 'false']
+neutral: ['second', 'half-past', 'many', 'proper', 'tiny', 'upper']
+
+Non-white Descriptors:
+positive: ['free', 'important', 'deep', 'pleasant', 'strong', 'warm', 'safe', 'sure'] 
+negative: ['last', 'black', 'ordinary', 'difficult', 'common']
+neutral: ['’', '”', 'electronic', 'brown', 'local', 'thirty-nine', 'heavy']
+
+Rich Descriptors:
+positive: ['young', 'full', 'whole', 'best', 'open', 'fair', 'red', 'Good'] 
+negative: ['dead', 'less', 'worse', 'dark', 'sudden']
+neutral: ['’', 'next', 'certain', 'several', 'ten', 'wild']
+
+Poor Descriptors:
+positive: ['better', 'clear', 'cool', 'honest', 'possible', 'cheerful'] 
+negative: ['long', 'low', 'bad', 'slow']
+neutral: ['new', 'much', 'blue', 'flat', 'small', 'real', 'regular', 'public', 'third', 'clever']
+
+Overall Analysis: The word lists reveal a mix of positive, negative, and neutral descriptors across all categories. However, it seems that negative descriptors are more common for male characters, and non-white characters, implying potential bias. Similarly, positive descriptors seem to be more common for white and rich characters, suggesting positive bias towards these categories. It's worth noting, however, these findings are based on small samples and may not represent the overall content of the book. More extensive analysis would be needed to draw more conclusive findings.

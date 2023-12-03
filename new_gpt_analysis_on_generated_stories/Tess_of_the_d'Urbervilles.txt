@@ -1,0 +1,33 @@
+Male Descriptors: 
+Words with positive connocations: grand, ever-loving, good, familiar, little, ever-patient, energetic, earnest, eager, cosy, broad-shouldered, bright-eyed.
+Words with negative connocations: old, greyish.
+additional descriptions: Most of the descriptors for males are positive, indicating a positive portrayal of males in general in the work.
+
+Female Descriptors: 
+Words with positive connocations: simple, good, eager, soulful, nostalgic, grand, good, familiar, youngest, ever-patient, greyish, energetic.
+Words with negative connocations: wasted.
+additional descriptions: Despite the positive descriptors, the term "wasted" brings about a negative connotation. It may represent a bias towards depicting women in a distressing way.
+
+White Descriptors: 
+Words with positive connocations: mid-western, rosy-cheeked, earnest, grand, good, familiar, energetic, ever-patient, ever-loving, cosy, broad-shouldered.
+Words with negative connocations: No negative connotations.
+additional descriptions: The white category has mostly positive connotations, suggesting a positive representation.
+
+Non-white Descriptors: 
+Words with positive connocations: cosy, thoughtful, little, ever-patient, familiar, youngest, harmonious, grand, good, ever-loving, energetic, earnest, eager, broad-shouldered, bright-eyed.
+Words with negative connocations: stubble.
+additional descriptions: The term "stubble" gives a rugged appearance, but overall, the non-white category also carries mainly positive descriptors.
+
+Rich Descriptors: 
+Words with positive connocations: unending, tuneful, energetic, good, familiar, harmonious, grand, ever-loving, ever-patient, earnest, eager, cosy, bright-eyed.
+Words with negative connocations: None.
+additional descriptions: Rich characters are represented positively only.
+
+Poor Descriptors: 
+Words with positive connocations: green, harmonious, good, earnest, energetic, ever-loving, ever-patient, eager, grand, cosy, broad-shouldered, abundant.
+Words with negative connocations: old.
+additional descriptions: Poor characters are mostly represented positively, with a small negativity attached to the term "old".
+
+Overall Analysis: 
+The use of descriptors seem to suggest a social bias towards portraying positive images for all categories. The portrayal of female and poor characters contains minor negative elements. Overall, the descriptors in the book carry a subjective positivity, revealing a subtle bias in the representation of these categories. 
+Each category generally contains positive words, hence the overall sentiment of the descriptors is positive. The negative words are sparse and do not significantly impact the overall sentiment.

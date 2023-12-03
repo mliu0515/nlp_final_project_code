@@ -1,0 +1,32 @@
+Male Descriptors:
+positive: ['new', 'exquisite', 'intrigued', 'mysterious', 'majestic', 'magical', 'grand', 'gentle', 'easy'] 
+negative: ['failed']
+neutral: ['countless', 'outside', 'several', 'next', 'middle-aged', 'long', 'little', 'like', 'original', 'evident']
+
+Female Descriptors:
+positive: ['original', 'powerful', 'majestic', 'chosen', 'wealthy', 'unique', 'magical', 'long', 'little', 'like'] 
+negative: ['thin', 'old']
+neutral: ['small', 'quaint', 'ruffled', 'east-wing', 'weathered', 'closed', 'china', 'certain']
+
+White Descriptors:
+positive: ['vast', 'quiet', 'intrigued', 'stunning', 'timeless', 'magical', 'grand', 'long', 'majestic', 'gentle'] 
+negative: []
+neutral: ['next', 'little', 'various', 'certain', 'rail-thin', 'like', 'middle-aged', 'white']
+
+Non-white Descriptors:
+positive: ['stoic', 'gentle', 'grand', 'magical', 'mysterious', 'soft-spoken', 'Interested', 'storied', 'strong', 'unique', 'long', 'little', 'like', 'intrigued'] 
+negative: ['failed']
+neutral: ['white', 'china', 'semi-retired', 'various', 'vast']
+
+Rich Descriptors:
+positive: ['long', 'peculiar', 'strong', 'storied', 'white', 'grand', 'mysterious', 'middle-aged', 'majestic', 'magical', 'little', 'intrigued', 'exquisite', 'easy'] 
+negative: ['failed']
+neutral: ['well-kept', 'evident', 'like', 'next']
+
+Poor Descriptors:
+positive: ['past', 'intrigued', 'new', 'mysterious', 'majestic', 'magical', 'long', 'little', 'like', 'grand', 'original', 'gentle', 'exquisite', 'easy'] 
+negative: ['failed', 'closed']
+neutral: ['middle-aged', 'white', 'next', 'evident']
+
+Overall Analysis: 
+The categories in this book reveal certain social biases. For instance, female descriptors are slightly more negative with words such as "thin" and "old", which could signify a bias towards age and appearance for women. White descriptors are mostly positive or neutral and contain no negative connotations. Interestingly, the word "white" appears as a neutral descriptor in the "non-white" category. Male and rich descriptors contain the negative word "failed", which could show a tendency to associate these demographics with power or success. The "poor" category includes both positive and negative descriptors, perhaps indicating a nuanced portrayal of this demographic in the narratives.

@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['familiar', 'heartfelt', 'full', 'beautiful', 'individual']
+negative: ['wild', 'ill', 'dangerous', 'bizarre']
+neutral: ['different', 'native', 'sandy-skinned', 'hometown', 'histrionic', 'fellow', 'due', 'infectious', 'deep', 'colorful', 'blue']
+
+Female Descriptors:
+positive: ['petal', 'unparalleled', 'heartfelt', 'full', 'pragmatic', 'beautiful']
+negative: ['ill', 'dangerous', 'bizarre']
+neutral: ['textured', 'tangible', 'blue', 'less', 'due', 'histrionic', 'fellow', 'familiar', 'wild', 'different', 'deep', 'colorful']
+
+White Descriptors:
+positive: ['familiar', 'beautiful', 'heartfelt', 'full', 'individual']
+negative: ['unable', 'wild', 'dangerous', 'bizarre']
+neutral: ['older', 'tiny', 'much', 'hometown', 'histrionic', 'fellow', 'different', 'due', 'deep', 'colorful', 'blue']
+
+Non-white Descriptors:
+positive: ['intense', 'unparalleled', 'beautiful']
+negative: ['bizarre']
+neutral: ['mere', 'fellow', 'full', 'wandering', 'amidst', 'sun-colored', 'hometown', 'blue', 'colorful', 'dangerous', 'deep', 'different', 'due', 'familiar', 'unable', 'tiny']
+
+Rich Descriptors:
+positive: ['heartfelt', 'beautiful', 'individual', 'intense']
+negative: ['histrionic', 'dangerous', 'bizarre']
+neutral: ['sun-colored', 'infectious', 'due', 'wild', 'fellow', 'ill', 'hometown', 'full', 'different', 'familiar', 'deep', 'colorful', 'blue']
+
+Poor Descriptors:
+positive: ['open', 'satisfying', 'individual', 'beautiful']
+negative: ['ill']
+neutral: ['hometown', 'living', 'colorful', 'wild', 'histrionic', 'heartfelt', 'full', 'fellow', 'due', 'familiar', 'different', 'deep', 'dangerous', 'blue', 'bizarre']
+
+Overall Analysis: Given the lists of descriptors, the book may present males and females, whites and non-whites, and the rich and poor in a relatively balanced manner. Positive, negative, and neutral words are used to describe all categories. However, certain potential biases exist. "Ill" and "bizarre" are commonly used for males, while "pragmatic" is used only for females. Whites are described as "unable", suggesting a potential bias of fragility. Rich are frequently associated with negative terms such as "dangerous" and "histrionic." The poor are characterized with more neutral and positive words than negative ones, which might indicate a more empathetic portrayal. These observations suggest a critical examination of the inherent social and gender biases portrayed in the text.

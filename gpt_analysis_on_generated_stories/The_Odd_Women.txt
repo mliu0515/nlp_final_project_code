@@ -1,0 +1,31 @@
+Male Descriptors:
+            positive: beautiful, greater, white, spiritual, gentle, dear, comfortable, altruistic, affluent
+            negative: stray, ravenous, faded, humdrum, black, financial, economic
+            neutral: supper, different, youthful, gap-toothed
+
+Female Descriptors:
+            positive: young, keen, altruistic, sure, comfortable, beautiful, dear, affluent, Persian
+            negative: waning, faded, financial, economic, black, humdrum
+            neutral: starlit, different, gentle, gap-toothed, commodious
+
+White Descriptors:
+            positive: youthful, untouched, prosperous, beautiful, altruistic, comfortable, dear
+            negative: red, black, economic, faded, financial
+            neutral: commodious, usual, Persian, different, gap-toothed, gentle, affluent
+
+Non-white Descriptors:
+            positive: insightful, affluent, wealthy, beautiful, greater
+            negative: financial, African, faded, economic, black, humdrum
+            neutral: nimble, comfortable, commodious, immense, different, altruistic, gap-toothed, gentle, Persian
+
+Rich Descriptors:
+            positive: dear, affluent, altruistic, beautiful, insightful
+            negative: black, economic, faded, financial
+            neutral: gap-toothed, immense, comfortable, commodious, different, gentle, greater, humdrum, youthful, keen
+
+Poor Descriptors:
+            positive: loyal, gentle, stronger, youthful, immense, comfortable, beautiful, altruistic, affluent, Persian
+            negative: humdrum, different, greater, financial, faded, economic, black
+            neutral: skyscraper, gap-toothed, 
+
+Overall Analysis: The evaluation indicates a bias towards associating negative descriptors with 'non-white', 'black', 'poor', and male categories. This reveals a racial and socioeconomic bias insinuated within the work. Also male and female descriptors indicate some gender bias with more negative terms associated with the male category. Furthermore, the repetitive negative connotations attributed to economic and financial endeavors suggest a bias against economic prosperity. It is concerning, as this hints towards an unhealthy view of wealth and prosperity.  It is worth noting the intersectional nature of these biases, understanding that these factors together may further marginalize certain groups.

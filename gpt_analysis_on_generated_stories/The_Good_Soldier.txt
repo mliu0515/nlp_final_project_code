@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['vital', 'first', 'new', 'modern', 'legendary', 'passionate'] 
+negative: ['secluded', 'turbulent', 'hard', 'fierce', 'distinct']
+neutral: ['marine', 'old', 'hand-held', 'marrow-chilling', 'little', 'lean', 'improbable', 'human', 'yearly']
+
+Female Descriptors:
+positive: ['new', 'survival', 'modern', 'legendary']
+negative: ['simple', 'hard', 'weather-beaten']
+neutral: ['rocky', 'corporate', 'tiny', 'lean', 'undersea', 'unexpected', 'weathered', 'blue', 'little', 'improbable', 'marine', 'marrow-chilling', 'human']
+
+White Descriptors:
+positive: ['yearly', 'strong', 'remarkable', 'wealthy', 'affluent', 'legendary', 'fiery']
+negative: ['different', 'temporary', 'treacherous', 'slow', 'distinct']
+neutral: ['little', 'hand-held', 'improbable', 'marine', 'marrow-chilling', 'human', 'hard', 'lean']
+
+Non-white Descriptors:
+positive: ['profound', 'unpredictable', 'seasoned', 'unforgiving', 'legendary', 'fierce']
+negative: ['small', 'angry', 'distinct']
+neutral: ['constant', 'distant', 'improbable', 'little', 'Portuguese', 'unprecedented', 'undersea', 'lean', 'human', 'hard', 'hand-held']
+
+Rich Descriptors:
+positive: ['poised', 'striking', 'legendary']
+negative: ['static', 'hard']
+neutral: ['fiery', 'wealth—all', 'human', 'coastal', 'unforeseeable', 'lean', 'improbable', 'little', 'hand-held', 'marine', 'marrow-chilling', 'modern', 'yearly', 'first', 'old']
+
+Poor Descriptors:
+positive: ['passionate', 'legendary', 'poised']
+negative: ['hard', 'distinct']
+neutral: ['cheese', 'marrow-chilling', 'unalike', 'first', 'hand-held', 'old', 'new', 'modern', 'marine', 'little', 'lean', 'improbable', 'human', 'yearly', 'fierce']
+
+Overall Analysis: The word lists suggest a distinct bias in the book. Words associated with male and white characters are in majority neutral to positive while words for non-white and female characters include more negative descriptors. The rich category primarily has neutral and positive words but the poor category has a balance between positive, negative, and neutral words, suggesting economic bias as well. The common presence of words like 'hard' and 'lean' and 'legendary' across categories suggests that these traits are highly valued or prominent across all groups in the book.

@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['infallible', 'unfettered', 'golden', 'lifelong', 'united', 'young', 'gilded', 'experiential', 'endless', 'beloved'] 
+negative: ['common']
+neutral: ['port', 'forth', 'first', 'enigmatic', 'different', 'destiny', 'deeper', 'broader']
+
+Female Descriptors:
+positive: ['sunburned', 'broader', 'destiny', 'tamed', 'golden', 'gilded', 'experiential', 'young', 'endless', 'infallible', 'beloved', 'alive'] 
+negative: ['unlikely', 'common', 'old']
+neutral: ['forth', 'first', 'enigmatic', 'different', 'deeper']
+
+White Descriptors:
+positive: ['legendary', 'vast', 'alive', 'deeper', 'enigmatic', 'golden', 'gilded', 'experiential', 'destiny', 'endless', 'infallible', 'broader', 'beloved'] 
+negative: ['long', 'unanswered', 'trite', 'common']
+neutral: ['forth', 'first', 'different']
+
+Non-white Descriptors:
+positive: ['legendary', 'vast', 'alive', 'deeper', 'enigmatic', 'golden', 'gilded', 'experiential', 'destiny', 'endless', 'infallible', 'broader', 'beloved'] 
+negative: ['long', 'unanswered', 'trite', 'common']
+neutral: ['forth', 'first', 'different']
+
+Rich Descriptors:
+positive: ['young', 'forth', 'profound', 'kindred', 'infallible', 'humble', 'golden', 'gilded', 'experiential', 'enigmatic', 'endless', 'destiny', 'broader', 'beloved', 'alive'] 
+negative: ['common']
+neutral: ['first', 'different', 'deeper', 'intangible']
+
+Poor Descriptors:
+positive: ['intangible', 'humble', 'meek', 'gilded', 'privileged', 'young', 'golden', 'forth', 'experiential', 'enigmatic', 'endless', 'destiny', 'broader', 'beloved', 'alive', 'infallible'] 
+negative: ['common']
+neutral: ['first', 'different', 'deeper']
+
+Overall Analysis: The words chosen for each category lean more towards positive connotations overall, indicating potentially idealistic or romanticized representations. Positively connotated words (e.g. 'golden', 'beloved', 'endless') are common across all categories, signifying an attempt to display all groups in a favourable light. However, the repetition of 'common' as a negative connotation across different groups could suggest a possible bias against those in common or everyday situations.

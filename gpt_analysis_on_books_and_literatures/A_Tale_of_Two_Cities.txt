@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['good', 'dear', 'present', 'full', 'certain', 'bright', 'real', 'greatest'] 
+negative: ['dark', 'miserable', 'wrong']
+neutral: ['last', 'next', 'white', 'public', 'light', 'former', 'wide', 'personal', 'different']
+
+Female Descritpors:
+positive: ['little', 'good', 'quiet', 'hard', 'secret', 'ready', 'fine', 'safe', 'blue', 'curious']
+negative: ['small', 'short', 'common']
+neutral: ['”', 'much', 'last', '’', 'red', 'slight', 'to-day']
+
+White Descriptors:
+positive: ['many', 'old', 'long', 'free', 'wild', 'innocent', 'pleasant', 'sweet', ]
+negative: []
+neutral: ['French', 'second', 'general', 'electronic', 'English', 'close', 'least', 'worth', 'silent', 'tall', 'plane-tree', 'busy']
+
+Non-white Descriptors:
+positive: ['young', 'high', 'best', 'golden']
+negative: ['low', 'dead', 'dreadful', 'terrible']
+neutral: ['“', 'large', 'heavy', 'black', 'it.', '‘', 'mere', 'less', 'difficult', 'deep', 'to-night', 'solitary']
+
+Rich Descriptors:
+positive: ['open', 'able', 'human']
+negative: ['’', 'poor', 'bad', 'cold', 'angry', 'weary', 'unhappy', 'dull', 'intent', 'fatal']
+neutral: ['old', 'third', 'several', 'remarkable', 'necessary', 'greater', 'pretty']
+
+Poor Descriptors:
+positive: ['great', 'strong', 'better', 'new', 'sure', 'true', 'dear', 'happy', 'right', 'possible', 'natural']
+negative: ['worst', 'late']
+neutral: ['“', 'first', 'usual', 'whole', 'strange', 'particular', 'single']
+
+Overall Analysis: It seems this work presents males generally positively with some negatives, females are largely neutral and positive. Whites have significantly positive descriptors. Non-whites are somewhat balanced with positive and negative. The descriptors for rich indicate negative attitudes towards the wealthy, while the poor are shown overwhelmingly in a positive light.

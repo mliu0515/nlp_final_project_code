@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['thriving', 'empathetic', 'illustrious', 'humble', 'distinguished', 'good', 'generous', 'gaining', 'future'] 
+negative: ['late', 'bitter', 'hard']
+neutral: ['much-needed', 'hushed', 'past', 'freshly', 'expensive', 'appointed', 'local', 'foreign']
+
+Female Descriptors:
+positive: ['distinguished', 'true', 'strong', 'relentless', 'future', 'humble', 'hard', 'good', 'generous', 'gaining', 'freshly', 'fine'] 
+negative: ['old']
+neutral: ['whole', 'financial', 'once-prosperous', 'rough', '’', 'illustrious', 'foreign']
+
+White Descriptors:
+positive: ['good', 'fine', 'elite', 'empathetic', 'humble', 'hard', 'generous', 'gaining', 'future', 'freshly'] 
+negative: ['unjust', 'narrow', 'bitter']
+neutral: ['’', 'secret', 'small', 'untended', 'hushed', 'appointed', 'foreign']
+
+Non-white Descriptors:
+positive: ['wealthy', 'future', 'generous', 'gaining', 'illustrious', 'humble', 'hard', 'good', 'fine'] 
+negative: ['unlikely', 'bitter']
+neutral: ['Italian', 'appointed', 'trusted', 'tarnished', 'expensive', 'hushed', 'financial', 'freshly', 'foreign']
+
+Rich Descriptors:
+positive: ['empathetic', 'hard', 'foreign', 'gaining', 'illustrious', 'humble', 'good', 'generous', 'freshly', 'future', 'fine', 'financial', 'elite'] 
+negative: ['late']
+neutral: ['local', 'unspoken', 'quest', '’', 'expensive']
+
+Poor Descriptors:
+positive: ['illustrious', 'elite', 'humble', 'prominent', 'gaining', 'good', 'generous', 'freshly', 'fine', 'financial', 'empathetic'] 
+negative: ['least', 'odious', 'hard']
+neutral: ['late', 'hushed', '’', 'local', 'foreign', 'expensive']
+
+Overall Analysis: It seems that the source material paints males and females with both positive and negative traits, with a healthy amount of neutral descriptors in tow. There's a distinct contrast between the positive and negative language used to describe white and non-white individuals. Richly described individuals seem overwhelmingly positive, while those described as poor are generally depicted in a negative light, indicating economic disparities.

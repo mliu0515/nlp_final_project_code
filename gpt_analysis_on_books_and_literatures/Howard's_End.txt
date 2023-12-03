@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['young', 'better', 'important', 'glad', 'special', 'true', 'practical', 'right', 'free']
+negative: ['bad', 'silent', 'absurd']
+neutral: ['”', 'little', '’', 'many', 'it.', 'personal', 'natural', 'afraid']
+
+Female Descritpors:
+positive: ['possible', 'clear', 'interesting', 'able', 'higher', 'all.', 'right', 'artistic', 'public']
+negative: ['less', 'flat', 'false', 'empty', 'foolish', 'tiresome', 'invisible']
+neutral: ['much', 'older', 'content', 'longer']
+
+White Descriptors:
+positive: ['long', 'certain', 'human', 'alive', 'open', 'particular', 'easy', 'true', 'greater', 'fine', 'careful']
+negative: ['wrong', 'anxious', 'dead']
+neutral: ['white', 'whole', 'black', 'second', 'small', 'worth']
+
+Non-White Descriptors:
+positive: ['sure', 'present', 'big', 'pleasant', 'large', 'funny']
+negative: ['’', 'angry', 'necessary', 'stupid', 'sad', 'sharp']
+neutral: ['last', 'next', 'least', 'whole', 'me.', 'red', 'immense', 'social']
+
+Rich Descriptors:
+positive: ['new', 'real', 'dear', 'interested', 'enough', 'steady']
+negative: ['“', '”', 'poor', 'difficult', 'impossible', 'worse', 'sorry', 'terrible']
+neutral: ['little', 'common', 'second', 'usual', 'due', 'tired']
+
+Poor Descriptors:
+positive: ['good', 'great', 'first', 'full', 'beautiful', 'different', 'best', 'electronic', 'serious', 'strong', 'happy', 'quiet']
+negative: ['old', 'late']
+neutral: ['’', '”', '‘', 'rich', 'many', 'odd']
+
+Overall Analysis: The book appears to have a positive association with the descriptors for male, female, and white, whereas it seems to have a more negative association with the descriptors for non-white and rich, and a mixed association for poor. This may indicate a bias in the text towards the presentation of these categories. The positive words associated with male, female, and white are generally positive attributes such as 'young', 'clear', 'long', while the negative words for non-white and rich include negative emotions or state like 'angry', 'difficult', 'poor'. This type of unequal representation could potentially contribute to stereotypes and prejudices between these social groups.

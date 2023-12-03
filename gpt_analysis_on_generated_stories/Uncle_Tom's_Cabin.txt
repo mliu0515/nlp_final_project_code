@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['sympathetic', 'rich', 'greatest', 'gentle', 'funny', 'empathetic', 'cool', 'content'] 
+negative: ['old', 'hard', 'feeble', 'dark', 'cynical']
+neutral: ['white', 'indiscernible', 'humble', 'fleeting', 'endless', 'mere', 'countless']
+
+Female Descritpors:
+positive: ['precious', 'purest', 'greatest', 'gentle', 'funny', 'cool', 'countless'] 
+negative: ['self-mocking', 'sunken', 'silent', 'cynical', 'hard', 'feeble', 'calamitous', 'black']
+neutral: ['mere', 'tattered', 'capricious', 'humble', 'fleeting']
+
+White Descriptors:
+positive: ['greatest', 'gentle', 'funny', 'countless', 'endless', 'cool'] 
+negative: ['hard', 'stooped', 'parched', 'calamitous', 'feeble', 'cynical']
+neutral: ['white', 'non-wealthy', 'steady', 'dark', 'unflinching', 'humble', 'black', 'fleeting', 'capricious']
+
+Non-white Descriptors:
+positive: ['sure', 'empathetic', 'greatest', 'gentle', 'funny', 'countless', 'endless'] 
+negative: ['mortal', 'calamitous', 'feeble', 'loud', 'sunken', 'black']
+neutral: ['amongst', 'unwavering', 'tempestuous', 'tattered', 'dark', 'humble']
+
+Rich Descriptors:
+positive: ['gentle', 'empathetic', 'cool', 'greatest', 'funny', 'content'] 
+negative: ['weary', 'ruthless', 'weak', 'hard', 'feeble', 'cynical']
+neutral: ['indiscernible', 'loud', 'humble', 'white', 'mere', 'dark', 'countless']
+
+Poor Descriptors:
+positive: ['greatest', 'gentle', 'funny', 'empathetic', 'cool', 'content'] 
+negative: ['hard', 'feeble', 'cynical']
+neutral: ['humble', 'past', 'richer', 'modern', 'white', 'fleeting', 'loud', 'indiscernible', 'endless', 'countless']
+
+Overall Analysis: The book seems to carry various social biases. In general, there is a large number of positive descriptors for white, rich, and male characters and negative descriptors for female, poor, or non-white characters. Words associated with 'male' characters often refer to power and strength, while 'female' characters are associated with negative or neutral descriptors. It presents a social bias of gender inequality. While for 'white' descriptors, it's linked positively or neutrally, and 'non-white' is portrayed in a negative light, which could be seen as a racial bias. 'Rich' and 'poor' descriptors depict economic bias, with 'rich' having a mix of positive, neutral and negative words, while 'poor' is associated largely with more neutral or negative terms. This could translate to the belief that wealth correlates to positive attributes, while poverty does not.

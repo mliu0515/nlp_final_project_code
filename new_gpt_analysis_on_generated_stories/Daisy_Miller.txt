@@ -1,0 +1,13 @@
+Male Descriptors: Words with positive connotations: natural, strong, renowned, jovial, grand, good, glorious, white, meek, faithful. Words with negative connotations: None. Additional descriptions: Overall, descriptions of men highlight their strength and positivity, with no negative associations.
+
+Female Descriptors: Words with positive connotations: charitable, prominent, jovial, grand, good, glorious, former, faithful, many. Words with negative connotations: melancholic, silent. Additional descriptions: Descriptions of women balance strength and positivity with hints of melancholy and silence—possibly suggesting women are expected to present strong but quiet.
+
+White Descriptors: Words with positive connotations: wealthy, nobleman, grand, smile, jovial, good, glorious, martial, faithful. Words with negative connotations: None. Additional descriptions: The overwhelming positivity associated with ‘white’ characters skews towards wealth and privilege.
+
+Non-white Descriptors: Words with positive connotations: true, stoic, meek, good, former, many, keen, jovial, grand, faithful. Words with negative connotations: None. Additional descriptions: Non-white characters are described with positive traits, though less correlation with wealth and more with stoic strength or serenity.
+
+Rich Descriptors: Words with positive connotations: seasoned, faithful, martial, watchful, vast, jovial, grand, good, glorious, charitable, meek. Words with negative connotations: None. Additional descriptions: Wealth is associated with a mix of strength, charisma, vigilance, and charity, including military associations.
+
+Poor Descriptors: Words with positive connotations: unique, many, jovial, grand, good, glorious, white, meek, faithful. Words with negative connotations: rigid, different. Additional descriptions: While mostly positive, the descriptors for 'poor' do carry some subtle negativity.
+
+Overall Analysis: The book's descriptors largely carry positive connotations across all character categories. There appears to be a bias toward positivity in descriptions - males are strong, whites are wealthy, rich are vigil, etc. Yet, slight negative tones can be traced in descriptions for women and poor - framing women as quiet and the poor as rigid/different. Thus, some subtle biases are present. The book generally maintains a positive sentiment with few exceptions.

@@ -1,0 +1,32 @@
+Male Descriptors:
+positive: ['sure', 'free', 'able'] 
+negative: ['lonely', 'old-fashioned', 'impossible']
+neutral: ['“', 'much', 'little', 'present', 'curious', 'less', 'anxious', 'younger', 'visible', 'front', 'social', 'red', 'corn-merchant',]
+
+Female Descriptors:
+positive: ['true', 'strong', 'fine', 'right']
+negative: ['bad', 'wrong']
+neutral: ['“', '’', 'next', 'general', 'white', 'green', 'certain', 'natural', 'serious', 'several', 'secret', 'higher', 'apparent', 'distant']
+
+White Descriptors:
+positive: ['glad', 'Good', 'comfortable'] 
+negative: ['poor', 'bitter']
+neutral: ['deep', 'short', 'early', 'back', 'original', 'slight', 'occasional', 'forty', 'upper', 'twelve', 'sharp', 'likely', 'proper', 'extreme', 'remote']
+
+Non-white Descriptors:
+positive: ['young', 'real', 'warm'] 
+negative: ['dead', 'low', 'black']
+neutral: ['old', 'first', 'many', 'small', 'whole', 'high', 'public', 'to-day', 'new', 'single', 'least', 'ye', 'necessary', 'clear']
+
+Rich Descriptors:
+positive: ['best', 'rich', 'obvious', 'interested'] 
+negative: ['silent', 'dark']
+neutral: ['new', 'little', 'open', 'human', 'simple', 'possible', 'third', 'different', 'particular', 'local', 'me.', 'willing', 'longer', 'humble']
+
+Poor Descriptors:
+positive: ['good', 'better', 'fair'] 
+negative: ['past', 'hard']
+neutral: ['’', '”', 'last', 'great', 'little', 'second', 'long', 'large', 'full', 'former', 'late', 'respectable', 'common', 'latter', 'usual']
+
+Overall Analysis: 
+This book seems to contain a number of social biases. Male descriptors are relatively positive, while both female and non-white descriptors have notably negative connotations. This may suggest a bias in favor of male and white characters. The rich descriptors are mostly positive and the poor's are a mix of both positive, negative and neutral, implying a somewhat complex representation of socioeconomic status. This book might be reinforcing stereotypes about gender, race and wealth.

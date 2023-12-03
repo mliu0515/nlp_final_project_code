@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['new', 'different', 'strong', 'young', 'first', 'free', 'humble'] 
+negative: ['harsh', 'dilapidated', 'cruel', 'common', 'bitter']
+neutral: ['former', 'extended', 'enough', 'concerned', 'bustling', 'burly', 'blue', 'better']
+
+Female Descriptors:
+positive: ['resilient', 'different', 'tough', 'innocent', 'free', 'humble'] 
+negative: ['bitter', 'tragic', 'wicked', 'cruel', 'common', 'dilapidated']
+neutral: ['rural', 'extended', 'enough', 'young', 'concerned', 'former', 'bustling', 'burly', 'blue', 'better']
+
+White Descriptors:
+positive: ['best', 'first', 'better', 'valuable', 'free'] 
+negative: ['harsh', 'cruel', 'common', 'bitter', 'dilapidated']
+neutral: ['bustling', 'poignant', 'concerned', 'unconditionally', 'blue', 'burly', 'different', 'enough', 'extended', 'former']
+
+Non-white Descriptors:
+positive: ['young', 'many', 'free', 'humble'] 
+negative: ['ill-treatment', 'dilapidated', 'cruel', 'common', 'bitter']
+neutral: ['extended', 'enough', 'different', 'former', 'first', 'harsh', 'concerned', 'bustling', 'burly', 'blue', 'better']
+
+Rich Descriptors:
+positive: ['humble', 'free', 'tall'] 
+negative: ['cruel', 'common', 'bitter', 'harsh', 'hollow']
+neutral: ['former', 'burly', 'different', 'first', 'extended', 'enough', 'dilapidated', 'concerned', 'bustling', 'blue', 'better', 'young']
+
+Poor Descriptors:
+positive: ['successful', 'free', 'practiced'] 
+negative: ['hollow', 'bitter', 'cruel', 'legal']
+neutral: ['blue', 'different', 'former', 'first', 'extended', 'enough', 'dilapidated', 'young', 'concerned', 'common', 'bustling', 'burly', 'better']
+
+Overall Analysis: Many neutral words such as 'young', 'blue', 'former', 'better' are used across categories, but negative connotations are prevalent in each. 'Bitter', 'common', 'cruel' and 'dilapidated' are frequently associated across categories. Positive connotations are less prevalent overall, especially for non-white, rich and poor categories. The word 'free' is used positively across all categories. There seems to be a bias in these word lists that despite being in different categories, individuals perceptively possess universal traits, whether positive or negative. Particularly, powerful negative connotations are associated with all demographics, which may indicate a pervasive negativity bias present in the book's approach to character descriptions.

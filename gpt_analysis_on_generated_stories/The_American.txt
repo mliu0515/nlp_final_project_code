@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['affable', 'talented', 'vivid', 'cheerful', 'eternal', 'exclusive', 'wild', 'expansive', 'fragrant', 'full', 'curious', 'distinctive', 'grand']
+negative: ['empty', 'dull']
+neutral: ['flute', 'loudest', 'diverse', 'foreign', 'ethereal']
+
+Female Descriptors:
+positive: ['new', 'social', 'wild', 'full', 'genuine', 'eternal', 'intimate', 'popular', 'shared', 'sizable', 'respective', 'adept', 'unifying', 'cheerful', 'distinctive']  
+negative: ['rigid']
+neutral: ['apparent', 'usual', 'uninitiated', 'many']
+
+White Descriptors:
+positive: ['societal', 'vast', 'human', 'individual', 'cultural', 'passionate', 'bright-eyed', 'alive', 'unique', 'expansive', 'profound', 'exclusive', 'ethereal', 'eternal', 'full', 'diverse']
+negative: ['empty', 'dull']
+neutral: ['tall', 'foreign', 'flute']
+
+Non-white Descriptors:
+positive: ['grand', 'American', 'great', 'constant', 'vibrant', 'exclusive', 'genuine', 'full', 'fragrant', 'expansive', 'ethereal', 'eternal', 'diverse']
+negative: ['empty', 'limited']
+neutral: ['English', 'closer', 'contrary', 'foreign', 'flute']
+
+Rich Descriptors:
+positive: ['curious', 'distinctive', 'full', 'fragrant', 'foreign', 'expansive', 'exclusive', 'ethereal', 'eternal', 'diverse', 'wild', 'grand', 'cultural']
+negative: ['dull', 'overwhelming', 'unaided' 'contrary']
+neutral: ['certain']
+
+Poor Descriptors:
+positive: ['fragrant', 'distinctive', 'wild', 'full', 'foreign', 'expansive', 'exclusive', 'ethereal', 'diverse', 'curious', 'grand', 'cultural']
+negative: ['severe', 'unpredictable', 'empty', 'dull', 'contrary']
+neutral: ['constant']
+
+Overall Analysis: The words associated with each category largely convey a mix of positive and neutral connotations, with only a handful of negative terms. Notably, the term 'empty' is negatively associated with both males and non-whites, suggesting a potential bias. Similarly, 'dull' is negatively associated with males, whites, the rich and the poor, indicating an overarching negative bias in the book. Interestingly, 'foreign' is neutral to all races and classes, showing neutrality in cultural perspective. Evaluated overall, although no explicit bias is present, a subtle thread of biases can be identified, portraying males and non-whites with a few negative associations, and perhaps hinting at broader societal sentiments.

@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['quiet', 'sanctuary', 'grand', 'watchful', 'beneficial', 'honest', 'beautiful'] 
+negative: ['late', 'unconventional', 'distant']
+neutral: ['next', 'modest', 'calloused', 'culinary', 'little', 'ironic', 'intertwined', 'indeterminate', 'hardest']
+
+Female Descriptors:
+positive: ['grand', 'willful', 'honest', 'sharp', 'calloused', 'culinary', 'beautiful', 'beneficial', 'cherished'] 
+negative: ['societal', 'deceased']
+neutral: ['young', 'much', 'private', 'complex', 'temper', 'ironic', 'intertwined', 'indeterminate', 'hardest']
+
+White Descriptors:
+positive: ['ironic', 'fine', 'intellectual', 'wealthy', 'beautiful', 'sung', 'fantastic', 'honest', 'gentle', 'young'] 
+negative: ['unassuming', 'deceased', 'critical']
+neutral: ['little', 'late', 'intertwined', 'indeterminate', 'hardest', 'grand', 'early', 'modest']
+
+Non-white Descriptors:
+positive: ['unwavering', 'significant', 'fantastic', 'beneficial', 'grand', 'gentle', 'fine', 'honest', 'distant'] 
+negative: ['unbeknownst', 'alcoholic', 'dreary', 'roast', 'unwitting']
+neutral: ['early', 'usual', 'intertwined', 'indeterminate', 'ironic']
+
+Rich Descriptors:
+positive: ['potential', 'gentle', 'complex', 'substantial', 'intertwined', 'ironic', 'fantastic', 'honest'] 
+negative: ['unsuspecting', 'deep', 'vulnerable', 'well-disguised', 'dreary']
+neutral: ['indeterminate', 'hardest', 'late', 'grand', 'fine', 'young', 'early']
+
+Poor Descriptors:
+positive: ['cherished', 'fantastic', 'ironic', 'honest', 'grand', 'gentle', 'fine', 'young'] 
+negative: ['unspoken', 'melancholic', 'off-putting', 'unexpected']
+neutral: ['little', 'late', 'intertwined', 'indeterminate', 'hardest', 'early', 'modest', 'distant']
+
+Overall Analysis: Most descriptors for each group are positive or neutral indicating generally favorable views or neutral perspectives within the book. However, non-white and rich individuals possess greater negative connotations compared to other groups suggesting potential bias or negative perception towards these groups. The genders have relatively similar connotations, indicating no gender bias. Poor individuals also have a good amount of positive words showing a sympathetic view. All groups have complex, intertwined, and indeterminate words implying complexity in character perceptions.

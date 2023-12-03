@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['fine', 'calm', 'proper', 'firm', 'green', 'wide'] 
+negative: ['bad', 'mad', 'unknown', 'silent', 'nervous', 'wounded', 'desperate']
+neutral: ['tall', 'vague', 'stolid', 'regimental', 'corporal', 'close', 'torn']
+
+Female Descriptors:
+positive: ['many', 'good', 'old', 'large', 'small', 'grim', 'white'] 
+negative: ['loud', 'dead', 'sudden', 'aware', 'soldier']
+neutral: ['’', '“', 'general', 'distant', 'wild', 'yeh', 'jest', 'fightin']
+
+White Descriptors:
+positive: ['last', 'free', 'whole', 'easy', 'frantic', 'light', 'ready'] 
+negative: ['”', 'certain', 'gray', 'dark', 'awful', 'curious']
+neutral: ['short', 'various', 'forest', 'apparent', 'vast', 'like', 'afraid']
+
+Non-white Descriptors:
+positive: ['new', 'black', 'first', 'young', 'sure', 'high', 'big', 'Good', 'instant', 'possible', 'fantastic', 'second', 'ol', 'sufficient'] 
+negative: ['electronic', 'strange', 'furious', 'previous']
+neutral: ['public', 'rapid']
+
+Rich Descriptors:
+positive: ['little', 'great', '’', 'hot', 'better', 'soft', 'quiet', 'private', 'right', 'fierce', 'beautiful', 'able'] 
+negative: ['impossible', 'latter', 'busy', 'formidable', 'dull', 'forgotten']
+neutral: ['tremendous', 'several']
+
+Poor Descriptors:
+positive: ['long', 'full', 'deep', 'best', 'low', 'brown', 'quick', 'personal'] 
+negative: ['th', 'red', 'much', 'tattered', 'small', 'sech', 'faded', 'cold', 'thin']
+neutral: ['blue', 'yellow', 'Many']
+
+Overall Analysis: The social biases present in this work are significant. There is a strong negative bias towards males, with words such as 'bad', 'mad', 'nervous', 'wounded', and 'desperate' being associated with them, whereas females appear to be associated with relatively neutral or positive terms, illustrating gender bias. There is also racial bias, with 'white' associated with largely positive or neutral terms and 'non-white' with negative ones like 'furious' or 'strange'. Similarly, the rich are associated with generally positive words, while the poor have multiple negative connotations, indicating class bias.

@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: unique, expectant, first, next, kind-hearted, innocent, humble, large. Words with negative connotations: old, nefarious, grim, false, faded, destroyed. Additional descriptions: The male descriptors include more positive words compared to negative, this indicates a possible positive bias for male characters.
+
+Female Descriptors: Words with positive connotations: first, innocent, kind-hearted, humble, large. Words with negative connotations: false, painful, oblivious, unsought, unrecorded, questionable, unable, tense, grim, faded. Additional descriptions: The female descriptors primarily include negative words, which hints at a potential negative bias towards women in the text.
+
+White Descriptors: Words with positive connotations: true, privileged, successful, first, kind-hearted, innocent, humble, large. Words with negative connotations: nefarious, last, destroyed, grim, false. Additional descriptions: The white descriptors are mostly positive, possibly indicating a narrative bias towards depicting whiteness in a positive light.
+
+Non-white Descriptors: Words with positive connotations: able, large, innocent, kind-hearted, first. Words with negative connotations: faded, unusual, accidental, grim, false. Additional descriptions: The mixed bag of descriptors for non-white characters could be indicative of inconsistent portrayal or dichotomous character dynamics.
+
+Rich Descriptors: Words with positive connotations: real, wide, financial, simple, able, kind-hearted, innocent, humble, first. Words with negative connotations: bitter, silent, black, untraceable, grim. Additional descriptions: The descriptors for rich characters are more positive overall, pointing to a favorability towards wealthy characters in the text.
+
+Poor Descriptors: Words with positive connotations: humble, opulent, kind-hearted, first, innocent. Words with negative connotations: unpredictable, grim, nefarious, oblivious, faded, destroyed. Additional descriptions: The poor characters are described with more negative words, suggesting a likely negative bias towards impoverished characters.
+
+Overall Analysis: From the list of descriptors, it is evident that the work may contain biases favoring males, whites, and the rich, while seeming to hold negative biases for females, non-whites, and the poor. These impressions are speculative and are based solely on the listed descriptors, a deeper analysis of the actual text would provide more accurate insights.
+
+The overall sentiment is mixed, with both positive and negative connotations present within each category. On balance, however, the use of negative descriptors seems more prevalent indicating a slant towards negative sentiments within the book.

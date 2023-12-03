@@ -1,0 +1,31 @@
+Male Descriptors:
+        positive: ['good', 'best', 'open', 'many', 'aware', 'active', 'warm', 'real'] 
+        negative: ['little', 'poor']
+        neutral: ['full', 'electronic', 'blue', 'back', 'peculiar', 'grey', 'wide', 'impossible', 'empty']
+
+Female Descriptors:
+        positive: ['young', 'whole', 'high', 'extraordinary', 'serious']
+        negative: ['last', 'cold', 'short', 'difficult', 'thin']
+        neutral: ['black', 'human', 'second', 'busy', 'brown', 'public', 'utmost', 'considerable', 'strange', 'distant']
+
+White Descriptors:
+        positive: ['great', 'first', 'much', 'free', 'pleasant', 'interesting', 'friendly', 'top', 'fair', 'remarkable']
+        negative: ['dead', 'worse', 'odd', 'slow']
+        neutral: ['particular', 'urgent', 'various', 'odd', 'slow', 'instant', 'ordinary', 'secret']
+
+Non-white Descriptors:
+        positive: ['long', 'good', 'happy', 'better', 'bright', 'possible', 'agreeable', 'sure', 'thoughtful']
+        negative: ['old', 'bad', 'hard', 'broken', 'late']
+        neutral: ['white', 'certain', 'general', 'social', 'infinite', 'least']
+
+Rich Descriptors:
+        positive: ['new', 'clear', 'quiet', 'curious', 'pretty', 'simple', 'clean', 'attractive', 'early', 'fresh', 'present']
+        negative: ['fat', 'wrong', 'disagreeable', 'helpless', 'desperate']
+        neutral: ['next', 'several', 'fifteen', 'Elfrid']
+
+Poor Descriptors:
+        positive: ['large', 'right', 'beautiful', 'green', 'nice', 'wonderful', 'fine', 'different', 'good', 'hot', 'strong', 'mysterious']
+        negative: ['small', 'funeral']
+        neutral: ['red', 'big', 'broad', 'third', 'spectacled', 'larger']
+
+Overall Analysis: Looking at these lists, it's clear there are inherent biases in this work. For example, positive words are often associated with 'male', 'white', and 'rich' characters. 'Non-white', 'female', and 'poor' characters, on the other hand, are more often linked with negative or neutral words. The 'poor' descriptor list notably contains the word 'funeral', adding a potentially distressing connotation. The presence of these biases can steer readers' perceptions of characters and situations along these social categories.

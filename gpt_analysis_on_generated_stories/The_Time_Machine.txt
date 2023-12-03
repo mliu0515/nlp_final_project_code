@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['life-size', 'futuristic', 'full', 'grand', 'great', 'eager', 'emerald'] 
+negative: ['rudimentary', 'unkempt', 'weather-beaten', 'faded', 'foggy', 'fractured', 'extinct']
+neutral: ['day-to-day', 'fossil', 'forest', 'experiential', 'geological', 'geologist']
+
+Female Descriptors:
+positive: ['rich', 'hallowed', 'sophisticated', 'lifelike', 'full'] 
+negative: ['cryptic', 'faded', 'foggy', 'fractured', 'fossil']
+neutral: ['forest', 'prismatic', 'various', 'brown', 'historian', 'waited', 'intricate', 'geologist', 'strange', 'experiential']
+
+White Descriptors:
+positive: ['full', 'eager', 'ancient', 'architectural', 'futuristic'] 
+negative: ['faded', 'fossil', 'fractured', 'middle-aged']
+neutral: ['geological', 'human', 'crystalline', 'inexhaustible', 'porcelain', 'resolute', 'rolled', 'unknown', 'cryptic', 'geologist', 'brown']
+
+Non-white Descriptors:
+positive: ['vast', 'advanced', 'calm', 'detailed', 'colossal', 'architectural', 'futuristic'] 
+negative: ['timeworn', 'fractured', 'unheard']
+neutral: ['large', 'light', 'foggy', 'mysterious', 'deep', 'different', 'unfamiliar', 'ancient', 'geologist', 'geological']
+
+Rich Descriptors:
+positive: ['emerald', 'newfound', 'passionate', 'grand', 'full'] 
+negative: ['weather-beaten', 'uninterested', 'faded']
+neutral: ['curious', 'subterranean', 'colored', 'unseen', 'extinct', 'fossil', 'futuristic', 'forest', 'foggy', 'geological', 'geologist']
+
+Poor Descriptors:
+positive: ['grand', 'vigorous', 'great', 'calm', 'full', 'emerald', 'different', 'eager'] 
+negative: ['extinct', 'faded', 'foggy', 'weather-beaten', 'fractured']
+neutral: ['experiential', 'fossil', 'forest', 'geological', 'geologist']
+
+Overall Analysis: It seems that some social biases might be embedded within these descriptors. For example, 'rich' and 'non-white' categories often contained more positive connotations while 'male' and 'white' categories contain more neutral connotations. It's interesting that some negative connotations like 'faded', 'fractured', 'foggy' appear in all categories, but 'futuristic' appears as a positive descriptor in all except female. This could possibly highlight a gender bias. It's crucial to evaluate these biases because they might subtly influence readers' perceptions.

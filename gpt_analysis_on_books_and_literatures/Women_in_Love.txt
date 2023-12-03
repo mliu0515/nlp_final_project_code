@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['glad', 'happy', 'better', 'blue', 'social', 'next', 'hot', 'deep', 'bright', 'calm', 'present'] 
+negative: ['false', 'uneasy']
+neutral: ['“', 'dark', 'whole', 'red', 'loose', 'utterly', 'female']
+
+Female Descriptors:
+positive: ['perfect', 'many', 'conscious', 'single', 'lovely', 'easy', 'mystic', 'separate', 'electric', 'handsome', 'spiritual'] 
+negative: ['hard', 'aware', 'violent', 'wrong', 'naked', 'stiff', 'nervous']
+neutral: ['’', 'flat']
+
+White Descriptors:
+positive: ['new', 'good', 'small', 'high', 'wonderful', 'sure', 'subtle', 'wild', 'sharp', 'least', 'tiny', 'ready', 'brilliant']
+negative: ['”', 'low', 'terrible', 'pale', 'sudden']
+neutral: ['“', 'it.']
+
+Non-white Descriptors:
+positive: ['old', 'soft', 'beautiful', 'pure', 'free', 'certain', 'true', 'clear', 'warm', 'light', 'best'] 
+negative: ['heavy', 'slow', 'afraid', 'thin', 'poor']
+neutral: ['different', 'rich', 'short', 'ordinary']
+
+Rich Descriptors:
+positive: ['’', 'white', 'young', 'real', 'fine', 'silent', 'curious', 'open', 'unknown', 'quick', 'green', 'fair', 'simple', 'ultimate']
+negative: ['last', 'cold', 'unconscious', 'horrible', 'awful', 'eternal']
+neutral: ['rich']
+
+Poor Descriptors:
+positive: ['little', 'great', 'much', 'long', 'full', 'strong', 'large', 'human', 'first', 'complete', 'right', 'physical', 'final', 'yellow'] 
+negative: ['”', '“', 'strange', 'black', 'dead']
+neutral: ['dangerous']
+
+Overall Analysis: This lists of words convey several social biases present in literature. For instance, male descriptors are mostly positive and active, implying a gender bias that favors men in action or leadership roles. Female descriptors, on the contrary, mix the positive and negative traits, which could indicate a distorted or complex view of women in society. In the racial context, white descriptors are mostly positive suggesting a white preference or bias. Non-white descriptors are more balanced, but include potentially negative stereotypes. The rich descriptors are more positive, likely signaling a bias that the rich are favored or looked up to. Finally, the poor descriptors are mostly positive, but include words associated with hardship or struggle. This may represent a bias towards the narrative of overcoming adversity among the poor.

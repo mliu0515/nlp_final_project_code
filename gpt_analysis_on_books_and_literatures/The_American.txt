@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['glad', 'brilliant', 'rich', 'nice', 'great', 'bright', 'polite', 'grand'] 
+negative: ['strange', 'silent', 'angry', 'worst']
+neutral: ['quiet', 'different', 'proud', 'wide', 'late', 'native', 'Italian', 'about.']
+
+Female Descriptors:
+positive: ['great', 'agreeable', 'pretty', 'perfect', 'remarkable', 'true'] 
+negative: ['afraid', 'wrong', 'unhappy', 'uncomfortable']
+neutral: ['little', '’', '”', 'French', 'several', 'American', 'black', 'delicate', 'younger', 'usual']
+
+White Descriptors:
+positive: ['great', 'best', 'easy', 'new', 'able', 'strong', 'real', 'worth', 'green'] 
+negative: ['least', 'small', 'empty']
+neutral: ['“', 'it.', 'commercial', 'old', 'mysterious', 'blue', 'social', 'to-day']
+
+Non-white Descriptors:
+positive: ['young', 'happy', 'dear', 'possible', 'soft', 'clever', 'little'] 
+negative: ['last', 'bad', 'hard', 'low', 'cold']
+neutral: ['’', '”', '“', 'much', 'first', 'long', 'next', 'personal']
+
+Rich Descriptors:
+positive: ['sure', 'good', 'open', 'clear', 'excellent', 'interesting', 'noble', 'generous', 'magnificent', 'comfortable'] 
+negative: ['poor', 'disagreeable', 'simple']
+neutral: ['old', 'certain', 'white', '‘', 'common', 'deep', 'them.']
+
+Poor Descriptors:
+positive: ['good', 'better', 'beautiful', 'present', 'fine', 'large', 'curious', 'serious'] 
+negative: ['short', 'sad', 'sorry', 'dead']
+neutral: ['”', 'many', 'high', 'particular', 'electronic', 'sir', 'English']
+
+Overall Analysis: The analysis of the descriptors indicates some potential bias in the text. Men are often described with positive words like 'brilliant', 'rich', 'great', while being female is associated with being 'afraid', 'unhappy'. The White category is connected generally with more positive words, while the Non-white seems more neutral and includes more negative descriptions. The rich are described in overwhelmingly positive terms, whereas the poor have a mix of positive, negative, and neutral descriptors. This could imply social biases privileging wealth, male and white identities.

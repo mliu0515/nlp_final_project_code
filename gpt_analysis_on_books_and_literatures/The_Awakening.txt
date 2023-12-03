@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['good', 'new', 'warm', 'happy', 'sweet', 'strong', 'genuine', 'sure'] 
+negative: ['cold']
+neutral: ['little', '“', '”', 'young', 'first', 'soft', 'last', 'long', 'certain', 'true', 'many']
+ 
+Female Descriptors:
+positive: ['able', 'deep', 'easy', 'excellent', 'pleased', 'smooth'] 
+negative: ['unhappy', 'uneasy', 'nervous', 'monotonous']
+neutral: ['quiet', 'late', 'broad', 'human', 'French', 'past', 'longer', 'particular', 'personal', 'asleep']
+
+White Descriptors:
+positive: ['whole', 'pleasant', 'better', 'rare', 'general', 'hard'] 
+negative: ['uncomfortable']
+neutral: ['white', 'next', 'much', 'low', 'open', 'yellow', 'different', 'strange', 'intimate', 'thin', 'outside', 'curious', 'red']
+
+Non-white Descriptors:
+positive: ['big', 'fair', 'bright', 'green', 'blue', 'light', 'subtle', 'surprised'] 
+negative: []
+neutral: ['early', 'red', 'large', 'familiar', 'huge', 'front', 'physical', 'delicate', 'married', 'daily', 'brown', 'various']
+
+Rich Descriptors:
+positive: ['great', 'many', 'ready', 'beautiful', 'rich', 'glad', 'handsome'] 
+negative: ['heavy', 'narrow', 'hungry']
+neutral: ['black', 'small', 'electronic', 'long', 'dear', 'poor', 'gray', 'it.', 'usual', 'second']
+
+Poor Descriptors:
+positive: ['full', 'free', 'hot', 'quick', 'present', 'clear', 'interested'] 
+negative: ['old', 'dead', 'disagreeable', 'impossible']
+neutral: ['’', 'delicious', 'high', 'tall', 'dark', 'close', '‘', 'neighboring', 'occasional']
+
+Overall Analysis: The male descriptors are overwhelmingly positive or neutral, with few negative connotations. This might imply a bias that males are mostly in positive light or neutrality. The female descriptors have a mix of all three types of connotations represented fairly, suggesting a balanced representation. The white descriptors also have a mostly positive or neutral connotation, indicating a possible bias towards whiteness. Non-white descriptors lean towards positive and neutral, but without any negatives, suggesting an interesting perspective on non-white entities. The rich descriptors contain most of the positive words, while the poor descriptors have a fair mix of positive, negative and neutral words. This could suggest a societal bias that rich is good and poor is not necessarily negative but carries mixed connotations.

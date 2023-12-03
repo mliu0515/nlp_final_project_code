@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: opulent, moonlit, unusual, high, half-hearted, greater, gracious, farthest, distinctive, different. Words with negative connotations: distraught, dusty, insurmountable, unwitting. Additional descriptions: The male descriptors contain a mix of both positive and negative connotations, implying complexity and diversity.
+
+Female Descriptors: Words with positive connotations: small, international, rich, self-made, real, charismatic, vertigo-inducing, highest, hot, initial, gracious. Words with negative connotations: non-wealthy, mundane, different, farthest, half-hearted. Additional descriptions: The female descriptors also have a blend of positive and negative connotations, suggesting a sense of resilience and variety.
+
+White Descriptors: Words with positive connotations: much, highest, sea-blue, wealthy, light, young, social, greater, distinctive, ritzy, farthest, hot, gracious. Words with negative connotations: half-hearted, unwitting, dusty, insurmountable, downright. Additional descriptions: The connotations for White descriptors lean more towards positive, indicating a potential bias.
+
+Non-white Descriptors: Words with positive connotations: academic, strength-offered, sharper, culinary, aware, casual, charismatic, different, greater, leading. Words with negative connotations: insurmountable, farthest, dusty, downright, half-hearted. Additional descriptions: The non-white descriptors reflect a sense of achievement and diligence, but also contain some negative connotations.
+
+Rich Descriptors: Words with positive connotations: initial, unusual, universe, international, hot, highest, greater, gracious, leading, distinctive, different. Words with negative connotations: half-hearted, propriety-laden, downright, dusty. Additional descriptions: The rich descriptors display a sense of superiority and privilege, with the negative connotations depicting potential criticism and defiance.
+
+Poor Descriptors: Words with positive connotations: jovial, clever, hot, initial, highest, greater, gracious, light, culinary. Words with negative connotations: past, insurmountable, farthest, dusty, downright, different. Additional descriptions: The poor descriptors indicate a mix of positivity and struggle, which is a true depiction of the poor's life.
+
+Overall Analysis: The overall analysis shows a clear divide along socioeconomic lines, where the rich descriptors present a much more positive image as compared to the poor descriptors. Racially, while the Non-white descriptors present a sense of accomplishment and resilience, the White descriptors have a more positive connotation. As for gender, both male and female descriptors have balanced connotations, implying an equal representation.
+
+Overall Sentiment Analysis: The list contains more positive descriptors compared to negative ones, across the different categories. However, the presence of certain negative words reflects the realities and hardships of specific groups, which shows a realistic perspective.

@@ -1,0 +1,32 @@
+Male Descriptors:
+Positive: ['able', 'fine', 'glad', 'happy', 'better', 'important', 'quick', 'respectable']
+Negative: ['poor', 'old', 'wrong', 'last']
+Neutral: ['first', 'least', '”', 'early', 'common', 'likely', 'silent', 'hot']
+
+Female Descriptors:
+Positive: ['great', 'best', 'greatest', 'pleasant', 'proper', 'human']
+Negative: ['impossible', 'worse', 'late']
+Neutral: ['last', '”', 'serious', 'new', 'usual', 'fair', 'former', '’', '“', 'private']
+
+White Descriptors:
+Positive: ['little', 'sure', 'ready', 'worth', 'dearest', 'open', 'sensible', 'gentle', 'wonderful', 'perfect']
+Negative: ['less']
+Neutral: ['much', 'necessary', 'second', 'enough', 'certain', 'Lady', 'decided', 'it.']
+
+Non-white Descriptors:
+Positive: ['dear', 'better', 'possible', 'whole', 'easy', 'delightful', 'eager', 'little', 'sudden', 'favourable']
+Negative: ['bad', 'sorry']
+Neutral: ['much', 'general', '“', 'real', 'eldest', 'public', 'particular', 'smallest']
+
+Rich Descriptors:
+Positive: ['good', 'young', 'agreeable', 'greater', 'natural', 'anxious', 'useful', 'comfortable', 'quiet', 'immediate', 'safe', 'warm', 'welcome']
+Negative: []
+Neutral: ['first', 'different', 'next', 'short', 'small', 'equal', 'due']
+
+Poor Descriptors:
+Positive: ['happy', 'full', 'strong', 'right', 'true', 'great', 'capable', 'excellent']
+Negative: ['afraid']
+Neutral: ['many', 'little', 'present', '“', 'long', 'much', 'aware', 'electronic', 'large', 'longer']
+
+Overall Analysis: 
+The word choice for each category displays certain biases. "Rich" descriptors generally have a positive connotation, while "Poor" descriptors are a mix of positive and negative, perhaps suggesting a view of the poor as struggling but resilient. Most "White" descriptors are positive, while "Non-white" descriptors are a mix of all three types, possibly suggesting some degree of racial bias. "Male" descriptors contain more positive words compared to "Female" descriptors, but the latter also carry a few words with negative connotations. This suggests there may be subtle gender bias subsisting in the work.

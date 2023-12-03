@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['happy', 'able', 'fair', 'big', 'mine', 'full', 'enormous', 'new', 'like'] 
+negative: ['little', 'much', 'cold', 'weak']
+neutral: ['true', 'ancient', 'small', 'upon', 'large', 'fifty', '”']
+
+Female Descriptors:
+positive: ['perfect', 'best', 'better', 'ye', 'clear', 'human'] 
+negative: ['awful', 'terrible', 'heavy', 'wrong', 'mad', 'farther', 'low']
+neutral: ['thou', 'electronic', 'mysterious', 'lest', 'ten', 'particular', 'previous']
+
+White Descriptors:
+positive: ['high', 'possible', 'sweet'] 
+negative: ['poor', 'black', 'horrible', 'bad']
+neutral: ['“', 'next', 'second', 'certain', 'tremendous', 'usual', 'utter', 'oh', 'naught', 'sick', 'broad', 'following', 'smaller'] 
+
+Non-white Descriptors:
+positive: ['great', 'young', 'right', 'strong', 'natural', 'soft', 'quiet', 'common']
+negative: ['dead', 'strange', 'Egyptian', 'hard', 'empty']
+neutral: ['white', '’', 'curious', 'huge', 'sudden', 'yellow', 'third']
+
+Rich Descriptors:
+positive: ['whole', 'beautiful', 'full', 'light', 'dear', 'tall', 'handsome', 'silent', 'fresh', 'ready']
+negative: ['rocky', 'worse', 'sharp']
+neutral: ['red', 'similar', 'necessary', 'past', 'dry', 'marvellous', 'several']
+
+Poor Descriptors:
+positive: ['many', 'good', 'wonderful', 'deep', 'glorious'] 
+negative: ['old', 'evil', 'dreadful']
+neutral: ['last', 'thy', 'first', 'long', 'least', 'extraordinary', 'sure', 'vast', 'dark', 'thee', 'wild', 'thine']
+
+Overall Analysis: The word lists show some forms of biases. For instance, the 'male' descriptors contain more positive than negative words while 'female' descriptors are more balanced with substantial negative words. The 'white' descriptors present a mixed picture with both positive and negative words. Interestingly, negative words are associated with 'non-white' descriptors. The 'rich' descriptors are overwhelmingly positive, while 'poor' descriptors consist of both positive and negative words. This could suggest that the work may present stereotypical gender and racial representations, and also perpetuate class disparity.

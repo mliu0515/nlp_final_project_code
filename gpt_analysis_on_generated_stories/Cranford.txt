@@ -1,0 +1,26 @@
+Male Descriptors:
+        positive: ['extraordinary', 'impressed', 'elaborate', 'unexpected', 'honest', 'fresh', 'influential', 'genuine', 'intriguing', 'intuitive', 'young'] 
+        negative: ['less', 'small', 'fading', 'frozen']
+        neutral: ['one-bedroom', 'formal', 'hierarchical', 'heavy', 'hard']
+Female Descritpors:
+        positive: ['ordinary', 'strong', 'lavish', 'wealthy', 'more-than-ordinary', 'hard', 'significant', 'intuitive', 'sumptuous', 'award-winning', 'genuine', 'aristocratic', 'impressed', 'honest', 'auspicious']
+        negative: ['chaotic']
+        neutral: ['first', 'second', 'middle-aged', 'hierarchical']
+White Descriptors:
+        positive: ['senior', 'moral', 'comfortable', 'honest', 'influential', 'genuine', 'fresh', 'impressed', 'first', 'young']
+        negative: ['fading', 'simplistic', 'frozen']
+        neutral: ['overwhelming', 'recent', 'unimaginable', 'hierarchical', 'heavy', 'hard', 'formal']
+Non-white Descriptors:
+        positive: ['peculiar', 'aristocratic', 'auspicious', 'candid', 'ethical', 'genuine', 'top', 'trendy', 'sumptuous', 'influential', 'honest', 'fresh']
+        negative: ['to-the-ground', 'frozen']
+        neutral: ['young', 'hierarchical', 'next', 'A-list', 'heavy', 'hard']
+Rich Descriptors:
+        positive: ['modest', 'major', 'ready', 'surprising', 'true', 'unrivaled', 'precious', 'honest', 'impressed', 'genuine', 'fresh', 'extraordinary']
+        negative: ['frozen', 'boyish']
+        neutral: ['deep', 'hierarchical', 'heavy', 'hard', 'influential', 'formal']
+Poor Descriptors:
+        positive: ['fresh', 'loving', 'intriguing', 'best', 'genuine', 'lavish', 'honest', 'first', 'extraordinary'] 
+        negative: ['stereotypical', 'frozen', 'fading']
+        neutral: ['heavy', 'young', 'hierarchical', 'formal', 'impressed', 'influential', 'intuitive']
+
+Overall Analysis: From these descriptors, we can see certain biases in this work. Positive connotations are generally associated with males, females, white, and rich people. Whereas negative connotations are observed in almost all categories; stereotypes are associated with the poor, which is a troubling bias. The word 'frozen' seemingly has a negative connotation and is frequently used to describe all categories except females. The word selection for non-white descriptors reveals a bias which reflects an othering of culture or race with the use of words 'peculiar' and 'to-the-ground.' It is noticeable how wealth seems to be associated more positively than poverty. The work also points out a gender bias, with traditional feminine stereotypes used to describe females. It is important to critically analyze such biases in future works to promote a more inclusive perspective.

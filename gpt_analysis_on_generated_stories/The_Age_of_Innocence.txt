@@ -1,0 +1,33 @@
+Here is one possible way to evaluate the connotation with English as a native language and common usage: 
+
+Male Descriptors:
+positive: ['settled', 'personal', 'intertwined']
+negative: ['unpredictable', 'foul', 'harsh', 'veiled', 'darkest']
+neutral: ['labyrinthine', 'interviews', 'intangible', 'inexplicable', 'general', 'last', 'familial', 'entire', 'empathetic', 'defining', 'deeper', 'countless']
+
+Female Descritpors:
+positive: ['unexpected', 'intertwined']
+negative: ['untimely', 'darkest', 'melancholic', 'stormy', 'fearsome', 'foul', 'harsh', 'veiled']
+neutral: ['entire', 'unanticipated', 'regular', 'intangible', 'inexplicable', 'general', 'familial', 'labyrinthine', 'empathetic', 'defining']
+
+White Descriptors:
+positive: ['professional', 'understanding', 'empathetic']
+negative: ['questionable', 'veiled', 'uncertain', 'foul', 'harsh', 'darkest']
+neutral: ['intangible', 'once-renowned', 'familial', 'defining', 'entire', 'labyrinthine', 'fearsome', 'general', 'countless', 'inexplicable']
+
+Non-white Descriptors:
+positive: ['colossal', 'empathetic', 'unflappable']
+negative: ['lonesome', 'old', 'harsh', 'inexplicable']
+neutral: ['general', 'upper', 'classic', 'societal', 'simple', 'untimely', 'unpredictable', 'darkest', 'deeper', 'defining', 'entire', 'familial']
+
+Rich Descriptors:
+positive: ['intertwined', 'empathetic']
+negative: ['late', 'fearsome', 'foul', 'harsh', 'veiled', 'darkest']
+neutral: ['societal','labyrinthine', 'interviews', 'intangible', 'inexplicable', 'general', 'familial', 'entire', 'deeper', 'countless', 'colossal']
+
+Poor Descriptors:
+positive: ['last']
+negative: ['simple', 'deeper', 'murky', 'darkest', 'harsh', 'foul', 'late', 'fearsome']
+neutral: ['interviews', 'labyrinthine', 'colossal', 'countless', 'intertwined', 'intangible', 'inexplicable', 'general', 'defining', 'familial', 'entire']
+
+Overall Analysis: This classification may suggest that the book carries certain social biases. Predominantly negative words are associated with females and poor people, with words like melancholic, untimely, stormy, and murky showing up. Rich, male, and white are all associated with a greater number of positive and neutral words, possibly suggesting that these demographics are portrayed in a more positive or complex light. This could signify insidious social biases present in the work.

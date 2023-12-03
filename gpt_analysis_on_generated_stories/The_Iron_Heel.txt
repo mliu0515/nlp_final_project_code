@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['humble', 'reliable', 'fortunate'] 
+negative: ['corrupt', 'worst', 'naive', 'heartless', 'insidious', 'illicit', 'aristocratic-featured', 'harmless'] 
+neutral: ['elitist', 'labyrinth', 'constant', 'innocent', 'inflicted', 'imminent', 'anonymous', 'detailed', 'fox-like' ]
+
+Female Descriptors:
+positive: ['powerful', 'aspiring', 'luminous', 'useful', 'fortunate', 'attractive']
+negative: ['sharp', 'inflicted', 'wicked', 'heartless', 'harmless'	]
+neutral: ['many', 'offshore', 'imminent', 'illicit', 'humble', 'anonymous', 'fox-like', 'constant', 'exclusive']
+
+White Descriptors:
+positive: ['late', 'personal', 'attractive', 'fortunate']
+negative: ['under-the-table', 'unwary', 'heartless', 'harmless']
+neutral: ['wider', 'fox-like', 'detailed', 'investigative', 'various', 'inflicted', 'anonymous', 'imminent', 'illicit', 'humble', 'constant', 'exclusive']
+
+Non-white Descriptors:
+positive: ['Italian', 'fortunate', 'exclusive', 'single', 'innocent', 'aspiring']
+negative: ['unearth', 'insidious', 'corrupt']
+neutral: ['imminent', 'private', 'anonymous', 'aristocratic-featured', 'harmless', 'inflicted', 'illicit', 'humble', 'heartless', 'detailed']
+
+Rich Descriptors:
+positive: ['constant', 'fortunate', 'exclusive', 'ordinary']
+negative: ['illicit', 'unscrupulous', 'worst', 'heartless']
+neutral: ['unlikely', 'harmless', 'dummy', 'new', 'inflicted', 'imminent', 'humble', 'fox-like', 'enormous', 'insidious', 'elitist', 'detailed']
+
+Poor Descriptors:
+positive: ['less', 'fortunate', 'innocent', 'attractive']
+negative: ['nefarious', 'heartless', 'worst', 'corrupt']
+neutral: ['inflicted', 'imminent', 'illicit', 'humble', 'harmless', 'fox-like', 'exclusive',  'investigative', 'enormous', 'elitist', 'dummy', 'detailed']
+
+Overall Analysis: The given set of words indicates a perceptible inclination towards negative depiction of males, and whites. Women, non-whites and rich are portrayed more optimistically. Indicative biases are noticed here with males and whites linked to more negative attributes than positive. As such, the author of this book should strive to incorporate more neutral or unbiased language to prevent perpetuating harmful stereotypes. This would provide a more real, multidimensional portrayal of these different groups.

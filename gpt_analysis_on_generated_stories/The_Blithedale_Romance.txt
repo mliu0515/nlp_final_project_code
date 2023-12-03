@@ -1,0 +1,31 @@
+Male Descriptors:
+Positive: ['natural', 'vibrant', 'polite', 'humble', 'expressive', 'colorful', 'lively', 'bright', 'integral', 'human', 'high-end'] 
+Negative: ['lesser', 'stern'] 
+Neutral: ['marbled', 'different', 'companion-', 'big', 'last', 'brought', 'brown']
+
+Female Descriptors:
+Positive: ['new', 'colorful', 'significant', 'lively', 'prestigious', 'successful', 'tall', 'wealthiest', 'wealthy', 'human', 'humble', 'expressive', 'high-end', 'gleeful', 'integral', 'full']
+Negative: ['heavy', 'past', 'wiry'] 
+Neutral: ['brought']
+
+White Descriptors:
+Positive: ['societal', 'elegant', 'companion-', 'vivid', 'rich', 'integral', 'white', 'humble', 'human', 'excited', 'gleeful', 'full', 'extraordinary', 'expressive', 'high-end']
+Negative: ['old', 'heavy', 'last'] 
+Neutral: ['ready', 'next']
+
+Non-white Descriptors:
+Positive: ['social', 'gleeful', 'egalitarian', 'diverse', 'true', 'unflinching', 'celebratory', 'bright', 'big', 'extraordinary', 'high-end', 'human', 'humble'] 
+Negative: ['unusual', 'petite'] 
+Neutral: ['economic', 'African', 'red', 'heavy']
+
+Rich Descriptors:
+Positive: ['human', 'young', 'respectful', 'full', 'triumphant', 'complex', 'vast', 'euphoric', 'capacious', 'warm', 'expressive', 'gleeful', 'integral', 'extraordinary', 'high-end']
+Negative: ['lesser'] 
+Neutral: ['resident', 'heavy', 'humble', 'last']
+
+Poor Descriptors:
+Positive: ['striking', 'extraordinary', 'excited', 'full', 'gleeful', 'lively', 'marbled', 'expressive', 'young', 'euphoric'] 
+Negative: ['middle-aged', 'wide'] 
+Neutral: ['high-end', 'brown', 'last', 'heavy', 'humble', 'human', 'integral', 'lesser']
+
+Overall Analysis: It appears that the language used to describe each category carries certain biases. The language seems generally positive, with a diverse range of complimentary adjectives used across the categories. However, language describing the categories of 'female' and 'white' includes negative terms that suggest age-related bias. Furthermore, 'male' and 'rich' categories include the term 'lesser', suggesting some negative biases towards these demographics in the text. Additionally, the 'poor' category includes terms implying age and broadness as negative factors, hinting at some stereotyping and bias. Overall, while the majority of descriptors are positive or neutral, there are clear elements of bias represented in this language.

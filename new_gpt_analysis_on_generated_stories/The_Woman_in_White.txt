@@ -1,0 +1,13 @@
+Male Descriptors: Words with positive connotations: highest, excited, golden, mischievous, greatest, great, grand, gentle, full, fresh, fiery, fearless, expectant, youngest, hallowed, eager, delightful, deepest. Words with negative connotations: uneasy. Additional descriptions: Men are described with a mix of adjectives, but largely positive, suggesting a positive portrayal and respect.
+
+Female Descriptors: Words with positive connotations: delightful, sturdy, clever, long, fresh, jovial, hallowed, greatest, fearless, full, gasps, gentle, fiery, youngest, eldest. Words with negative connotations: indefinite, societal, mortal, unforeseen, afraid. Additional descriptions: Women are portrayed as strong (sturdy), intelligent (clever), and courageous (fearless). However, the presence of negative words suggests a level of uncertainty or fear associated with them.
+
+White Descriptors: Words with positive connotations: unexpected, dear, grand, social, gentle, noble, late, joyful, subject, stunning, common, fearless, fiery, excited, fresh, full, gasps, golden, expectant, youngest. Words with negative connotations: none. Additional descriptions: The positive descriptors imply valor and worthiness associated with white characters, suggesting a positive racial bias.
+
+Non-white Descriptors: Words with positive connotations: infernal, blessed, young, gasps, fiery, middle, much, deepest, old, wealthy, unprecedented, clever, afraid, golden, gentle, full, fresh, fearless, expectant. Words with negative connotations: none. Additional descriptions: Non-white characters are associated with a complex set of descriptors, involving richness, knowledge, fear, and religion, implying a nuanced portrayal.
+
+Rich Descriptors: Words with positive connotations: youngest, big, impish, fearless, eager, regal, peaceful, unknown, blessed, grand, golden, gentle, gasps, full, fresh, fiery, expectant, clever. Words with negative connotations: none. Additional descriptions: Wealth is associated with positive characteristics, suggesting a bias towards the rich.
+
+Poor Descriptors: Words with positive connotations: imminent, expectant, great, full, eldest, angelic, big, fiery, greatest, grand, golden, gentle, gasps, fresh, fearless, blessed, excited, highest. Words with negative connotations: none. Additional descriptions: The poor are described positively, evoking sympathy and respect.
+
+Overall Analysis: This corpus seems to contain a bias in favor of male and white characters, and an economic bias towards the rich. It also demonstrates uncertainty or fear related to female. However, it also portrays non-white and poor characters in an overall positive light. The sentiment analysis suggests a generally positive connotation across all categories.

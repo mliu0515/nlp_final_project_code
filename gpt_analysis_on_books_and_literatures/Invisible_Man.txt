@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['personal', 'full', 'conscious', 'perfect', 'whole', 'organic', 'primitive', 'holy', 'light', 'eternal', 'historical', 'divine', 'best', 'worth'] 
+negative: ['dead', 'impossible', 'legal']
+neutral: ['conscious', 'solemn', 'mystical']
+
+Female Descritpors:
+positive: ['easy', 'complete', 'common', 'historic', 'moral', 'central', 'single', 'Christian', 'loftier', 'invisible', 'beautiful'] 
+negative: ['hard', 'small', 'capricious']
+neutral: ['least', 'conjunct', 'psychological', 'applicable', 'metaphysical', 'subjective']
+
+White Descriptors:
+positive: ['human', 'new', 'many', 'lower', 'infinite', 'natural', 'elemental', 'much', 'great', 'religious', 'supreme', 'original', 'modern', 'permanent', 'deepest', 'ancient', 'unto'] 
+negative: ['“', 'derivative']
+neutral: ['abstract']
+
+Non-white Descriptors:
+positive: ['inward', 'old', 'first', 'free', 'social', 'real', 'highest', 'immediate', 'lofty', 'loftiest', 'precious'] 
+negative: ['little', 'black', 'contrary', 'last', 'double']
+neutral: ['foreign', 'finite', 'second', 'potential']
+
+Rich Descriptors:
+positive: ['physical', 'entire', 'deeper', 'main', 'possible', 'ultimate', 'glorious', 'definite', 'native', 'likely', 'tenable'] 
+negative: ['”', 'mere', 'thy', 'low', 'poor']
+neutral: ['vicarious', 'untouched', 'paragraph', 'opposite']
+
+Poor Descriptors:
+positive: ['spiritual', 'actual', 'true', 'higher', 'great', 'good', 'final', 'certain', 'universal', 'normal', 'daily', 'different', 'vital', 'familiar', 'ordinary', 'intangible', 'simple', 'unique']
+negative: ['electronic', 'utilitarian']
+neutral: []
+
+Overall Analysis: The word selection for each category shows some biases. Male descriptors tend to have stronger, more positive words like 'divine', 'holy', and 'eternal', while female descriptors contain words such as 'small', 'hard' and 'capricious' that could be seen as negative. The word choices also reflect stereotypical representations of wealth. Rich descriptors are mostly positive and vast, while descriptors for the poor are more basic and ordinary. The categories for race also exhibit bias, as descriptors for white are mostly positive, while non-white descriptors contain a mix of positive and negative words, with some being potentially derogatory terms. These apparent biases may reflect and reinforce societal prejudices.

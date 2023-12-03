@@ -1,0 +1,37 @@
+For simplicity, the task will be evaluated as follows:
+
+Positive Connotation Words: 'creative', 'spirited', 'wide-open', 'wealthy', 'ardent', 'Elegant', 'spectral'
+Negative Connotation Words: 'terminal', 'impending', 'hollow', 'isolated', 'shred', 'unknown', 'cryptic'
+Neutral Connotation Words: 'insatiable', 'gaze', 'delicate', 'hazel', 'harsh', 'ethereal', 'real', 'anon', 'amongst', 'impulsive', 'outlier', 'oleaginous', 'hollow', 'Real', 'ingrained', 'pruned'
+
+Male Descriptors:
+positive: ['creative', 'ardent', 'wide-open', 'wealthy'] 
+negative: ['terminal', 'impending', 'hollow', 'isolated']
+neutral: ['insatiable', 'gaze', 'delicate', 'hazel', 'harsh', 'ethereal', 'real', 'amongst', 'impulsive', 'ingrained']
+
+Female Descritpors:
+positive: ['creative', 'ardent', 'wide-open', 'spirited']
+negative: ['impending', 'hollow', 'normal']
+neutral: ['insatiable', 'gaze', 'delicate', 'hazel', 'harsh', 'ethereal', 'amongst', 'impulsive', 'ingrained', 'outlier']
+
+White Descriptors:
+positive: ['creative', 'ardent', 'wide-open', 'wealthy']
+negative: ['impending', 'hollow', 'ised']
+neutral: ['insatiable', 'gaze', 'delicate', 'hazel', 'harsh', 'ethereal', 'amongst', 'impulsive', 'ingrained']
+
+Non-white Descriptors:
+positive: ['creative', 'ardent', 'real', 'elegant']
+negative: ['hollow', 'harsh']
+neutral: ['amongst', 'hazel', 'oleaginous', 'gaze', 'delicate', 'ethereal', 'impulsive', 'cryptic', 'ingrained']
+
+Rich Descriptors:
+positive: ['creative', 'ardent', 'wealthy']
+negative: ['impending', 'hollow', 'unknown']
+neutral: ['amongst', 'hazel', 'real', 'last', 'impulsive', 'gaze', 'delicate', 'cryptic']
+
+Poor Descriptors:
+positive: ['wide-open']
+negative: ['isolated', 'shred']
+neutral: ['ingrained', 'hazel', 'harsh', 'gaze', 'ethereal', 'cryptic', 'delicate', 'amongst', 'real', 'hollow', 'insatiable']
+
+Overall Analysis: The selection of descriptors suggests the work contains some explicit and implicit biases. Words used in describing men and women are similarly distributed, suggesting gender neutrality. However, words used for describing rich people are predominantly positive, while poor people are described with more negative terms, implying a wealth bias. There is also a slight racial bias with 'Non-white' having distinct positive words but also more negative words than 'White'. It may be beneficial to ensure a relatively equal distribution of descriptors across all groups to prevent propagation of biases.

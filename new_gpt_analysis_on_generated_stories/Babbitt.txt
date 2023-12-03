@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: modern, humble, prestigious, high-profile, leader, cultural, detailed, hard, gothic, famous, experimental, durable, creative, compassionate. Words with negative connotations: funeral, dark. additional descriptions: The descriptors for male are a mix of both positive and negative, with a heavy emphasis on leadership, culture, and strength. 
+
+Female Descriptors: Words with positive connotations: aesthetic, gothic, petite, solid, higher, durable, social, innovative, vibrant, wealthy, oldest, detailed, famous, experimental, hard. Words with negative connotations: melancholic, funeral. additional descriptions: Similar to the male descriptors, there's a balance of positive and negative connotations. However, there's a significant emphasis on appearance and emotions.
+
+White Descriptors: Words with positive connotations: artistic, intricate, interesting, new, perfect, potential, able, busy, experimental, higher, high-profile, aesthetic, famous, art. Words with negative connotations: funeral. additional descriptions: The descriptors for white are largely positive and focused on creativity, capability and achievement.
+
+Non-White Descriptors: Words with positive connotations: vast, sought-after, tenacious, famous, busy, available, substantial, large, detailed, hard, high-profile, experimental, durable, creative. Words with negative connotations: dark, funeral. additional descriptions: The non-white descriptors are also predominantly positive, emphasizing hard work, creativity and resilience.
+
+Rich Descriptors: Words with positive connotations: detailed, somber, unique, national, compassionate, experimental, famous, funeral, durable, hard, high-profile, cultural, different. Words with negative connotations: dark, Mexican(?). additional descriptions: The rich descriptors seem mostly positive and are related to detail, compassion, culture, and resilience.
+
+Poor Descriptors: Words with positive connotations: historical, shared, creative, experimental, hard, durable, different, detailed, vibrant, wealthy. Words with negative connotations: dark, funeral. Additional descriptions: The descriptors for poor are positive, highlighting community, creativity, and resilience.
+
+Overall Analysis: The description of different categories shows an attempt at balanced representation but also reveals some social biases. For instance, including 'Mexican' in a negatively connotated list for the rich category may indicate a bias, suggesting Mexican as 'not rich'. Furthermore, the descriptors used for men and women reveal potential gender biases with men being associated with intrinsic qualities like leadership while women with appearance. 
+
+In general, the list contains more positive words than negative ones, indicating a positive sentiment overall. However, the inclusion of words like 'dark' and 'funeral' across all categories hints at a somber undertone.

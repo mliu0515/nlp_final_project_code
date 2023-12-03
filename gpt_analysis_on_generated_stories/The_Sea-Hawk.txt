@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['noble', 'sharp', 'valiant', 'grand', 'fresh', 'formidable', 'bright'] 
+negative: ['unsung']
+neutral: ['intriguing', 'early', 'large', 'hugely', 'enigmatic', 'many', 'diverse', 'different', 'crystal', 'common', 'clear', 'long']
+
+Female Descriptors:
+positive: ['clear', 'crystal', 'steady', 'right', 'quick', 'valiant', 'formidable', 'hugely', 'grand', 'fresh', 'early', 'large', 'diverse', 'different']
+negative: ['subservient']
+neutral: ['common', 'unyielding', 'enigmatic', 'many']
+
+White Descriptors:
+positive: ['grand', 'different', 'formidable', 'large', 'intriguing', 'hugely', 'fresh', 'early', 'enigmatic', 'diverse', 'crystal', 'clear', 'bright', 'long'] 
+negative: []
+neutral: ['altered', 'unforeseen', 'unconventional', 'personal', 'common', 'many']
+
+Non-white Descriptors:
+positive: ['valiant', 'fresh', 'bright', 'many', 'formidable', 'large', 'intriguing', 'hugely', 'grand', 'early', 'diverse', 'clear', 'long']
+negative: ['nervous']
+neutral: ['unlikely', 'next', 'enigmatic', 'different', 'crystal', 'common']
+
+Rich Descriptors:
+positive: ['long', 'diverse', 'large', 'hugely', 'intriguing', 'fresh', 'formidable', 'valiant', 'natural', 'early', 'clear', 'bright', 'many'] 
+negative: ['nervous']
+neutral: ['solo', 'enigmatic', 'grand', 'different', 'crystal', 'common']
+
+Poor Descriptors:
+positive: ['large', 'privileged', 'grand', 'fresh', 'formidable', 'many', 'early', 'diverse', 'clear', 'bright', 'long', 'valiant']
+negative: ['nervous', 'small']
+neutral: ['hugely', 'intriguing', 'enigmatic', 'different', 'crystal', 'common']
+
+Overall Analysis: The word lists indicate a cultural pattern of reinforcing traditional masculinity and femininity, with men often being associated with words that have strong, independent connotations (noble, sharp, valiant), while women are often associated with more passive or receptive connotations (common, steady). However, it's noteworthy that certain negative words (unsung, subservient) also appear in the male and female categories, alluding to an understanding of complex human experiences within these groups. Both rich and poor categories contain both positive and negative connotations which suggest socio-economic disparities are acknowledged in the text. The white and non-white lists indicate that racial stereotypes may be perpetuated (with whites often associated with more diverse positive descriptors), though the book also acknowledges variation and diversity within ethnic groups. Lastly, the prevalence of neutral words across categories indicates an attempt at unbiased character development.

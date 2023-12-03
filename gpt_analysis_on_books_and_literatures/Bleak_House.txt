@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['happy', 'ready', 'agreeable', 'pretty', 'excellent'] 
+negative: ['dead', 'difficult', 'hot']
+neutral: ['young', 'sure', 'general', 'low', 'black', 'able', 'late', 'necessary', 'particular', 'light', 'different', 'greater']
+
+Female Descritpors:
+positive: ['little', 'dear', 'good', 'fine', 'natural', 'easy', 'free', 'many', 'Good', 'professional', 'red', 'perfect'] 
+negative: ['strange', 'heavy', 'dark', 'dry']
+neutral: ['fresh', 'sharp', 'guardian', 'mere']
+
+White Descriptors:
+positive: ['old', 'great', 'better', 'best', 'glad', 'curious', 'human', 'possible'] 
+negative: ['’', 'bad']
+neutral: ['“', 'last', 'guardian', 'full', 'next', 'open', 'likely', 'less', 'sorry']
+
+Non-white Descriptors:
+positive: ['much', 'certain', 'pleasant', 'rich', 'handsome', 'real', 'respectable', 'interested', 'sensible', 'noble', 'faithful', 'honourable'] 
+negative: ['cold', 'ill']
+neutral: ['”', 'afraid', 'it.', 'private', 'public', 'to-night']
+
+Rich Descriptors:
+positive: ['young', 'much', 'true', 'strong', 'beautiful', 'quiet', 'cheerful', 'dearest', 'greatest', 'active', 'wild'] 
+negative: ['hard', 'miserable']
+neutral: ['long', 'new', 'last', 'worse', 'considerable', 'it.', 'ten']
+
+Poor Descriptors:
+positive: ['little', 'good', 'old', 'dear', 'great', 'many', 'first', 'right', 'high', 'Lady'] 
+negative: ['poor', 'short']
+neutral: ['’', '”', '“', 'present', 'whole', 'usual', 'large', 'least']
+
+Overall Analysis: The text seems to associate men with a good mix of positive, negative, and neutral attributes, reflecting a multidimensional representation of men. Women, on the other hand, are overwhelmingly associated with positive attributes, but have some negative attributes tied to them as well. The descriptors used for white people are generally more positive than for non-white people, hinting at a racial bias. The text also shows an economic bias, as the rich are described with mostly positive words, while the poor have a mix of both, but are distinctly associated with the negative term "poor". In conclusion, the text reflects certain social biases based on sex, race, and economic status.

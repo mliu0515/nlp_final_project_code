@@ -1,0 +1,33 @@
+Here's an example of how this task might be completed:
+
+Male Descriptors:
+Positive: ['warm', 'dear',  'honored', 'fiery', 'emotional', 'cherished', 'beloved', 'affluent']
+Negative: ['worried', 'Unforeseen']
+Neutral: ['coastal', 'influential', 'societal', 'different', 'human', 'dog-saving', '‘', 'long', 'commanding', 'Early']
+
+Female Descriptors:
+Positive: ['vital', 'affluent', 'understanding', 'dear', 'honored', 'emotional', 'fiery', 'cherished', 'beloved']
+Negative: ['unknown', 'Unforeseen']
+Neutral: ['veterinary', 'old', '‘', 'dog-saving', 'different', 'coastal', 'common', 'commanding', 'influential']
+
+White Descriptors:
+Positive: ['strong', 'commanding', 'emotional', 'vigorous', 'fiery', 'affluent', 'beloved', 'cherished']
+Negative: ['unforeseen']
+Neutral: ['‘', 'dog-saving', 'red-haired', 'saline', 'mysterious', 'Different', 'warm', 'voracious', 'coastal', 'vital', 'Early']
+
+Non-white Descriptors:
+Positive: ['loved', 'honored', 'cherished', 'influential', 'fiery', 'emotional', 'beloved', 'affluent']
+Negative: ['unaware', 'Unforeseen']
+Neutral: ['different', 'voracious', 'common', 'human', 'dog-saving', '‘', 'dear', 'long', 'coastal', 'Early']
+
+Rich Descriptors:
+Positive: ['dear', 'influential', 'honored', 'fiery', 'emotional', 'loved', 'cherished', 'beloved', 'affluent']
+Negative: ['Unforeseen']
+Neutral: ['‘', 'human', 'dog-saving', 'different', 'common', 'commanding', 'coastal', 'Early', 'long', 'mysterious']
+
+Poor Descriptors:
+Positive: ['persistent', 'beloved', 'cherished', 'commanding', 'influential', 'affluent', 'dear', 'fiery', 'honored']
+Negative: ['Unforeseen']
+Neutral: ['tide-water', 'top', 'human', 'tidal', 'long', 'coastal', 'common', 'different', 'dog-saving', 'emotional']
+
+Overall Analysis: The overall evaluation of the words suggests a strong positive gender bias, with both male and female descriptors carrying predominantly positive connotations. Similarly, positive words dominate the descriptors used for rich, poor, white and non-white categories. This implies a bias towards portraying all categories in a positive light. The use of neutral words is also fairly consistent across categories. There are very few negative connotations, which mildly suggest that the book avoids negativity. A notable consistency is the occurrence of the word 'Unforeseen' as a negative connotation across all categories.

@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: romantic, beautiful, intrinsic, affluent, humble, appreciative, grounded, great, grand, fulfilling. Words with negative connotations: high, wrong, subtle, inexplicable, envious, light, different, dull, frequent, grey. Additional descriptions: The descriptors for males seem to balance between positives such as humility and affluence and negatives such as being wrong or envious.
+
+Female Descriptors: Words with positive connotations: beautiful, fulfilling, grand, grey, great, grounded, high, humble, first, envious, fascinating, exquisite. Words with negative connotations: longer, strange, private, unexpected, two-room, second-hand, dull, frequent. Additional descriptions: Descriptors for females lean towards mysterious and ambiguous terms, with more negatives than the male descriptors. The terms are more varied.
+
+White Descriptors: Words with positive connotations: mutual, intrinsic, soft, eager, humble, first, great, grey, grand, grounded, high, fulfilling, fascinating, exquisite. Words with negative connotations: societal, novel, stratified, frequent, wrong, envious. Additional descriptions: This group of descriptors suggests an image of privilege and comfort, with a leaning towards positive connotations.
+
+Non-white Descriptors: Words with positive connotations: modest, grounded, first, fascinating, shared, exquisite, appreciative, affluent, unique, vibrant, quiet, high, grey, frequent, great, grand, fulfilling. Words with negative connotations: Dust-specked, different, uninitiated. Additional descriptions: The non-white descriptors reflect diversity and uniqueness, along with an aura of mystery and humility. 
+
+Rich Descriptors: Words with positive connotations: warm, fulfilling, humble, high, grounded, great, grand, fascinating, first, exquisite, envious. Words with negative connotations: mere, unfortunate, daily, grey, earnest, wrong, frequent, inexplicable. Additional descriptions: The descriptors project an image of comfort, luxury and introspection that leans mostly towards the positive.
+
+Poor Descriptors: Words with positive connotations: small, great, grand, labyrinthine, bustling, fulfilling, humble, affluent, high, grounded, grey, appreciative, beautiful, daily. Words with negative connotations: many, simple, sudden, different, inexplicable, frequent. Additional descriptions: The descriptors for the poor seem to express complexity and struggle, mixed with positivity and resilience.
+
+Overall Analysis: The categorizations reveal an inherent bias within the work, with positive attributes mostly ascribed to males, whites, and the rich, while females, non-whites, and poor people are often given more ambiguous or negative descriptors. It suggests stereotypical approaches towards these groups, albeit with some exceptions. 
+
+Sentiment Analysis: Despite containing both positive and negative words, the overall sentiment appears to lean more towards the positive. However, the context in which these words are used would provide a more accurate sentiment analysis.

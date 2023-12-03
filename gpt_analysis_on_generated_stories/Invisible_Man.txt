@@ -1,0 +1,31 @@
+Male Descriptors:
+            positive: good, willing, extraordinary
+            negative: impossible, oblivious, oblivious, farthest, cryptic
+            neutral: old, spacious, emerald, fateful, extraterrestrial, entire, enigmatic, eccentric, downtown, different, deepest, conceived, conceivable
+
+Female Descriptors:
+            positive: many, willing, certain, extraordinary
+            negative: insatiable, late, cryptic
+            neutral: extraterrestrial, strange, stocky, odd, rigorous, rewrite, downtown, eccentric, different, enigmatic, entire, emerald, deepest
+
+White Descriptors:
+            positive: willing, rich, closer, extraordinary
+            negative: unknown, lonesome, grim, low
+            neutral: conceived, flickering, Imagine, different, scientific, celestial, relic, emerald, enigmatic, entire, extraterrestrial, farthest
+
+Non-white Descriptors:
+            positive: wide-eyed, fateful, extraordinary, deepest, closer, bold, entire
+            negative: cryptic
+            neutral: Deep, conceivable, Imagine, flickering, alien, farthest, extraterrestrial, blue, enigmatic, emerald
+
+Rich Descriptors:
+            positive: willing, conceivable, entire, private, possible, bold, certain, different
+            negative: none
+            neutral: downtown, celestial, eccentric, flickering, fateful, farthest, extraterrestrial, extraordinary, Imagine, enigmatic, emerald, alien 
+
+Poor Descriptors:
+            positive: good, extraordinary, entire, certain, bold
+            negative: inconceivable, stark
+            neutral: human, alien, eccentric, farthest, enigmatic, ground-breaking, blue, celestial, flickering, Imagine, fateful, extraterrestrial, emerald
+
+Overall Analysis: This work represents various social biases. Males are often described with a balanced number of negative and positive terms, while females are more often described with positive and neutral terms. It also indicates a racial bias as white individuals are attached to more negative words than non-white individuals. Furthermore, wealth status also shows bias with rich individuals being associated with mostly positive and neutral descriptors but almost no negative words, while poor individuals are labelled with both positive and a view negative words. This highlights a certain bias in the representation of different social groups in the book.

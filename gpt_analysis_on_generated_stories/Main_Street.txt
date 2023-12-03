@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['opportune', 'extraordinary', 'Wealthy', 'modern'] 
+negative: ['harsh', 'weary', 'meek', 'hostile', 'furious', 'crude', 'black']
+neutral: ['testament', 'middle-class', 'human', 'homemade', 'gnarled', 'constant', 'calloused', 'born', 'mere']
+
+Female Descriptors:
+positive: ['warm', 'vibrant', 'extraordinary', 'Wealthy'] 
+negative: ['subterranean', 'hostile', 'harsh', 'gnarled', 'weary', 'crude', 'black']
+neutral: ['human', 'born', 'small', 'navigating', 'meek', 'calloused', 'constant']
+
+White Descriptors:
+positive: ['extraordinary', 'Wealthy', 'modern'] 
+negative: ['weary', 'furious', 'black', 'harsh', 'homemade', 'hostile']
+neutral: ['revolving', 'non-wealthy', 'wary', 'born', 'calloused', 'constant', 'crude', 'mere', 'gnarled', 'human', 'meek']
+
+Non-white Descriptors:
+positive: ['Wealthy', 'extraordinary'] 
+negative: ['black', 'mysterious', 'crude', 'hostile', 'harsh', 'meek', 'weary']
+neutral: ['H-hello', 'next', 'homemade', 'human', 'furious', 'gnarled', 'middle-class', 'constant', 'calloused', 'born', 'mere']
+
+Rich Descriptors:
+positive: ['extraordinary', 'Wealthy', 'modern'] 
+negative: ['gnarled', 'meek', 'hostile', 'harsh', 'crude', 'black']
+neutral: ['mundane', 'unusual', 'constant', 'weary', 'human', 'homemade', 'middle-class', 'calloused', 'born', 'mere']
+
+Poor Descriptors:
+positive: ['mere', 'extraordinary'] 
+negative: ['rough', 'furious', 'gnarled', 'harsh', 'Wealthy', 'hostile', 'black']
+neutral: ['modern', 'thick', 'nestled', 'calloused', 'born', 'constant', 'crude', 'homemade', 'human', 'meek', 'weary']
+
+Overall Analysis: The work seems to contain some biases. 'Black' is recurrently associated with negativity along with words denoting aggression such as 'hostile', harsh', 'crude'. 'Wealthy' appears both in positive and negative connotations suggesting perhaps a conflicted view on wealth. Positive adjectives like 'extraordinary', 'modern' are more frequently associated with male, rich, and white categories. It's also noteworthy that male and female descriptors share many words but depicted with different connotations. These biases could reflect the societal stereotypes that exist in the context where the work was formed.

@@ -1,0 +1,33 @@
+Here's an example analysis based on the word lists:
+
+Male Descriptors:
+positive: ['pure', 'golden', 'essential', 'enraptured', 'eager']
+negative: ['eccentric', 'hectic', 'concealed']
+neutral: ['late', 'tall', 'industrial', 'heart-pounding', 'head', 'green', 'full', 'fair-haired', 'exaggerated', 'last', 'dry', 'distant']
+
+Female Descriptors:
+positive: ['tiny', 'playful', 'pristine', 'respectful', 'green', 'golden', 'blue', 'fair-haired']
+negative: ['hectic', 'weight']
+neutral: ['full', '“', 'younger', 'restless', 'slow', 'distant', 'unveiled', 'certain', 'concealed', 'head']
+
+White Descriptors:
+positive: ['simpler', 'wealthy', 'serene', 'enraptured', 'green', 'golden', 'full', 'essential', 'eager']
+negative: ['eccentric', 'dry']
+neutral: ['last', 'narrative', 'unseen', 'fair-haired', 'heart-pounding', 'head', 'exaggerated', '“', 'industrial']
+
+Non-white Descriptors:
+positive: ['athletic', 'heart-pounding', 'essential', 'enraptured', 'star-lit', 'intricate', 'blue', 'captivating', 'green', 'golden', 'full', 'fair-haired']
+negative: ['treacherous', 'concealed']
+neutral: ['exaggerated', 'distant', 'industrial', 'hectic', 'head', 'certain']
+
+Rich Descriptors:
+positive: ['young', 'eager', 'unique', 'essential', 'hectic', 'heart-pounding', 'green', 'golden', 'full', 'fair-haired', 'enraptured']
+negative: ['unpredictable', 'dry']
+neutral: ['head', 'coastal', 'remotest', 'exaggerated', '“', 'eccentric', 'intricate']
+
+Poor Descriptors:
+positive: ['green', 'essential', 'enraptured', 'eager']
+negative: ['industrial', 'old', 'reckless', 'dry', 'distant']
+neutral: ['clear', '“', 'exaggerated', 'hectic', 'heart-pounding', 'head', 'golden', 'full', 'fair-haired', 'last', 'eccentric']
+
+Overall Analysis: The word lists appear to associate positive attributes such as 'green', 'golden', 'full', 'fair-haired', 'enraptured' with different categories. Notably, the 'rich' category receives the most positive words. Negative connotations are relatively fewer, though interestingly, 'hectic' is seen as negative for males and females, but positive for the rich. The 'poor' category has several negative words including 'industrial', 'old', and 'reckless'. There may be unconscious biases present, associating wealth with positivity and poverty with negativity. Similarly, male & female descriptors show societal expectations: males being 'tall', 'dry', 'distant' and females being 'tiny', 'playful', 'pristine', a potential reflection of gender stereotypes.

@@ -1,0 +1,32 @@
+Male Descriptors:
+positive: ['new', 'great', 'big', 'nice', 'clear'] 
+negative: ['dead', 'weary', 'dull', 'hard', 'weak']
+neutral: ['little', '’', 'esthetic', '—I', 'small', 'heavy', 'much', 'conscious', 'single', 'third']
+
+Female Descritpors:
+positive: ['strange', 'right', 'green', 'human', 'certain', 'hot', 'fine', 'enchanted', 'subtle', 'general'] 
+negative: ['sinful', 'late', 'willful', 'raw']
+neutral: ['whole', 'greatest', 'thick', 'christian', 'brown', 'greater']
+
+White Descriptors:
+positive: ['old', 'white', 'warm', 'long', 'high', 'short', 'best', 'universal'] 
+negative: ['vague', 'false', 'awful', 'damp']
+neutral: ['red', 'different', 'tiny', 'slow', 'mortal', 'present', 'unseen', 'endless']
+
+Non-white Descriptors:
+positive: ['first', 'last', 'good', 'quiet', 'sudden', 'free', 'dear', 'sure', 'happy', 'fair'] 
+negative: ['bad', 'evil', 'angry', 'foul']
+neutral: ['long', 'black', 'second', 'better', 'earthly', 'narrow']
+
+Rich Descriptors:
+positive: ['dark', 'many',  'true', 'secret', 'proud', 'thin', 'deep', 'blue', 'higher', 'wild', 'instant', 'common'] 
+negative: ['poor', 'low', 'idle', 'sad']
+neutral: ['’', 'holy', 'next', 'humble']
+
+Poor Descriptors:
+positive: ['young', 'soft', 'full', 'beautiful', 'good', 'silent', 'fellow', 'spiritual', 'loud', 'tall', 'open', 'simple'] 
+negative: ['cold', 'terrible']
+neutral: ['electronic', 'pale', 'Irish', '—The', 'yellow', 'vast']
+
+Overall Analysis: 
+The analysis of these word lists indicates potential socio-cultural biases in the book. For the male descriptors, words with negative connotations such as 'dead', 'weary', 'dull', 'hard', 'weak' are noted. In contrast, for female descriptors, the words mostly have positive connotations, which could indicate a gender bias that favors women. The white and non-white descriptors also showcase a bias, as words depicting positivity are more associated with 'white' and negative words with 'non-white'. Terms related to the rich predominantly indicate positivity whereas those for the poor are quite mixed with both positive and negative words. It seems that there is a potential socioeconomic bias reflected as well. Such biases may influence the reader's perception of the characters and their behavior within the narrative.

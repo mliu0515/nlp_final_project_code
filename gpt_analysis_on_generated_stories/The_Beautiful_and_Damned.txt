@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['diverse', 'fiery', 'major', 'positive', 'great', 'grand', 'working-class', 'fierce', 'intellectual', 'dramatic']
+negative: ['hard', 'foreign', 'contrary']
+neutral: ['common', 'inherited', 'individuals-', 'historical', 'heated', 'different', 'basic']
+
+Female Descriptors:
+positive: ['keen', 'potent', 'great', 'grand', 'fiery', 'working-class', 'fierce', 'historical', 'dramatic']
+negative: ['old', 'hard', 'underprivileged', 'contrary']
+neutral: ['past', 'aware', 'well-known', 'local', 'nationwide', 'foreign', 'due']
+
+White Descriptors:
+positive: ['working-class', 'intellectual', 'dramatic', 'affluent', 'fiery', 'heated', 'great', 'grand', 'foreign', 'fierce', 'common']
+negative: ['oppressed', 'oppressive']
+neutral: ['different', 'sensitized', 'individuals-', 'wealthy', 'tumultuous', 'basic', 'hard']
+
+Non-white Descriptors:
+positive: ['social', 'historical', 'great', 'robust', 'poignant', 'common', 'affluent', 'heated', 'grand', 'foreign', 'fiery', 'fierce', 'dramatic', 'inherited', 'diverse']
+negative: ['due']
+neutral: ['African-American', 'apparent', 'basic', 'hard']
+
+Rich Descriptors:
+positive: ['tangible', 'strong', 'mutual', 'grand', 'working-class', 'historical', 'heated', 'great', 'foreign', 'fiery', 'fierce', 'dramatic', 'inherited', 'diverse', 'common']
+negative: ['contrary']
+neutral: ['due', 'basic', 'different']
+
+Poor Descriptors:
+positive: ['fierce', 'heated', 'historical', 'great', 'grand', 'fiery', 'intellectual', 'dramatic', 'diverse']
+negative: ['irrelevant', 'mandatory', 'basic', 'contrary']
+neutral: ['individuals-', 'hard', 'due', 'common', 'aware']
+
+Overall Analysis: There are ostensible biases inherent in these descriptors. The set of words associated with 'Female' and 'Poor' contain more negative connotations as compared to 'Male', 'Rich', and 'Non-white'. 'White' has two negatively connotated words, but still carries less negative connotation than 'Female' and 'Poor'. It suggests a possible bias towards male, rich, and non-white characters, while possibly portraying females and poor individuals in a less than positive light.

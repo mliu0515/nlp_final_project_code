@@ -1,0 +1,13 @@
+Male Descriptors: Words with positive connotations: sophisticated, posh, favorite, charismatic, fascinating, important. Words with negative connotations: painful, jealous, chaotic. Additional descriptions: The description of males appears mostly positive, and there are undertones of power and status.
+
+Female Descriptors: Words with positive connotations: charismatic, integral, fascinating, favorite, important, lucrative, uptown. Words with negative connotations: smoked, chaotic, jealous. Additional descriptions: While largely positive and connoting wealth and prestige, 'smoked’ may indicate some negative behavior and stereotype around females.
+
+White Descriptors: Words with positive connotations: particular, rare, epitome, ash-blonde, favorite, integral, uptown. Words with negative connotations: overactive, chaotic. Additional descriptions: 'White' is positively associated with uniqueness ('particular', 'rare') and beauty ('ash-blonde'), but 'overactive' may denote impatience or a lack of calmness.
+
+Non-white Descriptors: Words with positive connotations: notable, fascinating, posh, favorite, sophisticated. Words with negative connotations: simple, chaotic, jealous. Additional descriptions: Non-white descriptors are positive, suggesting importance and class, but 'simple' might denote lack of sophistication or complicity in stereotypes.
+
+Rich Descriptors: Words with positive connotations: integral, charismatic, fascinating, lucrative, important, neurotic, uptown. Words with negative connotations: chaotic, jealous. Additional descriptions: Description of 'rich' is predominantly positive, with indications towards wealth and high status.
+
+Poor Descriptors: Words with positive connotations: safe, integral, fascinating. Words with negative connotations: neurotic. Additional descriptions: The term 'poor' comes with less clearly negative stereotypes than expected, with the exception of 'neurotic'.
+
+Overall Analysis: The text contains apparent social bias by associating more positive attributes with males, whites, and the rich, while females, non-whites, and the poor have mixed typically positive and negative attributes. The sentiment, thus, seems skewed positively towards males, whites, and the wealthy, signifying a cultural bias towards these groups.

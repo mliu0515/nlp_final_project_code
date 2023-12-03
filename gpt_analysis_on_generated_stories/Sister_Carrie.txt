@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['fortunate', 'gracious', 'gentle', 'generous', 'easy', 'young', 'alive', 'dreams'] 
+negative: ['hidden', 'deprived']
+neutral: ['full', 'noticeable', 'unharmed', 'soft', 'enough', 'gradual', 'creased', 'basic', 'Little', 'Indian']
+
+Female Descriptors:
+positive: ['young', 'vibrant', 'gentle', 'alive', 'generous', 'fortunate', 'easy', 'dreams', 'gracious'] 
+negative: ['unfortunate', 'deprived']
+neutral: ['societal', 'morose', 'enough', 'full', 'gradual', 'creased', 'basic', 'Little', 'Indian']
+
+White Descriptors:
+positive: ['generous', 'wealthiest', 'new', 'easy', 'gracious', 'fortunate', 'alive', 'full', 'dreams'] 
+negative: ['deprived']
+neutral: ['similar', 'African-American', 'little', 'non-wealthy', 'peculiar', 'Little', 'Indian', 'creased', 'basic', 'enough']
+
+Non-white Descriptors:
+positive: ['gracious', 'young', 'gentle', 'generous', 'full', 'fortunate', 'dreams', 'alive'] 
+negative: ['deprived']
+neutral: ['enough', 'like', 'tide', 'creased', 'hidden', 'basic', 'Little', 'Indian', 'gradual', 'involved']
+
+Rich Descriptors:
+positive: ['young', 'wealthiest', 'gradual', 'gracious', 'gentle', 'generous', 'full', 'fortunate', 'easy', 'dreams', 'alive'] 
+negative: ['deprived']
+neutral: ['creased', 'basic', 'Little', 'Indian', 'hidden', 'involved', 'like']
+
+Poor Descriptors:
+positive: ['successful', 'gradual', 'alive', 'fortunate', 'full', 'generous', 'gentle', 'gracious', 'dreams', 'young'] 
+negative: ['deprived', 'hidden']
+neutral: ['involved', 'basic', 'mouth', 'Little', 'creased', 'easy', 'enough', 'Indian']
+
+Overall Analysis: In terms of male and female characters, both have positive as well as negative connotations associated with them. The book seems unbiased towards gender. When it comes to race, 'white' and 'non-white' both have positive words associated with them but 'white' has words like 'wealthiest' and 'new' suggesting slight bias. In terms of wealth, both rich and poor descriptors contain positive and negative words, but 'rich' has 'wealthiest', while 'poor' has 'successful', suggesting a balance. Overall, the book has tried to maintain a balanced view, but there are subtle biases particularly towards wealth and race.

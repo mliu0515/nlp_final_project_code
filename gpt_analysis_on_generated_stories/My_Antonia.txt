@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['unwavering', 'preordained', 'unstoppable', 'living', 'wide-eyed', 'long-standing', 'humane', 'deep', 'new', 'common', 'commanding', 'biblical', 'ancient', 'natural']
+negative: ['transgressed', 'man-made']
+neutral: ['different', 'countless', 'humble', 'human', 'polar']
+
+Female Descriptors:
+positive: ['wide-eyed', 'commanding', 'different', 'new', 'biblical', 'common', 'countless', 'deep', 'human', 'humane', 'ancient', 'living', 'long-standing', 'natural', 'wealthy']
+negative: ['untouched', 'sluggish', 'man-made']
+neutral: ['old-world', 'humane', 'polar']
+
+White Descriptors:
+positive: ['age-old', 'silent', 'humane', 'deep', 'tall', 'biblical', 'ancient', 'natural', 'countless', 'new', 'common', 'commanding', 'humane', 'living', 'long-standing', 'wide-eyed']
+negative: ['unexpected', 'man-made', 'starkly']
+neutral: ['different', 'humane']
+
+Non-white Descriptors:
+positive: ['wealthy', 'humane', 'countless', 'long-standing', 'new', 'natural', 'living', 'wide-eyed', 'different', 'deep', 'common', 'commanding', 'biblical', 'ancient', 'human', 'polar']
+negative: ['man-made', 'rarified']
+neutral: ['old-world', 'preordained']
+
+Rich Descriptors:
+positive: ['wide-eyed', 'humane', 'new', 'natural', 'long-standing', 'living', 'humane', 'wealthy', 'deep', 'countless', 'common', 'commanding', 'biblical', 'ancient', 'old-world', 'polar', 'preordained']
+negative: ['man-made']
+neutral: ['different', 'prescribed']
+
+Poor Descriptors:
+positive: ['polar', 'common', 'long-standing', 'living', 'humane', 'deep', 'different', 'new', 'countless', 'commanding', 'biblical', 'ancient', 'natural', 'wide-eyed']
+negative: ['southern', 'unyielding', 'prescribed', 'unlikely', 'man-made']
+neutral: []
+
+Overall Analysis: This book appears to associate a blend of positive, negative, and neutral descriptors with the categories outlined. It's interesting to note that 'man-made' repeatedly appears as a negative descriptor, suggesting potential naturalistic bias in the text. 'Living', 'wide-eyed' and 'biblical' seem to be positively associated with all categories indicating a commonality in the values across these categories. Interestingly, the 'non-white' and 'poor' groups have negative associations with 'rarified', 'southern', 'unyielding', and 'unlikely' suggesting biases against them. Each category features common positive words suggesting a universal, unifying human experience irrespective of gender, race or financial status.

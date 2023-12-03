@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['newfound', 'genuine', 'kindness', 'indomitable', 'heavenly', 'healthy', 'golden', 'gentle', 'fresh', 'dreamy'] 
+negative: ['desolate', 'elderly']
+neutral: ['wooden', 'many', 'startled', 'cultural', 'local', 'little', 'much', 'dedicated']
+
+Female Descriptors:
+positive: ['peaceful', 'social', 'better', 'unblemished', 'indomitable', 'healthy', 'golden', 'genuine', 'gentle', 'heavenly', 'fresh'] 
+negative: ['quiet', 'unspoken', 'perilous', 'unfortunate']
+neutral: ['natural', 'prepared', 'communal', 'sleepy', 'much']
+
+White Descriptors:
+positive: ['kindness', 'little', 'gentle', 'heavenly', 'healthy', 'golden', 'genuine', 'indomitable', 'soft-spoken'] 
+negative: ['skeptical', 'elderly']
+neutral: ['military', 'rare', 'local', 'pharmaceutical', 'personal', 'small', 'conventional', 'British']
+
+Non-white Descriptors:
+positive: ['dedicated', 'little', 'heavenly', 'profound', 'beautiful', 'gentle', 'kindness', 'indomitable', 'healthy', 'golden', 'genuine'] 
+negative: ['desolate', 'unusual']
+neutral: ['African-American', 'racial', 'retired', 'dreamy', 'commercial', 'local', 'British']
+
+Rich Descriptors:
+positive: ['rich', 'simple', 'healthy', 'calm', 'fresh', 'unique', 'unwavering', 'kindness', 'heavenly', 'golden', 'genuine', 'gentle', 'indomitable'] 
+negative: ['desolate']
+neutral: ['particular', 'crystal-clear', 'wooden', 'elderly', 'little', 'dreamy']
+
+Poor Descriptors:
+positive: ['steady', 'kindness', 'golden', 'gentle', 'little', 'indomitable', 'heavenly', 'healthy', 'genuine', 'fresh', 'dedicated'] 
+negative: ['desolate']
+neutral: ['okay', 'busy', 'wooden', 'elderly', 'many', 'local', 'much', 'much']
+
+Overall Analysis: This book seems to associate positive words with all categories, showing a balanced representation of genders, races and classes. However, elderly is seen as negative in 'male' and 'white' descriptors, showing possible ageism. Additionally, the 'female' list has quite a few negative or neutral terms and could be seen as a bit more negative compared to 'male'. The 'white' list also has some negatively connotated words, which might demonstrate some hidden bias as well. The 'rich' and 'poor' descriptors are more positive overall, suggesting a potential bias leaning towards positivity in describing wealth statuses, which might not reflect entirely accurate social realities.

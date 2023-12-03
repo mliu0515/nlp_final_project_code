@@ -1,0 +1,13 @@
+Male Descriptors: Words with positive connotations: mutual, soft-spoken, grand, gentle, lofty, cosy, perfect. Words with negative connotations: inexplicable, inconsistent, half-filled, half-empty, concealed, black, economic. Additional descriptions: There are a mix of positive and negative descriptors, suggesting a complex view of males in the work.
+
+Female Descriptors: Words with positive connotations: warm, cosy, gentle, grand, lofty, perfect. Words with negative connotations: unspoken, smallest, raw, inexplicable, inconsistent, half-filled, half-empty, concealed, black, economic. Additional descriptions: Females are described with slightly more negative words than males, suggesting potential implicit biases.
+
+White Descriptors: Words with positive connotations: wealthy, silent, grand, gentle, lofty. Words with negative connotations: average, poor, inconsistent, sharp, half-empty, concealed, black, economic. Additional descriptions: Whiteness is associated with both wealth and poverty, indicating conflicting attitudes.
+
+Non-white Descriptors: Words with positive connotations: regular, polite, lofty, cosy, grand, perfect. Words with negative connotations: stubble, mediocre, half-empty, concealed, inconsistent, black, economic. Additional descriptions: Non-whiteness is associated with mixed traits, which may indicate nuanced characterization.
+
+Rich Descriptors: Words with positive connotations: grand, lofty, gentle, mutual, perfect, wealthy. Words with negative connotations: inconsistent, half-filled, half-empty, concealed, black, economic, mediocre. Additional descriptions: Wealth is described with a balanced mix of negative and positive terms suggesting a nuanced view.
+
+Poor Descriptors: Words with positive connotations: perfect, cosy, gentle, grand, mutual. Words with negative connotations: steamed-up, mediocre, different, concealed, economic, black. Additional descriptions: Poverty is associated with both positive and negative characteristics, suggesting a complex presentation.
+
+Overall Analysis: This selection of descriptors indicates complex portrayals of categories according to gender, race, and socio-economic status, showing a mix of positive and negative characteristics. However, there is a pervasive association of the terms 'black', 'economic', and 'concealed' with negative connotations across all groups, indicating potential biases. The sentiment analysis generally presents balanced positivity and negativity though some biases may be implicit in the words chosen.

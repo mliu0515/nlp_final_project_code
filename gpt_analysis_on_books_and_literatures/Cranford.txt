@@ -1,0 +1,32 @@
+Male Descriptors:
+positive: ['true', 'pleasant', 'cheerful', 'green', 'deep', 'handsome', 'quick', 'gentle']
+negative: ['anxious', 'sorry', 'awful']
+neutral: ['white', 'common', 'Indian', 'rich', 'young', 'usual', 'regular', 'lest', 'familiar']
+
+Female Descriptors:
+positive: ['great', 'full', 'new', 'large', 'pretty', 'warm', 'honor', 'unmarried']
+negative: ['odd', 'bad', 'ill', 'poor', 'nervous']
+neutral: ['electronic', 'particular', 'public', 'previous', 'wish', 'hundred']
+
+White Descriptors:
+positive: ['much', 'dear', 'happy', 'whole', 'real', 'wonderful', 'long', 'high', 'red', 'thankful', 'early', 'second', 'less', 'sudden']
+negative: ['short']
+neutral: ['“', '’', 'different', 'low', 'double']
+
+Non-white Descriptors:
+positive: ['first', 'much', 'strong', 'quiet', 'clear', 'open', 'possible', 'fresh', 'new', 'honest', 'greater', 'yellow', 'sweet', 'third']
+negative: ['poor', 'sad', 'black', 'strange']
+neutral: ['least', 'former']
+
+Rich Descriptors:
+positive: ['small', 'ready', 'long', 'glad', 'right', 'bright', 'likely', 'comfortable', 'sharp', 'light', 'occasional', 'proud']
+negative: ['afraid', 'poor', 'uncomfortable', 'sick']
+neutral: ['next', 'old', 'following', 'solemn']
+
+Poor Descriptors:
+positive: ['little', 'good', 'many', 'sure', '’', 'best', 'young', 'better', 'soft', 'enough', 'general', '‘', 'present', 'silent', 'private', 'usual']
+negative: ['last', 'old', 'dead']
+neutral: ['certain']
+
+Overall Analysis: 
+The positive words associated with the 'Male' category suggest a traditional and positive view, whereas the 'Female' category has a mix of terms, indicated both positive and negative views. The list indicates a generally positive view of 'White' and 'Non-white', negatives of 'poor' are evident. 'Rich' association has several positives and key negatives highlighting fears and unease as well. One can infer a bias in favor of male, white, and rich from these associations. The words associated with the 'Non-white' category are mostly positive or neutral indicating a rather non biased view except for few negative words. While 'Poor' seems to attract a lot of positive words hinting at sympathy or empathy towards this category. Bias is evident, but not overwhelmingly so, and it varies between categories.

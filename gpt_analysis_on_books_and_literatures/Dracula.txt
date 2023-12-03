@@ -1,0 +1,32 @@
+Male Descriptors:
+positive: ['dear', 'sweet', 'big', 'free', 'quick', 'beautiful', 'fair'] 
+negative: ['poor', 'hard', 'anxious']
+neutral: ['’', 'whole', 'least', 'old', 'better', 'wide', 'deep', 'to-day', 'lest', 'early']
+
+Female Descriptors:
+positive: ['good', 'full', 'possible', 'simple', 'careful', 'enough', 'easy']
+negative: ['poor', 'awful', 'horrible', 'bitter', 'odd', 'less']
+neutral: ['last', 'much', 'long', 'high', 'late', 'diary', 'real']
+
+White Descriptors:
+positive: ['many', 'new', 'dear', 'Good', 'useful', 'clear']
+negative: ['low', 'quiet', 'bad', 'fearful', 'grim', 'unknown']
+neutral: ['old', '”', 'Un-Dead', 'short', 'lunatic', 'dearest', 'considerable', 'latter']
+
+Non-white Descriptors:
+positive: ['great', 'first', 'true', 'happy', 'best', 'young', 'fresh', 'noble', 'complete', 'soft']
+negative: ['red', 'long', 'dark', 'black', 'impossible']
+neutral: ['pale', 'evident', 'to-morrow', 'secret', 'various']
+
+Rich Descriptors:
+positive: ['ready', 'strong', 'sure', 'next', 'glad', 'wonderful', 'second', 'fine', 'greater', 'excellent', 'several', 'personal']
+negative: ['thin', 'cold', 'afraid', 'empty', 'fierce']
+neutral: ['present', 'instant', 'sudden']
+
+Poor Descriptors:
+positive: ['white', 'good', 'open', 'able', 'much', 'right']
+negative: ['little', 'terrible', 'strange', 'dead', 'heavy', 'wild', 'silent', 'sad']
+neutral: ['“', 'to-night', 'small', 'certain', 'usual', 'electronic']
+
+Overall Analysis: 
+It appears that the book has some apparent cultural and social biases. The positive words associated with descriptors for males and richness outnumbers the negative ones significantly. In contrast, terms associated with descriptors for 'female' and 'poor' have more negative connotations than positive. The descriptors for 'non-white' show a more balanced portrayal. As for 'white,' the negative and positive connotations are almost equal. These results suggest a potential bias toward males and richness while females and poor individuals might be depicted more negatively. This could reflect the societal norms and inequalities of the time when the book was written.

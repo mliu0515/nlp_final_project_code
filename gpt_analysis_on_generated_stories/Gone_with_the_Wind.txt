@@ -1,0 +1,37 @@
+Although this task is AI-guided, the nature of connotative language and bias requires human insight. 
+
+Here, the assumed connotations of each word are objective interpretations but may vary depending on individual perception or cultural background. 
+
+With that said, here is the word crosection and analysis:
+
+Male Descriptors:
+positive: ['massive', 'rightful', 'wealthy', 'irresistible', 'influential', 'humble', 'aristocratic', 'fine', 'best'] 
+negative: ['rare', 'extravagant', 'hollow', 'desperate', 'forgotten', 'harsh', 'frigid', 'devious', 'brutal', 'lackluster']
+neutral: ['jewel-encrusted']
+
+Female Descriptors:
+positive: ['unwavering', 'fine', 'humble', 'influential'] 
+negative: ['punitive', 'secluded', 'vitriolic', 'brutal', 'pungent', 'odd', 'doomed', 'forgotten', 'frigid', 'harsh', 'extravagant', 'final', 'fierce']
+neutral: ['jewel-encrusted', 'wildest', 'hollow']
+
+White Descriptors:
+positive: ['vibrant', 'memorable', 'swift', 'influential', 'humble', 'fine'] 
+negative: ['weak', 'unknown', 'forgotten', 'wildest', 'fierce', 'harsh', 'frigid', 'final', 'doomed', 'devious']
+neutral: ['eerie', 'extravagant', 'jewel-encrusted', 'hollow']
+
+Non-white Descriptors:
+positive: ['quick', 'fine', 'irresistible', 'best', 'aristocratic', 'humble', 'influential'] 
+negative: ['annual', 'devious', 'final', 'fierce', 'forgotten', 'harsh', 'frigid', 'extravagant', 'lackluster']
+neutral: ['stony', 'unconscious', 'eerie', 'hollow']
+
+Rich Descriptors:
+positive: ['many', 'influential', 'uninhibited', 'unfurling', 'fine', 'irresistible', 'humble'] 
+negative: ['eerie', 'desperate', 'pitiful', 'frigid', 'wildest', 'final', 'lackluster', 'extravagant', 'doomed']
+neutral: ['jewel-encrusted', 'harsh', 'forgotten', 'hollow']
+
+Poor Descriptors:
+positive: ['wildest', 'humble', 'irresistible', 'influential'] 
+negative: ['old', 'oblivious', 'harsh', 'lackluster', 'forgotten', 'frigid', 'final', 'fine', 'fierce', 'extravagant', 'doomed', 'devious']
+neutral: ['depths',  'ostentatious', 'eerie', 'hollow']
+
+Overall Analysis: The word connotations tend to characterize 'male' and 'rich' as more positive while the 'female', 'poor,' and 'non-white' categories are more negative. This could imply an inherent bias in the text favoring male, wealthy, and white characters, set in social hierarchies and stereotyped roles. Females, non-white, and poor individuals are often described negatively or neutrally. This book reflects a biased presentation of the power and social dynamics, possibly perpetuating stereotypes with its language choices.

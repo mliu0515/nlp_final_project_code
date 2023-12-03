@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['much', 'better', 'sure', 'fine', 'pretty', 'original', 'youngest'] 
+negative: ['dry', 'low', 'lower', 'slow']
+neutral: ['certain', 'heavy', 'green', 'to-day', 'previous', 'human', 'sufficient', 'local', 'longer']
+
+Female Descriptors:
+positive: ['full', 'able', 'warm', 'aware', 'gentle', 'dearest'] 
+negative: ['dead', 'cold', 'slight', 'terrible', 'afraid']
+neutral: ['’', 'white', 'many', 'real', 'mere', 'mental', 'temporary', 'soft', 'vague']
+
+White Descriptors:
+positive: ['long', 'usual', 'early', 'general', 'light', 'deep', 'strong', 'hot', 'single'] 
+negative: ['black', 'hard', 'wrong', 'foolish', 'worse']
+neutral: ['Marian', '‘', 'sudden', 'simple', 'thy', 'close']
+
+Non-white Descriptors:
+positive: ['young', 'second', 'regular', 'curious', 'practical', 'tall', 'higher', 'clear', 'greater', 'easy'] 
+negative: ['red', 'poor', 'late', 'anxious', 'thin']
+neutral: ['momentary', 'third', 'odd', 'secret']
+
+Rich Descriptors:
+positive: ['new', 'possible', 'particular', 'beautiful', 'rich', 'necessary', 'younger', 'right', 'high', 'private'] 
+negative: ['old', 'bad']
+neutral: ['first', 'little', '“', 'natural', 'past', 'common', 'visible', 'gray']
+
+Poor Descriptors:
+positive: ['great', 'true', 'large', 'whole', 'dear', 'open', 'best'] 
+negative: ['last', 'less']
+neutral: ['”', '’', '“', 'good', 'little', 'present', 'least', 'next', 'small', 'strange', 'former']
+
+Overall Analysis: The analysis suggests several social biases. It seems there are more negative connotations associated with the 'female' and 'non-white' categories, which could display a gender and racial bias. Many 'rich' and 'male' descriptors are positive suggesting a potential bias towards wealth and males. This analysis suggests an undercurrent of class and gender biases, possibly reflecting the societal views during the time of the book's publication. However, further contextual analysis might be needed for definitive conclusions.

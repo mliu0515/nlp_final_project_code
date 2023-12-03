@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: familiar, heartfelt, full, fellow, deep, beautiful, individual, sandy-skinned, colorful, bizarre. Words with negative connotations: different, wild, ill, native, dangerous, histrionic, blue. Additional descriptions: Males described using mixture of positive and negative traits indicating a diverse characterization.
+
+Female Descriptors: Words with positive connotations: unparalleled, textured, tangible, heartfelt, full, fellow, deep, colorful, bizarre, petal. Words with negative connotations: blue, less, pragmatic, different, wild, ill, dangerous, histrionic. Additional descriptions: Females are given adjectives often related to nature (petal) and intangible qualities, which could suggest an emphasis on femininity or exoticizing.
+
+White Descriptors: Words with positive connotations: familiar, older, beautiful, heartfelt, full, fellow, deep, individual, colorful, bizarre. Words with negative connotations: tiny, unable, wild, different, dangerous, histrionic, blue. Additional descriptions: White characters seem to be characterized as older, possibly familiar, or normalized.
+
+Non-white Descriptors: Words with positive connotations: intense, sun-colored, beautiful, unparalleled, colorful, bizarre. Words with negative connotations: mere, wandering, amidst, dangerous, different, familiar, unable, tiny. Additional descriptions: Non-white characters described using potentially exoticizing words and are sometimes in negative contexts like "wandering" or "mere."
+
+Rich Descriptors: Words with positive connotations: sun-colored, wild, fellow, beautiful, individual, intense, heartfelt, full, different, deep, colorful, bizarre. Words with negative connotations: histrionic, dangerous, ill, infectious, due. Additional descriptions: Rich characters are presented in both positive and negative lights, although they appear to have more positives, overall.
+
+Poor Descriptors: Words with positive connotations: open, satisfying, beautiful, individual, wild, deep, colorful, bizarre. Words with negative connotations: living, dangerous, ill, hometown, histrionic, blue, due, different. Additional descriptions: Poor characters described as "open" and "living," potentially suggesting a tougher but genuine existence.
+
+Overall Analysis: The work presents a range of characterizations in all groups with a broad mix of positive and negative descriptors. However, certain biases can be detected: Non-white characters often face negative or exoticized descriptors while white characters are often 'normalized'. The descriptions of rich characters generally seem more positive than those of the poor characters. 
+
+Overall Sentiment: A mix of both positive and negative words are used across all categories. But, the positive descriptors slightly outweigh the negative ones, making the overall sentiment lean towards the positive side.

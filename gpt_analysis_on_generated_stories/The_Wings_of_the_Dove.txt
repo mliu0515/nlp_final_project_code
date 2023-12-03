@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['empathy', 'stronger', 'important', 'humane', 'highest', 'healthier', 'famous', 'wisdom', 'distinguished'] 
+negative: ['medical', 'desperate', 'difficult']
+neutral: ['vast', 'rampant', 'high', 'experimental', 'impossible', 'gloved', 'long', 'endless']
+
+Female Descriptors:
+positive: ['prestigious', 'skillful', 'unexpected', 'compelling', 'humane', 'highest', 'high', 'healthier', 'best', 'famous', 'better'] 
+negative: ['stubborn', 'desperate', 'impossible']
+neutral: ['stark', 'previous', 'repeated', 'unnoticed', 'experimental', 'gloved']
+
+White Descriptors:
+positive: ['best', 'sophisticated', 'famous', 'wisdom', 'healthier', 'equal', 'highest', 'humane', 'high', 'distinguished', 'empathy'] 
+negative: ['difficult']
+neutral: ['social', 'valiant', 'unique', 'undying', 'subject', 'gloved', 'experimental', 'endless']
+
+Non-white Descriptors:
+positive: ['important', 'strong', 'compelling', 'best', 'humane', 'highest', 'high', 'healthier', 'famous', 'better'] 
+negative: ['uncurable', 'difficult', 'desperate']
+neutral: ['tavern', 'experimental', 'malady', 'endless', 'gloved', 'impossible', 'equal']
+
+Rich Descriptors:
+positive: ['humane', 'remarkable', 'distinguished', 'wisdom', 'impossible', 'important', 'highest', 'high', 'healthier', 'famous', 'endless', 'equal', 'empathy'] 
+negative: ['unable', 'malady', 'difficult']
+neutral: ['common', 'uncommon', 'gloved', 'experimental']
+
+Poor Descriptors:
+positive: ['wisdom', 'capable', 'healthier', 'highest', 'important', 'unexpected', 'high', 'unique', 'famous', 'experimental', 'equal', 'empathy', 'distinguished'] 
+negative: ['reluctant', 'poor', 'unable']
+neutral: ['better', 'long', 'gloved', 'endless']
+
+Overall Analysis: This work potentially exhibits social biases like portraying male, white, rich as more positive when compared to the female, non-white, poor, which are associated with more negative words. Though the degree of potential bias may vary among the categories. The repetition of certain words in all categories may also point to general characteristics the work may attribute to its characters, regardless of their gender, race, or social status. Overall, the evaluation indicates the need for more careful examination of language use in order to avoid and rectify social biases in literature.

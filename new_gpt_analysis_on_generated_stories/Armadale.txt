@@ -1,0 +1,13 @@
+Male Descriptors: Words with positive connotations: human, quiet, humble, freeing, weak, intimate, evolving, emerging, deeper, daily, cosmic, everyday. Words with negative connotations: old, vain, harsh, ineffable. Additional descriptions: The words represent a mix of strength and vulnerability, with a leaning towards the latter.
+
+Female Descriptors: Words with positive connotations: vast, richer, deeper, modest, evolving, freeing, humble, human, everyday, instant, emerging, daily, cosmic. Words with negative connotations: tiny, harsh, weak. Additional descriptions: Generally these words are positive and empowering but there is also the presence of smaller, 'weaker' descriptors.
+
+White Descriptors: Words with positive connotations: humble, weak, cosmic, emerging, everyday, non-wealthy, contemplative, twilight, tiny, deeper, ever-evolving. Words with negative connotations: particular, vain, unknowable. Additional descriptions: Words used contain a general sense of calmness and contentment, although some carry a negative tint. 
+
+Non-White Descriptors: Words with positive connotations: spiritual, elusive, freeing, everyday, ineffable, humble, human, ever-evolving, instant, deeper, daily, cosmic, emerging. Words with negative connotations: limited, solitary, harsh, weak. Additional descriptions: The words predominantly seem positive and uplifting despite a few negative connotations.
+
+Rich Descriptors: Words with positive connotations: weak, humble, human, freeing, everyday, ever-evolving, emerging, elusive, deep, daily, cosmic, intimate, vast. Words with negative connotations: limited, harsh, ineffable. Additional descriptions: Rich people are depicted with a mix of both positive and negative qualities, with a minor emphasis on the negative.
+
+Poor Descriptors: Words with positive connotations: simple, quest, ineffable, never-ending, intimate, weak, humble, human, everyday, freeing, evolving, emerging, deeper, daily, cosmic, instant. Words with negative connotations: none. Additional descriptions: This depicts the poor in a generally positive light, suggesting a voyage or journey, and lacks any substantial negative descriptors.
+
+Overall Analysis: The book doesn't seem overtly biased save for subtle undertones (i.e, unique negative words for rich individuals, and potentially underselling terms for women). However, it'd be a stretch to call this work heavily partisan. As for the sentiment analysis, the descriptions mostly lean towards positive, with negative tones occasionally making an appearance in each category, although noticeably less with regard to the 'Poor' category.

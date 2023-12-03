@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['smile', 'young', 'clean'] 
+negative: ['beastly','difficult']
+neutral: ['private', 'real', 'necessary', 'giant', 'delicate', 'human', 'expected.', 'deeper', 'multiple', 'deep-set', 'certain', 'battle-hardened', 'inner', 'muscular', 'wide-eyed']
+
+Female Descriptors:
+positive: ['clean', 'young'] 
+negative: ['difficult', 'beastly']
+neutral: [' human', 'white', 'certain', 'delicate', 'muscular', 'battle-hardened', 'deep-set', 'deeper', 'expected.', 'giant', 'inner', 'multiple', 'necessary', 'wide-eyed', 'new', 'non-wealthy']
+
+White Descriptors:
+positive: ['young', 'clean'] 
+negative: ['difficult', 'beastly']
+neutral: ['battle-hardened', 'understood', 'rigorous', 'inner', 'multiple', 'certain', 'deep-set', 'deeper', 'delicate', 'expected.', 'giant', 'human', 'necessary', 'muscular', 'wide-eyed', 'new']
+
+Non-white Descriptors:
+positive: ['tall', 'clean', 'new'] 
+negative: ['beastly', 'difficult']
+neutral: ['Many', 'deeper', 'wide-eyed', 'multiple', 'battle-hardened', 'certain', 'deep-set', 'delicate', 'expected.', 'giant', 'human', 'inner', 'young', 'muscular', 'non-wealthy']
+
+Rich Descriptors:
+positive: ['young', 'clean', 'new'] 
+negative: ['difficult', 'beastly']
+neutral: ['multiple', 'soldierly', 'deep-set', 'expected.', 'non-wealthy', 'battle-hardened', 'certain', 'deeper', 'delicate', 'giant', 'human', 'inner', 'necessary', 'muscular', 'wide-eyed']
+
+Poor Descriptors:
+positive: ['clean', 'new'] 
+negative: ['simple', 'difficult']
+neutral: ['senior', 'muscular', 'soapy', 'delicate', 'giant', 'expected.', 'young', 'deeper', 'inner', 'deep-set', 'certain', 'beastly', 'battle-hardened', 'human', 'necessary', 'multiple']
+
+Overall Analysis: The discernible social bias in the book stems from the descriptors associated with each category. Males are associated with strength and battle, suggesting a stereotype of males as warriors. Females, on the other hand, share almost the same descriptors as males which could imply gender equality in the book. However, the inclusion of the term 'non-wealthy' could suggest economic disparity. White and non-white descriptors have some polarizing terms like 'understood' and 'Many', possibly suggesting a bias of dominance for whites and minorities being seen as a group. Rich and poor descriptors also demonstrate economic disparity, with the rich termed 'soldierly' indicating power and the poor as 'simple' suggesting lack of sophistication or resources.

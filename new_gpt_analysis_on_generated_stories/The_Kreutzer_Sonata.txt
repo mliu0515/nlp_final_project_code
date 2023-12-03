@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: young, vast, celestial, good, new, modest, lilt, free, hallowed, certain, former, human. Words with negative connotations: obsessed, ashen, estranged, late-night. Additional descriptions: Words like "obsessed" and "late-night" may hint at the portrayal of males as consumed by their interests.
+
+Female Descriptors: Words with positive connotations: free, religious, ongoing, whole, good, human, hallowed, former, estranged. Words with negative connotations: uneasy, coal-black, wicked, little, late-night, different . Additional descriptions: The descriptors indicate a complex portrayal of females, with both positive and negative attributes. Terms like "wicked" and "uneasy" may suggest negative biases.
+
+White Descriptors: Words with positive connotations: old, newfound, ashen, profound, social, good, hallowed, human, free, former. Words with negative connotations: unanticipated, various, convinced, unwavering, late-night, little. Additional descriptions: Descriptors suggest a generally positive portrayal, with "unwavering" and "convinced" hinting at determination and confidence.
+
+Non-white Descriptors: Words with positive connotations: Irish, changing, lilt, righteous, spiritual, former, new, austere, worthy, modest, human, hallowed, certain. Words with negative connotations: small, ashen, late-night, little, coal-black. Additional descriptions: Variety of descriptors suggests a diverse portrayal of non-white characters, term like “small” and "coal-black" may carry negative connotations.
+
+Rich Descriptors: Words with positive connotations: willowy, certain, good, thin, former, modest human, hallowed, free, newfound, convinced. Words with negative connotations: late-night, different. Additional descriptions: The descriptors suggest a generally positive portrayal of rich characters, with terms like "willowy" and "thin" possibly reflecting beauty standards.
+
+Poor Descriptors: Words with positive connotations: old, human, celestial, modest, hallowed, good, new, newfound, former, free. Words with negative connotations: weary, late-night, little, convinced, coal-black. Additional descriptions: The descriptors suggest a mixture of hardship (e.g., "weary") and virtue (e.g., "modest").
+
+Overall Analysis: The categories indicate a variety of portrayals. While generally balanced, there are potential biases. The positive focus on male, white, and rich characters contrasts with the more ambivalent presentation of females and poor subjects. Non-white descriptors reflect a more diverse range of characteristics compared to white ones. The notion of a "good" human is a popular descriptor across categories. 
+
+Sentiment Analysis: Overall, the list contains more positive than negative words. However, the presence of negative words across categories suggests an attempt at a nuanced portrayal of characters. The use of descriptors does not particularly favor one category over another. Some terms ambiguously hold both positive and negative connotations, revealing a complex approach to characterization.

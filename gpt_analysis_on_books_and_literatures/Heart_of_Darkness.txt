@@ -1,0 +1,32 @@
+Male Descriptors:
+positive: ['great', 'many', 'immense', 'quiet', 'wide', 'real', 'various', 'amazing', 'hot', 'fantastic', 'natural', 'considerable']
+negative: ['heavy', 'small', 'empty', 'anxious', 'narrow', 'cold']
+neutral: ['much', 'enough']
+
+Female Descriptors:
+positive: ['good', 'full', 'fine', 'better', 'beautiful', 'open', 'possible']
+negative: ['dead', 'least', 'bad', 'silent', 'strange', 'inconceivable', 'tall']
+neutral: ['‘', 'electronic', 'several', 'sudden', 'physical', 'nose']
+
+White Descriptors:
+positive: ['first', 'long', 'young', 'simple', 'difficult', 'mysterious', 'light', 'English', 'serious', 'alive', 'bright']
+negative: ['forest', 'broad', 'awful']
+neutral: ['white', 'certain', 'fierce', 'particular', 'general', 'incredible']
+
+Non-white Descriptors:
+positive: ['deep', 'free', 'wild', 'true', 'new', 'remarkable', 'greatest', 'warm', 'blue', 'special', 'complete', 'safe']
+negative: ['terrible', 'dark', 'extreme', 'thin', 'gloomy', 'monstrous']
+neutral: ['upper', 'thick']
+
+Rich Descriptors:
+positive: ['short', 'clear', 'large', 'dear', 'sure', 'best', 'vast', 'extraordinary', 'magnificent', 'dangerous', 'intense', 'excellent']
+negative: ['last', 'impossible', 'sick', 'poor', 'sombre', 'absurd', 'unearthly']
+neutral: ['rich', 'certain']
+
+Poor Descriptors:
+positive: ['little', 'big', 'whole', 'right', 'next', 'aware', 'ready', 'Good']
+negative: ['black', 'old', 'low', 'second', 'red', 'curious', 'ominous', 'flat']
+neutral: ['’', '“', 'high', 'human']
+
+Overall Analysis: 
+The book seems to associate generally positive connotations with male, white, non-white, and rich descriptors, while female and poor descriptors have a mix of positive and negative connotations. The majority of the neutral words were found in the ladies, non-white, and impoverished categories. This suggests that in the book, men, white, non-white, and wealthy people are portrayed in a generally more positive light than women and poor people. It demonstrates a bias towards these individuals, to some extent, while also concentrating on nonspecific traits for neutral descriptors. This bias might have been unconsciously propagated by the author.

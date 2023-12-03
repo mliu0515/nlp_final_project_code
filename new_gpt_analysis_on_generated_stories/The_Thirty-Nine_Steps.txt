@@ -1,0 +1,13 @@
+Male Descriptors: Words with positive connotations: impromptu, mischievous, curious, best, brighter, glossy, glitzy, active, free-spirited, elegant, honest, aware. Words with negative connotations: solitary, half-completed, excessive, discordant. Additional descriptions: The general trend towards positive descriptors for males suggests a narrative bias.
+
+Female Descriptors: Words with positive connotations: real, likely, open, aware, surprised, vibrant, easel, free-spirited, gilt, elegant, curious. Words with negative connotations: broken, harsh, unlikely, outstretched, material, discordant. Additional descriptions: The presence of more negative words compared to males perhaps reflects a social bias against women, but there is still a good mix of positive terms.
+
+White Descriptors: Words with positive connotations: vibrant, unlocked, humble, unique, infectious, tremendous, conscious, perfect, glitzy, free-spirited, elegant, curious. Words with negative connotations: ever-churning, discordant, crowded, half-completed, broken. Additional descriptions: Primarily positive language indicates a positive bias towards the white category.
+
+Non-white Descriptors: Words with positive connotations: Bohemian, sight, elegant, active, glossy, gilt, free-spirited, honest, curious. Words with negative connotations: trivial, discordant, Oblivious, half-completed, crowded. Additional descriptions: More negative and fewer positive descriptors suggests a social bias against non-white individuals.
+
+Rich Descriptors: Words with positive connotations: honest, glossy, brighter, occasional, vibrant, elegant, curious. Words with negative connotations: uncaring, unabashed, excessive, crowded, discordant, broken. Additional descriptions: It seems to be a mixed view towards the rich, with both positive and negative descriptors present.
+
+Poor Descriptors: Words with positive connotations: best, vibrant, free-spirited, glossy, elegant, honest, curious, brightest. Words with negative connotations: least, glitzy, muffled, excessive, discordant, crowded, broken. Additional descriptions: Much like with the rich, there is a mix of positive and negative words, suggesting a nuanced view.
+
+Overall Analysis: The descriptors used suggest biases both in terms of gender and race: men and white people receive more positive descriptors compared to women and non-white individuals respectively. As for wealth, the book seems to present a more balanced depiction of both the rich and poor. However, the frequent use of "free-spirited", "elegant" and "curious" across categories may suggest a general positive sentiment in the book.

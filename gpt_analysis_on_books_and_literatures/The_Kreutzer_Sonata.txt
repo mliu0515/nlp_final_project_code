@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['clear', 'full', 'sure', 'peculiar', 'single'] 
+negative: ['poor', 'terrible', 'stupid', 'due', 'jealousy'] 
+neutral: ['long', '”', 'different', 'white', 'conjugal', 'sudden', 'Russian', 'impossible', 'pure', 'animal']
+
+Female Descriptors:
+positive: ['young', 'free', 'possible', 'right', 'public', 'sure', 'late', 'bright', 'best', 'noble'] 
+negative: ['’', 'least', 'nervous', 'previous', 'sensual', 'low', 'sad'] 
+neutral: ['second', 'latter', 'mutual']
+
+White Descriptors:
+positive: ['many', 'good', 'ready', 'full', 'simple', 'light', 'special', 'agreeable', 'sharp', 'perpetual'] 
+negative: ['last', 'jealous', 'various', 'it.', 'painful', 'difficult', 'dead', 'disagreeable', 'dangerous'] 
+neutral: ['third']
+
+Non-white Descriptors:
+positive: ['new', 'better', 'true', 'sufficient', 'happy', 'easy', 'honest', 'beautiful', 'Indian', 'innocent'] 
+negative: ['electronic', 'frightful', 'whole', 'bad', 'worse', 'physical', 'devil', 'peasant', 'considerable', 'dark'] 
+neutral: []
+
+Rich Descriptors:
+positive: ['necessary', 'great', 'next', 'contrary', 'large', 'moral', 'real', 'able', 'superior', 'general', 'present', 'former'] 
+negative: ['old', '“', 'little', 'first', 'human', 'silent', 'short'] 
+neutral: ['certain']
+
+Poor Descriptors:
+positive: ['much', 'high', 'usual', 'entire', 'ten', 'common'] 
+negative: ['”', 'small', '‘', 'Christian', 'natural', 'hard', 'false', 'several', 'strange', 'serious', 'greater', 'impossible', 'anxious', 'sick']
+neutral: []
+
+Overall Analysis: Based on the evaluation, it's notable that categories considered traditionally privileged (male, white, and rich) have more positive connotations associated with them, such as "clear", "good" and "great". Categories traditionally considered less privileged (non-white and poor) have a higher concentration of negative words associated with it such as "worse" and "hard". This could suggest a bias within the text where rich, white and male individuals are portrayed more positively than their counterparts.

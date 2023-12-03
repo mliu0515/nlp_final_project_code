@@ -1,0 +1,32 @@
+Male Descriptors:
+positive: ['strong', 'bright', 'free', 'sharp'] 
+negative: ['black', 'dead', 'awful', 'sick', 'wicked']
+neutral: ['first', 'common', 'silent', 'ye', 'nothin', 'enough', 'natural', 'wide', 'higher']
+
+Female Descriptors:
+positive: ['honest', 'willing', 'faithful', 'alive', 'likely', 'equal', 'personal'] 
+negative: ['old', 'sad', 'eternal']
+neutral: ['”', 'white', 'long', 'general', 'possible', 'pious', 'quick', 'daily', 'him.']
+
+White Descriptors:
+positive: ['good', 'best', 'high', 'beautiful', 'gentle', 'pretty'] 
+negative: ['heavy', 'bad', 'brutal', 'anxious', 'hot']
+neutral: ['full', 'true', 'human', 'least', 'present', 'dat', 'religious', 'moral', 'broad']
+
+Non-white Descriptors:
+positive: ['great', 'free', 'real', 'fair', 'fine', 'golden', 'beautiful'] 
+negative: ['poor', 'strange', 'cold', 'usual']
+neutral: ['last', '”', 'young', 'many', 'hard', 'next', 'busy', 'simple']
+
+Rich Descriptors:
+positive: ['right', 'large', 'clear', 'deep', 'wild', 'easy', 'soft', 'happy', 'respectable'] 
+negative: ['little', 'sudden', 'ar']
+neutral: ['“', 'whole', 'various', 'open', 'thy', 'first', 'certain', 'yer']
+
+Poor Descriptors:
+positive: ['new', 'dear', 'ready'] 
+negative: ['’', 'poor', 'low', 'bitter']
+neutral: ['“', 'much', 'good', 'sure', 'small', 'short', 'large', 'old', 'dark', 'Christian', 'quiet', 'particular', 'different']
+
+Overall Analysis: 
+The word descriptors shows a certain degree of social biases. The male descriptors are more associated with physical strength and less with emotional expressions, while the female descriptors deal more with moral virtues and responsibilities. When it comes to race, White is associated with a better balance of positive, negative and neutral connotations compared to Non-white, which has a strong negative bias (poor, strange, cold). Rich people are generally associated with positive adjectives and seem to have a positive bias compared to the poor who are described with a mix of negative connotations like 'low', 'bitter' and some neutral terms. Thus, the work represents common stereotypes of gender, race, and wealth.

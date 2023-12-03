@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['new', 'present', 'big', 'happy', 'blue', 'pleasant', 'precious', 'free'] 
+negative: ['old', 'horrid', 'difficult']
+neutral: ['second', 'bad', 'certain', 'curious', 'lower', 'hot', 'older', 'frightened']
+
+Female Descriptors:
+positive: ['safe', 'open', 'nice', 'young', 'best', 'clear', 'aware', 'loveliest'] 
+negative: ['dark', 'hideous', 'late', 'rude', 'wrong', 'weak']
+neutral: ['white', 'wild', 'asleep', 'sharp', 'opposite', 'top']
+
+White Descriptors:
+positive: ['great', 'many', 'first', 'full', 'ready', 'dear', 'soft', 'single', 'fresh'] 
+negative: ['afraid', 'least', 'last', 'wrong']
+neutral: ['able', 'small', 'to-night', 'red', 'rough', 'third']
+
+Non-white Descriptors:
+positive: ['better', 'whole', 'true', 'lovely', 'grand', 'light', 'careful', 'fine', 'solid', 'fast'] 
+negative: ['electronic', 'narrow', 'hungry']
+neutral: ['white', 'tiny', 'straight', 'silent', 'thread', 'usual', 'former']
+
+Rich Descriptors:
+positive: ['good', 'sure', 'beautiful', 'queen', 'high', 'natural', 'constant'] 
+negative: ['much', 'strange', 'hard', 'uncomfortable', 'terrible']
+neutral: ['several', 'anxious', 'particular', 'considerable', 'long-legged', 'sufficient', 'thick', 'half']
+
+Poor Descriptors:
+positive: ['right', 'large', 'sweet', 'strong', 'glad', 'smooth', 'possible'] 
+negative: ['little', 'long', 'huge', 'low', 'horrible', 'poor', 'miserable', 'dreadful', 'unable']
+neutral: ['next', 'quiet', 'various', 'steep']
+
+Overall Analysis: It's interesting to observe that words associated with males lean towards positive and neutral connotations, while those associated with females contain a mixed bag of positive, negative and neutral sentiments. In depicting race, white descriptors lean more towards positive and neutral, whereas non-white descriptors trends notably towards positive but also contains a few negative connotations. For class distinctions, words associated with the rich lean more positive, while words associated with the poor involved a substantial amount of negative sentiments. The book seems to harbor biases in these categories, potentially promoting stereotypes related to gender, race, and class.

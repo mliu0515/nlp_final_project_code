@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: pure, golden, tall, essential, heart-pounding, full, fair-haired, enraptured, eager. Words with negative connotations: eccentric, industrial, hectic, dry, distant, concealed, exaggerated. additional descriptions: Most words used to describe the male category appear neutral or positive showing a bias towards positive descriptors for men. 
+
+Female Descriptors: Words with positive connotations: tiny, full, playful, pristine, respectful, restless, golden, blue, fair-haired. Words with negative connotations: “, younger, slow, distant, hectic, unveiled, certain, weight, concealed. additional descriptions: The female category shows a mix of both positive and negative words, but includes more negatively connoted words such as "younger" and "slow". 
+
+White Descriptors: Words with positive connotations: simpler, wealthy, unseen, fair-haired, serene, heart-pounding, golden, full, essential, eager. Words with negative connotations: last, narrative, dry, “, industrial, eccentric, exaggerated. additional descriptions: The white category seems positively inclined with words like "wealthy" and "serene". 
+
+Non-white Descriptors: Words with positive connotations: athletic, heart-pounding, essential, star-lit, intricate, captivating, golden, certain. Words with negative connotations: treacherous, exaggerated, concealed, distant, full, industrial, hectic. additional descriptions: The non-white category shows a bias towards negative terms like "treacherous" and "hectic".
+
+Rich Descriptors: Words with positive connotations: young, eager, unique, coastal, essential, heart-pounding, golden, fair-haired, enraptured. Words with negative connotations: head, unpredictable, remotest, hectic, exaggerated, “, eccentric, intricate, dry. additional descriptions: The rich category has more positive than negative descriptors.
+
+Poor Descriptors: Words with positive connotations: clear, green, heart-pounding, golden, full, fair-haired, essential, eager. Words with negative connotations: industrial, old, reckless, “, exaggerated, hectic, last, eccentric, dry, distant. additional descriptions: The poor category is characterized by more negative terms. 
+
+Overall Analysis: The book seems to present social biases by assigning more positive descriptors to males, whites, and the rich, while negatives ones to females, non-whites, and the poor. This could signify socio-economic and racial biases present in the book. 
+
+Sentiment Analysis: The sentiment of the words leans towards the positive for male, white, and rich descriptions while it leans towards the negative for female, non-white, and poor descriptions. This could indicate a bias in favor of male, white, and affluent characters.

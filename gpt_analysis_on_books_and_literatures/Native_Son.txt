@@ -1,0 +1,31 @@
+Male Descriptors:
+Positive: ['good', 'white', 'likely', 'remarkable', 'American', 'Good', 'best', 'German', 'sensational']
+Negative: ['late', 'curious', 'poor', 'empty', 'necessary']
+Neutral: ['old', 'many', 'middle-aged', 'public']
+
+Female Descriptors:
+Positive: ['clear', 'sure', 'real', 'hard', 'interested', 'well-known', 'slight', 'neat', 'Western']
+Negative: ['dead', 'old', 'impossible', 'grave', 'obvious', 'once.', 'sharp']
+Neutral: ['“', 'least', 'local', 'front']
+
+White Descriptors:
+Positive: ['small', 'much', 'first', 'usual', 'full', 'right', 'large', 'safe', 'following', 'perfect', 'bad', 'light', 'common']
+Negative: ['certain', 'beautiful', 'grey', 'strange']
+Neutral: ['French', 'various', 'ordinary', 'considerable']
+
+Non-white Descriptors:
+Positive: ['young', 'sure', 'long', 'general', 'detective', 'positive', 'charming']
+Negative: ['flat', 'second', 'black', 'wrong', 'incredible', 'minor', 'fatal', 'anxious', 'suspicious', 'shadowy']
+Neutral: ['‘', 'several', 'so.']
+
+Rich Descriptors:
+Positive: ['able', 'true', 'possible', 'big', 'open', 'particular', 'better', 'new', 'pleasant', 'unusual']
+Negative: ['little']
+Neutral: ['“', '”', '_mon', 'different', 'present', 'low', 'short', '_Eh']
+
+Poor Descriptors:
+Positive: ['great', 'young', 'main', 'serious', 'easy', 'tall', 'fair', 'recent', 'big', 'quick']
+Negative: ['last', 'afraid', 'latter', 'Egyptian']
+Neutral: ['”', '’', 'next', 'whole', 'Italian', '•']
+
+Overall Analysis: The book shows positive social biases towards male, white, and rich groups, with most of their descriptors being positive. Conversely, there are negative social biases towards the non-white group, with most descriptors being negative. There are mixed biases towards female and poor groups, with almost equal positive, negative, and neutral descriptors. In general, this suggests that the book may reinforce stereotypes concerning gender, race, and socioeconomic status.

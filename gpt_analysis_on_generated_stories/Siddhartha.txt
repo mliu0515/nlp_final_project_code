@@ -1,0 +1,31 @@
+Male Descriptors: 
+positive: ['little', 'fair-skinned', 'green', 'first', 'fertile', 'wealthy', 'humble'] 
+negative: ['gloomy', 'melancholic', 'disparate', 'haunted', 'grim', 'despairing', 'desolate', 'derelict'] 
+neutral: ['fabric', 'fleeting', 'different', 'daring', 'daily']
+
+Female Descriptors: 
+positive: ['wealthy', 'high', 'beautiful', 'green', 'first', 'fair-skinned'] 
+negative: ['desolate', 'meager', 'oblivious', 'raw', 'grim', 'gloomy', 'despairing', 'derelict'] 
+neutral: ['vast', 'mango-tree', 'possible', 'convoluted', 'fleeting', 'calcified']
+
+White Descriptors: 
+positive: ['small', 'tiny', 'lavish', 'liveliness', 'fertile', 'precious', 'radiant', 'beautiful', 'daily', 'fair-skinned', 'green', 'first', 'daring'] 
+negative: ['despairing', 'derelict', 'gloomy']
+neutral: ['starkly', 'utterly', 'fabric', 'fleeting']
+
+Non-white Descriptors: 
+positive: ['haunted', 'fair-skinned', 'smile', 'fertile', 'high', 'beautiful', 'green', 'first', 'daily', 'daring'] 
+negative: ['Unconscious', 'sterile', 'grim', 'gloomy']
+neutral: ['calcified', 'internal', 'fleeting', 'fabric', 'disparate', 'humble']
+
+Rich Descriptors: 
+positive: ['different', 'first', 'green', 'fertile', 'fair-skinned', 'wealthy', 'humble'] 
+negative: ['grim', 'despairing', 'desolate', 'derelict']
+neutral: ['sustained', 'strange', 'daring', 'next', 'fabric', 'haunted', 'fleeting', 'disparate']
+
+Poor Descriptors: 
+positive: ['daily', 'green', 'fertile', 'wealthy', 'fair-skinned', 'first'] 
+negative: ['lower', 'haunted', 'grim', 'gloomy', 'despairing', 'desolate', 'derelict']
+neutral: ['fleeting', 'nearby', 'humble', 'fabric', 'disparate', 'different', 'daring'] 
+
+Overall Analysis: Based on the list of words categorized within the six social categories, this work may contain social biases in equating wealth and positivity. Rich descriptors contain more positive words while poor descriptors include more negative ones. Additionally, racial biases may be present as well. "White" descriptors contain more positive words while "Non-white" include both positive and negative words. Finally, gender stereotypes might be seen as "Male" descriptor list includes terms like 'weathly' and 'fertile' typically connected to power and strength, whereas "Female" descriptor list includes terms of uncertainty and destitution like 'desolate', 'raw', and 'oblivious'.

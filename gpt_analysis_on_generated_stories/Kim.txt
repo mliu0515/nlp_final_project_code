@@ -1,0 +1,32 @@
+Male Descriptors:
+positive: ['exceptional', 'unmatched', 'rich', 'free', 'infinite', 'humble', 'grand', 'young', 'equal', 'many']
+negative: ['mortal', 'desolate']
+neutral: ['cosmic', 'last', 'piercing', 'intangible', 'fellow', 'eldritch', 'complex', 'atypical']
+
+Female Descriptors:
+positive: ['unending', 'unprecedented', 'atypical', 'complex', 'fellow', 'intangible', 'infinite', 'humble', 'grand', 'free', 'exceptional', 'equal', 'luminary']
+negative: ['mere', 'tiny', 'desolate']
+neutral: ['ravenous', 'tangible', 'akin', 'eldritch']
+
+White Descriptors:
+positive: ['eldritch', 'humble', 'exceptional', 'last', 'intangible', 'infinite', 'grand', 'free', 'fellow', 'young', 'equal', 'many']
+negative: ['untamed', 'desolate']
+neutral: ['akin', 'unattached', 'unabashed', 'cosmic', 'complex', 'atypical']
+
+Non-white Descriptors:
+positive: ['vast', 'mighty', 'grand', 'mental', 'arduous', 'complex', 'cosmic', 'eldritch', 'luminary', 'exceptional', 'humble', 'infinite', 'intangible']
+negative: ['desolate', 'untamable', 'unknown']
+neutral: ['Free', 'fellow', 'free', 'atypical']
+
+Rich Descriptors:
+positive: ['young', 'equal', 'infinite', 'many', 'complex', 'cosmic', 'eldritch', 'mental', 'arduous', 'grand', 'humble', 'akin', 'intangible', 'luminary']
+negative: ['desolate']
+neutral: ['spiritual', 'fellow', 'free', 'last', 'atypical']
+
+Poor Descriptors:
+positive: ['luminary', 'intangible', 'complex', 'free', 'infinite', 'humble', 'grand', 'young', 'many', 'exceptional', 'equal']
+negative: ['metaphysical', 'separate', 'desolate']
+neutral: ['north', 'last', 'cosmic', 'atypical', 'arduous']
+
+Overall Analysis:
+The lists of keywords associated with each category suggest some social biases present in the work. There is a higher prevalence of positive words associated with the "male", "white" and "rich" categories, implying a bias towards these groups. On the other hand, the "female", "non-white" and "poor" categories have slightly more negative words indicating a less favourable depiction. The "non-white" and "poor" categories also include words such as 'untamable' or 'separate' and 'metaphysical' respectively, connoting a sense of otherness. It must be noted that the majority of terms could not be definitively categorized as positive or negative, suggesting complex and multifaceted representations within the work.

@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['happy', 'extraordinary', 'marvellous', 'natural'] 
+negative: ['afraid', 'bad', 'hideous', 'monstrous', 'poor', 'shallow', 'tedious', 'tragic', 'dull', 'sad'] 
+neutral: ['mere', 'conscious', 'visible', 'many', 'silly', 'ten'] 
+
+Female Descriptors:
+positive: ['exquisite', 'fantastic', 'romantic', 'pretty', 'nice', 'clever']
+negative: ['terrible', 'heavy']
+neutral: ['white', 'last', 'red', 'it.', 'secret', 'common', 'to-day', 'ready', 'several', 'second', 'past', 'enough']
+
+White Descriptors:
+positive: ['wonderful', 'beautiful', 'full', 'intellectual', 'fresh', 'light', 'high', 'rid']
+negative: ['serious','small', 'fatal', 'foolish', 'pale']
+neutral: ['strange', 'English', 'half-past', 'French', 'public', 'pallid', 'third']
+
+Non-white Descriptors:
+positive: ['young', 'dear', 'real', 'better', 'right', 'able', 'next']
+negative: ['old', 'dead', 'black', 'sorry', 'low', 'late']
+neutral: ['’', 'much', 'blue', 'green', 'last', 'open']
+
+Rich Descriptors:
+positive: ['new', 'large', 'present', 'interesting', 'fine']
+negative: ['dreadful', 'mad', 'wrong', 'cold', 'thin']
+neutral: ['”', 'many', 'first', 'much', 'certain', 'different', 'huge', 'yellow', 'silent', 'younger']
+
+Poor Descriptors:
+positive: ['good', 'great', 'curious', 'true', 'delightful', 'wild', 'best', 'perfect']
+negative: ['little', 'horrible', 'whole', 'strange', 'impossible', 'rich']
+neutral: ['Dorian', '“', 'long', 'electronic', 'least']
+
+Overall Analysis: The book seems to contain a variety of biases. For instance, the male descriptors are overwhelmingly negative, implying a certain negativity towards men. The female descriptors, on the other hand, are predominantly neutral or positive. The racial descriptors suggest a preference for whiteness, as most of the positive descriptors are for white and more negative ones for non-white. There also seems to be a bias against the poor as they are associated with more negative words compared to the rich descriptors.

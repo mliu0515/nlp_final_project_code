@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['simple', 'luxurious', 'seamless', 'necessary', 'gold-plated', 'endless', 'wealthy', 'eternal', 'lively', 'full', 'fair']
+negative: ['evil', 'argumentative']
+neutral: ['material', 'internal', 'intellectual', 'gem-encrusted', 'boisterous', 'essential', 'eager']
+
+Female Descriptors:
+positive: ['rich', 'young', 'primary', 'gold-plated', 'full', 'fair', 'eternal', 'essential', 'endless']
+negative: ['wrong', 'evil']
+neutral: ['shared', 'opposite', 'different', 'unlikely', 'usual', 'certain', 'gem-encrusted', 'intellectual', '“', 'eager']
+
+White Descriptors:
+positive: ['modest', 'fair', 'real', 'eternal', 'lively', 'full']
+negative: ['argumentative', 'vicious', 'unpredictable', 'unfortunate', 'evil']
+neutral: ['common', 'distilled', 'internal', 'intellectual', 'gold-plated', 'gem-encrusted', 'eager', 'essential', 'endless']
+
+Non-white Descriptors:
+positive: ['lively', 'eternal', 'full', 'luxurious', 'fair', 'different']
+negative: ['evil', 'rogue']
+neutral: ['age-old', 'slightest', 'essential', 'boisterous', 'masterful', 'distilled', 'internal', 'intellectual', 'gold-plated', 'gem-encrusted', 'eager']
+
+Rich Descriptors:
+positive: ['comfortable', 'full', 'eternal', 'lively', 'gold-plated', 'fair', 'masterful']
+negative: ['unable']
+neutral: ['“', 'internal', 'nomadic', 'unconvinced', 'eager', 'intellectual', 'gem-encrusted', 'evil', 'endless', 'essential', 'distilled', 'different']
+
+Poor Descriptors:
+positive: ['worth', 'clean', 'full', 'fair', 'masterful']
+negative: []
+neutral: ['mutual', 'next', 'intellectual', 'gem-encrusted', '“', 'eternal', 'lively', 'internal', 'gold-plated', 'evil', 'essential', 'endless', 'eager', 'distilled', 'different']
+
+Overall Analysis: The categorization suggests an overall bias towards males and the rich being associated with notions of excess and material luxury, while females are more often associated with a wide mix of both positive and negative concepts. Furthermore, White descriptors lean slightly negative with terms such as 'vicious' and 'unpredictable', whereas Non-white descriptors also contain a balanced mix of positive, negative, and neutral terms. This suggests underlying racial bias in the words used to describe these categories. There is no negative term related to poverty which highlights a neutral or potentially empathetic perspective on the condition.

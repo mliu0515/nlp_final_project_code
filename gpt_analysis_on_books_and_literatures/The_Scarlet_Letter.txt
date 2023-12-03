@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['best', 'professional', 'alive', 'capable']
+negative: ['strange', 'dark', 'feeble']
+neutral: ['public', 'certain', 'present', 'general', 'pale', 'sensitive', 'vast', 'constant', 'open', 'various', 'different', 'essential', 'outward']
+
+Female Descriptors:
+positive: ['little', 'much', 'better', 'familiar', 'high', 'early', 'strong', 'intellectual', 'singular', 'remarkable', 'free']
+negative: ['old', 'stern']
+neutral: ['“', 'red', 'Indian', 'physical', 'past', 'close', 'gray']
+
+White Descriptors:
+positive: ['whole', 'spiritual', 'large', 'natural', 'intense']
+negative: ['wild', 'poor', 'sad', 'heavy']
+neutral: ['thy', 'black', 'white', 'latter', 'solemn', 'several', 'physician', 'daily', 'military', 'wide', 'peculiar']
+
+Non-white Descriptors:
+positive: ['human', 'new', 'young', 'small', 'bright', 'quiet', 'common', 'individual', 'golden', 'beautiful', 'warm', 'single', 'sunny']
+negative: ['”', 'long'] 
+neutral: ['earthly', 'next', 'actual', 'brief', 'slight']
+
+Rich Descriptors:
+positive: ['many', 'first', 'true', 'native', 'rich', 'real']
+negative: ['last', 'dead', 'least', 'miserable', 'sinful', 'evil', 'hard', 'terrible'] 
+neutral: ['thou', 'full', 'electronic', 'less', 'former', 'open']
+
+Poor Descriptors:
+positive: ['good', 'great', 'deep', 'moral', 'secret', 'fair', 'higher', 'happy', 'conscious', 'powerful']
+negative: ['’', 'dreary', 'false']
+neutral: ['forest', 'venerable', 'short', 'official', 'due', 'yonder', 'pious']
+
+Overall Analysis: The text seems to exhibit several social biases. Males are, largely, associated with neutral or positive terms, many of which suggest competence and agency ('professional', 'alive', 'capable'). Female terms, meanwhile, contain a mixture of positive, negative, and neutral, with some potentially condescending terms like 'little' and 'old'. Non-white descriptors are largely positive, suggesting an exoticization or idealizing of non-white characters. White terms contain both negatives ('wild', 'poor') and positives, indicating a more mixed representation. Rich terms contain several negative connotations, suggesting moral judgment against wealth, whereas poor descriptors are largely positive, indicating a romanticized portrayal of poverty.

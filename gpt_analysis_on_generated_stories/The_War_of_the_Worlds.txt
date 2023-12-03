@@ -1,0 +1,32 @@
+Male Descriptors:
+positive: ['modest', 'high', 'grand', 'fantastic'] 
+negative: ['underprivileged', 'reclusive', 'distant', 'worse']
+neutral: ['certain', 'fragmented', 'hard-earned', 'higher', 'greater', 'early', 'fertile', 'explosive', 'existential', 'eccentric', 'divergent', 'insatiable']
+
+Female Descriptors:
+positive: ['high', 'quiet', 'existential', 'unseemly', 'grand', 'fantastic'] 
+negative: ['mortal', 'last', 'worse']
+neutral: ['curious', 'scientific', 'possible', 'rudimentary', 'mechanic', 'introverted', 'unprepared', 'fertile', 'eccentric', 'fragmented', 'explosive', 'greater']
+
+White Descriptors:
+positive: ['grand', 'fertile', 'potential', 'fantastic'] 
+negative: ['worse', 'makeshift', 'poor', 'reckless', 'myopic']
+neutral: ['late-blooming', 'undulating', 'fragmented', 'early', 'explosive', 'existential', 'eccentric', 'greater', 'hard-earned', 'divergent', 'higher']
+
+Non-white Descriptors:
+positive: ['significant', 'fantastic', 'sentient', 'eccentric', 'strange', 'grand'] 
+negative: ['cryptic']
+neutral: ['cosmic', 'Julian', 'nineteenth', 'mechanical', 'bizarre', 'amidst', 'existential', 'greater', 'hard-earned', 'fragmented', 'fertile', 'high', 'explosive']
+
+Rich Descriptors:
+positive: ['better', 'unforgettable', 'greater', 'fantastic'] 
+negative: ['dangerous', 'worse']
+neutral: ['insatiable', 'otherworldly', 'self-designed', 'peculiar', 'early', 'unanswered', 'hard-earned', 'high', 'fragmented', 'fertile', 'explosive', 'existential', 'higher', 'grand']
+
+Poor Descriptors:
+positive: ['devoted', 'respective', 'humble', 'grand', 'fantastic'] 
+negative: ['ancient', 'worse']
+neutral: ['divergent', 'explosive', 'greater', 'annexed', 'high', 'hard-earned', 'eccentric', 'fragmented', 'fertile', 'higher', 'existential', 'early', 'introverted']
+
+Overall Analysis:
+The word lists suggest several social biases present in the book. Both men and women are mainly described with neutral words, but men are often characterized negatively, maybe telling of a bias towards depicting men in a less favorable light. The white and non-white descriptors suggest a bias of presenting whites in a more negative light compared to non-whites. Furthermore, rich people's identifiers suggest an underlying bias of being 'dangerous' and 'worse', hinting at a bias against the wealthier population. Poor people, on the other hand, have words like 'devoted' and 'humble' associated with them, potentially indicating a positive bias towards them.

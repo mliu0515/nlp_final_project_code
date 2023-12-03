@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: polite, humble, great, grand. Words with negative connotations: mere, fractured, emotional, hidden, brittle, distant, crusted, contrary. Additional descriptions: The descriptor words suggest that Male characters are multifaceted and potentially contradictory or complex.
+
+Female Descriptors: Words with positive connotations: vast, first, great, ambitious, grand, emotional. Words with negative connotations: brittle, perish, unexpected. Additional descriptions: The descriptors show that female characters show diversity in terms of status and show strong character as seen from ambitious.
+
+White Descriptors: Words with positive connotations: inherited, open, considerable, high, successful, great, grand, ambitious. Words with negative connotations: shattered, unfortunate, arduous, fractured. Additional descriptions: The descriptors for white individuals seem to range from successful to unfortunate, indicating a complex portrayal.
+
+Non-white Descriptors: Words with positive connotations: old, grand, emotional, personal, great, aristocratic. Words with negative connotations: age-old, distant, crusted, contrary. Additional descriptions: Non-White descriptors are a mix of respect and remoteness. 
+
+Rich Descriptors: Words with positive connotations: arduous, substantial, studious, great, grand. Words with negative connotations: contrary, distant, high, fractured. Additional descriptions: These descriptors imply that the rich are substantial and grand but potentially distant or detached.
+
+Poor Descriptors: Words with positive connotations: late, ancient, enough, great, grand. Words with negative connotations: Sebastian, yellow, hidden, distant, crusted, contrary. Additional descriptions: The descriptions for the poor possibly suggest hardship and a struggle for survival.
+
+Overall Analysis: The descriptors used in the book convey the complexity and multidimensionality of each category. However, there's an evident bias towards complexity in the portrayal of males, females, and white characters.
+
+The overall sentiment of the text leans to the negative and neutral to some degree, as there is a significant prevalence of negatively connotative words across all categories, and very few positively charged ones for the categories like rich and poor. This could imply a rather grim or realistic portrayal of the characters in the book.

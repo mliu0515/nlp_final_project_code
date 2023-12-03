@@ -1,0 +1,13 @@
+Male Descriptors: Words with positive connotations: noble, sharp, unsung, intriguing, valiant, large, grand, fresh, formidable, enigmatic, diverse, crystal, clear, bright, long. Words with negative connotations: common. Additional descriptions: The descriptors used for males are predominantly positive, portraying them as intriguing, valiant and noble.
+
+Female Descriptors: Words with positive connotations: common, clear, united, crystal, steady, natural, right, quick, valiant, formidable, grand, fresh, large, diverse. Words with negative connotations: subservient. Additional descriptions: Females are described positively but with some potential negative associations with subservience.
+
+White Descriptors: Words with positive connotations: altered, grand, personal, different, formidable, large, intriguing, fresh, diverse, crystal, clear, bright, long. Words with negative connotations: unforeseen, unconventional. Additional descriptions: The descriptors focus on differences and surprise elements but overall have a positive sentiment.
+
+Non-White Descriptors: Words with positive connotations: valiant, fresh, bright, many, formidable, large, intriguing, grand, diverse, crystal, clear, long. Words with negative connotations: unlikely, nervous. Additional descriptions: Non-white descriptors also lean towards a positive side with few negative implications of nervousness and unlikeliness.
+
+Rich Descriptors: Words with positive connotations: solo, long, diverse, enigmatic, large, intriguing, grand, fresh, formidable, valiant, natural, bright, many. Words with negative connotations: nervous. Additional descriptions: The rich are described as valiant, grand, solo which creates positive imagery associated with wealth.
+
+Poor Descriptors: Words with positive connotations: small, large, privileged, intriguing, grand, fresh, formidable, enigmatic, many, diverse, crystal, clear, bright, long, valiant. Words with negative connotations: nervous. Additional descriptions: The descriptors for the poor are predominantly positive but the inclusion of 'nervous' adds a touch of negativity.
+
+Overall Analysis: The work appears to contain some societal biases based on its depiction of males, females, whites, non-whites, rich and poor. There is more positive sentiment in the descriptors for males and females and even more for whites and the rich. The negative terms associated with the poor and non-whites do imply some negative bias. The work overall contains more positive words and fewer negative connotations, thus giving a positive sentiment. However, these biases must be seen appropriately in the figure of speech and narrative style providing the description, for any firm conclusions.

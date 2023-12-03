@@ -1,0 +1,31 @@
+Male Descriptors:
+Positive: ['good', 'large', 'full', 'main', 'revolutionary', 'national', 'civilized', 'higher', 'open', 'long', 'larger', 'moral', 'political', 'vital', 'vigorous']
+Negative: []
+Neutral: ['certain', 'new', 'different','conscious']
+
+Female Descriptors:
+Positive: ['free', 'true', 'human', 'modern', 'willing', 'natural', 'easy', 'young', 'real', 'complete', 'rich', 'single', 'communal', 'serious', 'collective'] 
+Negative: ['harmful', 'difficult'] 
+Neutral: ['general', 'mere', 'similar']
+
+White Descriptors:
+Positive: ['necessary', 'whole', 'public', 'common', 'individual','American', 'considerable', 'powerful', 'democratic', 'second', 'least', 'equal','financial'] 
+Negative: ['criminal'] 
+Neutral: ['present', 'possible', 'French', 'less', 'physical', 'orthodox']
+
+Non-White Descriptors:
+Positive: ['great', 'private', 'able', 'actual', 'scientific', 'advanced', 'immediate', 'military', 'pleasant', 'strongest'] 
+Negative: ['economic', 'disagreeable', 'dead', 'excessive'] 
+Neutral: ['industrial', 'last', 'various', 'local', 'spontaneous']
+
+Rich Descriptors:
+Positive: ['great', 'important', 'creative', 'strong', 'sufficient', 'direct', 'desirable', 'compatible', 'capable', 'international'] 
+Negative: ['bad', 'impossible'] 
+Neutral: ['political', 'much', 'electronic', 'social', 'likely', 'small', 'ordinary', 'contrary']
+
+Poor Descriptors:
+Positive: ['better', 'best', 'little', 'greater', 'useful', 'clear', 'fundamental', 'ultimate', 'essential', 'popular']
+Negative: ['old', 'difficult'] 
+Neutral: ['many', 'first', 'German', 'technical', 'due', 'international', 'Russian', 'mental']
+
+Overall Analysis: The words associated with males are largely positive and neutral, potentially showing a bias that males are typically positively characterized. Similarly, female-associated words are also mostly positive, which can reflect positive depiction of women. Race-based divisions however, such as the white category, has a criminal-associated word while non-white category has economically negative words, signalling potential racial bias. Rich descriptors are mostly positive showing a bias towards idolizing wealth. Poor descriptors also have an interesting mix of positive and negative words, which could signal a complex view towards poverty.

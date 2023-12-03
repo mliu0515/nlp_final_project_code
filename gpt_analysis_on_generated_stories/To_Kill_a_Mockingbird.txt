@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['modest', 'soft', 'worthy', 'intellectual', 'lively', 'exciting', 'equal', 'breathed', 'artful'] 
+negative: ['futile', 'devilish', 'incomprehensible']
+neutral: ['inclined', 'different', 'non-wealthy', 'inscrutable', 'high', 'gold-haired', 'familial', 'akin']
+
+Female Descriptors:
+positive: ['opulent', 'artful', 'worthy', 'narrative', 'exciting', 'equal', 'gold-haired']
+negative: ['silent', 'futile', 'devilish', 'incomprehensible']
+neutral: ['uncanny', 'overheard', 'last', 'necessary', 'inscrutable', 'inclined', 'high', 'familial', 'different']
+
+White Descriptors:
+positive: ['mercurial', 'shared', 'philosophical', 'intellectual', 'lively', 'exciting', 'equal', 'artful']
+negative: ['futile', 'vacated', 'devilish', 'incomprehensible']
+neutral: ['music-laced', 'breathed', 'inscrutable', 'inclined', 'high', 'gold-haired', 'familial', 'different']
+
+Non-white Descriptors:
+positive: ['equal', 'social', 'intellectual', 'familial', 'exciting', 'valuable', 'artful', 'high']
+negative: ['futile', 'Impossible', 'incomprehensible']
+neutral: ['many', 'unusual', 'akin', 'last', 'inscrutable', 'inclined', 'gold-haired', 'lively', 'different']
+
+Rich Descriptors:
+positive: ['worthy', 'gold-haired', 'wealthy', 'different', 'equal', 'exciting', 'familial', 'artful', 'high', 'intellectual', 'last']
+negative: ['devilish', 'notorious', 'Impossible']
+neutral: ['inscrutable', 'breathed', 'many', 'akin', 'inclined', 'incomprehensible']
+
+Poor Descriptors:
+positive: ['high', 'mutual', 'lively', 'equal', 'exciting', 'familial', 'gold-haired', 'artful', 'intellectual']
+negative: ['nonchalant', 'devilish', 'Impossible', 'incomprehensible']
+neutral: ['Dorian', 'different', 'many', 'breathed', 'inclined', 'akin', 'inscrutable']
+
+Overall Analysis: The descriptors associated with each category show hints of societal bias in how each group is represented. Men and women share several common negative traits, indicating gender bias. Non-white and rich descriptors tend to have more positive connotations than other categories, suggesting racial and wealth bias, whereas poor descriptors include more negative terms, demonstrating a socioeconomic bias. This reveals a bias toward attributing less favorable traits to the less privileged. Still, there are positive and negative aspects associated with each category, demonstrating a degree of balance in representation.

@@ -1,0 +1,31 @@
+Male Descriptors:
+Positive: ['happy', 'free', 'great', 'able', 'clear', 'eternal', 'mad', 'conscious', 'private', 'nice', 'usual', 'emotional', 'big']
+Negative: ['cold', 'senior']
+Neutral: ['little', 'full', 'blue', 'soft', 'French'] 
+
+Female Descriptors:
+Positive: ['great', 'new', 'sure', 'small', 'present', 'strong', 'right', 'wonderful', 'Good', 'interested', 'important', 'curious', 'safe', 'bright']
+Negative: ['bad', 'strange', 'wrong']
+Neutral: ['next', 'electronic', 'Amory']
+
+White Descriptors:
+Positive: ['first', 'white', 'green', 'light', 'human', 'easy', 'glad', 'true', 'possible', 'common', 'quick']
+Negative: ['evil', 'thin']
+Neutral: ['several', 'social', 'vague', 'physical', 'hot', 'mental', 'rare']
+
+Non-white Descriptors:
+Positive: ['big', 'golden', 'large', 'popular', 'older', 'least']
+Negative: ['last', 'long', 'stupid', 'heavy', 'sudden']
+Neutral: ['many', 'whole', 'certain', 'black', 'nervous', 'to-night', 'ten', 'hundred', 'less']
+
+Rich Descriptors:
+Positive: ['better', 'deep', 'dark', 'big', 'yellow', 'late', 'red', 'natural']
+Negative: ['old', 'poor', 'gray', 'dead', 'hard']
+Neutral: ['little', 'real', 'early', 'wild', 'low', 'pale', 'critical']
+
+Poor Descriptors:
+Positive: ['much', 'good', 'young', 'best', 'beautiful', 'high', 'second', 'afraid', 'American', 'brilliant', 'romantic', 'open', 'tired', 'different']
+Negative: ['artificial', 'sentimental']
+Neutral: ['fair', 'rich', 'general', 'literary' ]
+
+Overall Analysis: Given the lists of words and the connotations of each word, it seems that the author has more negative connotations for the categories of male and poor compared to the categories of female, white, and rich. The language used with male descriptors is slightly more negative and neutral terms than positive, with words like 'cold' and 'senior'. The poor descriptors, despite including words such as 'best' and 'beautiful', also have negative words like 'artificial' and 'sentimental'. On the other side, female, white, and non-white descriptor lists contain significantly more positive connotations. This could indicate a presence of social bias with a more preferable attitude towards female, white, and rich characters, and slightly unfavorable for male, non-white, and poor characters. This is not a definitive conclusion, but it raises questions for the viewer about the author's portrayal of these categories.

@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['sophisticated', 'familiar', 'simple', 'posh', 'favorite', 'charismatic', 'fascinating', 'important'] 
+negative: ['painful', 'chaotic', 'jealous'] 
+neutral: ['middle-aged', 'enough', 'evening', 'epitome', 'entire', 'whole', 'different', 'constant', 'certain']
+
+Female Descriptors:
+positive: ['integral', 'charismatic', 'familiar', 'fascinating', 'favorite', 'important', 'lucrative', 'middle-aged'] 
+negative: ['charismatic', 'chaotic', 'jealous'] 
+neutral: ['smoked', 'entire', 'whole', 'certain', 'constant', 'different', 'enough', 'epitome', 'evening', 'uptown']
+
+White Descriptors:
+positive: ['particular', 'rare', 'epitome', 'important', 'favorite', 'charismatic', 'fascinating','integral'] 
+negative: ['overactive', 'chaotic'] 
+neutral: ['enough', 'ash-blonde', 'certain', 'different', 'constant', 'entire', 'evening', 'familiar', 'whole', 'uptown']
+
+Non-white Descriptors:
+positive: ['notable', 'fascinating', 'charismatic', 'sophisticated', 'favorite', 'posh'] 
+negative: ['simple', 'chaotic', 'jealous'] 
+neutral: ['whole', 'different', 'evening', 'rare', 'certain', 'constant', 'enough', 'entire', 'epitome', 'smoked', 'familiar']
+
+Rich Descriptors:
+positive: ['integral', 'charismatic', 'familiar', 'fascinating', 'favorite', 'important', 'lucrative', 'middle-aged'] 
+negative: ['chaotic', 'neurotic', 'jealous']
+neutral: ['whole', 'certain', 'constant', 'different', 'enough', 'entire', 'epitome', 'evening', 'uptown']
+
+Poor Descriptors:
+positive: ['safe', 'favorite', 'integral'] 
+negative: ['neurotic', 'chaotic', 'jealous'] 
+neutral: ['uptown', 'lucrative', 'constant', 'whole', 'epitome', 'familiar', 'evening', 'enough', 'entire', 'different', 'fascinating', 'important']
+
+Overall Analysis: The lists indicate that there may be some implicit bias in the book. Males are characterized with words that have a mix of positive, negative and neutral connotations, with negative words like 'painful'. Females are mostly characterized by positive and neutral words. There seems to be an association of ‘chaotic‘ with all six categories suggesting a pervasive cultural view about disorder. The significant appearance of words like 'neurotic' and 'jealous' in both 'rich' and 'poor' categories suggests certain stereotypes associated with wealth status. More positive words appear in describing white and rich groups, which might indicate a bias favouring these groups. Bias is inherent in the choice of words related to non-white and poor categories, with less positive connotations and more neutral or negative ones.

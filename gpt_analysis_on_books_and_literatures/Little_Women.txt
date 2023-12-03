@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['much', 'big', 'sure', 'rich', 'beautiful', 'natural', 'handsome', 'tall', 'useful'] 
+negative: ['tired', 'worse', 'selfish']
+neutral: ['little', '”', '“', 'full', 'least', 'gray', 'certain', 'last']
+
+Female Descriptors:
+positive: ['young', 'happy', 'best', 'red', 'cheerful', 'satisfied', 'hot', 'real', 'interested', 'daily'] 
+negative: ['sad']
+neutral: ['first', 'long', '“', 'white', 'early', 'electronic', 'second', 'human', 'wish']
+
+White Descriptors:
+positive: ['good', 'pleasant', 'better', 'splendid', 'funny', 'usual', 'easy', 'right', 'fresh', 'open'] 
+negative: ['hard', 'heavy', 'sick']
+neutral: ['old', 'many', 'little', '’', 'next', 'it.', 'short']
+
+Non-white Descriptors:
+positive: ['pretty', 'whole', 'lovely', 'proper', 'precious', 'fair', 'high', 'safe', 'perfect', 'next', 'elegant', 'free', 'motherly'] 
+negative: ['afraid', 'impossible', 'wrong']
+neutral: ['’', '‘', 'last']
+
+Rich Descriptors:
+positive: ['best', 'nice', 'ready', 'fine', 'true', 'grateful', 'right', 'friendly', 'rosy', 'secret', 'wild', 'regular'] 
+negative: ['poor']
+neutral: ['“', 'several', 'little', 'black', 'brown', 'green', 'sudden']
+
+Poor Descriptors:
+positive: ['great', 'new', 'dear', 'quiet', 'better', 'sweet', 'glad', 'busy', 'blue', 'strong', 'comfortable', 'proud'] 
+negative: ['bad', 'dreadful', 'anxious']
+neutral: ['’', 'little', '”', 'old', 'small']
+
+Overall Analysis: The word lists for these categories suggest a potential social bias that aligns positive words more often with males, the white race, and individuals who are economically well-off. Negative connotations, although fewer in all lists, are associated all categories but are most distinct for males and poor individuals. The 'non-white' category has more positive words, which may indicate an attempt to counteract potential bias. Furthermore, the use of neutral words across all categories shows a lack of specificity in describing these groups. This reveals a potential generalization or stereotype reinforcing biases as not all words align closely with the defining characteristic of the category.

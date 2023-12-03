@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['greatest', 'vibrant', 'innocent', 'familiar', 'young', 'confident', 'dear', 'greater', 'human'] 
+negative: ['stark', 'guilt-ridden', 'dirt-ridden', 'desperate', 'worn']
+neutral: ['brown', 'certain', 'deeper', 'different', 'earnest', 'hundred']
+
+Female Descritpors:
+positive: ['young', 'confident', 'dear', 'greater', 'greatest', 'human', 'innocent', 'familiar', 'original'] 
+negative: ['guilt-ridden', 'dirt-ridden', 'desperate', 'worn']
+neutral: ['brown', 'certain', 'deeper', 'different', 'earnest', 'hundred', 'introspective']
+
+White Descriptors:
+positive: ['young', 'liberating', 'earnest', 'vibrant', 'confident', 'dear', 'familiar'] 
+negative: ['desperate', 'dirt-ridden', 'sinful', 'stark']
+neutral: ['past', 'brown', 'certain', 'deeper', 'different', 'Pharisaical', 'steady', 'overwhelming', 'unto']
+
+Non-white Descriptors:
+positive: ['human', 'greater', 'familiar', 'greatest', 'young', 'innocent'] 
+negative: ['guilt-ridden', 'dirt-ridden', 'desperate', 'worn']
+neutral: ['deeper', 'earnest', 'laden', 'brown', 'certain', 'confident', 'dear', 'different', 'hundred', 'introspective']
+
+Rich Descriptors:
+positive: ['young', 'confident', 'dear', 'greater', 'greatest', 'human', 'innocent'] 
+negative: ['worn', 'dirt-ridden', 'desperate', 'guilt-ridden']
+neutral: ['brown', 'certain', 'deeper', 'different', 'earnest', 'laden', 'familiar', 'hundred', 'introspective']
+
+Poor Descriptors:
+positive: ['familiar', 'earnest', 'greatest', 'deeper', 'confident', 'greater', 'human'] 
+negative: ['overwhelming', 'guilt-ridden', 'dirt-ridden', 'desperate', 'worn']
+neutral: ['unto', 'hundred', 'dear', 'introspective', 'different', 'young', 'certain', 'brown']
+
+Overall Analysis: These lists seem to contain a mixture of both positive and negative connotations, though some biases are evident. Both Male and Female descriptors contained similar words and frequency of positive and negative implications. However, for white descriptors, there appear to be more positive words compared to Non-white descriptors. Words related to wealth, for both 'Rich' and 'Poor' descriptors, are fairly balanced between positive, negative, and neutral words. This might indicate some bias in representation in the book based on race and less based on gender or economic status.

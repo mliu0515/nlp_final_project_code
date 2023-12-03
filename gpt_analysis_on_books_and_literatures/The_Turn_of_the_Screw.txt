@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['human', 'open', 'nice'] 
+negative: ['least', 'impossible', 'dead', 'worse']
+neutral: ['extraordinary', 'particular', 'white', 'mere', 'positive', 'quiet', 'actual', 'clean', 'in.', 'little', 'usual']
+
+Female Descriptors:
+positive: ['sure', 'better', 'free', 'possible', 'ready', 'natural', 'early', 'instant']
+negative: ['bad', 'childish', 'awful']
+neutral: ['electronic', 'next', 'greater', 'sudden', 'straight', 'innocent', 'it.', 'conscious', 'deeper']
+
+White Descriptors:
+positive: ['young', 'high', 'easy', 'wide', 'charming', 'common', 'friendly', 'singular']
+negative: ['poor', 'cruel']
+neutral: ['much', 'prodigious', 'general', 'mere', 'monstrous', 'strangest', 'intellectual', 'tremendous', 'immense', 'thick']
+
+Non-white Descriptors:
+positive: ['full', 'right', 'clear', 'dear', 'real', 'happy', 'light', 'grand', 'silent', 'special']
+negative: ['hard', 'secret', 'wrong', 'wild']
+neutral: ['last', 'short', 'red', 'scant', 'subsequent', 'afresh']
+
+Rich Descriptors:
+positive: ['great', 'good', 'present', 'best', 'aware', 'sweet', 'large', 'big', 'fresh', 'public']
+negative: ['hideous', 'gray', 'horrible', 'dreadful']
+neutral: ['next', 'less', 'younger']
+
+Poor Descriptors:
+positive: ['first', 'able', 'beautiful', 'deep']
+negative: ['little', 'old', 'small', 'long', 'empty', 'odd', 'previous']
+neutral: ['whole', 'many', 'new', 'second', 'several', 'immediate', 'remarkable', 'direct']
+
+Overall Analysis: The words associated with male and female categories contain a mix of positive and negative connotations with a majority having a neutral connotation. Descriptors for White and Non-white categories followed the same pattern. Meanwhile, Rich descriptors mostly consisted of positive or neutral words, whereas Poor had more negative words, indicating a possible class bias in the work. The biases conveyed could potentially include gendered expectations (e.g., 'innocent' for female, 'hard' for male), racial biases (e.g., 'cruel' for white, 'wild' for non-white), and class bias (e.g., 'great' for rich, 'little' for poor).

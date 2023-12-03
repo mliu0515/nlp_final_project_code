@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['good', 'true', 'easy', 'different'] 
+negative: ['afraid', 'hostile']
+neutral: ['', 'hundred', 'nose', 'third', 'short', 'primordial', 'loose', 'half', 'sharp', 'fourteen', 'yellow', 'hairy', 'previous', 'spruce-bough']
+
+Female Descriptors:
+positive: ['first', 'many', 'wild', 'full', 'whole', 'soft', 'greater', 'alive', 'quick', 'free', 'splendid', 'apparent', 'low'] 
+negative: ['terrible', 'bad', 'poor'] 
+neutral: ['big', 'nest', 'frozen', 'fifty']
+
+White Descriptors:
+positive: ['good-natured', 'weary', 'fresh', 'friendly', 'fair', 'content', 'sure', 'remarkable', 'additional'] 
+negative: ['dead', 'mad', 'anxious']
+neutral: ['“', 'little', 'red', 'small', 'weak', 'lower', 'back', 'distant']
+
+Non-white Descriptors:
+positive: ['great', 'best', 'sun-kissed', 'fine'] 
+negative: ['old', 'less', 'worse', 'stricken']
+neutral: ['new', 'sled', 'white', 'wide', 'large', 'least', 'general', 'thin', 'official', 'gee-pole', 'high', 'lean']
+
+Rich Descriptors:
+positive: ['open', 'strong', 'aware', 'silent', 'warm', 'likely'] 
+negative: ['cold', 'hard', 'blind', 'wounded'] 
+neutral: ['’', 'long', 'main', 'second', 'wild', 'certain', 'current', 'Several', 'ten', 'upon']
+
+Poor Descriptors:
+positive: ['right', 'many', 'clear'] 
+negative: ['last', 'strange', 'heavy', '”', 'unable'] 
+neutral: ['long', 'next', 'much', 'forest', 'fierce', 'rapid', 'constant', 'weazened', 'possible', 'young', 'unbroken', 'like']
+
+Overall Analysis: The words associated with females tend to have a lot of positive connotations, suggesting a more favorable representation. However, females were also associated with words having negative connotations such as 'terrible', 'bad', 'poor'. Words associated with males were mostly neutral or positive, with two negative connotations 'afraid', 'hostile'. Words associated with the ‘Non-white’ category have both positive and negative, with a predominance of neutral terms, indicating the author's neutral view and description of non-white characters. For rich and poor descriptors both positive and negative words are used, suggesting a balanced depiction. Thus, the book seems to depict both groups with a balanced point of view, but with a slight inclination towards a more positive representation of females.

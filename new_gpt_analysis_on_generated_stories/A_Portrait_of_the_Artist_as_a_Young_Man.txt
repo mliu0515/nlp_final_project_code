@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: vibrant, open, fairy-tale-like, grand, faithful, key, captivating, blue-blooded, bearable. Words with negative connotations: old, pitched, edgy, coffee-colored, brown. Additional descriptions: The males in the book are seen as grand and captivating, yet also edgy and old.
+
+Female Descriptors: Words with positive connotations: grand, opulent, weathered, fairy-tale-like, faithful, captivating, blue-blooded, bearable. Words with negative connotations: sigh, coffee-colored, brown. Additional descriptions: The women seem to have a lot of positive attributes, but also some negative such as weathered and sigh.
+
+White Descriptors: Words with positive connotations: different, succinct, grand, faithful, fairy-tale-like, key, manifest. Words with negative connotations: ivory, coffee-colored, brown, bearable. Additional descriptions: White characters are described with a mix of both positive and negative words. 
+
+Non-white Descriptors: Words with positive connotations: manifest, soft, sigh, weathered, vibrant, captivating. Words with negative connotations: wild, vast, coffee-colored, brown. Additional descriptions: Non-white characters are often associated with vibrant and captivating, but also wild and vast.
+
+Rich Descriptors: Words with positive connotations: soft, captivating, fairy-tale-like, faithful, grand, ivory, key. Words with negative connotations: little, right, coffee-colored, brown. Additional descriptions: Rich characters in the book are perceived as grand and soft but with a sense of feeling small.
+
+Poor Descriptors: Words with positive connotations: young, key, newfound, grand, faithful, captivating, bearable. Words with negative connotations: relic, ivory, coffee-colored, brown. Additional descriptions: Poor characters are a mix of positive and negatives, with an emphasis on youth.
+
+Overall Analysis: There appears to be a general positive bias towards females and rich characters. Non-white characters seem to be depicted the most negatively, with words like 'wild and vast' while both male and female descriptors tend to lean towards more positive. Positive descriptions are also dominant for poor characters but are paired equally with negative ones.  
+
+The descriptors used seem to lean towards more positive descriptions than negative ones which indicates an overall positive sentiment in the list. The frequent use of color as negative connotation indicates potential racial biases that require further investigation.

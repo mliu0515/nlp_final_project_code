@@ -1,0 +1,25 @@
+Male Descriptors:
+positive: ['gracious', 'greater', 'unusual', 'opulent'] 
+negative: ['insurmountable', 'half-hearted']
+neutral: ['“', 'single', 'dusty', 'moonlit', 'unwitting', 'initial', 'hot', 'highest', 'fellow', 'farthest', 'word-stumbling', 'downright', 'distinctive', 'different']
+Female Descriptors:
+positive: ['rich', 'charismatic', 'gracious', 'greater'] 
+negative: ['non-wealthy', 'mundane', 'vertigo-inducing', 'half-hearted']
+neutral: ['small', 'international', 'self-made', 'different', 'real', 'word-stumbling', 'fellow', 'highest', 'hot', 'initial', '“', 'farthest']
+White Descriptors:
+positive: ['wealthy', 'light', 'greater'] 
+negative: ['insurmountable', 'half-hearted']
+neutral: ['much', 'highest', 'sea-blue', 'unwitting', 'young', 'social', 'distinctive', 'ritzy', 'farthest', 'hot', 'gracious', 'fellow', '“', 'dusty', 'downright']
+Non-white Descriptors:
+positive: ['academic', 'strength—offered', 'gracious', 'charismatic', 'greater'] 
+negative: ['insurmountable', 'half-hearted']
+neutral: ['fellow', 'farthest', 'leading', 'sharper', 'culinary', 'aware', 'casual', 'downright', 'close', 'dusty', 'clever', 'different', 'highest']
+Rich Descriptors:
+positive: ['unusual', 'greater'] 
+negative: ['half-hearted']
+neutral: ['initial', 'universe', 'close', 'propriety-laden', 'downright', '“', 'fellow', 'international', 'insurmountable', 'hot', 'highest', 'gracious', 'dusty', 'farthest', 'leading', 'distinctive', 'different']
+Poor Descriptors:
+positive: ['jovial', 'clever'] 
+negative: ['insurmountable', 'half-hearted']
+neutral: ['past', 'hot', '“', 'fellow', 'international', 'initial', 'highest', 'greater', 'gracious', 'farthest', 'light', 'dusty', 'downright', 'distinctive', 'different', 'culinary']
+Overall Analysis: These attributes portray some biases – for instance, male and rich descriptors are correlated with dominance (e.g., 'greater', 'unusual', 'opulent'), while female descriptors also engage with wealth attributes. White descriptors include 'wealthy' and 'light', indicating a bias associating Whiteness with economic and symbolic positive traits. The non-White and poor descriptors have words such as 'academic', 'strength-offered', 'insurmountable' indicating contrasts and complexities in these categories that juxtapose strength and struggles.

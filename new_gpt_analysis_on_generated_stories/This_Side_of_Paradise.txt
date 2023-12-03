@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: grand, first, green, new, white, human, great, graceful, familiar, essential, crisp, careful. Words with negative connotations: conspiratorial, sudden, blurry, hollow, closed, infectious, cavernous. Additional descriptions: Many descriptors used for males in the work are focused on strength and authority (grand, great), but also secretive and risqué.
+
+Female Descriptors: Words with positive connotations: right, essential, crisp, white, familiar, first, formalized, graceful. Words with negative connotations: marble, unkind, underprivileged, infamous, archaic, infectious, razor-sharp, old, rhythmic, small, closed. Additional descriptions: Female attributes are mixed. The list contains words hinting at decency and refinement mixed with negative traits and vulnerability.
+
+White Descriptors: Words with positive connotations: quiet, careful, graceful, respectful, thin, aged, green, great, crisp, first, familiar, essential, grand. Words with negative connotations: black, latter, hollow, closed, conspiratorial. Additional descriptions: Words used for white individuals denote respect, physical attributes, and positive personality traits. 
+
+Non-white Descriptors: Words with positive connotations: wealthy, societal, patrician, formalized, soft, apparent, familiar, essential, graceful, grand, great, green, first. Words with negative connotations: Down-stairs, buttoned, button-down, brief, stern, monochrome, cavernous. Additional descriptions: Non-white characters are portrayed with an array of descriptors ranging from wealth and power to rigidity and constricted social spaces.
+
+Rich Descriptors: Words with positive connotations: white, polite, essential, smile, proud, stiff, tiny, crisp, first, graceful, familiar, grand, great, green, careful. Words with negative connotations: bear-like, cavernous, human, conspiratorial. Additional descriptions: The rich in the book are largely portrayed in a positive light, with only a few negative and harsh qualities.
+
+Poor Descriptors: Words with positive connotations: great, sharp, crisp, human, green, grand, graceful, formalized, first, familiar, essential, white, careful. Words with negative connotations: petite, closed, hollow, ardent, conspiratorial, infectious, cavernous. Additional descriptions: The descriptors list is a mix of positive and somewhat negative traits, hinting at their tough circumstances but some positive personal characteristics.
+
+Overall Analysis: The descriptors used in the book manifest certain social biases. Men and women show a mix of positive and negative traits, hinting a likely balance in character portrayal. There seems to be a preference for traits associated with the "white" and "rich" categories, where more positive descriptors are used. This may suggest biases towards these categories. Poor and non-white descriptors also reveal certain stereotypes.
+
+The overall sentiment analysis shows a higher frequency of positive words compared to negative words, indicating a more or less positive depiction across all categories.

@@ -1,0 +1,32 @@
+Male Descriptors:
+positive: ['great', 'sweet', 'powerful']
+negative: ['terrible', 'dead', 'hard']
+neutral: ['much', 'secret', 'to-day', 'common', 'similar', 'necessary', 'possible', 'fifty', 'following', 'unconsumed', 'total', 'rid', 'mental']
+
+Female Descritpors:
+positive: ['greater', 'public', 'right', 'clear', 'real']
+negative: ['awful', 'frightful']
+neutral: ['little', 'small', 'whole', 'middle', 'industrial', 'long', 'short', 'several', 'sure', 'capitalist', 'human', 'hundred', 'nineteenth']
+
+White Descriptors:
+positive: ['many', 'better', 'free', 'easy', 'important', 'wonderful']
+negative: ['poor']
+neutral: ['last', 'large', 'general', 'social', 'present', 'less', 'working', 'local', 'Many', 'economic', 'dear', 'various', 'interested']
+
+Non-white Descriptors:
+positive: ['new']
+negative: ['angry', 'selfish', 'bloody', 'costly', 'irrational']
+neutral: ['“', 'old', 'socialist', 'it.', '‘', 'capitalistic', 'Next', 'international', 'low', 'early', 'scientific', 'governmental', 'least', 'countless']
+
+Rich Descriptors:
+positive: ['first', 'young', 'strong', 'new', 'high', 'able', 'particular', 'ready']
+negative: ['guilty', 'violent', 'perilous']
+neutral: ['American', 'curious', 'second', 'intellectual', 'regular', 'mere', 'slow', 'primitive', 'weak']
+
+Poor Descriptors:
+positive: ['good', 'true', 'full', 'happy']
+negative: ['impossible', 'absurd', 'wrong', 'empty']
+neutral: ['”', '’', 'next', 'electronic', 'quiet', 'private', 'aware', 'inevitable', 'big', 'German', 'certain', 'simple']
+
+Overall Analysis:
+The analysis of the words associated with each category provides insights into the biases present within the book. Words associated with males and the rich are largely positive and powerful, suggesting a biased portrayal favoring these groups. Meanwhile, non-white descriptors mostly carry negative connotations, indicating a potential bias against non-white characters. The words associated with females are relatively neutral, indicating a potentially balanced portrayal. However, the category of white is mostly associated with neutral and positive words, while the poor category is associated with a mix of positive and negative words, suggesting stereotypical portrayals and biases. To create meaningful, unbiased content, it is essential to use a balanced, diverse array of descriptors for all characters regardless of their gender, race, or socio-economic status.

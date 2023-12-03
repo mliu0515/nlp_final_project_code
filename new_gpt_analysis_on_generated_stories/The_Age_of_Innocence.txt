@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: settled, personal, intertwined, familial, entire, empathetic, defining. Words with negative connotations: labyrinthine, unpredictable, foul, harsh, veiled, inexplicable, deepest, darkest. Additional descriptions: Portrayal of male characters skirts both extreme emotions and traits.
+
+Female Descriptors: Words with positive connotations: entire, intertwined, familial, labyrinthine, empathetic, defining. Words with negative connotations: untimely, unexpected, darkest, melancholic, unanticipated, stormy, fearsome, harsh, foul, veiled, inexplicable. Additional descriptions: Female characters often represented through negative emotions and surprise elements.
+
+White Descriptors: Words with positive connotations: professional, familial, understanding, defining, empathetic, entire. Words with negative connotations: questionable, veiled, uncertain, fearsome, foul, deepest, darkest, harsh, inexplicable. Additional descriptions: White characters often represented with traits showing both competence and confusion.
+
+Non-white Descriptors: Words with positive connotations: colossal, empathetic, general, upper, classic, unflappable, societal, untimely, unpredictable, familial. Words with negative connotations: lonesome, old, harsh, inexplicable, deepest, darkest. Additional descriptions: Non-white characters are represented with a heroic element ('colossal', 'upper', 'classic') as well as a sense of solitude and mystery.
+
+Rich Descriptors: Words with positive connotations: societal, intertwined, defining, familial, empathetic, labyrinthine. Words with negative connotations: late, fearsome, foul, harsh, veiled, inexplicable, deepest, darkest. Additional descriptions: Rich characters frequently appear to be social yet secretive, with elements of fear and negativity attached to them.
+
+Poor Descriptors: Words with positive connotations: intertwined, familial, entire. Words with negative connotations: simple, deeper, murky, last, darkest, harsh, foul, late, fearsome, labyrinthine, inexplicable. Additional descriptions: Poor characters represented as simple and problematic, attributed to negative and challenging circumstances.
+
+Overall Analysis: The biases in this work seem to lean towards negative portraits of characters, regardless of gender, race, or wealth. Female, non-white, and poorer characters tended to have more negative descriptors attached to them, suggesting possible gender, racial and socio-economic biases. While some positive traits were mentioned in every category, harsh and darker attributes were more prevalent.
+
+Sentiment Analysis: Overall the lexicon used tends to skew more negative across all categories, suggesting a darker tone in the narrative.

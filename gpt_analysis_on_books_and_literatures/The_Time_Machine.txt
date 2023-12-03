@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['safe', 'clear', 'abundant', 'present'] 
+negative: ['foolish', 'vague', 'remote']
+neutral: ['first', 'long', '“', 'red', 'big', 'next', 'huge', 'larger', 'different', 'previous', 'general', 'silent']
+
+Female Descritpors:
+positive: ['perfect', 'intellectual', 'splendid', 'careful'] 
+negative: ['horrible', 'clumsy']
+neutral: ['black', 'much', 'second', 'open', 'several', 'pale', 'many', 'high', 'rare', 'particular', 'mere', 'yellow', 'broad', 'indistinct']
+
+White Descriptors:
+positive: ['great', 'better', 'best', 'simple', 'visible'] 
+negative: ['strange', 'dark', 'wild', 'low', 'weak', 'restless']
+neutral: ['’', 'human', 'first', 'real', 'peculiar', 'current', 'grey', 'metallic', 'considerable']
+
+Non-white Descriptors:
+positive: ['full', 'good', 'natural', 'pretty', 'absolute', 'strong', 'true'] 
+negative: ['wrong', 'slower', 'unpleasant', 'afraid']
+neutral: ['large', 'least', 'intense', 'slight', 'extreme', 'curious', 'rich', 'hundred', 'public']
+
+Rich Descriptors:
+positive: ['little', 'certain', 'soft', 'bright', 'vast', 'beautiful', 'familiar', 'possible', 'sure'] 
+negative: ['ruinous', 'hard']
+neutral: ['”', 'green', 'sudden', 'physical', 'brown', 'dim', 'inevitable', 'hot', 'immediate']
+
+Poor Descriptors:
+positive: ['white', 'free', 'pleasant', 'new']
+negative: ['odd', 'unknown', 'less']
+neutral: ['last', 'old', 'small', 'whole', 'thick', 'mere', 'social', 'past', 'underground', 'incredible', 'strong', 'narrow', '‘']
+
+Overall Analysis: When analyzing the connotations of the words associated with the various categories, a few biases have been seen. For example, 'Male' category contains both positive and negative expressions, but 'Female' descriptors appear to be more positively balanced, suggesting a potential bias towards females. In racial terms, 'White' descriptors are somewhat mixed, with a higher number of negative connotations, compared to 'Non-White' descriptors, which lean more towards the positive. Words associated with 'Rich' are largely positive, suggesting prosperity, whilst 'Poor' descriptors are not strongly negative, but they lack the positive connotations that are associated with wealth.

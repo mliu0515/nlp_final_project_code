@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['great', 'new', 'greater', 'strong', 'high', 'probable', 'public', 'considerable'] 
+negative: ['last', 'sorry', 'late', 'bad', 'difficult']
+neutral: ['”', 'many', '’', 'likely', 'several', 'slight', 'civil']
+
+Female Descritpors:
+positive: ['present', 'long', 'delightful', 'fine', 'best', 'pleasant', 'fair', 'right', 'principal', 'affectionate'] 
+negative: ['least', 'less', 'necessary', 'ill', 'tolerable', 'painful', 'frequent']
+neutral: ['next', 'common', 'evident']
+
+White Descriptors:
+positive: ['dear', 'real', 'Lady', 'natural', 'anxious', 'ready', 'greatest', 'silent', 'extraordinary', 'respectable'] 
+negative: ['short', 'afraid', 'early', 'disagreeable', 'angry', 'unhappy']
+neutral: ['“', 'enough', 'it.', 'sister']
+
+Non-white Descriptors:
+positive: ['good', 'possible', 'agreeable', 'handsome', 'easy', 'proper', 'perfect', 'dearest', 'immediate', 'elegant', 'grateful', 'comfortable', 'important'] 
+negative: ['impossible', 'unable', 'half']
+neutral: ['”', 'second', 'younger', 'him.']
+
+Rich Descriptors:
+positive: ['first', 'able', 'good', 'sensible', 'full', 'serious', 'large', 'superior', 'capable', 'interesting', 'excellent', 'fortunate', 'aware']
+negative: ['former', 'electronic', 'false']
+neutral: ['small', 'eldest', 'youngest', 'following']
+
+Poor Descriptors:
+positive: ['much', 'young', 'sure', 'happy', 'certain', 'better', 'whole', 'amiable', 'usual', 'glad', 'pleased', 'true', 'best', 'proud'] 
+negative: ['little', 'poor']
+neutral: ['general', 'different', 'equal', 'particular']
+
+Overall Analysis: The analysis of the words associated with male and female categories suggest a slight negative bias towards males as "difficult" and "bad" are linked with them. There is a strong negative bias associated with "white" category as words like "afraid", "angry", and "unhappy" are linked with them. The "non-white" category, on the other hand, is associated with more positive connotations. The "rich" category is largely positive while the "poor" category is mixed with both positive and negative connotations. The overall representation of these categories might suggest implicit social biases held by the author or pervading the society in which the book was written.

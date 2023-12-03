@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: kindled, green, gilded, firm, familiar, bright, cherished. Words with negative connotations: cold, dark, empty, dusty, inexplicable. Additional descriptions: Males are often described with a mix of dark and positive descriptors. 
+
+Female Descriptors: Words with positive connotations: natural, serene, rich, profound, green, gilded, familiar. Words with negative connotations: weather-beaten, strange, austere, dark, empty, reclusive. Additional descriptions: Females are described with more negative descriptors than males, though there are still many positive ones.
+
+White Descriptors: Words with positive connotations: simple, wealthy, familiar, green, gilded, firm, kindled. Words with negative connotations: unknown, stark, weather-beaten, dusty, empty, dark. Additional descriptions: The white category has a mix of both positive and negative descriptors.
+
+Non-white Descriptors: Words with positive connotations: uncommon, dexterous, alive, familiar, gilded, green. Words with negative connotations: red, Scottish (assuming this is used pejoratively), dusty, riotous, cold, empty, dark. Additional descriptions: There are notable negative connotations in this category.
+
+Rich Descriptors: Words with positive connotations: green, cherished, familiar, gilded, firm. Words with negative connotations: somber, poor, weather-beaten, empty, dark. Additional descriptions: The rich category leans toward more positive descriptions, although there are significant negative descriptors.
+
+Poor Descriptors: Words with positive connotations: modest, bright, peculiar, firm, cherished. Words with negative connotations: weather-beaten, empty, dark. Additional descriptions: The descriptors for the poor category are surprisingly not skewed negatively.
+
+Overall Analysis: This word list suggests certain possible social biases. Male descriptors tend toward the positive. Female descriptors hold more negative connotations and perhaps imply seclusion or oddness. Non-white descriptors contain possible pejorative elements. The rich are described as mostly positive and the poor are surprisingly not skewed largely negatively. The themes of darkness, emptiness, and dustiness appear across all categories in a potentially negative light. 
+
+Sentiment Analysis: Given the mix of positive and negative descriptors across all categories, the overall sentiment analysis leans neither strongly toward the positive nor the negative but remains somewhat balanced. However, the consistent negative elements suggest a generally bleak or somber undertone throughout the descriptors.

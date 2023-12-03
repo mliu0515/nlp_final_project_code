@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['happy', 'clear', 'Great', 'interesting', 'busy', 'enough'] 
+negative: ['mad', 'worst']
+neutral: ['white', 'black', 'green', 'thin', 'broad', 'flat', 'nearest', 'lean', 'third', 'Many', 'fifteen', 'Russian']
+
+Female Descriptors:
+positive: ['good', 'young', 'new', 'much', 'high', 'big', 'ready', 'deep', 'wonderful'] 
+negative: ['small', 'fearful', 'dead']
+neutral: ['many', 'long', 'holy', 'heavy', 'white', 'ten', 'tall', 'strange']
+
+White Descriptors:
+positive: ['little', 'first', 'true', 'sure', 'better', 'right', 'clean'] 
+negative: ['old', 'evil', 'fat', 'low', 'cold', 'wrong']
+neutral: ['thou', 'Red', 'worth', 'mere', 'yellow', 'brown', 'rosary']
+
+Non-white Descriptors:
+positive: ['certain', 'strong', 'large', 'fair', 'courteous', 'wild'] 
+negative: ['native', 'least', 'bad', 'hard', 'less', 'empty', 'terrible', 'usual']
+neutral: ['second', 'hundred', 'thee', 'present', 'Indian', 'upper']
+
+Rich Descriptors:
+positive: ['full', 'free', 'hot', 'common', 'short', 'curious', 'beautiful', 'easy', 'huge', 'dark', 'whole'] 
+negative: ['old', 'angry', 'foolish']
+neutral: ['thy', 'last', 'English', 'electronic', 'least', 'past']
+
+Poor Descriptors:
+positive: ['great', 'best', 'open', 'soft', 'fine', 'pleased', 'perfect'] 
+negative: ['sick', 'poor', 'afraid', 'black', 'stupid', 'ignorant', 'silent']
+neutral: ["'The", 'next', 'red', 'wilt', 'ye', 'private']
+
+Overall Analysis: The word lists seem to suggest some inherited biases in the book. For instance, negative connotations appear more frequently in the descriptors for 'Male', 'Non-white' and 'Poor'. Meanwhile, 'Female', 'White', and 'Rich' contain more positive connotations. This may reflect biased views towards gender, race, and socio-economic status in the text. Also, seemingly neutral words like 'white', 'black', 'Indian', 'Russian', which are mostly race indicators, are interestingly dispersed over different categories and their implications might be subjective depending on their use in the book’s context.

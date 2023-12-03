@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['gentle', 'aware', 'easy', 'genuine', 'eminent', 'important'] 
+negative: ['poor', 'less', 'heavy', 'dark', 'difficult']
+neutral: ['little', 'first', 'certain', 'gray', 'public', 'past', '—the', 'elderly', 'single']
+
+Female Descriptors:
+positive: ['good', 'many', 'new', 'true', 'human', 'real', 'fair', 'powerful', 'modern', 'slight']
+negative: ['stern', 'rusty', 'melancholy']
+neutral: ['present', 'second', '“', 'vast', 'late', 'public', 'ancestral']
+
+White Descriptors:
+positive: ['old', 'better', 'long', 'full', 'natural', 'original', 'quiet', 'white', 'high', 'common', 'cheerful', 'various']
+negative: ['wrong']
+neutral: ['whole', 'open', 'electronic', 'ordinary', 'native', 'low', 'latter']
+
+Non-white Descriptors:
+positive: ['dear', 'ancient', 'spiritual', 'strong']
+negative: ['dead', 'evil', 'dismal', 'different']
+neutral: ['little', '“', 'human', 'hereditary', 'singular', 'several', 'venerable', 'longer', 'visible', 'apt', 'similar', 'oaken']
+
+Rich Descriptors:
+positive: ['much', 'best', 'many', 'pleasant', 'deep', 'familiar', 'short', 'conscious', 'delicate', 'sure', 'private']
+negative: ['old', 'black', 'small', 'last', 'least', 'wild']
+neutral: ['”', 'early', 'broad']
+
+Poor Descriptors:
+positive: ['great', 'young', 'happy', 'large', 'beautiful', 'fresh', 'possible', 'personal', 'sunny']
+negative: [ 'strange', 'unfortunate', 'sad']
+neutral: ['’', 'rich', 'next', 'secret', 'remarkable', 'moral', 'maiden', 'greater']
+
+Overall Analysis: Notably, male descriptors convey both vulnerability and strength, suggesting a layered representation. Females are often associated with positive, empowering words but also some negative ones, indicating a bias towards a mixture of strength and softness. White descriptors are overwhelmingly positive, suggesting a bias towards favoring white characters in a positive light. Non-white descriptors mix positive with some negative connotations, signifying a certain degree of bias. Interestingly, while rich descriptors are broadly positive, they contain a noteworthy share of negative connotations, possibly indicating a critique of wealth. Lastly, poor descriptors are largely positive, but also include some strong negatives, which implies a complex characterization of poverty.

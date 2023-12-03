@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['scientific', 'untouched', 'green', 'wild', 'first', 'down-to-earth', 'beautiful', 'hidden', 'constant'] 
+negative: ['secluded', 'frosty', 'grizzled', 'far-off']
+neutral: ['occasional', 'past', 'longer', 'lighter', 'landlord—the', 'moonlight-stricken', 'different', 'diary']
+
+Female Descriptors:
+positive: ['unique', 'silent', 'respective', 'green', 'wild', 'loyal', 'down-to-earth', 'hidden'] 
+negative: ['frosty', 'grizzled', 'far-off']
+neutral: ['moonlight-stricken', 'square', 'diary', 'odd', 'old', 'rugged', 'longer', 'lighter', 'landlord—the']
+
+White Descriptors:
+positive: ['never-ending', 'comfortable', 'beautiful', 'green', 'first', 'bucolic'] 
+negative: ['spine-chilling', 'frosty', 'grizzled', 'far-off']
+neutral: ['landlord—the', 'rural', 'different', 'rustic', 'unexpected', 'unsuspected', 'longer', 'lighter', 'hidden', 'constant']
+
+Non-white Descriptors:
+positive: ['loyal', 'green', 'first', 'natural', 'comfortable', 'beautiful'] 
+negative: ['frosty', 'grizzled', 'far-off']
+neutral: ['Several', 'constant', 'diary', 'different', 'down-to-earth', 'wide-brimmed', 'bucolic', 'hidden', 'landlord—the', 'lighter', 'longer']
+
+Rich Descriptors:
+positive: ['solitary', 'comfortable', 'wild', 'green', 'loyal', 'lighter', 'beautiful', 'hidden'] 
+negative: ['frosty', 'grizzled', 'far-off']
+neutral: ['longer', 'down-to-earth', 'refuge', 'landlord—the', 'first', 'natural', 'different', 'diary', 'constant']
+
+Poor Descriptors:
+positive: ['beautiful', 'wild', 'mutual', 'loyal', 'comfortable', 'green', 'natural', 'first'] 
+negative: ['grizzled', 'far-off']
+neutral: ['lighter', 'perspective', 'wide-brimmed', 'bucolic', 'diary', 'landlord—the', 'moonlight-stricken', 'longer', 'constant', 'hidden', 'different']
+
+Overall Analysis: The work seems to associate both positive and negative connotations with all categories, suggesting a balanced portrayal. However, there's an apparent bias in associating 'far-off', 'frosty', 'grizzled' with negatives across all categories which might imply a bias towards individuals of advanced age or harsh personality traits across sexes, races, and classes. 'Hidden', 'landlord—the', 'constant' and 'green' appear often as neutral and might imply that these are seen as common traits among all characters. More positive traits like 'beautiful', 'green', 'loyal' are associated with all categories, suggesting a positive spin on diverse characters.

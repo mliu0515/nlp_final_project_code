@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['grand', 'ever-loving', 'good', 'harmonious', 'bright-eyed', 'energetic', 'earnest', 'eager'] 
+negative: ['old', 'greyish']
+neutral: ['youngest', 'small', 'last', 'girl', 'fiddle', 'familiar', 'little', 'ever-patient', 'cosy', 'broad-shouldered']
+
+Female Descriptors:
+positive: ['simple', 'abundant', 'eager', 'soulful', 'good', 'grand', 'energetic', 'ever-patient'] 
+negative: ['wasted', 'greyish']
+neutral: ['much', 'fiddle', 'last', 'petite', 'wide', 'nostalgic', 'right', 'girl', 'familiar', 'youngest']
+
+White Descriptors:
+positive: ['mid-western', 'rosy-cheeked', 'watchful', 'verdant', 'good', 'grand', 'ever-loving', 'ever-patient', 'energetic', 'earnest', 'eager'] 
+negative: ['wildest', 'greyish']
+neutral: ['thirty', 'girl', 'fiddle', 'familiar', 'last', 'cosy', 'broad-shouldered']
+
+Non-white Descriptors:
+positive: ['ever-patient', 'ever-loving', 'good', 'harmonious', 'bright-eyed', 'energetic', 'earnest', 'eager'] 
+negative: ['greyish']
+neutral: ['cosy', 'thoughtful', 'stubble', 'little', 'familiar', 'youngest', 'fiddle', 'last', 'grand', 'girl', 'broad-shouldered']
+
+Rich Descriptors:
+positive: ['broad-shouldered', 'tuneful', 'energetic', 'good', 'harmonious', 'ever-patient', 'ever-loving', 'eager', 'bright-eyed'] 
+negative: ['greyish']
+neutral: ['unending', 'girl', 'youngest', 'familiar', 'last', 'grand', 'fiddle', 'little', 'cosy']
+
+Poor Descriptors:
+positive: ['Green', 'harmonious', 'good', 'bright-eyed', 'earnest', 'energetic', 'ever-loving', 'ever-patient', 'grand', 'cosy', 'abundant'] 
+negative: ['old', 'greyish', 'late']
+neutral: ['new', 'little', 'fiddle', 'girl', 'broad-shouldered']
+
+Overall Analysis: The word descriptors associated with each category present several social biases. The male and female descriptors lean positively with a few negative connotations, suggesting a generally positive but nuanced portrayal. In the case of racial descriptors (white and non-white), there appears to be a favorable bias towards the 'white' category with more positive terms compared to non-white. Rich and poor descriptors also display a similar bias. The 'rich' category is characterized mainly by positive terms, contrasting the 'poor' category which contains more negative terms. These biases in respective word associations may contribute to stereotypes and implicit social biases.

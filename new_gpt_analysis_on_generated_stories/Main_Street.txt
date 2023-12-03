@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: opportune, testament, human, homemade, extraordinary, born, black, wealthy, mere, modern. Words with negative connotations: harsh, weary, meek, hostile, gnarled, furious, crude, constant, calloused, middle-class. Additional descriptions: This paints a complex picture of masculinity, with both positive and negative extremes.
+
+Female Descriptors: Words with positive connotations: human, warm, vibrant, born, extraordinary, constant, wealthy. Words with negative connotations: subterranean, small, hostile, homemade, harsh, gnarled, weary, crude, meek, calloused, black. Additional descriptions: The female descriptors vary greatly in connotation as well, however, there are more negative than positive words.
+
+White Descriptors: Words with positive connotations: weary, constant, extraordinary, mere, wealthy, human, modern. Words with negative connotations: revolving, non-wealthy, furious, born, calloused, crude, black, gnarled, harsh, homemade, hostile, meek. Additional descriptions: White descriptors are markedly negative, with only a few positive terms mixed in.
+
+Non-white Descriptors: Words with positive connotations: wealthy, human, next, homemade, extraordinary, constant, mere. Words with negative connotations: black, mysterious, crude, hostile, harsh, meek, furious, gnarled, middle-class, calloused, born, weary. Additional descriptions: Non-white descriptors also lean more towards the negative, with only a few positive representations.
+
+Rich Descriptors: Words with positive connotations: gnarled, constant, wealthy, mere, modern. Words with negative connotations: mundane, meek, unusual, weary, human, hostile, homemade, harsh, extraordinary, furious, middle-class, crude, calloused, born, black. Additional descriptions: The representation of wealth contains significantly more negative connotations than positive.
+
+Poor Descriptors: Words with positive connotations: modern, mere, born, extraordinary, wealthy. Words with negative connotations: thick, nestled, calloused, rough, constant, crude, black, furious, gnarled, harsh, homemade, hostile, human, meek, weary. Additional descriptions: Similar to the rich descriptors, words associated with poverty lean heavily towards the negative.
+
+Overall Analysis: It is apparent that there are intrinsic biases present within this work, as most descriptors carry a negative connotation. However, it is worth noting that each category does contain some positive words as well, pointing to a narrative that may speak to both ends of each spectrum - be it gender, race, or wealth.
+
+Given the predominance of negative words, the overall sentiment analysis of this list is negative. Yet, the presence of positive words suggests some level of complexity or dimensionality to the characters described, despite the overarching tendency towards negativity.

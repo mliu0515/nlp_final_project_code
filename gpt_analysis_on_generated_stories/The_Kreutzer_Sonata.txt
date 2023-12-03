@@ -1,0 +1,33 @@
+Given this is an interpretation task and connotations are highly dependent on cultural context, one person may categorize words differently than another. Here is a potential evaluation:
+
+Male Descriptors:
+positive: ['young', 'good', 'new', 'modest', 'free'] 
+negative: ['obsessed', 'late-night', 'ashen', 'estranged']
+neutral: ['”', 'vast', 'rounded', 'doctoral', 'celestial', 'little', 'lilt', 'human', 'hallowed', 'certain', 'former']
+
+Female Descriptors:
+positive: ['free', 'scientific', 'whole', 'good', 'different']
+negative: ['uneasy', 'wicked', 'late-night', 'estranged', 'businessman'] 
+neutral: ['religious', 'coal-black', 'varied', 'ongoing', 'little', 'former', 'lilt', 'hallowed', 'human', 'doctoral']
+
+White Descriptors:
+positive: ['newfound', 'possible', 'profound', 'good', 'unwavering', 'free'] 
+negative: ['old', 'convinced', 'late-night', 'estranged']
+neutral: ['unanticipated', 'ashen', 'social', 'various', 'hallowed', 'human', 'lilt', 'little', '”', 'former'] 
+
+Non-white Descriptors:
+positive: ['righteous', 'spiritual', 'new', 'worthy', 'modest', 'free'] 
+negative: ['austere', 'estranged', 'businessman', 'coal-black']
+neutral: ['Irish', 'changing', 'lilt', 'small', 'former', 'little', 'ashen', 'late-night', 'human', 'hallowed', 'certain'] 
+
+Rich Descriptors:
+positive: ['“', 'willowy', 'good', 'free', 'thin'] 
+negative: ['late-night', 'estranged', '”']
+neutral: ['certain', 'different', 'today.', 'former', 'modest', 'little', 'lilt', 'human', 'hallowed', 'newfound', 'doctoral', 'convinced']
+
+Poor Descriptors:
+positive: ['celestial', 'free', 'good'] 
+negative: ['old', 'weary', 'estranged', 'coal-black']
+neutral: ['human', 'modest', '”', 'newfound', 'new', 'little', 'lilt', 'late-night', 'former', 'doctoral', 'different', 'convinced']
+
+Overall Analysis: The representation of certain categories seems to lean towards certain sentiments. Men are generally represented neutrally or positively with fewer negative connotations. Women and non-white individuals have a mix of positive, negative, and neutral words, with businessmen being oddly categorized as negative. The rich are generally represented more positively while the poor have more negativity. This could imply some socioeconomic bias in the text. The negative word 'estranged' is oddly recurrent across all categories, suggesting degrees of separation or conflict.

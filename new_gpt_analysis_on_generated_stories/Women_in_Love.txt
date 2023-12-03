@@ -1,0 +1,15 @@
+Male Descriptors: Words with positive connotations: mystical, extraordinary, keen, wealthy, raven-haired, gilded, finest, essential, endless, emerald. Words with negative connotations: imperious, darkest. Additional descriptions: "Green" suggests vitality or nature, "first" could signify leadership or primacy. 
+
+Female Descriptors: Words with positive connotations: sardonic, star-streaked, precious, radiant, shrewd, unconventional, compelling, endless, finest, extraordinary, gilded, emerald. Words with negative connotations: crooked, calloused, imperious. Additional descriptions: "Different"  can imply uniqueness or weirdness.
+
+White Descriptors: Words with positive connotations: wealthy, ethereal, odd, essential, first, compelling, finest, endless, extraordinary, gilded, emerald. Words with negative connotations: slight, mismatched, calloused, crooked. Additional descriptions: "Unformed" could signify immaturity or potential.
+
+Non-white Descriptors: Words with positive connotations: mature, stark, compelling, extraordinary, finest, lavish, unstoppable, understood, star-streaked, eternal, unconventional, gilded, emerald. Words with negative connotations: calloused. Additional descriptions: "Many" and "first" may imply respect or importance.
+
+Rich Descriptors: Words with positive connotations: wealthy, rich, extraordinary, lavish, keen, different, gilded, finest, essential, endless, emerald. Words with negative connotations: vulnerable, unwilling, darkest. Additional descriptions: "First" and "least" suggest rank or status.
+
+Poor Descriptors: Words with positive connotations: green, remarkable, wealthy, finest, lavish, keen, extraordinary, essential, endless, emerald. Words with negative connotations: imperious, darkest, poor. Additional descriptions: "Many" and "different" can indicate diversity or hardship.
+
+Overall Analysis: The words used to describe males, females, whites, non-whites, rich, and poor provide mostly positive traits and characteristics across all categories. There seem to be limited biases toward all groups, though the negative connotations for the poor category could hint at a class bias. Imperious is used as a negative connotation in multiple categories, hinting at a bias against authoritarian or domineering characters. The repeated use of color descriptors such as emerald and gilded suggests a possible fixation on visual appearance. 
+
+Overall, the sentiment analysis appears more positive than negative, but flavoring negative language with negative connotations may covertly perpetuate stereotypes. The author seems to balance these depictions by offering a range of both negative and positive traits in each category.

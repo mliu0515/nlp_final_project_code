@@ -1,0 +1,31 @@
+Male Descriptors:
+positive: ['better', 'nice', 'glad', 'best', 'open']
+negative: ['dreadful', 'impossible', 'angry', 'bad']
+neutral: ['little', 'last', '’', '“', 'sorry', 'certain', 'white', 'usual', 'late', 'long']
+
+Female Descriptors:
+positive: ['good', 'happy', 'wonderful', 'delightful', 'fair', 'easy', 'interested', 'ready', 'sympathetic', 'hot']
+negative: ['wrong', 'unpleasant', 'nervous', 'hard']
+neutral: ['full', 'many', 'English', 'clear', 'rid', 'several']
+
+White Descriptors:
+positive: ['beautiful', 'real', 'conscious', 'original', 'clean', 'first']
+negative: ['odd', 'unfortunate', 'worse', 'foolish']
+neutral: ['’', 'it.', 'small', 'second', 'black', 'whole', 'red', 'Miss', 'last', 'alive']
+
+Non-white Descriptors:
+positive: ['great', 'new', 'right', 'pleasant', 'possible', 'different', 'glorious', 'clever', 'suitable', 'unexpected']
+negative: ['poor', 'tiresome', 'difficult', 'anxious']
+neutral: ['sure', '‘', 'cold', 'wish', 'big', 'narrow']
+
+Rich Descriptors:
+positive: ['much', 'able', 'present', 'silly', 'gracious', 'modern', 'whole', 'delicate', 'Lavish', 'splendid', 'tactful', 'sensible']
+negative: ['necessary', 'terrible', 'sad']
+neutral: ['long', 'blue', 'you.', 'us.', 'yellow']
+
+Poor Descriptors:
+positive: ['true', 'dear', 'silent', 'high', 'human', 'heavy', 'worth', 'gentle', 'free', 'Good']
+negative: ['old', 'less']
+neutral: ['”', '“', 'young', 'electronic', 'Italian', 'next', 'public', 'third']
+
+Overall Analysis: Given the connotations of the words associated with each category, it is evident that the book tends to associate positive words with female, rich and non-white characters more than their counterparts. However, there are also negative words associated with these categories, suggesting that the book portrays a range of both positive and negative characteristics for its characters. Neutral words appear consistently across all categories, indicating subtle biases may exist within the context or characterization of the story. The neutral words in each category need further context within the story to accurately define their connotations. Therefore, while there appears to be a balance of positive and negative connotations, certain biases do exist.
